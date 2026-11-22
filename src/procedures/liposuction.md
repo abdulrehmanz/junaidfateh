@@ -6,10 +6,23 @@ order: 1
 specialty: true
 summary: "Liposuction in Lahore with Dr. Junaid Fateh to remove stubborn pockets of fat and refine your shape, planned around your body and your goals."
 seo:
-  title: "Liposuction in Lahore | Dr. Junaid Fateh"
-  description: "Liposuction in Lahore by Dr. Junaid Fateh. Remove stubborn fat from the tummy, flanks, thighs or arms for a smoother shape. Book a WhatsApp consultation."
-  keywords: liposuction Lahore, liposuction cost in Lahore, best liposuction surgeon in Lahore, Dr Junaid Fateh liposuction, liposuction Layyah, liposuction Pakistan, lipo surgery Lahore, fat removal surgery Lahore, tumescent liposuction Lahore, tummy liposuction Lahore, arm and thigh liposuction, chin and neck liposuction, body sculpting Lahore, liposuction for men Lahore, VASER liposuction Lahore, VASER lipo Pakistan, hi-def liposuction Lahore
+  title: "Liposuction in Lahore: Cost & Recovery | Dr. Junaid Fateh"
+  description: "Liposuction and VASER lipo in Lahore and Layyah with Dr. Junaid Fateh, FCPS. Usually a day case with 1 to 2 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "liposuction in Lahore, liposuction cost in Lahore, liposuction price in Pakistan, liposuction cost in Pakistan, best liposuction surgeon in Lahore, liposuction near me, liposuction Layyah, liposuction before and after, liposuction recovery, VASER liposuction Lahore, VASER lipo Pakistan, tummy liposuction Lahore, fat removal surgery Lahore, liposculpture Lahore, liposuction for men Lahore, liposaction Lahore, pait ki charbi kam karne ka operation, charbi nikalne ka operation, Dr Junaid Fateh"
 hero_subtitle: "Precise fat removal and natural-looking body contouring in Lahore and Layyah"
+quick_answer: "Liposuction removes stubborn fat through small incisions to reshape areas such as the tummy, flanks, thighs and arms. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Surgery takes 1 to 4 hours under general or local anaesthesia with sedation, usually as a day case, with 1 to 2 weeks recovery. Results are permanent with a stable weight. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Lipo"
+  - "Lipoplasty"
+  - "Liposculpture"
+  - "Fat removal surgery"
+  - "VASER liposuction"
+  - "Liposaction"
+  - "Pait ki charbi kam karne ka operation"
+  - "Charbi nikalne ka operation"
+urdu_name: "چربی نکالنے کا آپریشن"
+roman_urdu_summary: "Liposuction mein jism ke un hisson se zaid charbi nikali jati hai jo diet aur exercise se kam nahi hoti, jaise pait, kamar, raanen aur bazu. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareez dekhte hain aur zaroorat ke mutabiq VASER samait liposuction ke mukhtalif tareeqe istemal karte hain. Yeh wazan kam karne ka ilaj nahi, balkay jism ki shape behtar karne ka operation hai. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Abdomen, flanks, thighs, arms and chin"
 price_from: ''
 stats:
   duration: 1–4 hours
@@ -104,6 +117,10 @@ faqs:
   a: "Skin with good elasticity usually tightens over the new contour. If the skin is already loose, for example after pregnancy or major weight loss, removing fat alone can make sagging more noticeable. In that case Dr. Junaid may suggest combining liposuction with a skin-tightening operation such as a tummy tuck or arm lift."
 - q: "Do you offer VASER liposuction?"
   a: "Yes. VASER uses ultrasound energy to loosen fat before it is suctioned out, which can help with firmer areas and detailed contouring. It is not automatically better for everyone, so Dr. Junaid recommends the technique that best fits your body and goals after examining you."
+- q: "What are the risks or side effects of liposuction?"
+  a: "Bruising, swelling and temporary numbness are common and settle over the following weeks. Less common risks include uneven contours, fluid collecting under the skin, infection and, rarely, blood clots. Dr. Junaid reduces these risks with a pre-operative assessment, by keeping the amount of fat removed within safe limits, and with a compression garment and early walking after surgery. He goes through the risks with you at consultation."
+- q: "Is liposuction available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your liposuction consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you will be guided on where your surgery and follow-up visits can be arranged."
 ---
 
 ## About liposuction

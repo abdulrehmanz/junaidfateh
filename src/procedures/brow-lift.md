@@ -6,10 +6,22 @@ order: 5
 specialty: false
 summary: "Brow and forehead lift surgery in Lahore with Dr. Junaid Fateh to raise low, heavy brows and soften forehead lines for a more open look."
 seo:
-  title: "Brow & Forehead Lift in Lahore | Dr. Junaid Fateh"
-  description: "Brow lift in Lahore with Dr. Junaid Fateh. Lift low, heavy brows and smooth forehead lines for a fresher, more open eye area. Book a consultation on WhatsApp."
-  keywords: "brow lift Lahore, forehead lift Lahore, best brow lift surgeon Lahore, eyebrow lift surgery Lahore, brow lift cost in Lahore, forehead lift price Pakistan, brow lift Pakistan, endoscopic brow lift Lahore, temporal brow lift Lahore, direct brow lift, droopy eyebrows treatment Lahore, forehead wrinkles surgery Lahore, Dr Junaid Fateh brow lift"
+  title: "Brow Lift & Forehead Lift in Lahore | Dr. Junaid Fateh"
+  description: "Brow lift and forehead lift in Lahore with Dr. Junaid Fateh, FCPS. Raises heavy brows as a day case, with 1 to 2 weeks off. Book a consultation on WhatsApp."
+  keywords: "brow lift in Lahore, forehead lift Lahore, brow lift cost in Lahore, brow lift price in Pakistan, best brow lift surgeon in Lahore, brow lift near me, brow lift Layyah, brow lift before and after, brow lift recovery, eyebrow lift surgery, endoscopic brow lift Lahore, temporal brow lift, droopy eyebrows treatment, forehead wrinkles surgery Lahore, browlift, bhanwein uthane ki surgery, mathe ki jhuriyon ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Lift heavy brows and smooth your forehead for a brighter, more open eye area"
+quick_answer: "A brow lift, or forehead lift, raises low, heavy eyebrows and softens forehead lines for a more open eye area. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 1 to 2 hours as a day case under general anaesthesia or local with sedation, with 1 to 2 weeks off. Results are long-lasting, often 5 to 10 years. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Forehead lift"
+  - "Eyebrow lift"
+  - "Browlift"
+  - "Endoscopic brow lift"
+  - "Temporal brow lift"
+  - "Bhanwein uthane ki surgery"
+  - "Mathe ki jhuriyon ka ilaj"
+urdu_name: "بھنویں اٹھانے کی سرجری"
+roman_urdu_summary: "Brow lift mein neeche aayi hui bhari bhanwon ko upar uthaya jata hai aur mathe ki lakeeron ko narm kiya jata hai, taake aankhon ka hissa khula aur taaza lage. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Forehead and eyebrows"
 price_from: ''
 stats:
   duration: "1–2 hours"
@@ -101,6 +113,12 @@ faqs:
   a: "Yes, and the two are often done together. The brow lift corrects the position of the brow, while upper eyelid surgery removes any skin that remains heavy. Dr. Junaid decides the order and amount of each so the eyes can still close comfortably."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Photograph your face from the front and the side, once with your forehead relaxed and once with your eyebrows raised, and share the pictures on WhatsApp ahead of a video call. From these Dr. Junaid can suggest which lift, if any, is likely to suit you. The plan is settled at an in-person examination, and staying in Pakistan for at least ten days after surgery allows time for stitch removal."
+- q: "What are the risks or side effects of a brow lift?"
+  a: "Like any surgery, a brow lift carries risks. Swelling, bruising, a tight forehead and numbness or itching of the scalp are common and usually temporary. Less common problems include infection, bleeding, a wide or visible scar, some hair thinning near the incisions, uneven brows and, rarely, weakness of the nerve that raises the brow. Conservative planning, careful technique and following your aftercare advice help keep these risks low."
+- q: "When will I see the final results of a brow lift?"
+  a: "The new brow position is visible once the early swelling settles, and most people are comfortable with social plans after two to three weeks. Feeling keeps returning to the scalp over the following months, and the brows settle into their final position at around three to six months."
+- q: "Is a brow lift available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your brow lift consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your surgery and stitch-removal visit would take place."
 ---
 
 ## About brow and forehead lifts

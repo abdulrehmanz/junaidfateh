@@ -7,9 +7,21 @@ specialty: false
 summary: "Carefully placed filler to smooth a bump on the nose, lift the tip or correct minor asymmetry, without surgery or downtime."
 seo:
   title: "Non-Surgical Rhinoplasty in Lahore | Dr. Junaid Fateh"
-  description: "Non-surgical rhinoplasty in Lahore with Dr. Junaid Fateh. Filler to smooth a bump, lift the tip or refine the profile, with no surgery. Book a consultation."
-  keywords: "non-surgical rhinoplasty Lahore, liquid rhinoplasty Lahore, nose filler Lahore, non-surgical nose job Pakistan, non-surgical rhinoplasty cost in Lahore, nose filler price Pakistan, best non-surgical rhinoplasty in Lahore, Dr Junaid Fateh nose filler, non-surgical rhinoplasty Layyah, nose reshaping without surgery Lahore, nose hump filler Lahore"
+  description: "Non-surgical rhinoplasty (nose filler) in Lahore and Layyah with Dr. Junaid Fateh, FCPS. 15 to 30 minutes, no downtime. Book a consultation on WhatsApp."
+  keywords: "non-surgical rhinoplasty in Lahore, nose filler Lahore, liquid rhinoplasty Lahore, non-surgical rhinoplasty cost in Lahore, nose filler price in Pakistan, best non-surgical rhinoplasty in Lahore, nose filler near me, non-surgical rhinoplasty Layyah, nose filler before and after, non-surgical rhinoplasty recovery, non-surgical nose job Pakistan, non surgical rhinoplasty, nose reshaping without surgery Lahore, nose hump filler Lahore, bina operation naak ki shape, naak ka filler, Dr Junaid Fateh"
 hero_subtitle: "Refine your nose profile with filler, planned by a plastic surgeon"
+quick_answer: "Non-surgical rhinoplasty, or liquid rhinoplasty, uses hyaluronic acid filler to smooth a bump on the nose, lift the tip or correct minor asymmetry. It cannot make the nose smaller. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Treatment takes 15 to 30 minutes under numbing cream with no downtime, and results are immediate and last 12 to 18 months. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Liquid rhinoplasty"
+  - "Nose filler"
+  - "Non-surgical nose job"
+  - "Filler rhinoplasty"
+  - "Non surgical rhinoplasty"
+  - "Naak ka filler"
+  - "Bina operation naak ki shape theek karna"
+urdu_name: "ناک کا فلر"
+roman_urdu_summary: "Non-surgical rhinoplasty mein filler ke zariye bina operation naak ka ubhar hamwar kiya jata hai, naak ki nok thori upar uthayi jati hai ya halki be-tarteebi theek ki jati hai. Is se naak chhoti nahi hoti. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Nose"
 price_from: ''
 stats:
   duration: "15–30 minutes"
@@ -101,6 +113,12 @@ faqs:
   a: "It is generally safe in experienced hands, but the nose has a delicate blood supply. Rarely, filler can block a blood vessel, which can damage the skin or, very rarely, affect vision. Dr. Junaid injects slowly and carefully, uses filler that can be dissolved, and goes through the risks with you at consultation."
 - q: "Can I have it after a previous surgical rhinoplasty?"
   a: "Sometimes, but the blood supply can be altered after surgery, so extra caution is needed. Dr. Junaid will want the nose fully healed and will assess you carefully before deciding."
+- q: "When will I see the final results of non-surgical rhinoplasty?"
+  a: "The new profile is visible straight away. Mild redness, swelling or tenderness settles over a few hours to a day or two, and by around two weeks the result is easier to judge, which is when a review allows small refinements. The result then usually lasts around 12 to 18 months."
+- q: "Is non-surgical rhinoplasty available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
+- q: "What is the best age for non-surgical rhinoplasty?"
+  a: "Nose filler is generally offered only to adults aged 18 and over, once the face has finished developing. Beyond that, your goals matter more than your age: filler suits people who want to smooth a small bump or lift the tip, not those who want a smaller nose or better breathing, which need surgical rhinoplasty."
 ---
 
 ## About Non-Surgical Rhinoplasty

@@ -6,10 +6,22 @@ order: 4
 specialty: false
 summary: "Medical microneedling to improve acne scars, enlarged pores, rough texture and fine lines by encouraging your skin to make fresh collagen."
 seo:
-  title: "Microneedling in Lahore | Dr. Junaid Fateh"
-  description: "Microneedling in Lahore with Dr. Junaid Fateh for acne scars, open pores and uneven texture. Medical treatment planned around your skin type. Enquire today."
-  keywords: "microneedling Lahore, microneedling treatment in Lahore, microneedling cost in Lahore, microneedling price Pakistan, best microneedling in Lahore, acne scar treatment Lahore, collagen induction therapy Pakistan, Dr Junaid Fateh microneedling, microneedling Layyah, open pores treatment Lahore, microneedling with PRP Lahore, stretch mark treatment Lahore"
+  title: "Microneedling in Lahore for Acne Scars | Dr. Junaid Fateh"
+  description: "Microneedling in Lahore and Layyah with Dr. Junaid Fateh, FCPS, for acne scars and open pores. Redness settles in 1 to 3 days. Book a consultation on WhatsApp."
+  keywords: "microneedling in Lahore, microneedling cost in Lahore, microneedling price in Pakistan, best microneedling in Lahore, microneedling near me, microneedling Layyah, microneedling before and after, microneedling recovery, micro needling Lahore, collagen induction therapy Pakistan, acne scar treatment Lahore, microneedling with PRP Lahore, open pores treatment Lahore, stretch mark treatment Lahore, daanon ke nishan ka ilaj, khule masaam ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Smoother, firmer-looking skin by encouraging your own collagen"
+quick_answer: "Microneedling, or collagen induction therapy, uses fine sterile needles to make tiny skin channels that prompt new collagen, softening acne scars, open pores and rough texture. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. A session takes 30 to 60 minutes under numbing cream, redness lasts 1 to 3 days, and results build over 3 to 6 sessions. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Collagen induction therapy"
+  - "Micro needling"
+  - "Micro-needling"
+  - "Skin needling"
+  - "Microneedling facial"
+  - "Daanon ke nishan ka ilaj"
+  - "Khule masaam ka ilaj"
+urdu_name: "مائیکرونیڈلنگ"
+roman_urdu_summary: "Microneedling mein bohat bareek sterile suiyon se jild mein nanhe nanhe raste banaye jate hain, jis se jild naya collagen banati hai aur daanon ke nishan, khule masaam aur khurdari jild behtar hoti hai. Dr. Junaid Fateh Lahore aur Layyah mein aap ki jild ke mutabiq is ka plan banate hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "30–60 minutes"
@@ -101,6 +113,12 @@ faqs:
   a: "Yes. In clinic, needle depth is chosen for each area and the procedure is done under sterile conditions. At-home rollers work only at a shallow depth and can cause irritation or infection if they are not cleaned and used correctly."
 - q: "Can microneedling help with pigmentation or melasma?"
   a: "It can form part of a pigmentation plan in selected cases, but it needs care, because aggressive treatment can make pigment worse in brown skin. Dr. Junaid will advise whether it suits your type of pigmentation."
+- q: "What are the risks or side effects of microneedling?"
+  a: "Most people have redness, tightness and mild sensitivity for one to three days, followed by light flaking. Less common risks include infection, a cold sore flare-up and temporary dark marks, which are more likely in brown skin. These are reduced by working under sterile conditions, choosing the needle depth carefully, avoiding treatment over active acne or infection, and using sunscreen every day afterwards. Dr. Junaid goes through the risks with you at consultation."
+- q: "When will I see the final results of microneedling?"
+  a: "Skin often looks fresher within one to two weeks, but the deeper collagen changes take longer. Most people see the clearest improvement in scars and texture after a full course of three to six sessions, spaced four to six weeks apart, and collagen remodelling continues for months afterwards. Results vary between people."
+- q: "Is microneedling available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Microneedling

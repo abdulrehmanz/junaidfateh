@@ -6,10 +6,23 @@ order: 1
 specialty: true
 summary: "Surgery for hand and wrist injuries, nerve compression, trigger finger and deformities, planned to restore grip, movement and feeling."
 seo:
-  title: "Hand Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Hand surgery in Lahore and Layyah with Dr. Junaid Fateh for tendon, nerve and fracture injuries, carpal tunnel and trigger finger. Book on WhatsApp."
-  keywords: "hand surgery Lahore, hand surgeon Lahore, best hand surgeon in Lahore, hand surgery Pakistan, hand surgeon Layyah, tendon repair surgery Lahore, nerve repair surgery Lahore, carpal tunnel surgery Lahore, trigger finger surgery Lahore, hand fracture surgery Lahore, hand injury treatment Lahore, hand surgery cost in Lahore, Dr Junaid Fateh hand surgeon, hand and wrist surgery Pakistan"
+  title: "Hand Surgery in Lahore & Layyah | Dr. Junaid Fateh"
+  description: "Hand surgery in Lahore with Dr. Junaid Fateh, FCPS, for tendon injuries, carpal tunnel and trigger finger. Often a day case. Book a consultation on WhatsApp."
+  keywords: "hand surgery in Lahore, hand surgeon in Lahore, best hand surgeon in Lahore, hand surgery cost in Lahore, hand surgery price in Pakistan, hand surgeon near me, hand surgery Layyah, tendon repair surgery, nerve repair surgery Lahore, carpal tunnel surgery Lahore, trigger finger surgery Lahore, hand fracture surgery Lahore, hand surgery recovery, hand surgery before and after, haath ki surgery, haath ki nas ka operation, Dr Junaid Fateh"
 hero_subtitle: "Restoring grip, movement and feeling after injury or disease of the hand"
+quick_answer: "Hand surgery repairs tendons, nerves and bones of the hand and wrist, and treats carpal tunnel and trigger finger, to restore grip, movement and feeling. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Surgery takes under 1 hour to 4 hours under local, regional or general anaesthesia. Recovery is 2 to 12 weeks, longer for tendon or nerve repair. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Hand and wrist surgery"
+  - "Tendon repair surgery"
+  - "Nerve repair surgery"
+  - "Carpal tunnel release"
+  - "Trigger finger release"
+  - "Haath ki surgery"
+  - "Haath ki nas ka operation"
+  - "Ungli ka operation"
+urdu_name: "ہاتھ کی سرجری"
+roman_urdu_summary: "Hand surgery mein haath aur kalai ki kati hui nas (tendon), nerve, tooti hui haddi aur carpal tunnel ya trigger finger jaise masail ka ilaj kiya jata hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur haath ki pakar, harkat aur ehsas wapas lane ke liye operation plan karte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Hand and wrist"
 price_from: ''
 stats:
   duration: "Under 1 hour to 4 hours"
@@ -100,6 +113,12 @@ faqs:
   a: "A healed tendon, nerve or bone repair is meant to be permanent, and carpal tunnel or trigger finger release usually gives lasting relief. Results vary between people, though. Severe crush injuries, delayed treatment, smoking and diabetes can limit recovery. Like any surgery, there are risks such as infection, stiffness, a sensitive scar and, after tendon repair, the repair stretching or breaking. Dr. Junaid goes through these with you at consultation."
 - q: Can I have an online consultation from abroad?
   a: "Yes. Send photos of your hand, any X-rays or reports, and a short description on WhatsApp, then book a video consultation. Dr. Junaid can explain your likely options, and the final plan is confirmed after he examines you in person in Lahore or Layyah. For a fresh injury, do not wait for a video call. Go to the nearest emergency department first."
+- q: "What are the risks or side effects of hand surgery?"
+  a: "Every operation carries some risk. Common issues are swelling, stiffness, a tender or sensitive scar and infection. Less often, a repaired tendon can stretch or break, or a nerve may recover only partly. Risks are reduced by careful repair under magnification, keeping the hand raised, following your splint and exercise plan, controlling diabetes and not smoking. Dr. Junaid goes through the risks of your operation with you at consultation."
+- q: "When will I see the final results of hand surgery?"
+  a: "It depends on what was repaired. After carpal tunnel or trigger finger release, light everyday use is often possible by 10 to 14 days, although severe numbness can take months to improve. Tendon and fracture repairs are protected in a splint for about 6 weeks, then movement and strength build up with hand therapy. Repaired nerves regrow slowly, so feeling and fine control can keep improving for 3 to 12 months or longer."
+- q: "Is hand surgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can be in either city. Ask on WhatsApp which hand procedures are done at which location, and the team will guide you to the right appointment. For a fresh hand injury, go to the nearest emergency department first."
 ---
 
 ## About Hand Surgery

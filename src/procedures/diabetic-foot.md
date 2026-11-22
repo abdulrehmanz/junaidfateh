@@ -7,9 +7,20 @@ specialty: false
 summary: "Care for diabetic foot ulcers and infections, working with your diabetologist to heal the wound and protect the foot from further harm."
 seo:
   title: "Diabetic Foot Treatment in Lahore | Dr. Junaid Fateh"
-  description: "Diabetic foot ulcer and wound care in Lahore with Dr. Junaid Fateh, working with your diabetologist to heal the wound and save the foot. Book on WhatsApp."
-  keywords: "diabetic foot treatment Lahore, diabetic foot ulcer treatment Lahore, diabetic foot surgeon Pakistan, diabetic wound care Lahore, foot ulcer treatment Pakistan, diabetic foot infection treatment Lahore, amputation prevention Lahore, diabetic foot skin graft Pakistan, diabetic foot care Layyah, diabetic foot treatment cost Lahore, best diabetic foot surgeon Lahore, Dr Junaid Fateh"
+  description: "Diabetic foot treatment in Lahore with Dr. Junaid Fateh, FCPS, alongside your diabetologist. Healing takes weeks to months. Book a consultation on WhatsApp."
+  keywords: "diabetic foot treatment in Lahore, diabetic foot ulcer treatment Lahore, diabetic foot treatment cost in Lahore, diabetic foot treatment price in Pakistan, best diabetic foot surgeon in Lahore, diabetic foot specialist near me, diabetic foot treatment Layyah, diabetic wound care, diabetic foot infection treatment, foot ulcer treatment Pakistan, amputation prevention, diabetic foot skin graft, diabetic foot ulcer recovery, diabetic foot before and after, sugar ke zakhm ka ilaj, sugar ke paon ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Healing diabetic foot wounds and protecting your feet, together with your diabetologist"
+quick_answer: "Diabetic foot management treats foot ulcers, wounds and infections in people with diabetes, using debridement, dressings, off-loading and, when needed, skin grafts or flaps, while your diabetologist helps control blood sugar. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Procedures take 1 to 4 hours under local, regional or general anaesthesia, and healing usually takes weeks to months. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Diabetic foot ulcer treatment"
+  - "Diabetic foot care"
+  - "Diabetic wound care"
+  - "Diabetic foot infection treatment"
+  - "Sugar ke zakhm ka ilaj"
+  - "Sugar ke paon ka ilaj"
+urdu_name: "ذیابیطس کے پاؤں کا علاج"
+roman_urdu_summary: "Sugar (diabetes) ke mareezon mein paon ka chhota sa zakhm bhi jaldi bigar sakta hai aur der se bharta hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur aap ke diabetes ke doctor ke sath mil kar zakhm bharne aur paon ko bachane ka ilaj karte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Foot"
 price_from: ''
 stats:
   duration: "1–4 hours"
@@ -101,6 +112,10 @@ faqs:
   a: "The cost depends on the size and depth of the wound, whether surgery, negative pressure therapy or a skin graft is needed, the number of visits and any hospital stay. A personalised quote follows your consultation, and the [cost guide](/cost-guide/) explains these factors."
 - q: Can I have an online consultation from abroad?
   a: "Yes. This can be helpful if you are arranging care for a parent in Pakistan. Send clear photos of the foot on WhatsApp and book a video consultation with Dr. Junaid. The final plan is confirmed after an in-person examination, and a foot showing signs of spreading infection should be seen at the nearest emergency department without delay."
+- q: "What are the risks or side effects of diabetic foot treatment?"
+  a: "Debridement can cause some bleeding, and wounds heal more slowly in diabetes. Risks include infection spreading, part of a graft or flap not taking, the ulcer coming back and, in some cases, the need to remove a toe or part of the foot to control infection. Risks are reduced by early treatment, good blood sugar control, keeping weight off the foot, not smoking and regular review. Dr. Junaid explains the risks of each step with you."
+- q: "Is diabetic foot treatment available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a diabetic foot wound can be assessed in either city. Ask on WhatsApp which treatments are done at which location. Spreading redness, swelling, pus, a bad smell or fever needs the nearest emergency department the same day."
 ---
 
 ## About Diabetic Foot Management

@@ -7,9 +7,21 @@ specialty: false
 summary: "Staged repair of cleft lip and palate, from infancy to the teenage years, to help with feeding, speech and a balanced, natural smile."
 seo:
   title: "Cleft Lip & Palate Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Cleft lip and palate repair in Lahore with Dr. Junaid Fateh. Gentle, staged care for babies and children to help feeding, speech and smile. Book a consult."
-  keywords: "cleft lip surgery Lahore, cleft palate surgery Lahore, cleft lip and palate repair Pakistan, best cleft surgeon in Lahore, cleft lip repair for babies Lahore, cleft palate repair Pakistan, cleft lip revision Lahore, cleft rhinoplasty Lahore, alveolar bone graft Lahore, kata hont operation Lahore, cleft lip surgery Layyah, cleft surgery cost in Lahore, Dr Junaid Fateh cleft surgery"
+  description: "Cleft lip and palate surgery in Lahore with Dr. Junaid Fateh, FCPS. Lip repair is usually done at 3 to 6 months of age. Book a consultation on WhatsApp."
+  keywords: "cleft lip surgery in Lahore, cleft lip surgery Pakistan, cleft palate surgery Lahore, cleft lip surgery cost in Lahore, cleft lip surgery price in Pakistan, best cleft surgeon in Lahore, cleft lip surgery near me, cleft lip surgery Layyah, cleft lip and palate repair, cleft pallet surgery, cleft lip before and after, cleft palate surgery recovery, cleft lip repair age, cleft lip revision Lahore, kata hont ka operation, kata talu ka operation, Dr Junaid Fateh"
 hero_subtitle: "Step-by-step cleft care to help your child feed, speak and smile with confidence"
+quick_answer: "Cleft lip and palate surgery closes a gap in the upper lip, roof of the mouth or both, helping a child feed, speak and smile. FCPS plastic surgeon Dr. Junaid Fateh sees families in Lahore and Layyah. Lip repair is usually at 3 to 6 months, palate repair at 9 to 12 months. Each takes 1 to 3 hours under general anaesthesia, with 1 to 2 weeks of recovery. Cost is confirmed after consultation."
+also_known_as:
+  - "Cleft lip repair"
+  - "Cleft palate repair"
+  - "Cheiloplasty"
+  - "Palatoplasty"
+  - "Cleft lip and palate treatment"
+  - "Kata hont ka operation"
+  - "Kata talu ka operation"
+urdu_name: "کٹے ہونٹ اور تالو کی سرجری"
+roman_urdu_summary: "Kuch bachche kate hue hont ya talu ke sath paida hote hain, jis se doodh peene aur bolne mein mushkil hoti hai. Dr. Junaid Fateh Lahore aur Layyah mein bachchon ko dekhte hain aur munasib umar par hont aur talu ka operation plan karte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Lip and palate"
 price_from: ''
 stats:
   duration: "1–3 hours per procedure"
@@ -101,6 +113,12 @@ faqs:
   a: "The cost depends on the type of cleft, which stage of treatment your child needs, the anaesthetic, the length of the hospital stay and any tests required. Dr. Junaid will give you a personalised quote after the consultation. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
   a: "Yes. Send clear photos of your child's face and, if possible, the inside of the mouth on WhatsApp, along with any reports, and book a video consultation. Dr. Junaid can explain the likely stages and timing, and the final plan is confirmed after he examines your child in person in Lahore or Layyah."
+- q: "What are the risks or side effects of cleft lip and palate surgery?"
+  a: "Like any surgery, cleft repair carries risks. These include bleeding, infection, the wound opening, a visible or tight scar, a small hole remaining in the palate (fistula) and speech that still sounds nasal and needs further help. Risks are reduced by operating only when your baby is well and gaining weight, planning the anaesthetic with a team experienced in caring for children, and careful feeding and wound care afterwards. Dr. Junaid goes through these with you at consultation."
+- q: "When will I see the final results of cleft lip and palate surgery?"
+  a: "The lip scar looks red and firm for a few months before it softens and fades. Speech develops over the following years and is checked at regular reviews. Because the face keeps growing, the final result of cleft care is usually judged in the teenage years, when any refinement of the lip or nose can be planned."
+- q: "Is cleft lip and palate surgery available in Layyah?"
+  a: "Dr. Junaid sees families in both Layyah and Lahore, so your child's consultation can be in either city. Ask on WhatsApp which cleft procedures are done at which location, and the team will help you plan the visits for each stage."
 ---
 
 ## About Cleft Lip & Palate Surgery

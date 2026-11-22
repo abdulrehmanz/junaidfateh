@@ -175,6 +175,50 @@ Please only enter figures you can stand behind.
 
 In `src/_data/site.yml` fill in `analytics.ga4` (Google Analytics 4 ID, like `G-ABC123`) and/or `analytics.metaPixel`. The site then tracks visits, booking form opens and WhatsApp leads (`generate_lead` in Google Analytics, `Lead` in Meta).
 
+## Search fields on every procedure page
+
+Each procedure and category file has fields that help Google and AI assistants (ChatGPT, Perplexity, Gemini, Google AI Overviews) understand and quote the page. Keep them filled in when you add or edit a procedure:
+
+```yaml
+quick_answer: "45 to 75 words that directly answer: what is it, who does it and where, how long it takes, recovery, and how cost is decided."
+also_known_as:
+  - "Other names people search for, including Roman Urdu, e.g. Baal lagwana"
+urdu_name: "بال لگوانا"
+roman_urdu_summary: "2 to 4 sentences in Roman Urdu."
+body_location: "Scalp"            # procedures only
+last_reviewed: 2026-12-01          # optional: the date Dr. Junaid reviewed the page
+```
+
+- `quick_answer` is shown in a box at the top of the page and used as the page summary for search engines.
+- `last_reviewed`: once Dr. Junaid has read a page and approved it, add this date. The page then shows "Medically reviewed by Dr. Muhammad Junaid Fateh" with the date, which is a strong trust signal for medical websites. Only add it after a real review.
+- `seo.title` (up to 60 characters), `seo.description` (140 to 160 characters) and `seo.keywords` (14 to 20 phrases) control how the page appears in Google.
+- Blog articles have `keywords` and `key_takeaways` (3 to 5 bullet points shown at the top).
+- Videos can have a `date:` (the upload date). Google needs it to show a video thumbnail in search results.
+
+`npm run check` warns you if any of these are missing.
+
+## What happens automatically for search engines
+
+- `sitemap.xml` lists every page with its last-updated date, plus before/after images and YouTube videos.
+- `robots.txt` welcomes Google, Bing and AI assistants (ChatGPT, Claude, Perplexity, Gemini, Apple).
+- `llms.txt` and `llms-full.txt` give AI assistants a clean summary and the full text of every procedure.
+- Structured data (schema.org) describes Dr. Junaid, both practice locations, each procedure, FAQs, videos, articles and breadcrumbs.
+- After every deploy, the site pings IndexNow so Bing (which also powers ChatGPT search and Copilot) picks up changes within hours.
+- "Updated" dates on pages come from the last change in git.
+
+## Things only you can do (these matter most for ranking)
+
+1. **Connect the custom domain.** A site on `github.io/junaidfateh` cannot rank as well as `drjunaidfateh.com`, and `robots.txt` only works at the root of a domain.
+2. **Google Search Console:** add the domain, paste the verification code into `analytics.googleVerification`, and submit `sitemap.xml`.
+3. **Bing Webmaster Tools:** add the site (you can import it from Search Console), paste the code into `analytics.bingVerification`, and submit the sitemap. Bing feeds ChatGPT search and Copilot.
+4. **Google Business Profile:** create or claim a profile for each location (Lahore and Layyah) with the exact same name, address and phone as `locations.yml`, category "Plastic surgeon", photos, hours and a link to the matching city page. This is the biggest factor for "plastic surgeon near me" and map results.
+5. **Directory profiles:** create matching profiles on Marham, Oladoc and Healthwire. These sites rank on page one for most procedure searches in Pakistan and link back to the website.
+6. **Real Google reviews:** ask happy patients to leave a Google review on the Business Profile. Replace the example reviews in `reviews.yml` with real ones.
+7. **Prices:** add `price_from` to procedures where possible. Pakistani patients search "cost" and "price" more than anything else, and pages that show a starting price tend to rank and convert better.
+8. **Medical review:** have Dr. Junaid read each page and add `last_reviewed`.
+9. **Videos:** add YouTube links (with `date:`) to procedure pages. Video results appear prominently for procedure searches.
+10. **Add the PMDC number** in `site.yml`.
+
 ## Connecting a custom domain
 
 When the domain is ready (for example `drjunaidfateh.com`):

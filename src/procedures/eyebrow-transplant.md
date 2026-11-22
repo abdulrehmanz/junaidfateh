@@ -7,9 +7,21 @@ specialty: true
 summary: "Fuller, better-shaped eyebrows using fine hairs moved from your own scalp, designed and planned by Dr. Junaid Fateh in Lahore."
 seo:
   title: "Eyebrow Transplant in Lahore | Dr. Junaid Fateh"
-  description: "Eyebrow transplant in Lahore with Dr. Junaid Fateh. Restore thin, over-plucked or scarred brows with natural-looking hair. Send photos on WhatsApp to start."
-  keywords: "eyebrow transplant Lahore, eyebrow transplant Pakistan, eyebrow transplant cost in Lahore, best eyebrow transplant surgeon in Lahore, eyebrow hair transplant for women Lahore, eyebrow restoration Lahore, FUE eyebrow transplant, thin eyebrows treatment Lahore, Dr Junaid Fateh eyebrow transplant, eyebrow transplant Layyah, permanent eyebrows Pakistan, eyebrow scar hair transplant"
+  description: "Eyebrow transplant in Lahore by Dr. Junaid Fateh, FCPS, for thin, over-plucked or scarred brows. Back to work in 5 to 7 days. Book a consultation on WhatsApp."
+  keywords: "eyebrow transplant in Lahore, eyebrow transplant cost in Lahore, eyebrow transplant price in Pakistan, best eyebrow transplant surgeon in Lahore, eyebrow transplant near me, eyebrow transplant Layyah, eyebrow transplant before and after, eyebrow transplant recovery, eyebrow hair transplant for women Lahore, eyebrow restoration Lahore, FUE eyebrow transplant, eye brow transplant, thin eyebrows treatment Lahore, eyebrow transplant vs microblading, eyebrow scar hair transplant, eyebrow ke baal lagwana, patli bhanwon ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Natural, fuller brows shaped to your face using fine hairs from your own scalp"
+quick_answer: "An eyebrow transplant moves fine hairs one by one from the back of the scalp into thin, over-plucked or scarred eyebrows. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who also consults in Layyah. It takes 2 to 4 hours under local anaesthetic, with 5 to 7 days of recovery. New hair shows at 4 to 6 months, is usually permanent and needs regular trimming. Cost is confirmed after consultation."
+also_known_as:
+  - "Eyebrow hair transplant"
+  - "Eyebrow restoration"
+  - "Brow transplant"
+  - "FUE eyebrow transplant"
+  - "Eye brow transplant"
+  - "Eyebrow ke baal lagwana"
+  - "Patli bhanwon ka ilaj"
+urdu_name: "بھنووں کا ٹرانسپلانٹ"
+roman_urdu_summary: "Eyebrow transplant mein sar ke peeche se bareek baal ek ek kar ke le kar patli, kam ya zakhm ke nishan wali bhanwon mein lagaye jate hain. Yeh asli baal hote hain jo barhte rehte hain, is liye inhein waqtan fawaqtan trim karna parta hai. Dr. Junaid Fateh Lahore mein yeh procedure karte hain aur Layyah mein bhi mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Eyebrows"
 price_from: ''
 stats:
   duration: 2–4 hours
@@ -102,6 +114,12 @@ faqs:
   a: "Filling small gaps may take relatively few grafts, while rebuilding a full brow usually needs a few hundred per side. The exact number depends on your existing hair and the shape you choose."
 - q: Can I have an online consultation from abroad?
   a: "Yes. Share makeup-free photos of your brows, front-on and from each side, on WhatsApp, then book a video call. Dr. Junaid can talk through shape and suitability, and the final brow design is drawn and confirmed in person when you meet."
+- q: "What are the risks or side effects of an eyebrow transplant?"
+  a: "Mild swelling, which can spread around the eyes, small crusts, redness and soreness are common for the first few days. Less often there may be infection, ingrown hairs, uneven growth or hairs growing at an unwanted angle. Dr. Junaid reduces these risks by checking the cause of brow loss first, using single-hair grafts placed at shallow angles, working under sterile conditions and giving clear aftercare, and he goes through them with you at consultation."
+- q: "When will I see the final results of an eyebrow transplant?"
+  a: "Most transplanted hairs shed in the first two to six weeks, which is normal. New hairs usually start to grow from about three to four months and are clearly visible at 4 to 6 months. The brows reach their full look at around 8 to 12 months. Results vary between people, and a top-up session is sometimes needed for density."
+- q: "Is eyebrow transplant available in Layyah?"
+  a: "Dr. Junaid Fateh sees patients in both Layyah and Lahore, so your consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and the team will help you plan where your eyebrow transplant would take place."
 ---
 
 ## About eyebrow transplant

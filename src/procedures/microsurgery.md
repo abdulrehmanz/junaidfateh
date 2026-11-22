@@ -7,9 +7,22 @@ specialty: false
 summary: "Surgery under magnification to join tiny blood vessels and nerves, used for free flaps, nerve repair and reattaching severed fingers."
 seo:
   title: "Microsurgery & Free Flaps in Lahore | Dr. Junaid Fateh"
-  description: "Microsurgery in Lahore with Dr. Junaid Fateh for free flaps, nerve repair and finger replantation to restore form and function. Book on WhatsApp."
-  keywords: "microsurgery Lahore, microsurgeon in Lahore, free flap surgery Lahore, microvascular surgery Pakistan, nerve repair surgery Lahore, finger replantation Lahore, reattach severed finger Pakistan, free tissue transfer Lahore, microsurgery cost Lahore, best microsurgeon Lahore, reconstructive microsurgery Layyah, Dr Junaid Fateh"
+  description: "Microsurgery in Lahore by Dr. Junaid Fateh, FCPS, for free flaps, nerve repair and finger replantation. Recovery 2 to 8 weeks. Book a consultation on WhatsApp."
+  keywords: "microsurgery in Lahore, microsurgeon in Lahore, microsurgery cost in Lahore, microsurgery price in Pakistan, best microsurgeon in Lahore, microsurgery near me, microsurgery Layyah, free flap surgery Lahore, microvascular surgery Pakistan, nerve repair surgery Lahore, finger replantation Lahore, reattach severed finger, free tissue transfer, microsurgery recovery, microsurgery before and after, kati hui ungli jodna, nas jodne ka operation, Dr Junaid Fateh"
 hero_subtitle: "Precise repair of tiny vessels and nerves to rebuild complex injuries"
+quick_answer: "Microsurgery is surgery under magnification to join tiny blood vessels and nerves, used for free flaps, nerve repair and reattaching cut-off fingers. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Operations take 4 to 12 hours under general anaesthesia, with 3 to 7 days in hospital and 2 to 8 weeks of recovery. Nerve recovery continues for months. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Microvascular surgery"
+  - "Free flap surgery"
+  - "Free tissue transfer"
+  - "Reconstructive microsurgery"
+  - "Finger replantation"
+  - "Nerve repair surgery"
+  - "Kati hui ungli jodne ka operation"
+  - "Nas jodne ka operation"
+urdu_name: "مائیکرو سرجری"
+roman_urdu_summary: "Microsurgery mein magnification ke zariye khoon ki bohat bareek naliyon aur nerves ko joda jata hai, jaise kati hui ungli dobara jodne ya bade zakhm ko jism ke doosre hisse ke tissue se dhakne ke liye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Hand, arm and leg"
 price_from: ''
 stats:
   duration: "4–12 hours"
@@ -101,6 +114,10 @@ faqs:
   a: "The cost depends on the type of reconstruction, the length of the operation, the hospital stay and any further procedures or therapy. You will receive a personalised quote after your consultation, and the [cost guide](/cost-guide/) explains what affects the price."
 - q: Can I have an online consultation from abroad?
   a: "Yes, for planned reconstruction. Send photos and any reports on WhatsApp and book a video consultation with Dr. Junaid to talk through your options. The final plan is confirmed in person. For a fresh injury or a severed finger, go to the nearest emergency department immediately."
+- q: "When will I see the final results of microsurgery?"
+  a: "Most people return to normal daily activities within 4 to 8 weeks. A flap may look bulky at first and usually settles over several months, and a small revision can refine its shape later if needed. After nerve repair, feeling and strength come back slowly as the nerve regrows, so results keep improving for 6 to 18 months."
+- q: "Is microsurgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a consultation for planned reconstruction can be in either city. Ask on WhatsApp which procedures are done at which location. For a fresh injury or a cut-off finger, go to the nearest emergency department immediately."
 ---
 
 ## About Microsurgery

@@ -1,0 +1,49 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+---
+# {{ site.fullName }}, Plastic Surgeon in Lahore and Layyah, Pakistan
+
+> {{ site.fullName }} ({{ site.shortCredentials }}) is a plastic, cosmetic and reconstructive surgeon who sees patients in Lahore (Shadman) and Layyah, Punjab, Pakistan, and offers online video consultations for patients in other cities and overseas. He trained at Jinnah Burn & Reconstructive Surgery Centre, Lahore, and is a member of the Pakistan Association of Plastic Surgeons. His signature specialties are hair transplant (FUE, FUT, Sapphire FUE, DHI, beard and eyebrow), gynecomastia surgery, liposuction and body contouring, non-surgical aesthetics (Botox, fillers, PRP, skin treatments) and hand and reconstructive surgery.
+
+Key facts:
+- Name: {{ site.fullName }} (also written as {{ site.name }})
+- Qualifications: {% for e in site.education %}{{ e.title }} ({{ e.institution }}){% if not loop.last %}; {% endif %}{% endfor %}
+- Membership: {% for m in site.memberships %}{{ m.name }}{% if not loop.last %}; {% endif %}{% endfor %}
+{%- if site.pmdcNumber %}
+- PMDC registration: {{ site.pmdcNumber }}
+{%- endif %}
+- Locations: {% for loc in locations %}{{ loc.city }}{% if loc.clinic %} ({{ loc.clinic }}{% if loc.address %}, {{ loc.address }}{% endif %}){% endif %}{% if not loop.last %}; {% endif %}{% endfor %}
+- Booking: WhatsApp {{ site.phone }} (https://wa.me/{{ site.whatsapp }}), email {{ site.email }}
+- Online consultations: available for patients in other cities and abroad
+- Fees: personalised written quote after consultation ({{ "/cost-guide/" | abs }})
+- Social: {% for k, v in site.social %}{% if v %}{{ v }} {% endif %}{% endfor %}
+
+## Main pages
+- [Home]({{ "/" | abs }}): overview of Dr. Junaid Fateh and his specialties
+- [About Dr. Junaid Fateh]({{ "/about/" | abs }}): training, qualifications and approach
+- [Plastic surgeon in Lahore]({{ "/plastic-surgeon-lahore/" | abs }}): Lahore practice, areas served, how to book
+- [Plastic surgeon in Layyah]({{ "/plastic-surgeon-layyah/" | abs }}): Layyah consultations, areas served, how to book
+- [Hair transplant in Lahore]({{ "/hair-transplant/" | abs }}): hair restoration guide with a graft estimator
+- [All procedures]({{ "/procedures/" | abs }})
+- [Cost guide]({{ "/cost-guide/" | abs }}): how fees are worked out
+- [Overseas patients]({{ "/overseas-patients/" | abs }}): online consultation and travel planning
+- [Patient journey]({{ "/patient-journey/" | abs }}): consultation, preparation, surgery day and aftercare
+- [FAQs]({{ "/faq/" | abs }})
+- [Contact and booking]({{ "/contact/" | abs }})
+- [Full text of all procedure pages for AI assistants]({{ "/llms-full.txt" | abs }})
+
+{% for cat in collections.categories %}
+## {{ cat.data.title }}
+- [{{ cat.data.title }} overview]({{ cat.url | abs }}): {{ (cat.data.quick_answer or cat.data.summary) | mdText }}
+{%- for p in collections.procedures | byCategory(cat.fileSlug) %}
+- [{{ p.data.title }}]({{ p.url | abs }}): {{ (p.data.quick_answer or p.data.summary) | mdText }}
+{%- endfor %}
+{% endfor %}
+## Articles
+{%- for post in collections.posts %}
+- [{{ post.data.title }}]({{ post.url | abs }}): {{ post.data.description | mdText }}
+{%- endfor %}
+
+## Notes
+- Information on this website is general and not a substitute for a personal medical consultation. Results vary between individuals.

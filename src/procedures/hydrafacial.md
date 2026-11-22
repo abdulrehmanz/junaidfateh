@@ -6,10 +6,21 @@ order: 6
 specialty: false
 summary: "A gentle multi-step facial that cleanses, exfoliates, clears pores and hydrates, for fresher, brighter-looking skin with no downtime."
 seo:
-  title: "HydraFacial in Lahore | Dr. Junaid Fateh"
-  description: "HydraFacial in Lahore with Dr. Junaid Fateh. Deep cleansing, gentle exfoliation and hydration for a fresh glow before weddings, Eid or any event. Book now."
-  keywords: "HydraFacial Lahore, HydraFacial cost in Lahore, HydraFacial price Pakistan, best HydraFacial in Lahore, Dr Junaid Fateh HydraFacial, HydraFacial Layyah, hydra facial treatment Lahore, medical facial Lahore, bridal facial Lahore, deep cleansing facial Lahore, glowing skin treatment Pakistan, hydrating facial Lahore"
+  title: "HydraFacial in Lahore & Layyah | Dr. Junaid Fateh"
+  description: "HydraFacial in Lahore and Layyah with Dr. Junaid Fateh, FCPS. A 30 to 45 minute medical facial with no downtime. Book a consultation on WhatsApp."
+  keywords: "HydraFacial in Lahore, HydraFacial price in Lahore, HydraFacial cost in Lahore, HydraFacial price in Pakistan, best HydraFacial in Lahore, HydraFacial near me, HydraFacial Layyah, HydraFacial before and after, hydra facial Lahore, hydrafacial treatment Lahore, medical facial Lahore, bridal facial Lahore, deep cleansing facial Lahore, hydradermabrasion Pakistan, chehre ki gehri safai, chehre par nikhar lane ka tareeqa, Dr Junaid Fateh"
 hero_subtitle: "Cleaner pores and a hydrated glow in under an hour, with no downtime"
+quick_answer: "A HydraFacial is a multi-step medical facial that cleanses, gently exfoliates, clears pores with suction and infuses hydrating serums, leaving skin fresher and brighter. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. A session takes 30 to 45 minutes, needs no anaesthesia and has no downtime. The glow is visible straight away, and monthly sessions help maintain it. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Hydra facial"
+  - "Hydrafacial treatment"
+  - "Hydradermabrasion facial"
+  - "Medical facial"
+  - "Deep cleansing facial"
+  - "Chehre ki gehri safai"
+urdu_name: "ہائیڈرا فیشل"
+roman_urdu_summary: "HydraFacial ek medical facial hai jis mein ek hi session mein chehre ki gehri safai, halki exfoliation, masaam ki safai aur hydration ki jati hai, jis se jild taaza aur chamakdar nazar aati hai. Dr. Junaid Fateh ke Lahore aur Layyah clinics mein jild ke muayne ke baad yeh treatment kiya jata hai, aur is ke baad koi downtime nahi hota. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "30–45 minutes"
@@ -101,6 +112,12 @@ faqs:
   a: "Usually, yes. Extraction helps with congestion, and the serums and intensity can be adjusted for sensitive skin. Very inflamed acne may need medical treatment first."
 - q: "When should I book before my wedding?"
   a: "Many brides and grooms book a session about three to five days before the event, ideally after one or two earlier sessions in the weeks leading up to it."
+- q: "What are the risks or side effects of a HydraFacial?"
+  a: "A HydraFacial is gentle and side effects are usually mild. Sensitive skin may look pink for a few hours, and some people feel slight tingling or dryness afterwards. To keep irritation low, your skin is assessed first, the serums and intensity are adjusted for sensitive skin, and treatment is postponed if you have sunburn, open wounds, a cold sore, an eczema or rosacea flare, or have recently taken isotretinoin."
+- q: "When will I see the final results of a HydraFacial?"
+  a: "The glow is visible as soon as the session ends and is usually most noticeable for several days to about a week. There is no single final result as there is with surgery: regular monthly sessions build on each other for clearer pores and better hydration over time. Results vary between people."
+- q: "Is HydraFacial available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About HydraFacial

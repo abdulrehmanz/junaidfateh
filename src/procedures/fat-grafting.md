@@ -7,9 +7,21 @@ specialty: false
 summary: "Facial fat grafting in Lahore uses fat from your own body to restore lost volume in the cheeks, temples and under-eyes for a soft, natural look."
 seo:
   title: "Fat Grafting & Fat Transfer in Lahore | Dr. Junaid Fateh"
-  description: "Facial fat grafting in Lahore with Dr. Junaid Fateh. Restore volume to cheeks, temples and under-eyes using your own fat. Message on WhatsApp to book."
-  keywords: "fat grafting Lahore, fat transfer Lahore, facial fat transfer Lahore, fat grafting cost in Lahore, lipofilling Lahore, fat injection face Lahore, autologous fat transfer Pakistan, fat grafting Pakistan, under eye fat transfer Lahore, cheek fat transfer Lahore, natural filler alternative Lahore, best fat grafting surgeon in Lahore, Dr Junaid Fateh fat grafting"
+  description: "Facial fat grafting in Lahore with Dr. Junaid Fateh, FCPS. Your own fat restores volume to cheeks, temples and under-eyes, 1 to 2 weeks off. Book on WhatsApp."
+  keywords: "fat grafting in Lahore, fat transfer Lahore, facial fat transfer Lahore, fat grafting cost in Lahore, fat transfer price in Pakistan, best fat grafting surgeon in Lahore, fat transfer near me, fat grafting Layyah, fat transfer before and after, fat grafting recovery, fat transfer to face, lipofilling, autologous fat transfer, under eye fat transfer, cheek fat transfer, apni charbi se chehra bharna, chehre mein fat transfer, Dr Junaid Fateh"
 hero_subtitle: "Natural volume for the face, using fat taken from your own body"
+quick_answer: "Facial fat grafting, or fat transfer, moves a small amount of your own fat into the cheeks, temples or under-eyes to restore lost volume. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 1 to 2 hours as a day case under local anesthesia with sedation, with 1 to 2 weeks off. The fat that survives lasts for several years. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Fat transfer"
+  - "Facial fat transfer"
+  - "Fat transfer to face"
+  - "Lipofilling"
+  - "Autologous fat grafting"
+  - "Fat injections to the face"
+  - "Apni charbi se chehra bharna"
+urdu_name: "چہرے میں چربی کی منتقلی"
+roman_urdu_summary: "Fat grafting mein aap ke apne jism, jaise pait ya raan, se thodi si charbi le kar chehre ke dhanse hue hisson, jaise gaal, kanpatti aur aankhon ke neeche, mein lagayi jati hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "1–2 hours"
@@ -101,6 +113,12 @@ faqs:
   a: "The price depends on how many areas are treated, how much fat is needed, the type of anesthesia and whether it is combined with another procedure. Once Dr. Junaid has assessed you, he will give you a personalized quote. For a fuller explanation of the factors involved, see the [cost guide](/cost-guide/)."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Send a few clear photos of your face in good light on WhatsApp and arrange a video consultation. Dr. Junaid can talk you through whether fat grafting is a good fit, and the final plan is confirmed once he sees you in person."
+- q: "What are the risks or side effects of fat grafting?"
+  a: "Swelling and bruising of the face and soreness at the donor site are expected for the first week or two. Some of the transferred fat is naturally reabsorbed, so the result can be less than planned and a small top-up is occasionally needed. Less common risks include lumps or unevenness, infection and, rarely, fat entering a blood vessel, which can be serious. Careful, gentle injection of small amounts at a time and good aftercare help keep these risks low."
+- q: "When will I see the final results of fat grafting?"
+  a: "The treated areas look fuller than the final result at first because of swelling. This settles over two to four weeks, while some of the fat is reabsorbed. By around three months the fat that has taken hold is stable, and what you see then is close to your final result."
+- q: "Is fat grafting available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your fat grafting consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your procedure and follow-up visits would take place."
 ---
 
 ## About Fat Grafting & Transfer

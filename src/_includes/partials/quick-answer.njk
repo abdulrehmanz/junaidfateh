@@ -1,0 +1,18 @@
+{#- Answer-first summary box (helps Google snippets and AI assistants quote the page) -#}
+{% if quick_answer %}
+<section class="quick-answer" aria-labelledby="qa-title">
+  <h2 class="quick-answer__title" id="qa-title"><i class="fas fa-bolt" aria-hidden="true"></i> Quick answer</h2>
+  <p class="quick-answer__text">{{ quick_answer | mdInline | safe }}</p>
+  {% if also_known_as and also_known_as.length %}
+  <p class="quick-answer__aka"><strong>Also known as:</strong> {{ also_known_as | join(", ") }}{% if urdu_name %} &middot; <span lang="ur" dir="rtl" class="urdu">{{ urdu_name }}</span>{% endif %}</p>
+  {% endif %}
+  <p class="quick-answer__meta">
+    {% if last_reviewed %}
+    <i class="fas fa-user-doctor" aria-hidden="true"></i> Medically reviewed by <a href="/about/">{{ site.fullName }}</a>, {{ site.shortCredentials }} on <time datetime="{{ last_reviewed | isoDate }}">{{ last_reviewed | readableDate }}</time>
+    {% else %}
+    <i class="fas fa-user-doctor" aria-hidden="true"></i> By <a href="/about/">{{ site.fullName }}</a>, {{ site.shortCredentials }}
+    {% endif %}
+    &middot; Updated <time datetime="{{ page.inputPath | lastModified | isoDate }}">{{ page.inputPath | lastModified | readableDate }}</time>
+  </p>
+</section>
+{% endif %}

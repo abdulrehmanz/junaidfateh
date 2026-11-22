@@ -18,6 +18,8 @@
   mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1330.5599071025865!2d74.33771786969022!3d31.53608469838791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190500103bdee5%3A0xa1a70a3282802516!2sAestique%20Clinic!5e1!3m2!1sen!2sus!4v1772926618272!5m2!1sen!2sus"
   latitude: 31.5360847
   longitude: 74.3377179
+  # Areas and nearby cities patients come from (used on the Lahore page and in Google structured data)
+  areasServed: ["Lahore", "Shadman", "Gulberg", "DHA Lahore", "Model Town", "Johar Town", "Garden Town", "Lahore Cantt", "Bahria Town Lahore", "Iqbal Town", "Faisal Town", "Wapda Town", "Kasur", "Sheikhupura", "Gujranwala", "Okara", "Sialkot", "Faisalabad"]
 
 - id: layyah
   city: "Layyah"
@@ -33,3 +35,5 @@
   mapEmbed: ""                     # Google Maps "Embed a map" src URL
   latitude: ""
   longitude: ""
+  # Areas and nearby cities patients come from (used on the Layyah page and in Google structured data)
+  areasServed: ["Layyah", "Karor Lal Esan", "Chaubara", "Fatehpur", "Kot Sultan", "Bhakkar", "Muzaffargarh", "Kot Adu", "Dera Ghazi Khan", "Jhang", "Mianwali", "Khushab"]

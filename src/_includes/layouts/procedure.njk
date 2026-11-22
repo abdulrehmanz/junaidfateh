@@ -24,6 +24,7 @@ layout: layouts/base.njk
 
 <div class="container proc-layout">
   <article class="proc-main">
+    {% include "partials/quick-answer.njk" %}
     <div class="prose">
       {{ content | safe }}
     </div>
@@ -97,6 +98,16 @@ layout: layouts/base.njk
     </section>
     {% endif %}
 
+    {% set procPosts = collections.posts | postsFor(page.fileSlug) %}
+    {% if procPosts.length %}
+    <section class="proc-section">
+      <h2>Related articles</h2>
+      <div class="post-grid">
+        {% for post in procPosts | limit(3) %}{% include "partials/post-card.njk" %}{% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
     {% if faqs and faqs.length %}
     <section class="proc-section" id="faq">
       <h2>{{ short_title }} FAQs</h2>
@@ -104,6 +115,8 @@ layout: layouts/base.njk
       {% include "partials/faq-list.njk" %}
     </section>
     {% endif %}
+
+    {% include "partials/roman-urdu.njk" %}
   </article>
 
   <aside class="proc-aside">

@@ -6,10 +6,22 @@ order: 2
 specialty: true
 summary: "The strip method of hair transplant, suited to wider areas of loss that need a high graft number in one sitting. Planned by Dr. Junaid Fateh in Lahore."
 seo:
-  title: "FUT Strip Hair Transplant in Lahore | Dr. Junaid Fateh"
-  description: "FUT strip hair transplant in Lahore by Dr. Junaid Fateh. A strong option for advanced hair loss and longer hairstyles. Send your photos on WhatsApp to begin."
-  keywords: "FUT hair transplant Lahore, strip method hair transplant Lahore, follicular unit transplantation Pakistan, FUT hair transplant cost in Lahore, best FUT hair transplant surgeon in Lahore, FUT vs FUE Lahore, hair transplant for advanced baldness Lahore, Dr Junaid Fateh FUT, hair transplant Layyah, trichophytic closure hair transplant, strip hair transplant Pakistan, high density hair transplant Lahore"
+  title: "FUT Hair Transplant (Strip) in Lahore | Dr. Junaid Fateh"
+  description: "FUT strip hair transplant in Lahore by Dr. Junaid Fateh, FCPS, for advanced hair loss. Day case with 10 to 14 days recovery. Book a consultation on WhatsApp."
+  keywords: "FUT hair transplant in Lahore, FUT hair transplant cost in Lahore, FUT hair transplant price in Pakistan, best FUT hair transplant surgeon in Lahore, FUT hair transplant near me, FUT hair transplant Layyah, FUT hair transplant before and after, FUT hair transplant recovery, strip method hair transplant Lahore, strip hair transplant Pakistan, follicular unit transplantation Pakistan, FUT vs FUE, FUT scar, hair transplant for advanced baldness Lahore, trichophytic closure hair transplant, baal lagwana, ganjapan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A high-yield strip technique for larger areas, with the scar placed to sit under your hair"
+quick_answer: "FUT hair transplant (follicular unit transplantation), or the strip method, removes a thin strip of scalp from the back and divides it into grafts for thinning areas. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who also sees patients in Layyah. It takes 4 to 8 hours under local anaesthetic and sedation, and recovery takes 10 to 14 days. Results are usually permanent. Cost is confirmed after consultation."
+also_known_as:
+  - "Follicular unit transplantation"
+  - "Strip method hair transplant"
+  - "Strip harvesting"
+  - "FUSS (follicular unit strip surgery)"
+  - "Strip hair transplant"
+  - "Baal lagwana"
+  - "Ganjapan ka ilaj"
+urdu_name: "ایف یو ٹی ہیئر ٹرانسپلانٹ"
+roman_urdu_summary: "FUT ya strip method mein sar ke peeche se jild ki ek patli patti nikal kar grafts tayyar kiye jate hain aur unhein ganjapan wali jagah par lagaya jata hai. Yeh tareeqa zyada ganjapan aur lambe baal rakhne walon ke liye munasib ho sakta hai. Dr. Junaid Fateh Lahore mein yeh procedure karte hain aur Layyah mein bhi mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Scalp"
 price_from: ''
 stats:
   duration: 4–8 hours
@@ -101,6 +113,12 @@ faqs:
   a: "Yes. Take photos of your hairline, the top and crown, and the back of your scalp, share them on WhatsApp and arrange a video call. Dr. Junaid can tell you whether FUT looks suitable, and the final plan is confirmed in person after he has examined you."
 - q: Can I have FUE later if I have FUT now?
   a: "Usually, yes. FUT leaves the rest of the donor area untouched, so FUE can often be used later to add density or to place hair into the scar to soften its appearance."
+- q: "What are the risks or side effects of FUT hair transplant?"
+  a: "Most people have soreness and tightness at the back of the head, some forehead swelling and numbness around the scar, which usually settle over weeks to months. Less common risks include infection, a wider or stretched scar, temporary shedding of existing hair and uneven growth. Dr. Junaid reduces these risks by checking how loose your scalp is, taking only as wide a strip as closes comfortably and giving clear aftercare, and he goes through them with you at consultation."
+- q: "When will I see the final results of FUT hair transplant?"
+  a: "Transplanted hairs usually shed between two and six weeks after surgery, then new growth starts to appear from around three months. Visible growth is expected at 6 to 12 months, and the final result is usually seen at 12 to 18 months. The scar at the back also tends to soften and fade over this time. Results vary between people."
+- q: "What is the best age for FUT hair transplant?"
+  a: "There is no fixed age, but FUT is usually planned once your hair loss pattern has largely settled, which for many men is from the mid-twenties or later. Because FUT is often chosen for more advanced loss, Dr. Junaid looks at how far your hair loss is likely to progress before deciding how many grafts to use now. Younger patients with early thinning are usually advised to try medical treatment first."
 ---
 
 ## About FUT hair transplant

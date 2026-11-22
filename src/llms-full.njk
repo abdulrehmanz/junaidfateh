@@ -1,0 +1,44 @@
+---
+permalink: /llms-full.txt
+eleventyExcludeFromCollections: true
+---
+# {{ site.fullName }}: full procedure information
+
+{{ site.fullName }} ({{ site.shortCredentials }}) is a plastic, cosmetic and reconstructive surgeon seeing patients in Lahore and Layyah, Pakistan. Book on WhatsApp {{ site.phone }} (https://wa.me/{{ site.whatsapp }}). Website: {{ "/" | abs }}
+
+This file contains the text of every procedure page in plain markdown. Information is general and not a substitute for a personal consultation.
+
+{% for p in collections.procedures %}
+---
+
+# {{ p.data.title }}
+
+URL: {{ p.url | abs }}
+{%- if p.data.also_known_as %}
+Also known as: {{ p.data.also_known_as | join(", ") }}{% if p.data.urdu_name %}, {{ p.data.urdu_name }}{% endif %}
+{%- endif %}
+Performed by: {{ site.fullName }}, {{ site.shortCredentials }} (Lahore; consultations also in Layyah and online)
+
+{% if p.data.quick_answer %}**Quick answer:** {{ p.data.quick_answer | mdText }}{% endif %}
+
+**At a glance:** {% for k, v in p.data.stats %}{{ k | replace("_", " ") | capitalize }}: {{ v }}. {% endfor %}Cost: {{ ("from " ~ p.data.price_from) if p.data.price_from else "personalised quote after consultation" }}.
+
+{{ p | rawBody }}
+
+{% if p.data.candidates %}## Who is it for?
+{{ p.data.candidates.intro | mdText }}
+{% for i in p.data.candidates.list %}- {{ i | mdText }}
+{% endfor %}{% endif %}
+{% if p.data.recovery %}## Recovery
+{{ p.data.recovery.intro | mdText }}
+{% for r in p.data.recovery.timeline %}- {{ r.stage }}: {{ r.text | mdText }}
+{% endfor %}{% endif %}
+{% if p.data.faqs %}## FAQs
+{% for f in p.data.faqs %}**{{ f.q }}**
+{{ f.a | mdText }}
+
+{% endfor %}{% endif %}
+{% if p.data.roman_urdu_summary %}## Roman Urdu
+{{ p.data.roman_urdu_summary }}
+{% endif %}
+{% endfor %}

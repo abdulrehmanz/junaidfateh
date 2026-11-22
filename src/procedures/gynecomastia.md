@@ -7,9 +7,22 @@ specialty: true
 summary: "Discreet gynecomastia surgery in Lahore with Dr. Junaid Fateh, removing excess gland and fat for a flatter, firmer, more masculine chest."
 seo:
   title: "Gynecomastia Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Gynecomastia surgery in Lahore and Layyah with Dr. Junaid Fateh. Liposuction and gland removal for a flatter male chest. Book a private WhatsApp consultation."
-  keywords: "gynecomastia surgery Lahore, male breast reduction Lahore, best gynecomastia surgeon in Lahore, gynecomastia cost in Lahore, gynecomastia treatment Pakistan, gynecomastia surgery Layyah, Dr Junaid Fateh gynecomastia, man boobs surgery Lahore, male chest reduction Pakistan, gynecomastia liposuction Lahore, gland excision gynecomastia, puffy nipples treatment Lahore, pseudogynecomastia treatment Lahore"
+  description: "Gynecomastia surgery in Lahore with Dr. Junaid Fateh, FCPS, with consultations in Layyah. Day case, desk work in about a week. Book a consultation on WhatsApp."
+  keywords: "gynecomastia surgery in Lahore, gynecomastia surgery cost in Lahore, gynecomastia surgery cost in Pakistan, gynecomastia surgery price in Pakistan, best gynecomastia surgeon in Lahore, gynecomastia surgery near me, gynecomastia surgery Layyah, gynecomastia before and after, gynecomastia surgery recovery, gynecomastia treatment without surgery, male breast reduction Lahore, man boobs surgery, gynaecomastia, gyno surgery Pakistan, gynecomastia liposuction Lahore, puffy nipples treatment Lahore, chhati ki charbi ka ilaj, mardon ki chhati ka operation, seene ki charbi ka operation, Dr Junaid Fateh"
 hero_subtitle: "Private, expert treatment for enlarged male breasts in Lahore and Layyah"
+quick_answer: "Gynecomastia surgery removes excess breast gland and fat in men to create a flatter, firmer chest. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore and Layyah. The operation takes about 1 to 2 hours under general anaesthesia or local anaesthesia with sedation, usually as a day case. Recovery takes 1 to 2 weeks, and the result is permanent for most men. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Male breast reduction"
+  - "Gynaecomastia surgery"
+  - "Man boobs surgery"
+  - "Gyno surgery"
+  - "Gynocomastia"
+  - "Chhati ki charbi ka ilaj"
+  - "Mardon ki chhati ka operation"
+  - "Seene ki charbi ka operation"
+urdu_name: "مردوں کی چھاتی کا آپریشن"
+roman_urdu_summary: "Gynecomastia mein mardon ki chhati par extra gland aur charbi aa jati hai, jis se seena bhari ya ubhra hua nazar aata hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur liposuction ya gland nikal kar chhati ko flat aur mardana shape dete hain. Aksar mard taqreeban ek hafte mein daftar ka kaam dobara shuru kar dete hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Chest"
 price_from: ''
 stats:
   duration: 1–2 hours
@@ -102,6 +115,12 @@ faqs:
   a: "It is usually linked to a shift in the balance between oestrogen and testosterone, which can happen during puberty, with weight gain, with some medicines or with steroid use. Teenage gynecomastia often settles without treatment, but tissue that has been present for years and become firm rarely shrinks by itself."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. If you live overseas or in another city, you can send chest photos on WhatsApp and book a video consultation with Dr. Junaid. He can explain the likely approach and recovery, and the final plan is confirmed when he examines you in person before surgery."
+- q: "What are the risks or side effects of gynecomastia surgery?"
+  a: "Swelling, bruising, soreness and some numbness around the nipples are common and usually settle over the following weeks, with the final chest shape clear by about 3 to 6 months. Less common risks include bleeding or a collection of blood, fluid build-up, infection, an uneven contour, a lasting change in nipple sensation and scarring. Dr. Junaid reduces these risks with a careful examination beforehand, by leaving a thin layer of tissue under the nipple to avoid a sunken look, and with a compression vest and follow-up visits."
+- q: "What is the best age for gynecomastia surgery?"
+  a: "There is no single right age. Gynecomastia that starts in the teenage years often settles on its own, so Dr. Junaid usually advises younger patients to wait and be reviewed, and surgery is generally considered once puberty is complete and the chest has stopped changing. Adult men of any age can be suitable if they are in good health and close to a stable weight. Weight loss can reduce a mainly fatty chest, but exercise does not remove firm gland tissue, which is why surgery is needed when it persists."
+- q: "Is gynecomastia surgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery date, travel and follow-up visits."
 ---
 
 ## About Gynecomastia

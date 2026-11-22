@@ -1,0 +1,102 @@
+---
+layout: layouts/base.njk
+---
+{#- City landing page. Front matter: locationId (matches src/_data/locations.yml), title, quick_answer, faqs. -#}
+{%- set loc = locations | where("id", locationId) | first -%}
+{%- set crumbs = [{ name: breadcrumb or title }] -%}
+{%- set heroActions = true -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container cat-intro">
+    <div>
+      {% include "partials/quick-answer.njk" %}
+      <div class="prose prose--lead">
+        {{ content | safe }}
+      </div>
+    </div>
+    <aside class="cat-intro__aside">
+      {% include "partials/location-card.njk" %}
+    </aside>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Signature specialties</p>
+      <h2>Popular treatments for patients in {{ loc.city }}</h2>
+    </div>
+    <div class="spec-grid">
+      {% for s in specialties %}
+      <a class="spec-card reveal" href="{{ s.url }}">
+        <span class="spec-card__icon"><i class="fas {{ s.icon }}" aria-hidden="true"></i></span>
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.text }}</p>
+        <span class="link-arrow">Learn more <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+      </a>
+      {% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/procedures/">All {{ collections.procedures.length }} procedures</a></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Procedures</p>
+      <h2>Cosmetic and reconstructive procedures</h2>
+    </div>
+    <div class="info-cols">
+      {% for cat in collections.categories %}
+      <div class="info-box reveal">
+        <h3><i class="fas {{ cat.data.icon }}" aria-hidden="true"></i> <a href="{{ cat.url }}" style="text-decoration:none">{{ cat.data.nav_title }}</a></h3>
+        <ul class="aside-links">
+          {% for p in collections.procedures | byCategory(cat.fileSlug) %}<li><a href="{{ p.url }}">{{ p.data.short_title }} <i class="fas fa-chevron-right" aria-hidden="true"></i></a></li>{% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{% if loc.areasServed and loc.areasServed.length %}
+<section class="section section--ink">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow eyebrow--light">Areas served</p>
+      <h2>Serving patients across {{ areaRegion or loc.city }}</h2>
+      <p>{{ areasIntro }}</p>
+    </div>
+    <div class="pill-nav">
+      {% for a in loc.areasServed %}<span class="area-pill"><i class="fas fa-location-dot" aria-hidden="true"></i> {{ a }}</span>{% endfor %}
+    </div>
+  </div>
+</section>
+{% endif %}
+
+{%- set cityReviews = reviews | reviewsFromCity(loc.city) -%}
+{% if cityReviews.length %}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal"><p class="eyebrow">Reviews</p><h2>Patients from {{ loc.city }}</h2></div>
+    <div class="review-grid">
+      {% for r in cityReviews | limit(6) %}{% include "partials/review-card.njk" %}{% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/reviews/">All reviews</a></div>
+  </div>
+</section>
+{% endif %}
+
+{% if faqs and faqs.length %}
+<section class="section section--sand">
+  <div class="container container--narrow">
+    <div class="section__head reveal"><p class="eyebrow">Questions</p><h2>Seeing Dr. Junaid in {{ loc.city }}</h2></div>
+    {% set faqList = faqs %}{% set faqOpenFirst = true %}
+    {% include "partials/faq-list.njk" %}
+  </div>
+</section>
+{% endif %}
+
+{% set ctaTitle = "Book a consultation in " ~ loc.city %}
+{% include "partials/cta-band.njk" %}

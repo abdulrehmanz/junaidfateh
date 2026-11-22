@@ -3,12 +3,31 @@ permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{%- for item in collections.all %}{% if not item.data.noindex and item.url and not item.url.endsWith('.xml') and not item.url.endsWith('.txt') and not item.url.endsWith('.webmanifest') %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+{%- for item in collections.all %}{% if not item.data.noindex and item.url and item.url.endsWith('/') %}
   <url>
     <loc>{{ item.url | abs }}</loc>
-    <lastmod>{{ (item.data.updated or item.date) | isoDate }}</lastmod>
-    <priority>{% if item.url == "/" %}1.0{% elif item.data.pageType == "category" or item.data.specialty %}0.9{% elif item.data.pageType == "procedure" %}0.8{% else %}0.6{% endif %}</priority>
+    <lastmod>{{ item.inputPath | lastModified | isoDate }}</lastmod>
+    <priority>{% if item.url == "/" %}1.0{% elif item.url == "/hair-transplant/" or item.data.pageType == "location" %}0.95{% elif item.data.pageType == "category" or item.data.specialty %}0.9{% elif item.data.pageType == "procedure" %}0.8{% elif item.data.pageType == "post" %}0.7{% else %}0.6{% endif %}</priority>
+    {%- if item.url == "/" or item.url == "/about/" or item.data.pageType == "location" %}
+    <image:image><image:loc>{{ "/assets/images/doctor/dr-junaid-fateh.jpg" | abs }}</image:loc></image:image>
+    {%- endif %}
+    {%- if item.data.image and item.data.pageType == "post" %}
+    <image:image><image:loc>{{ item.data.image | abs }}</image:loc></image:image>
+    {%- endif %}
+    {%- for pair in item.data.before_after or [] %}{% if pair.before and pair.after %}
+    <image:image><image:loc>{{ pair.before | abs }}</image:loc></image:image>
+    <image:image><image:loc>{{ pair.after | abs }}</image:loc></image:image>
+    {%- endif %}{% endfor %}
+    {%- for v in item.data.videos or [] %}{% set yt = v.url | youtubeId %}{% if yt %}
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/{{ yt }}/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>{{ (v.title or (item.data.short_title ~ " video")) | escape }}</video:title>
+      <video:description>{{ (v.description or v.title or item.data.summary or item.data.title) | escape }}</video:description>
+      <video:player_loc>https://www.youtube.com/embed/{{ yt }}</video:player_loc>
+      {% if v.date %}<video:publication_date>{{ v.date | isoDateTime }}</video:publication_date>{% endif %}
+    </video:video>
+    {%- endif %}{% endfor %}
   </url>
 {%- endif %}{% endfor %}
 </urlset>

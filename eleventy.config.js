@@ -10,6 +10,7 @@
  * See CONTENT-GUIDE.md for how to add or change content.
  */
 import fs from "node:fs";
+import { execFileSync } from "node:child_process";
 import { EleventyHtmlBasePlugin } from "@11ty/eleventy";
 import yaml from "js-yaml";
 import markdownIt from "markdown-it";
@@ -29,6 +30,23 @@ function absoluteUrl(path = "/") {
   const prefix = pathPrefix.replace(/\/+$/, "");
   const clean = ("/" + String(path)).replace(/\/{2,}/g, "/");
   return base + prefix + clean;
+}
+
+/** Date a file was last changed: last git commit if available, otherwise the file's modified time. */
+const gitDateCache = new Map();
+function lastModified(inputPath) {
+  if (!inputPath) return new Date();
+  if (gitDateCache.has(inputPath)) return gitDateCache.get(inputPath);
+  let date = null;
+  try {
+    const out = execFileSync("git", ["log", "-1", "--format=%cI", "--", inputPath], { encoding: "utf8", stdio: ["ignore", "pipe", "ignore"] }).trim();
+    if (out) date = new Date(out);
+  } catch (e) { /* not a git checkout */ }
+  if (!date) {
+    try { date = fs.statSync(inputPath).mtime; } catch (e) { date = new Date(); }
+  }
+  gitDateCache.set(inputPath, date);
+  return date;
 }
 
 export default function (eleventyConfig) {
@@ -144,6 +162,19 @@ export default function (eleventyConfig) {
     new Date(d).toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric", timeZone: "UTC" })
   );
   eleventyConfig.addFilter("isoDate", (d) => new Date(d).toISOString().slice(0, 10));
+  eleventyConfig.addFilter("isoDateTime", (d) => new Date(d).toISOString());
+  eleventyConfig.addFilter("lastModified", (inputPath) => lastModified(inputPath));
+  eleventyConfig.addFilter("postsFor", (posts, slug) => (posts || []).filter((p) => (p.data.related_procedures || []).includes(slug)));
+  eleventyConfig.addFilter("reviewsFromCity", (reviews, city) => (reviews || []).filter((r) => r.city === city));
+  eleventyConfig.addFilter("mdText", (value) =>
+    String(value ?? "")
+      .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")
+      .replace(/\*\*([^*]+)\*\*/g, "$1")
+      .replace(/\s+/g, " ")
+      .trim()
+  );
+  /** Raw markdown body of a page (for llms-full.txt) */
+  eleventyConfig.addFilter("rawBody", (item) => String(item?.rawInput ?? "").trim());
 
   eleventyConfig.addFilter("readingTime", (content) => {
     const words = String(content || "").replace(/<[^>]+>/g, " ").split(/\s+/).filter(Boolean).length;
@@ -151,20 +182,34 @@ export default function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("platform", videoPlatform);
+  eleventyConfig.addFilter("youtubeId", (url) => {
+    const m = String(url || "").match(/(?:youtube\.com\/(?:watch\?(?:.*&)?v=|embed\/|shorts\/|live\/|v\/)|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+    return m ? m[1] : "";
+  });
   eleventyConfig.addFilter("waLink", (text = "") => `https://wa.me/${site.whatsapp}?text=${encodeURIComponent(text)}`);
+
+  // Plain-text outputs (llms.txt, robots.txt) should not contain HTML entities
+  eleventyConfig.addTransform("plain-text", function (content) {
+    if (this.page.outputPath && this.page.outputPath.endsWith(".txt")) {
+      return content
+        .replace(/&amp;/g, "&").replace(/&#39;/g, "'").replace(/&quot;/g, '"')
+        .replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/\n{3,}/g, "\n\n");
+    }
+    return content;
+  });
 
   /* ── Shortcodes ──────────────────────────────────────────────── */
   eleventyConfig.addShortcode("videoEmbed", (video, fallbackTitle) => videoEmbed(video, fallbackTitle));
   eleventyConfig.addShortcode("year", () => String(new Date().getFullYear()));
   // Structured data for the current page (reads the page's own data)
   eleventyConfig.addShortcode("schema", function () {
-    return buildSchema(this.ctx, absoluteUrl);
+    return buildSchema(this.ctx, absoluteUrl, lastModified);
   });
 
   return {
     dir: { input: "src", output: "_site", includes: "_includes", data: "_data" },
     pathPrefix,
-    templateFormats: ["njk", "md", "html"],
+    templateFormats: ["njk", "md", "html", "11ty.js"],
     markdownTemplateEngine: false,
     htmlTemplateEngine: "njk",
   };

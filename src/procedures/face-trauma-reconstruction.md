@@ -6,10 +6,22 @@ order: 5
 specialty: false
 summary: "Repair of facial cuts, broken facial bones and tissue loss after accidents, aiming to restore how your face works and a natural appearance."
 seo:
-  title: "Face Trauma Reconstruction in Lahore | Dr. Junaid Fateh"
-  description: "Facial injury and fracture repair in Lahore with Dr. Junaid Fateh. Careful reconstruction after road accidents and falls to restore form and function."
-  keywords: "facial trauma surgery Lahore, face injury surgery Lahore, facial fracture repair Lahore, face reconstruction after accident Lahore, best facial trauma surgeon in Lahore, facial laceration repair Lahore, nose fracture treatment Lahore, cheekbone fracture surgery Pakistan, facial trauma reconstruction Pakistan, facial scar after accident Lahore, facial injury surgeon Layyah, face trauma surgery cost in Lahore, Dr Junaid Fateh facial reconstruction"
+  title: "Facial Trauma Surgery in Lahore & Layyah | Dr. Junaid Fateh"
+  description: "Facial trauma surgery in Lahore with Dr. Junaid Fateh, FCPS, for cuts and fractures after accidents. Recovery is 2 to 6 weeks. Book a consultation on WhatsApp."
+  keywords: "facial trauma surgery in Lahore, face injury surgery Lahore, facial trauma surgery cost in Lahore, facial fracture surgery price in Pakistan, best facial trauma surgeon in Lahore, facial injury surgeon near me, facial trauma surgery Layyah, facial fracture repair, face reconstruction after accident, facial laceration repair Lahore, nose fracture treatment Lahore, cheekbone fracture surgery, facial trauma surgery before and after, facial trauma surgery recovery, chehre ki chot ka ilaj, chehre ki haddi tootne ka operation, Dr Junaid Fateh"
 hero_subtitle: "Careful repair of facial injuries to restore how your face works and looks"
+quick_answer: "Face trauma reconstruction repairs facial cuts, broken facial bones and lost tissue after road accidents, falls or animal bites, to restore how the face works and looks. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Surgery takes 1 to 6 hours under general anaesthesia, usually with 1 to 5 days in hospital and 2 to 6 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Facial trauma surgery"
+  - "Facial fracture repair"
+  - "Facial injury reconstruction"
+  - "Facial laceration repair"
+  - "Chehre ki chot ka ilaj"
+  - "Chehre ki haddi tootne ka operation"
+  - "Accident ke baad chehre ki surgery"
+urdu_name: "چہرے کی چوٹ کی سرجری"
+roman_urdu_summary: "Face trauma reconstruction mein accident, girne ya chot ke baad chehre ke gehre zakhm, tooti hui haddiyon aur zaya hone wale tissue ki marammat ki jati hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur chehre ki banawat aur kaam dono behtar karne ka plan banate hain. Taaza chot mein pehle qareebi emergency jayen, phir mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "1–6 hours"
@@ -102,6 +114,12 @@ faqs:
   a: "The cost depends on which bones and tissues are involved, whether plates or grafts are needed, the anaesthetic, scans and the length of your hospital stay. Dr. Junaid will give you a personalised quote after assessing your injury. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
   a: "Yes, for injuries that have already healed. Send photos of your face and any CT scans or reports on WhatsApp, then book a video consultation. Dr. Junaid can explain the likely options, and the final plan is confirmed after he examines you in person in Lahore or Layyah. A fresh injury needs the nearest emergency department, not a video call."
+- q: "What are the risks or side effects of face trauma reconstruction?"
+  a: "Swelling, bruising and some stiffness when chewing are common in the first week. Less common risks include infection, a visible or widened scar, numbness of the cheek or lip, uneven features and, after fracture repair, problems with plates or screws that may need further surgery. Risks are reduced by treating head, eye and airway injuries first, thorough wound cleaning, careful layered repair and following aftercare advice. Dr. Junaid discusses these openly before surgery."
+- q: "When will I see the final results of face trauma reconstruction?"
+  a: "Most bruising fades within 2 to 4 weeks, and most people are back to their normal routine by 4 to 6 weeks. Scars keep maturing and softening for 6 to 12 months, and any nerve recovery continues slowly over this time. If a scar or the shape of the nose needs refining, that is usually planned after this point."
+- q: "Is face trauma reconstruction available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so follow-up and planning for healed injuries can be in either city. Ask on WhatsApp which procedures are done at which location. A fresh facial injury needs the nearest emergency department first."
 ---
 
 ## About Face Trauma Reconstruction

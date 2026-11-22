@@ -6,10 +6,22 @@ order: 12
 specialty: false
 summary: "Cheek implant surgery in Lahore to add lasting definition to flat cheekbones and restore mid-face volume, with incisions hidden inside the mouth."
 seo:
-  title: "Cheek Implants in Lahore | Dr. Junaid Fateh"
-  description: "Cheek implants (malar augmentation) in Lahore with Dr. Junaid Fateh. Permanent cheekbone definition through hidden incisions. Book your visit on WhatsApp."
-  keywords: "cheek implants Lahore, cheek implant surgery Lahore, malar augmentation Lahore, cheek implants cost in Lahore, cheek augmentation Lahore, cheek implants Pakistan, cheekbone implants Pakistan, submalar implants Lahore, cheekbone enhancement surgery Lahore, best cheek implant surgeon in Lahore, Dr Junaid Fateh cheek implants, high cheekbones surgery Lahore"
+  title: "Cheek Implants in Lahore: Cost & Recovery | Dr. Junaid Fateh"
+  description: "Cheek implants in Lahore with Dr. Junaid Fateh, FCPS. Permanent cheekbone definition through incisions inside the mouth, 1 to 2 weeks off. Book on WhatsApp."
+  keywords: "cheek implants in Lahore, cheek implant surgery Lahore, cheek implants cost in Lahore, cheek implants price in Pakistan, best cheek implant surgeon in Lahore, cheek implants near me, cheek implants Layyah, cheek implants before and after, cheek implant recovery, malar augmentation, cheek augmentation, cheekbone implants, submalar implants, high cheekbones surgery, gaalon ke implant, gaal ubharne ki surgery, Dr Junaid Fateh"
 hero_subtitle: "Permanent cheekbone definition, sized and shaped to suit your face"
+quick_answer: "Cheek implants (malar augmentation) are shaped implants placed over the cheekbones, usually through incisions inside the mouth, to add definition to flat cheeks or a hollow mid-face. In Lahore they are placed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 1 to 2 hours as a day case under general anesthesia or local with sedation, with 1 to 2 weeks off. Results are permanent. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Malar augmentation"
+  - "Cheek augmentation"
+  - "Cheekbone implants"
+  - "Malar implants"
+  - "Submalar implants"
+  - "Gaalon ke implant"
+  - "Gaal ubharne ki surgery"
+urdu_name: "گالوں کے امپلانٹ"
+roman_urdu_summary: "Cheek implants mein aam taur par munh ke andar se chhota sa cut laga kar gaal ki haddi par implant rakha jata hai, taake chapte gaal ubhre hue aur chehra mutanasib lage. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Cheeks"
 price_from: ''
 stats:
   duration: "1–2 hours"
@@ -101,6 +113,12 @@ faqs:
   a: "The price depends on the type and size of implant, the approach used, the type of anesthesia and whether surgery is combined with another procedure. Dr. Junaid confirms a personalized quote once he has examined you, and the [cost guide](/cost-guide/) covers what affects the fee."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Send front, side and angled photos of your face on WhatsApp and book a video consultation. Dr. Junaid can talk through whether implants, fat or fillers might suit you, and the final plan, including implant size, is confirmed when he examines you in person."
+- q: "What are the risks or side effects of cheek implants?"
+  a: "Like any surgery, cheek implants carry risks. Swelling, stiffness when smiling and temporary numbness of the cheek or upper lip are common early on. Less common risks include infection, which can mean the implant has to be removed, the implant shifting, asymmetry and edges that can be felt or seen. Choosing a size that suits your face, a snug pocket, mouth rinses after meals and avoiding pressure on the cheeks help reduce these risks."
+- q: "When will I see the final results of cheek implants?"
+  a: "Swelling peaks in the first week and then eases, and most people return to work at around two weeks with some puffiness left. By about three months the swelling has settled and the implants have bedded in, revealing your final contour."
+- q: "Are cheek implants available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your cheek implant consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your surgery and follow-up visits would take place."
 ---
 
 ## About Cheek Implants (Malar Augmentation)

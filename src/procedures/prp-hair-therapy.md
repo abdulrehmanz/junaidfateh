@@ -7,9 +7,21 @@ specialty: true
 summary: "A non-surgical scalp treatment that uses platelets from your own blood to support thinning hair, offered by Dr. Junaid Fateh in Lahore."
 seo:
   title: "PRP Hair Treatment in Lahore | Dr. Junaid Fateh"
-  description: "PRP hair therapy in Lahore with Dr. Junaid Fateh. A non-surgical option that uses your own plasma to support thinning hair. Ask on WhatsApp if it suits you."
-  keywords: "PRP hair treatment Lahore, PRP for hair loss Pakistan, PRP hair therapy cost in Lahore, platelet rich plasma for hair Lahore, best PRP hair treatment in Lahore, hair fall treatment Lahore, PRP after hair transplant, Dr Junaid Fateh PRP, PRP hair treatment Layyah, non-surgical hair loss treatment Lahore, PRP for female hair thinning, hair thinning treatment Pakistan"
+  description: "PRP hair treatment in Lahore by Dr. Junaid Fateh, FCPS plastic surgeon. Non-surgical 30 to 60 minute sessions, no downtime. Book a consultation on WhatsApp."
+  keywords: "PRP hair treatment in Lahore, PRP hair treatment cost in Lahore, PRP hair treatment price in Pakistan, best PRP hair treatment in Lahore, PRP hair treatment near me, PRP hair treatment Layyah, PRP hair treatment before and after, PRP hair treatment side effects, PRP for hair loss Pakistan, platelet rich plasma for hair Lahore, PRP hair therapy, hair fall treatment Lahore, PRP after hair transplant, PRP for female hair thinning, non-surgical hair loss treatment Lahore, baal girne ka ilaj, PRP se baalon ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Your own plasma, injected into the scalp to support thinning hair without surgery"
+quick_answer: "PRP (platelet-rich plasma) hair therapy is a non-surgical treatment in which plasma from your own blood is injected into thinning areas of the scalp to support weak follicles. In Lahore it is offered by FCPS plastic surgeon Dr. Junaid Fateh, who also sees patients in Layyah. Sessions take 30 to 60 minutes with no downtime, usually as a course of 4 to 6. Improvement is gradual and varies. Cost is confirmed after consultation."
+also_known_as:
+  - "Platelet-rich plasma hair treatment"
+  - "PRP hair treatment"
+  - "PRP for hair loss"
+  - "PRP injections for hair"
+  - "Platelet rich plasma therapy for hair"
+  - "PRP se baalon ka ilaj"
+  - "Baal girne ka ilaj"
+urdu_name: "پی آر پی ہیئر ٹریٹمنٹ"
+roman_urdu_summary: "PRP hair therapy mein aap ke apne khoon se plasma tayyar kar ke sar ki jild mein injection ke zariye lagaya jata hai, taake kamzor baalon ko sahara mile. Yeh surgery ke baghair ilaj hai aur aam tor par 4 se 6 sessions ka course hota hai. Dr. Junaid Fateh Lahore mein yeh ilaj karte hain aur Layyah mein bhi mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Scalp"
 price_from: ''
 stats:
   duration: 30–60 minutes
@@ -101,6 +113,12 @@ faqs:
   a: "It can be. PRP is sometimes used alongside FUE or FUT to support healing and the existing hair around the grafts. Dr. Junaid will tell you whether it is worth adding in your case."
 - q: Can I have an online consultation from abroad?
   a: "Yes. Photos of your scalp, including the parting and crown, can be sent on WhatsApp, followed by a video consultation in which Dr. Junaid advises whether PRP looks suitable and which tests may help. Treatment itself is planned in person, and because a course takes several sessions, it helps to discuss timing around your visits to Pakistan."
+- q: "What are the risks or side effects of PRP hair therapy?"
+  a: "Side effects are usually minor and short-lived, such as tenderness, redness, pinpoint bleeding, mild swelling or a headache for a day. Infection is rare. Because the plasma comes from your own blood, the risk of a reaction to the product is very low. Dr. Junaid reduces risks by preparing each treatment under sterile conditions and checking for reasons to avoid PRP, such as some platelet or bleeding disorders, blood-thinning medicines, an active scalp infection or pregnancy."
+- q: "When will I see the final results of PRP hair therapy?"
+  a: "PRP works gradually. If you respond, shedding often reduces and hair may start to feel thicker around three to six months into a first course of four to six sessions. Progress is checked at follow-up visits with comparison photos, and top-up sessions every three to six months may help to hold the improvement. Some people see little change, and Dr. Junaid will tell you honestly if PRP is not helping."
+- q: "Is PRP hair therapy available in Layyah?"
+  a: "Dr. Junaid Fateh sees patients in both Layyah and Lahore, so your consultation can be in either city. Ask on WhatsApp which treatments are offered at which location. Because PRP is given as a course of sessions, it also helps to plan around the city you can visit regularly."
 ---
 
 ## About PRP hair therapy

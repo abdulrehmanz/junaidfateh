@@ -6,10 +6,23 @@ order: 2
 specialty: false
 summary: "Facelift surgery in Lahore with Dr. Junaid Fateh to lift jowls, firm the jawline and soften deep folds while keeping your natural expressions."
 seo:
-  title: "Facelift Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Facelift in Lahore with Dr. Junaid Fateh. Lift sagging cheeks, jowls and neck for a refreshed look that still feels like you. Book a consultation on WhatsApp."
-  keywords: "facelift Lahore, facelift surgery Lahore, best facelift surgeon Lahore, rhytidectomy Lahore, facelift cost in Lahore, facelift price Pakistan, facelift Pakistan, mini facelift Lahore, SMAS facelift Lahore, deep plane facelift Lahore, face and neck lift Lahore, jowl lift surgery Lahore, Dr Junaid Fateh facelift, facial rejuvenation surgery Lahore"
+  title: "Facelift in Lahore: Cost & Recovery | Dr. Junaid Fateh"
+  description: "Facelift in Lahore with Dr. Junaid Fateh, FCPS plastic surgeon. Lifts jowls, cheeks and neck, with 1 night in hospital and 2 to 3 weeks off. Book on WhatsApp."
+  keywords: "facelift in Lahore, facelift surgery Lahore, facelift cost in Lahore, facelift cost in Pakistan, facelift price in Pakistan, best facelift surgeon in Lahore, facelift near me, facelift Layyah, facelift before and after, facelift recovery, face lift surgery, rhytidectomy Lahore, mini facelift Lahore, deep plane facelift Lahore, face and neck lift Lahore, chehre ki jhuriyan ka ilaj, chehre ki dheeli jild ka operation, Dr Junaid Fateh"
 hero_subtitle: "Lift and refresh your face and jawline, without a tight or pulled look"
+quick_answer: "A facelift (rhytidectomy) lifts sagging cheeks, jowls and neck tissue to give a firmer jawline and a refreshed look. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 3 to 5 hours under general anaesthesia with 1 night in hospital, and most people need 2 to 3 weeks off. Results are long-lasting, often 8 to 12 years. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Face lift"
+  - "Rhytidectomy"
+  - "Facial rejuvenation surgery"
+  - "Mini facelift"
+  - "Face and neck lift"
+  - "Face tightening surgery"
+  - "Chehre ki jhuriyan ka ilaj"
+  - "Chehre ki dheeli jild ka operation"
+urdu_name: "فیس لفٹ سرجری"
+roman_urdu_summary: "Facelift mein chehre aur gardan ki dheeli jild aur neeche latke hue tissue ko upar uthaya jata hai, taake jawline saaf aur chehra taaza nazar aaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur facelift ka plan aap ke chehre ke mutabiq banate hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "3–5 hours"
@@ -102,6 +115,12 @@ faqs:
   a: "Like any surgery, a facelift carries risks, including a collection of blood under the skin, infection, numbness, scar problems, hair thinning near the incisions and, rarely, injury to a facial nerve. Dr. Junaid explains each of these at consultation and how careful preparation helps keep them low."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes, and it is a sensible first step if you live overseas or outside Lahore. Share photos of your face and neck, taken from the front and each side, on WhatsApp and arrange a video call. That conversation lets Dr. Junaid judge whether a facelift suits you and what it might involve. Nothing is finalised until he has examined you in person, and you should plan to remain in Pakistan for at least the first two weeks of healing."
+- q: "When will I see the final results of a facelift?"
+  a: "You can see the lifted jawline once the early swelling goes down, but the face takes time to soften. Most people feel presentable at two to three weeks, and the remaining swelling settles over three to six months, when the final, natural result becomes clear. Numbness or tightness near the ears can take a few months to fade."
+- q: "What is the best age for a facelift?"
+  a: "There is no single right age. Most people who choose a facelift are somewhere between their forties and seventies, but suitability depends on how much sagging you have, your skin quality, bone structure and general health rather than age alone. At consultation Dr. Junaid tells you honestly whether a facelift, a smaller procedure or a non-surgical option would suit you better."
+- q: "Is facelift surgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your facelift consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your operation, overnight stay and follow-up visits would take place."
 ---
 
 ## About facelift surgery

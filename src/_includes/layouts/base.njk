@@ -1,10 +1,13 @@
-{%- set seoTitle = seo.title if (seo and seo.title) else ((title ~ " | " ~ site.name) if title else (site.name ~ " | " ~ site.jobTitle)) -%}
+{%- if seo and seo.title -%}{%- set seoTitle = seo.title -%}
+{%- elif title and title.length > 44 -%}{%- set seoTitle = title -%}
+{%- elif title -%}{%- set seoTitle = title ~ " | " ~ site.name -%}
+{%- else -%}{%- set seoTitle = site.name ~ " | " ~ site.jobTitle -%}{%- endif -%}
 {%- set seoDescription = (seo.description if (seo and seo.description) else (description or summary or site.description)) | stripHtml -%}
 {%- set seoKeywords = seo.keywords if (seo and seo.keywords) else keywords -%}
 {%- set shareImage = (image or site.ogImage) | abs -%}
 {%- set canonical = page.url | abs -%}
 <!DOCTYPE html>
-<html lang="{{ site.language }}" class="no-js">
+<html lang="en-PK" class="no-js">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -12,11 +15,12 @@
   <meta name="description" content="{{ seoDescription }}">
   {% if seoKeywords %}<meta name="keywords" content="{{ seoKeywords }}">{% endif %}
   <meta name="author" content="{{ site.fullName }}">
-  <meta name="robots" content="{{ 'noindex, follow' if noindex else 'index, follow, max-image-preview:large' }}">
+  <meta name="robots" content="{{ 'noindex, follow' if noindex else 'index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1' }}">
   <link rel="canonical" href="{{ canonical }}">
   <meta name="theme-color" content="#0F1B2A">
   <meta name="geo.region" content="PK-PB">
-  <meta name="geo.placename" content="Lahore">
+  <meta name="geo.placename" content="{{ geoPlace or 'Lahore' }}">
+  {% if geoPosition %}<meta name="geo.position" content="{{ geoPosition }}"><meta name="ICBM" content="{{ geoPosition | replace(';', ', ') }}">{% endif %}
 
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:locale" content="{{ site.locale }}">
@@ -25,11 +29,22 @@
   <meta property="og:description" content="{{ seoDescription }}">
   <meta property="og:url" content="{{ canonical }}">
   <meta property="og:image" content="{{ shareImage }}">
+  <meta property="og:image:alt" content="{{ (image_alt or (site.fullName ~ ', ' ~ site.jobTitle)) }}">
+  {% if not image %}<meta property="og:image:width" content="1200"><meta property="og:image:height" content="630">{% endif %}
+  {% if pageType == 'post' %}
+  <meta property="article:published_time" content="{{ page.date | isoDateTime }}">
+  <meta property="article:modified_time" content="{{ page.inputPath | lastModified | isoDateTime }}">
+  <meta property="article:author" content="{{ '/about/' | abs }}">
+  <meta property="article:section" content="{{ category }}">
+  {% else %}
+  <meta property="og:updated_time" content="{{ page.inputPath | lastModified | isoDateTime }}">
+  {% endif %}
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="{{ seoTitle }}">
   <meta name="twitter:description" content="{{ seoDescription }}">
   <meta name="twitter:image" content="{{ shareImage }}">
   {% if site.analytics.googleVerification %}<meta name="google-site-verification" content="{{ site.analytics.googleVerification }}">{% endif %}
+  {% if site.analytics.bingVerification %}<meta name="msvalidate.01" content="{{ site.analytics.bingVerification }}">{% endif %}
 
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -38,9 +53,17 @@
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer">
+  <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
   <link rel="stylesheet" href="/assets/css/main.css">
+  {#- Fonts and icons load without blocking the first paint (faster pages rank better) -#}
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" onload="this.onload=null;this.rel='stylesheet'" referrerpolicy="no-referrer">
+  <noscript>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+  </noscript>
+  <link rel="alternate" type="text/plain" title="Summary for AI assistants" href="/llms.txt">
+  <link rel="sitemap" type="application/xml" href="/sitemap.xml">
   {% if preloadImage %}<link rel="preload" as="image" href="{{ preloadImage }}">{% endif %}
 
   {% include "partials/schema.njk" %}

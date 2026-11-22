@@ -7,9 +7,21 @@ specialty: true
 summary: "Fill a patchy beard, define your cheek line or cover facial scars using hair moved from your scalp, planned by Dr. Junaid Fateh in Lahore."
 seo:
   title: "Beard Transplant in Lahore | Dr. Junaid Fateh"
-  description: "Beard transplant in Lahore with Dr. Junaid Fateh. Fill patchy areas, shape your beard line or hide scars with natural-looking growth. Message on WhatsApp."
-  keywords: "beard transplant Lahore, beard transplant Pakistan, beard transplant cost in Lahore, best beard transplant surgeon in Lahore, moustache transplant Lahore, patchy beard treatment Lahore, facial hair transplant Pakistan, Dr Junaid Fateh beard transplant, beard transplant Layyah, sideburn transplant Lahore, FUE beard transplant, beard scar camouflage Lahore"
+  description: "Beard transplant in Lahore by Dr. Junaid Fateh, FCPS plastic surgeon, for a patchy beard or moustache. Heals in 7 to 10 days. Book a consultation on WhatsApp."
+  keywords: "beard transplant in Lahore, beard transplant cost in Lahore, beard transplant price in Pakistan, best beard transplant surgeon in Lahore, beard transplant near me, beard transplant Layyah, beard transplant before and after, beard transplant recovery, moustache transplant Lahore, mustache transplant Pakistan, patchy beard treatment Lahore, facial hair transplant Pakistan, FUE beard transplant, sideburn transplant Lahore, beard scar camouflage Lahore, darhi ke baal lagwana, darhi ka transplant, Dr Junaid Fateh"
 hero_subtitle: "A fuller, natural-looking beard designed around your face and grown from your own hair"
+quick_answer: "A beard transplant moves hair follicles from the back of the scalp into a patchy beard, moustache or facial scars, using the FUE method. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who also consults in Layyah. It takes 3 to 6 hours under local anaesthetic, with 7 to 10 days of recovery. New hair shows at 4 to 6 months and is usually permanent. Cost is confirmed after consultation."
+also_known_as:
+  - "Facial hair transplant"
+  - "Beard hair transplant"
+  - "FUE beard transplant"
+  - "Moustache transplant"
+  - "Mustache transplant"
+  - "Darhi ke baal lagwana"
+  - "Darhi ka transplant"
+urdu_name: "داڑھی کا ٹرانسپلانٹ"
+roman_urdu_summary: "Beard transplant mein sar ke peeche se baal le kar darhi, moonchh ya qalmon ki khali jagah par lagaye jate hain, taake darhi bhari aur barabar nazar aaye. Chehre par chot, daanon ya jalne ke nishan bhi is tareeqe se chhupaye ja sakte hain. Dr. Junaid Fateh Lahore mein yeh procedure karte hain aur Layyah mein bhi mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: 3–6 hours
@@ -101,6 +113,12 @@ faqs:
   a: "Yes. WhatsApp clear photos of your face from the front and both sides, plus the back of your scalp, and set up a video consultation. Dr. Junaid can then suggest an initial beard design, which he finalises with you in person before the procedure."
 - q: How far ahead of a wedding should I plan it?
   a: "Give yourself plenty of time. Your face usually looks normal within about two weeks, but a fuller beard takes around 9–12 months to develop, so book well before the wedding or Eid you have in mind."
+- q: "What are the risks or side effects of a beard transplant?"
+  a: "Short-lived redness, swelling, small crusts and mild soreness on the face and donor area are common. Less often there may be infection, ingrown hairs, small pimples around the grafts or uneven growth, and grafts take less reliably in scarred skin. Dr. Junaid reduces these risks with careful planning, sterile technique, a graft number your donor area can spare and clear aftercare, and he goes through them with you at consultation."
+- q: "When will I see the final results of a beard transplant?"
+  a: "Most transplanted hairs shed in the first two to six weeks, which is normal. New beard hair usually becomes visible at around 4 to 6 months, and the beard reaches its full look at about 9 to 12 months. Results vary between people, and a second session is sometimes planned for extra density or for scarred areas."
+- q: "Is beard transplant available in Layyah?"
+  a: "Dr. Junaid Fateh sees patients in both Layyah and Lahore, so your consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and the team will help you plan where your beard transplant would take place."
 ---
 
 ## About beard transplant

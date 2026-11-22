@@ -7,9 +7,22 @@ specialty: false
 summary: "Scar revision in Lahore to make wide, raised or tight scars from injury, burns or surgery flatter, finer and less noticeable over time."
 seo:
   title: "Scar Revision Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Scar revision in Lahore with Dr. Junaid Fateh. Surgical and non-surgical ways to soften wide, raised or tight scars after injury or surgery. Book on WhatsApp."
-  keywords: "scar revision Lahore, scar revision surgery Lahore, scar removal Lahore, scar revision cost in Lahore, scar treatment Pakistan, keloid treatment Lahore, hypertrophic scar treatment Lahore, Z-plasty Lahore, scar contracture release Lahore, facial scar revision Lahore, scar revision Layyah, best scar revision surgeon in Lahore, Dr Junaid Fateh scar revision"
+  description: "Scar revision in Lahore with Dr. Junaid Fateh, FCPS. Softens wide, raised, keloid or burn scars under local anesthesia, 5 to 14 days recovery. Book on WhatsApp."
+  keywords: "scar revision in Lahore, scar revision surgery Lahore, scar removal Lahore, scar revision cost in Lahore, scar treatment price in Pakistan, best scar revision surgeon in Lahore, scar revision near me, scar revision Layyah, scar revision before and after, scar revision recovery, keloid treatment Lahore, hypertrophic scar treatment, burn scar treatment Lahore, Z-plasty, scar contracture release, zakhm ke nishan ka ilaj, jalne ke nishan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Making scars flatter, finer and less noticeable, one careful step at a time"
+quick_answer: "Scar revision makes wide, raised, tight or keloid scars from injury, burns or surgery less noticeable, using surgery, injections, silicone or resurfacing. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who trained at Jinnah Burn & Reconstructive Surgery Centre. Treatment takes 30 minutes to 2 hours under local anesthesia, with 5 to 14 days of recovery. Improvement is gradual over months. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Scar removal"
+  - "Scar correction surgery"
+  - "Keloid treatment"
+  - "Scar contracture release"
+  - "Z-plasty"
+  - "Zakhm ke nishan ka ilaj"
+  - "Jalne ke nishan ka ilaj"
+  - "Operation ke nishan ka ilaj"
+urdu_name: "زخم کے نشان کا علاج"
+roman_urdu_summary: "Scar revision mein chot, jalne ya operation ke baad bane chaude, ubhre hue ya khinchne wale nishan ko surgery, injections ya doosre tareeqon se patla, hamwar aur kam numayan kiya jata hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Skin"
 price_from: ''
 stats:
   duration: "30 minutes–2 hours"
@@ -101,6 +114,12 @@ faqs:
   a: "The fee depends on the size, number and location of the scars, the technique used and whether more than one session is needed. Dr. Junaid gives a personalized quote after examining the scar, and the [cost guide](/cost-guide/) explains the main factors."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Send clear daylight photos of the scar on WhatsApp with a short note on how and when it formed, then book a video consultation. Dr. Junaid can explain the likely options, and the final plan is confirmed once he examines the scar in person."
+- q: "What are the risks or side effects of scar revision?"
+  a: "Scar revision aims to improve a scar, but the new scar can still heal wider, thicker or darker than hoped, and keloids can come back. Other possible risks include infection, bleeding, the wound opening and changes in skin color, and steroid injections can occasionally thin or lighten the skin. Choosing the right timing and technique, keeping tension off the wound, silicone, sun protection and regular follow-up, with early treatment of any keloid regrowth, help reduce these risks."
+- q: "When will I see the final results of scar revision?"
+  a: "A revised scar keeps changing for many months. It usually looks pink and slightly raised at first, then gradually flattens and fades. The final result is judged at around 6 to 18 months, and non-surgical treatments such as injections or resurfacing may need several sessions spaced a few weeks apart."
+- q: "Is scar revision available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your scar revision consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your treatment and follow-up visits would take place."
 ---
 
 ## About Scar Revision

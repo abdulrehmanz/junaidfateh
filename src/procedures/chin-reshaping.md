@@ -6,10 +6,23 @@ order: 6
 specialty: false
 summary: "Chin reshaping in Lahore with Dr. Junaid Fateh, using an implant, bone repositioning or filler to balance your profile and define your jawline."
 seo:
-  title: "Chin Reshaping & Augmentation in Lahore | Dr. Junaid Fateh"
-  description: "Chin reshaping in Lahore with Dr. Junaid Fateh. Implant, genioplasty or filler options to correct a weak or prominent chin and balance your profile. Book now."
-  keywords: "chin reshaping Lahore, chin augmentation Lahore, chin implant Lahore, best chin surgeon Lahore, genioplasty Lahore, mentoplasty Lahore, chin surgery cost in Lahore, chin implant price Pakistan, chin reduction Lahore, weak chin correction Pakistan, sliding genioplasty Lahore, chin filler Lahore, Dr Junaid Fateh chin surgery"
+  title: "Chin Reshaping & Chin Implants in Lahore | Dr. Junaid Fateh"
+  description: "Chin reshaping in Lahore with Dr. Junaid Fateh, FCPS. Chin implant, genioplasty or filler as a day case, with 1 to 2 weeks off. Book a consultation on WhatsApp."
+  keywords: "chin reshaping in Lahore, chin implant in Lahore, chin implant cost in Lahore, chin surgery price in Pakistan, best chin surgeon in Lahore, chin implant near me, chin surgery Layyah, chin implant before and after, chin surgery recovery, chin augmentation Lahore, genioplasty Lahore, mentoplasty, chin reduction Lahore, weak chin correction, chin filler Lahore, thodi ki surgery, thodi ka implant, Dr Junaid Fateh"
 hero_subtitle: "A chin in proportion with your nose, lips and jaw, for a balanced profile"
+quick_answer: "Chin reshaping alters chin size or shape with an implant, bone repositioning (genioplasty) or filler to balance your profile. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 1 to 2 hours as a day case under general anaesthesia or local with sedation, with 1 to 2 weeks off. Implant and bone results are permanent; filler is temporary. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Chin augmentation"
+  - "Chin implant"
+  - "Genioplasty"
+  - "Mentoplasty"
+  - "Chin surgery"
+  - "Chin reduction"
+  - "Thodi ki surgery"
+  - "Thodi ka implant"
+urdu_name: "ٹھوڑی کی سرجری"
+roman_urdu_summary: "Chin reshaping mein implant, haddi ki position badal kar (genioplasty) ya filler se thodi ko chehre ke mutabiq banaya jata hai, taake naak, honton aur jawline ke saath balance aa jaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Chin"
 price_from: ''
 stats:
   duration: "1–2 hours"
@@ -102,6 +115,12 @@ faqs:
   a: "A chin implant sits on the bone and does not move your teeth. In genioplasty the bone is cut below the tooth roots, so the bite is not changed. If your bite is already uneven, Dr. Junaid will tell you, because that may need a different kind of treatment."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Profile photos are especially useful for judging the chin, so send a front view and a side view with your lips relaxed and teeth together over WhatsApp, then arrange a video call. Dr. Junaid can give an early view on whether an implant, genioplasty or filler fits your face. Everything is confirmed in person before treatment, and around two weeks in Pakistan allows for surgery and early follow-up."
+- q: "What are the risks or side effects of chin reshaping?"
+  a: "Like any surgery, chin reshaping carries risks. Swelling, bruising, tightness and temporary numbness of the lower lip and chin are common and usually improve over weeks to months. Less common risks include infection, an implant shifting out of position, asymmetry and, rarely, numbness that lasts longer. Choosing the right technique and implant size, keeping your mouth clean and avoiding knocks to the chin all help reduce these risks."
+- q: "When will I see the final results of chin reshaping?"
+  a: "The new shape of your chin shows straight away, but swelling hides the detail at first. Most people look presentable after two to three weeks, numbness usually improves over one to three months, and the final contour of the chin and jawline becomes clear at around three to six months. Genioplasty tends to take a little longer to settle than an implant."
+- q: "Is chin reshaping available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your chin reshaping consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your treatment and follow-up visits would take place."
 ---
 
 ## About chin reshaping

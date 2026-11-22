@@ -10,10 +10,11 @@ Built with [Eleventy](https://www.11ty.dev/) as a fast static site. All content 
 - 55 procedure pages in 6 categories, each with stats, benefits, candidacy, recovery timeline, FAQs, before/after sliders, and slots for **videos (YouTube, TikTok, Instagram, Facebook, MP4) and social links**
 - Hair Transplant hub with an interactive **graft estimator**
 - Before & after gallery, reviews and videos pages that fill themselves from the procedure files
-- Blog with 8 patient-education articles
 - WhatsApp booking form that pre-fills the procedure and location
 - English / Urdu switch (Google Translate)
-- SEO: unique titles and descriptions, canonical links, Open Graph images, sitemap, robots.txt and schema.org structured data (Physician, Person, MedicalProcedure, FAQPage, BlogPosting, BreadcrumbList)
+- Lahore and Layyah location pages for local search
+- SEO and AI-search optimisation: answer-first "quick answer" boxes, Roman Urdu summaries and search names, 14 to 20 target keywords per page, 9 to 11 FAQs per procedure, unique titles and descriptions, canonical links, Open Graph, image and video sitemap, AI-friendly robots.txt, llms.txt and llms-full.txt, IndexNow pings after deploy, and schema.org structured data (Person, Physician, MedicalWebPage, MedicalProcedure, FAQPage, BlogPosting, VideoObject, ItemList, BreadcrumbList)
+- Blog with 16 patient-education articles
 - Optional Google Analytics 4 and Meta Pixel with lead tracking
 
 ## Preview it without installing anything

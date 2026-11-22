@@ -1,0 +1,7 @@
+{% if roman_urdu_summary %}
+<section class="roman-urdu" lang="ur-Latn" aria-labelledby="ru-title">
+  <h2 id="ru-title" class="roman-urdu__title"><i class="fas fa-language" aria-hidden="true"></i> Roman Urdu mein maloomat{% if urdu_name %} <span lang="ur" dir="rtl" class="urdu">({{ urdu_name }})</span>{% endif %}</h2>
+  <p>{{ roman_urdu_summary }}</p>
+  <a class="link-arrow" href="{{ '' | waLink }}" data-consult{% if consultProcedure %} data-procedure="{{ consultProcedure }}"{% endif %}>WhatsApp par mashwara book karein <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+</section>
+{% endif %}

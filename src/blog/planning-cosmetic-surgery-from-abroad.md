@@ -7,6 +7,13 @@ category: "Patient Guides"
 image: /assets/images/doctor/dr-junaid-fateh.webp
 image_alt: "Portrait of Dr. Muhammad Junaid Fateh, plastic surgeon offering video consultations to overseas patients"
 related_procedures: [fue-hair-transplant, gynecomastia, liposuction]
+keywords: "cosmetic surgery in Pakistan from abroad, plastic surgery in Pakistan for overseas Pakistanis, cosmetic surgery in Lahore for overseas patients, hair transplant in Pakistan from UK, cosmetic surgery Pakistan from Dubai, online consultation plastic surgeon Pakistan, video consultation plastic surgeon Lahore, how long to stay after cosmetic surgery, flying after cosmetic surgery, medical tourism Pakistan, plastic surgeon Lahore overseas patients, plastic surgeon Layyah, Dr Junaid Fateh, bahar se aa kar surgery, Pakistan aa kar hair transplant"
+key_takeaways:
+  - "Send clear photos on WhatsApp and book a video consultation before you travel; the final plan is confirmed in person."
+  - "Book surgery early in your trip, away from family weddings, and leave a few spare days at the end."
+  - "How long to stay depends on the procedure, from a few days after Botox or fillers to two to three weeks or more after larger surgery."
+  - "Surgery and long flights both raise the risk of blood clots, so keep moving, stay hydrated and follow the advice you are given."
+  - "Keep in touch by WhatsApp after you fly home, and seek urgent local care for chest pain, breathlessness, heavy bleeding or fever."
 faqs:
   - q: "Can I have a consultation before I travel to Pakistan?"
     a: "Yes. You can send photos on WhatsApp and book a video consultation with Dr. Junaid before you travel. He will explain your options and a likely plan, which is then confirmed when he examines you in person in Lahore or Layyah."

@@ -77,6 +77,22 @@ for (const f of files) {
     for (const v of data.videos || []) if (!v || !v.url) err(f, "a video item is missing its url");
     for (const s of data.social_links || []) if (!s || !s.url) err(f, "a social link is missing its url");
   }
+
+  // Search and AI-answer optimisation fields
+  const words = (s) => String(s || "").trim().split(/\s+/).filter(Boolean).length;
+  if (kind === "procedures" || kind === "categories") {
+    const qa = words(data.quick_answer);
+    if (!qa) warn(f, `missing "quick_answer" (a 40–80 word direct answer shown at the top of the page)`);
+    else if (qa < 30 || qa > 95) warn(f, `quick_answer is ${qa} words (aim for 40–80)`);
+    if (!Array.isArray(data.also_known_as) || data.also_known_as.length < 2) warn(f, `add 2+ "also_known_as" names (other names people search for)`);
+    if (!data.roman_urdu_summary) warn(f, `missing "roman_urdu_summary" (2–4 sentences in Roman Urdu)`);
+    const kw = String(seo.keywords || "").split(",").filter((k) => k.trim()).length;
+    if (kw < 10) warn(f, `only ${kw} SEO keywords (aim for 12–20)`);
+  }
+  if (kind === "blog") {
+    if (!Array.isArray(data.key_takeaways) || data.key_takeaways.length < 3) warn(f, `add 3–5 "key_takeaways" (shown at the top of the article)`);
+    if (!data.keywords) warn(f, `missing "keywords"`);
+  }
 }
 
 console.log(`\nChecked ${files.length} file(s): ${errors} error(s), ${warnings} warning(s).`);

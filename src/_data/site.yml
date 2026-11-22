@@ -69,6 +69,11 @@ analytics:
   ga4: ""                         # e.g. G-XXXXXXXXXX
   metaPixel: ""                   # e.g. 123456789012345
   googleVerification: ""          # Google Search Console HTML-tag code
+  bingVerification: ""            # Bing Webmaster Tools meta-tag code (Bing also feeds ChatGPT search and Copilot)
+
+# IndexNow key: lets Bing, Yandex and other engines know instantly when pages change.
+# The deploy workflow pings them after every publish. Leave empty to switch off.
+indexNowKey: "7f4038f02a8bda62a63b8c6191139e12"
 
 # Default image used when a page is shared on WhatsApp/Facebook
 ogImage: "/assets/images/og-default.jpg"

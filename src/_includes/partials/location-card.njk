@@ -15,6 +15,7 @@
     </ul>
     <div class="loc-card__actions">
       <a class="btn btn--gold btn--sm" href="{{ '' | waLink }}" data-consult data-location="{{ loc.city }}"><i class="fas fa-calendar-check" aria-hidden="true"></i> Book in {{ loc.city }}</a>
+      {% if pageType != "location" %}<a class="btn btn--outline btn--sm" href="/plastic-surgeon-{{ loc.id }}/">{{ loc.city }} page</a>{% endif %}
       {% if loc.mapsUrl %}<a class="btn btn--outline btn--sm" href="{{ loc.mapsUrl }}" target="_blank" rel="noopener"><i class="fas fa-diamond-turn-right" aria-hidden="true"></i> Directions</a>{% endif %}
     </div>
   </div>

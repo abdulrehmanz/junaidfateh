@@ -7,6 +7,13 @@ category: "Hair Restoration"
 image: /assets/images/procedures/fut-hair-transplant/fut-hair-transplant-after.webp
 image_alt: "Top of the scalp straight after a hair transplant, showing freshly placed grafts and a forehead bandage"
 related_procedures: [fue-hair-transplant, fut-hair-transplant, prp-hair-therapy]
+keywords: "hair transplant recovery timeline, hair transplant recovery day by day, hair transplant recovery month by month, hair transplant shedding phase, shock loss after hair transplant, when do transplanted hairs grow, swelling after hair transplant, hair transplant scabs, hair transplant results after 6 months, FUE recovery time, FUT recovery time, hair transplant aftercare Lahore, hair transplant Lahore, hair transplant Pakistan, Dr Junaid Fateh hair transplant, hair transplant ke baad ehtiyat, hair transplant ke baad baal kab ugte hain"
+key_takeaways:
+  - "Swelling and small crusts are normal in the first two weeks, and the crusts usually come away by about day 14."
+  - "Most transplanted hairs shed between about two and six weeks after surgery; the roots stay and regrow."
+  - "Fine new hairs usually appear around three to four months and thicken noticeably by six to nine months."
+  - "The final result takes about twelve to eighteen months, and the crown often takes longest."
+  - "Contact the team for bleeding that will not stop, worsening pain, spreading redness, pus or fever."
 faqs:
   - q: "When can I go back to work after a hair transplant?"
     a: "Many people return to desk work within a few days to a week after FUE, and within one to two weeks after FUT. If your job is physical, dusty or outdoors, you may need longer. Dr. Junaid will advise you based on your procedure and work."

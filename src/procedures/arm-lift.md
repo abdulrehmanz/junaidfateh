@@ -7,9 +7,21 @@ specialty: false
 summary: "Dr. Junaid Fateh performs arm lifts in Lahore to take away loose, sagging upper-arm skin for firmer, slimmer arms that suit lighter sleeves."
 seo:
   title: "Arm Lift (Brachioplasty) in Lahore | Dr. Junaid Fateh"
-  description: "Arm lift (brachioplasty) in Lahore by Dr. Junaid Fateh. Remove loose upper-arm skin after weight loss or with age for slimmer, firmer arms. Enquire on WhatsApp."
-  keywords: arm lift Lahore, brachioplasty Lahore, arm lift cost in Lahore, best arm lift surgeon in Lahore, Dr Junaid Fateh arm lift, brachioplasty Pakistan, loose arm skin removal Lahore, bat wing arms surgery, sagging arms treatment Lahore, arm tightening surgery Pakistan, arm liposuction Lahore, arm lift after weight loss, mini arm lift Lahore
+  description: "Arm lift (brachioplasty) in Lahore with Dr. Junaid Fateh, FCPS. Removes loose upper-arm skin, day case, 2 to 3 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "arm lift in Lahore, arm lift cost in Lahore, arm lift price in Pakistan, best arm lift surgeon in Lahore, arm lift near me, arm lift Layyah, arm lift before and after, arm lift recovery, brachioplasty Lahore, brachioplasty Pakistan, brachyoplasty, bat wing arms surgery, loose arm skin removal Lahore, arm lift after weight loss, arm liposuction Lahore, bazu ki dheeli khaal ka operation, bazuon ki latakti khaal ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Firmer, slimmer upper arms by removing loose skin after weight loss or with age"
+quick_answer: "An arm lift (brachioplasty) removes loose, sagging skin and some fat from the upper arms for a firmer, slimmer shape. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Surgery takes 1 to 3 hours under general anaesthesia, usually as a day case, and recovery takes 2 to 3 weeks. Results are permanent. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Brachioplasty"
+  - "Brachyoplasty"
+  - "Upper arm lift"
+  - "Bat wing arm surgery"
+  - "Loose arm skin removal"
+  - "Bazu ki dheeli khaal ka operation"
+  - "Bazuon ki latakti khaal ka ilaj"
+urdu_name: "بازوؤں کی ڈھیلی جلد کا آپریشن"
+roman_urdu_summary: "Arm lift (brachioplasty) mein bazuon ke neeche latakti hui dheeli khaal aur kuch charbi nikali jati hai, jis se bazu patle aur sudol nazar aate hain. Yeh masla aksar wazan kam hone ke baad ya umar ke sath paida hota hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Upper arms"
 price_from: ''
 stats:
   duration: 1–3 hours
@@ -101,6 +113,12 @@ faqs:
   a: "If your skin still has good elasticity and the main issue is fat, liposuction alone can work well. If the skin is already loose and hanging, removing fat will not lift it, and an arm lift gives a better result. Dr. Junaid will check your skin and give you an honest view."
 - q: "Can I have other procedures at the same time?"
   a: "Yes. It is often done alongside other body contouring operations, such as a thigh lift, breast lift or tummy tuck, particularly after weight loss. Dr. Junaid will advise whether combining is safe for you or whether staging would be better."
+- q: "What are the risks or side effects of an arm lift?"
+  a: "Swelling, bruising and tightness are expected at first. Possible complications include bleeding, infection, wound separation, numbness on the inner arm and a scar that widens or thickens. Careful technique protects the nerves and lymphatic vessels of the inner arm, and wearing compression sleeves, resting with your arms raised and not smoking all help healing. Dr. Junaid goes through the risks with you at consultation."
+- q: "When will I see the final results of an arm lift?"
+  a: "Your arms look slimmer straight after surgery, although swelling hides some of the change at first. Most swelling settles within three to six months, when the shape is close to final, and the scar keeps flattening and fading over 12 to 18 months."
+- q: "Is an arm lift available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your arm lift consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you will be guided on planning surgery and follow-up visits."
 ---
 
 ## About arm lift

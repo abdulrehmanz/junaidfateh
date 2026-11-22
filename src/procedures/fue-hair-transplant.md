@@ -6,10 +6,22 @@ order: 1
 specialty: true
 summary: "Hair moved one follicle at a time to rebuild a receding hairline, temples or crown, with no linear scar. Planned by Dr. Junaid Fateh in Lahore."
 seo:
-  title: "FUE Hair Transplant in Lahore | Dr. Junaid Fateh"
-  description: "FUE hair transplant in Lahore with Dr. Junaid Fateh. Natural hairline design, no linear scar and a quick return to work. Send your photos on WhatsApp today."
-  keywords: "FUE hair transplant Lahore, FUE hair transplant Pakistan, best FUE hair transplant surgeon in Lahore, FUE hair transplant cost in Lahore, follicular unit extraction Lahore, Dr Junaid Fateh hair transplant, hair transplant Layyah, hairline transplant Lahore, crown hair transplant Lahore, hair transplant Shadman Lahore, FUE for women Pakistan, baldness treatment Lahore, sapphire FUE Lahore, DHI hair transplant Lahore, robotic hair transplant Lahore, robotic FUE Pakistan"
+  title: "FUE & Sapphire Hair Transplant in Lahore | Dr. Junaid Fateh"
+  description: "FUE hair transplant in Lahore by Dr. Junaid Fateh, FCPS plastic surgeon, with Sapphire and DHI options. 7 to 10 days recovery. Book a consultation on WhatsApp."
+  keywords: "FUE hair transplant in Lahore, FUE hair transplant cost in Lahore, FUE hair transplant price in Pakistan, best FUE hair transplant surgeon in Lahore, FUE hair transplant near me, FUE hair transplant Layyah, FUE hair transplant before and after, FUE hair transplant recovery, sapphire FUE Lahore, DHI hair transplant Lahore, follicular unit extraction Lahore, FUE hair transplantation Pakistan, hairline transplant Lahore, crown hair transplant Lahore, baal lagwana, ganjapan ka ilaj, hair transplant ka kharcha, Dr Junaid Fateh, robotic hair transplant Lahore"
 hero_subtitle: "Natural hairlines rebuilt one follicle at a time, with no strip scar at the back"
+quick_answer: "FUE hair transplant (follicular unit extraction) moves follicles one by one from the back of the scalp to thinning areas, leaving no linear scar. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who also consults in Layyah. It takes 4 to 8 hours under local anaesthetic, with 7 to 10 days of recovery. New hair shows at 6 to 12 months and is usually permanent. Cost is confirmed after consultation."
+also_known_as:
+  - "Follicular unit extraction"
+  - "Follicular unit excision"
+  - "FUE hair transplantation"
+  - "Sapphire FUE"
+  - "DHI hair transplant"
+  - "Baal lagwana"
+  - "Ganjapan ka ilaj"
+urdu_name: "ایف یو ای ہیئر ٹرانسپلانٹ"
+roman_urdu_summary: "FUE hair transplant mein sar ke peeche se baal ek ek kar ke nikale jate hain aur ganjapan wali jagah par lagaye jate hain, is liye lambi line wala nishan nahi parta. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein yeh procedure karte hain aur Layyah mein bhi mareez dekhte hain. Apne sar ki tasveerein bhej kar mashware ke liye WhatsApp par rabta karein."
+body_location: "Scalp"
 price_from: ''
 stats:
   duration: 4–8 hours
@@ -101,6 +113,12 @@ faqs:
   a: "Yes. Many overseas Pakistanis start by sending clear photos of the front, top, crown and back of the scalp on WhatsApp, then book a video consultation with Dr. Junaid. He can give an initial opinion and a rough plan, and the final graft count and hairline are confirmed in person before surgery."
 - q: Can I have it done in time for a wedding?
   a: "Plan well ahead. The scalp usually looks presentable after about two weeks, but new hair takes 6–12 months to show properly and longer to mature. If you want the full effect for a family wedding, booking around a year beforehand is sensible."
+- q: "What are the risks or side effects of FUE hair transplant?"
+  a: "Common, short-lived effects are forehead swelling, redness, small crusts, tenderness and some numbness of the scalp. Less often there may be infection, small pimples around the grafts (folliculitis), temporary shedding of existing hair or uneven growth. Dr. Junaid reduces these risks with a careful assessment, a graft number your donor area can safely give, sterile technique and a clear aftercare plan, and he goes through them with you at consultation."
+- q: "What is the best age for FUE hair transplant?"
+  a: "There is no single best age, but results are more predictable once your hair loss pattern has settled, usually from the mid-twenties onwards. If you are younger and losing hair quickly, Dr. Junaid often suggests medication or PRP first, because a hairline placed too early may not suit the pattern that develops later. Older patients and women are assessed on donor density and general health rather than age alone."
+- q: "Is FUE hair transplant available in Layyah?"
+  a: "Dr. Junaid Fateh sees patients in both Layyah and Lahore, so your consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and the team will guide you on where your FUE would take place and how to plan your visit."
 ---
 
 ## About FUE hair transplant

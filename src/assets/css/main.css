@@ -732,3 +732,26 @@ body.modal-open { overflow: hidden; }
 /* Blog filter wrapper */
 #post-grid > div > .post-card { width: 100%; }
 .cred-strip__item span { display: block; line-height: 1.45; }
+
+/* Reserve space for icons so nothing shifts when the icon font arrives */
+i.fas, i.fab, i.far { display: inline-block; min-width: 1em; text-align: center; font-style: normal; }
+
+/* Quick answer / key takeaways box */
+.quick-answer { margin-bottom: 2.2rem; padding: 1.4rem 1.5rem; border-radius: var(--radius-lg); background: linear-gradient(180deg, #fffaf0, var(--white)); border: 1px solid var(--gold-light); box-shadow: var(--shadow-sm); }
+.quick-answer__title { display: flex; align-items: center; gap: 0.5rem; font-family: var(--sans); font-size: 0.78rem !important; font-weight: 800; letter-spacing: 0.14em; text-transform: uppercase; color: var(--gold-dark); margin: 0 0 0.6rem !important; }
+.quick-answer__text { font-size: 1.08rem; color: var(--ink); line-height: 1.7; }
+.quick-answer__aka { margin-top: 0.8rem !important; font-size: 0.9rem; color: var(--muted); }
+.quick-answer__aka strong { color: var(--ink); }
+.quick-answer__meta { margin-top: 0.8rem !important; padding-top: 0.8rem; border-top: 1px dashed var(--line); font-size: 0.82rem; color: var(--muted); }
+.quick-answer__meta a { color: var(--gold-dark); font-weight: 700; text-decoration: none; }
+.quick-answer__meta i { color: var(--gold); margin-right: 0.2rem; }
+.quick-answer .checklist { margin: 0.4rem 0 0; }
+.urdu { font-family: var(--urdu); line-height: 2; }
+.roman-urdu { margin-top: clamp(2.5rem, 5vw, 3.5rem); padding: 1.4rem 1.5rem; border-radius: var(--radius-lg); background: var(--sand); border: 1px solid var(--line); }
+.roman-urdu__title { font-family: var(--sans); font-size: 1rem !important; font-weight: 800; color: var(--ink); display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-bottom: 0.6rem; }
+.roman-urdu__title i { color: var(--gold); }
+.roman-urdu p { color: var(--text); }
+.roman-urdu .link-arrow { margin-top: 0.8rem; }
+.proc-main .post-grid { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); }
+.area-pill { display: inline-flex; align-items: center; gap: 0.4rem; padding: 0.45rem 0.9rem; border-radius: 999px; border: 1px solid rgba(216, 193, 147, 0.35); color: rgba(255, 255, 255, 0.85); font-size: 0.88rem; font-weight: 600; }
+.area-pill i { color: var(--gold); }

@@ -7,9 +7,21 @@ specialty: false
 summary: "Breast reconstruction in Lahore with Dr. Junaid Fateh, rebuilding breast shape after mastectomy, lumpectomy or a difference present from birth."
 seo:
   title: "Breast Reconstruction in Lahore | Dr. Junaid Fateh"
-  description: "Breast reconstruction in Lahore with Dr. Junaid Fateh after mastectomy or lumpectomy, using implants or your own tissue. Talk through your options in private."
-  keywords: "breast reconstruction Lahore, breast reconstruction surgery Pakistan, best breast reconstruction surgeon in Lahore, breast reconstruction cost in Lahore, breast reconstruction after mastectomy Lahore, breast reconstruction after cancer Pakistan, DIEP flap reconstruction Lahore, latissimus dorsi flap breast reconstruction, implant breast reconstruction Lahore, nipple reconstruction Lahore, reconstructive breast surgery Layyah, Poland syndrome surgery Pakistan, Dr Junaid Fateh breast reconstruction"
+  description: "Breast reconstruction after mastectomy in Lahore with Dr. Junaid Fateh, FCPS. Implants or own tissue, recovery 4 to 6 weeks. Book a consultation on WhatsApp."
+  keywords: "breast reconstruction in Lahore, breast reconstruction cost in Lahore, breast reconstruction price in Pakistan, best breast reconstruction surgeon in Lahore, breast reconstruction near me, breast reconstruction Layyah, breast reconstruction before and after, breast reconstruction recovery, breast reconstruction after mastectomy, breast reconstruction after cancer Pakistan, DIEP flap reconstruction, latissimus dorsi flap reconstruction, implant breast reconstruction, nipple reconstruction, Poland syndrome surgery Pakistan, chhati ki dobara tameer, cancer ke baad chhati ki surgery, Dr Junaid Fateh"
 hero_subtitle: "Rebuilding breast shape and confidence after cancer surgery, at a pace that suits you"
+quick_answer: "Breast reconstruction rebuilds the shape of a breast after mastectomy or lumpectomy, using implants, your own tissue or both. Dr. Junaid Fateh, an FCPS plastic surgeon trained at Jinnah Burn & Reconstructive Surgery Centre, sees patients in Lahore and Layyah. Surgery takes 3 to 8 hours under general anaesthesia, with 2 to 5 days in hospital and 4 to 6 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Post-mastectomy breast reconstruction"
+  - "Reconstructive breast surgery"
+  - "Breast rebuilding surgery"
+  - "Flap breast reconstruction"
+  - "Implant breast reconstruction"
+  - "Chhati ki dobara tameer"
+  - "Cancer ke baad chhati ki surgery"
+urdu_name: "چھاتی کی تعمیرِ نو"
+roman_urdu_summary: "Breast reconstruction mein mastectomy ya cancer ke operation ke baad chhati ki shape implant, jism ke apne tissue ya dono ke zariye dobara banayi jati hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur har marhale ko aaram se aur tafseel se samjhate hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Breast"
 price_from: ''
 stats:
   duration: 3–8 hours
@@ -101,6 +113,12 @@ faqs:
   a: "Breast reconstruction is not known to increase the chance of cancer returning, and your usual cancer follow-up continues afterwards. Let everyone involved in your care know about your reconstruction before any scans or examinations."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Share photos and a summary of your treatment through WhatsApp, then arrange a video consultation to talk through possible options and timing. Any final plan is confirmed only after Dr. Junaid examines you in person."
+- q: "What are the risks or side effects of breast reconstruction?"
+  a: "As with any major surgery, there can be bleeding, infection and problems with wound healing. Implant reconstruction can lead to hardening around the implant or the need for replacement later. With tissue flaps there is a risk of partial or, rarely, complete loss of the flap, and of weakness or a bulge at the donor site. Smoking and radiotherapy can raise some of these risks. Dr. Junaid reduces them by choosing the method that is safest for your treatment plan and by monitoring flap surgery closely in hospital."
+- q: "When will I see the final results of breast reconstruction?"
+  a: "Reconstruction is usually done in stages, so the final result takes time. If a tissue expander is used, it is filled over several weeks or months before the permanent implant is placed. The shape keeps settling for 6 to 12 months, and finishing steps such as nipple reconstruction or symmetry surgery on the other breast are planned once healing is complete."
+- q: "Is breast reconstruction available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery, travel and follow-up visits around your cancer care."
 ---
 
 ## About Breast Reconstruction

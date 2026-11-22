@@ -6,10 +6,22 @@ order: 1
 specialty: true
 summary: "Softens frown lines, forehead lines and crow's feet with precisely planned botulinum toxin injections, for a rested look that still moves naturally."
 seo:
-  title: "Botox Injections in Lahore | Dr. Junaid Fateh"
-  description: "Botox injections in Lahore with Dr. Junaid Fateh to soften frown lines, forehead lines and crow's feet while keeping natural expression. Book on WhatsApp."
-  keywords: "Botox Lahore, Botox injections in Lahore, Botox cost in Lahore, Botox price Pakistan, best Botox doctor in Lahore, Dr Junaid Fateh Botox, Botox Layyah, anti-wrinkle injections Lahore, forehead lines treatment Lahore, crow's feet treatment Pakistan, jaw slimming Botox Lahore, botulinum toxin Pakistan, underarm sweating treatment Lahore"
+  title: "Botox Injections in Lahore & Layyah | Dr. Junaid Fateh"
+  description: "Botox in Lahore and Layyah with Dr. Junaid Fateh, FCPS, to soften frown, forehead and crow's feet lines in 15 to 30 minutes. Book a consultation on WhatsApp."
+  keywords: "Botox in Lahore, Botox price in Pakistan, Botox cost in Lahore, best Botox doctor in Lahore, Botox near me, Botox Layyah, Botox before and after, Botox injections Lahore, anti-wrinkle injections Lahore, botulinum toxin Pakistan, jaw slimming Botox Lahore, underarm sweating Botox Lahore, botex Lahore, chehre ki jhuriyan ka ilaj, mathe ki lakeeron ka ilaj, Botox lagwana, Dr Junaid Fateh"
 hero_subtitle: "Smoother lines and a rested look, with your natural expressions kept intact"
+quick_answer: "Botox is an injection of purified botulinum toxin that relaxes the facial muscles behind frown lines, forehead lines and crow's feet, so the skin above them looks smoother. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Treatment takes 15 to 30 minutes, needs no anaesthesia beyond optional numbing cream, has no downtime, and results last 3 to 6 months. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Botulinum toxin injections"
+  - "Anti-wrinkle injections"
+  - "Wrinkle relaxer injections"
+  - "Botox injection"
+  - "Botex"
+  - "Chehre ki jhuriyan ka ilaj"
+  - "Mathe ki lakeeron ka ilaj"
+urdu_name: "بوٹوکس انجیکشن"
+roman_urdu_summary: "Botox ek injection hai jo chehre ke un muscles ko narm karta hai jin ki wajah se mathe par, aankhon ke kinaron par aur bhanwon ke darmiyan lakeerein banti hain. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko yeh treatment dete hain, aur dose is tarah plan ki jati hai ke chehre ke qudrati taassurat barqarar rahein. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "15–30 minutes"
@@ -101,6 +113,10 @@ faqs:
   a: "Side effects are usually mild and short-lived: bruising, tenderness, headache or slight unevenness. Less commonly, a brow or eyelid can droop for a few weeks. Dr. Junaid goes through the risks with you at consultation."
 - q: "When should I have Botox before a wedding or Eid?"
   a: "Plan it at least two to three weeks ahead. That gives the full effect time to appear and leaves room for a review if anything needs fine-tuning."
+- q: "When will I see the final results of Botox?"
+  a: "Lines usually begin to soften within three to five days, and the full result is visible at around two weeks. That is when a review can be arranged if a small adjustment is needed. The effect then lasts around three to six months before movement gradually returns."
+- q: "Is Botox available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Botox Injections

@@ -6,9 +6,19 @@ order: 6
 summary: "Facial cosmetic surgery in Lahore with Dr. Junaid Fateh, from nose and eyelid surgery to facelifts, planned for natural balance and a safe recovery."
 seo:
   title: "Facial Plastic Surgery in Lahore | Dr. Junaid Fateh"
-  description: "Facial plastic surgery in Lahore with Dr. Junaid Fateh. Rhinoplasty, eyelid surgery, facelift and more, planned for natural results. Book a consultation."
-  keywords: "facial plastic surgery Lahore, facial surgery Lahore, best facial plastic surgeon Lahore, cosmetic face surgery Pakistan, facial surgery cost in Lahore, rhinoplasty Lahore, facelift Lahore, blepharoplasty Lahore, otoplasty Lahore, chin reshaping Lahore, brow lift Lahore, Dr Junaid Fateh facial surgery, facial cosmetic surgeon Pakistan"
+  description: "Facial plastic surgery in Lahore with Dr. Junaid Fateh, FCPS. Nose job, eyelid surgery, facelift and more, with recovery from days to 3 weeks. Book on WhatsApp."
+  keywords: "facial plastic surgery in Lahore, facial surgery Lahore, facial surgery cost in Lahore, facial plastic surgery price in Pakistan, best facial plastic surgeon in Lahore, facial plastic surgeon near me, facial surgery Layyah, facial surgery before and after, nose job in Lahore, rhinoplasty cost in Pakistan, facelift cost in Pakistan, eyelid surgery Lahore, ear pinning surgery, acne scars treatment in Lahore, mole removal Lahore, chehre ki plastic surgery, naak ki surgery, Dr Junaid Fateh"
 hero_subtitle: "Natural-looking facial surgery, planned around your features and your recovery"
+quick_answer: "Facial surgery includes procedures that reshape or refresh the face, such as rhinoplasty, eyelid surgery, facelift, neck and brow lifts, ear pinning, chin and cheek reshaping, lip surgery, fat grafting and scar treatment. Dr. Junaid Fateh, an FCPS plastic surgeon, performs them in Lahore and also sees patients in Layyah. Recovery ranges from a few days to about three weeks, depending on the procedure. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Facial plastic surgery"
+  - "Facial cosmetic surgery"
+  - "Face surgery"
+  - "Cosmetic face surgery"
+  - "Chehre ki plastic surgery"
+  - "Chehre ki cosmetic surgery"
+urdu_name: "چہرے کی پلاسٹک سرجری"
+roman_urdu_summary: "Facial surgery mein naak, aankhon, kaanon, thodi, honton aur chehre ki dheeli jild jaise masail ka ilaj shamil hai, jis ka maqsad qudrati aur mutawazin nateeja hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 faqs:
 - q: "Which facial procedure is right for me?"
   a: "That depends on what is actually causing the change you see. Heavy eyes may come from the eyelids or from a low brow, and a nose can look large because the chin is small. Dr. Junaid examines your face as a whole at consultation and explains which option, surgical or non-surgical, is most likely to help."
@@ -22,6 +32,8 @@ faqs:
   a: "A natural look is the goal of every plan. Dr. Junaid prefers measured changes that keep your character and suit your ethnic features. Results vary between people, and he is honest at consultation about what your anatomy will allow."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Overseas Pakistanis and patients from other cities can share photos of the area that concerns them on WhatsApp and then speak to Dr. Junaid by video. Each procedure page lists the photos that help most. Surgery is only confirmed after an in-person examination."
+- q: "Is facial surgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a consultation for any facial procedure can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your treatment and follow-up visits would take place."
 ---
 
 Your face is the first thing people notice and the part of yourself you see most often. When one feature feels out of balance, or when age starts to show around the eyes, jaw or neck, it can affect how you feel in photos, at work and at family occasions. Facial surgery with Dr. Junaid Fateh is about careful, well-judged changes that help you look like a refreshed version of yourself.

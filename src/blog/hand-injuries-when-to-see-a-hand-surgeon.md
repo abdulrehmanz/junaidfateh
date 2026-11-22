@@ -7,6 +7,13 @@ category: "Hand & Reconstructive Surgery"
 image: /assets/images/procedures/hand-surgery/hand-surgery-after.webp
 image_alt: "Stitched wound across the back of the hand and wrist after hand surgery"
 related_procedures: [hand-surgery, microsurgery]
+keywords: "hand injury when to see a doctor, when to see a hand surgeon, cut tendon in finger, finger tendon repair, nerve injury in hand, carpal tunnel syndrome treatment, trigger finger treatment, mallet finger, hand surgeon in Lahore, hand surgery in Lahore, hand surgeon Pakistan, tendon repair Lahore, carpal tunnel surgery Lahore, hand surgeon Layyah, Dr Junaid Fateh, haath ki surgery, ungli ki nas kat jana"
+key_takeaways:
+  - "Go to the nearest emergency department first for any deep, heavily bleeding, crushed or numb hand injury."
+  - "A finger that will not bend or straighten after a cut may mean a tendon injury, which is best repaired early."
+  - "Numbness along a finger after a cut can mean a nerve injury, repaired with microsurgery techniques."
+  - "Night-time tingling in the thumb and fingers suggests carpal tunnel syndrome; a finger that clicks or locks suggests trigger finger."
+  - "Splints, hand therapy and following your exercise plan are as important to recovery as the operation itself."
 faqs:
   - q: "Should I go to emergency or straight to a hand surgeon after a cut?"
     a: "Go to the nearest emergency department first for any fresh, deep or heavily bleeding wound, or if a finger is numb, cold or will not move. The emergency team can stop bleeding, clean the wound, give a tetanus injection and arrange X-rays. Specialist repair can follow soon after."

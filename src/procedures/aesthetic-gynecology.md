@@ -6,10 +6,22 @@ order: 8
 specialty: false
 summary: "Private, respectful intimate surgery in Lahore with Dr. Junaid Fateh, including labiaplasty and repair after childbirth, planned around your comfort."
 seo:
-  title: "Aesthetic Gynecology in Lahore | Dr. Junaid Fateh"
-  description: "Aesthetic gynecology in Lahore with Dr. Junaid Fateh. Discreet labiaplasty and intimate repair after childbirth, focused on comfort. Book a private consult."
-  keywords: aesthetic gynecology Lahore, labiaplasty Lahore, labiaplasty cost in Lahore, best labiaplasty surgeon in Lahore, vaginoplasty Lahore, vaginal tightening surgery Lahore, intimate surgery Pakistan, perineoplasty Lahore, labia reduction surgery Pakistan, monsplasty Lahore, female intimate surgery Lahore, confidential intimate surgery Lahore, Dr Junaid Fateh, laser vaginal rejuvenation Lahore, vaginal rejuvenation Pakistan, hymenoplasty Lahore
+  title: "Labiaplasty & Intimate Surgery in Lahore | Dr. Junaid Fateh"
+  description: "Labiaplasty and aesthetic gynecology in Lahore with Dr. Junaid Fateh, FCPS. Private, often day case, 1 to 2 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "labiaplasty in Lahore, labiaplasty Pakistan, labiaplasty cost in Lahore, labiaplasty price in Pakistan, best labiaplasty surgeon in Lahore, labiaplasty near me, labiaplasty recovery, aesthetic gynecology Lahore, aesthetic gynaecology Pakistan, cosmetic gynecology Lahore, labioplasty Lahore, vaginoplasty Lahore, vaginal tightening surgery Lahore, perineoplasty Lahore, vaginal rejuvenation Pakistan, hymenoplasty Lahore, aesthetic gynecology Layyah, khawateen ki intimate surgery, delivery ke baad intimate repair, Dr Junaid Fateh"
 hero_subtitle: "Discreet, respectful care for intimate comfort and confidence"
+quick_answer: "Aesthetic gynecology covers private procedures for the female intimate area, such as labiaplasty and repair after childbirth, to improve comfort. FCPS plastic surgeon Dr. Junaid Fateh performs them in Lahore, sees patients in Layyah and keeps consultations confidential. Most take 1 to 3 hours under local or general anaesthesia, often as a day case, with 1 to 2 weeks recovery. Results are long-lasting. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Aesthetic gynaecology"
+  - "Cosmetic gynecology"
+  - "Female intimate surgery"
+  - "Labiaplasty"
+  - "Labioplasty"
+  - "Vaginal rejuvenation"
+  - "Khawateen ki intimate surgery"
+urdu_name: "نسوانی جمالیاتی سرجری"
+roman_urdu_summary: "Aesthetic gynecology mein khawateen ke intimate hissay ke liye nijee aur raazdarana operation shamil hain, jaise labiaplasty aur delivery ke baad repair. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mukammal raazdari ke sath mashwara karte hain. Mashware ke liye WhatsApp par rabta karein. Message mein tafseel batana zaroori nahi."
+body_location: "Female intimate area"
 price_from: ''
 stats:
   duration: 1–3 hours
@@ -101,6 +113,10 @@ faqs:
   a: "These procedures are planned to protect sensation. Temporary numbness or extra sensitivity can occur while the area heals and usually settles over a few weeks to months. Dr. Junaid will explain any risks specific to your procedure."
 - q: "Is aesthetic gynecology safe?"
   a: "Like any surgery, these procedures carry risks, including bleeding, infection, wound separation, scarring, asymmetry and changes in sensation. Choosing a qualified plastic surgeon and following your aftercare advice helps reduce these risks. Dr. Junaid goes through the risks with you at consultation."
+- q: "When will I see the final results of aesthetic gynecology surgery?"
+  a: "Swelling is most noticeable in the first week and then settles gradually. Most women see the final result at around two to three months, once the remaining swelling has gone and the tissues have settled. Dr. Junaid checks your healing at your follow-up visits."
+- q: "Is aesthetic gynecology available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, and a private consultation can be arranged in either city. Ask on WhatsApp which procedures are done at which location. You do not need to describe your concern in the message, as it can be discussed in private at your appointment."
 ---
 
 ## About aesthetic gynecology

@@ -6,10 +6,22 @@ order: 7
 specialty: false
 summary: "A mommy makeover in Lahore with Dr. Junaid Fateh combines tummy and breast procedures to address changes after pregnancy, planned around you."
 seo:
-  title: "Mommy Makeover in Lahore | Dr. Junaid Fateh"
-  description: "Mommy makeover in Lahore with Dr. Junaid Fateh. Tummy tuck, breast lift and liposuction planned together after pregnancy. Private, respectful consultations."
-  keywords: mommy makeover Lahore, mommy makeover cost in Lahore, best mommy makeover surgeon in Lahore, Dr Junaid Fateh mommy makeover, mommy makeover Pakistan, post-pregnancy surgery Lahore, tummy tuck and breast lift Lahore, after pregnancy body surgery, diastasis recti repair Lahore, breast lift after breastfeeding, post-pregnancy body contouring, mommy makeover recovery, tummy tuck with liposuction Lahore
+  title: "Mommy Makeover in Lahore: Cost & Recovery | Dr. Junaid Fateh"
+  description: "Mommy makeover in Lahore with Dr. Junaid Fateh, FCPS. Tummy tuck, breast lift and lipo planned together, 3 to 4 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "mommy makeover in Lahore, mommy makeover cost in Lahore, mommy makeover price in Pakistan, best mommy makeover surgeon in Lahore, mommy makeover near me, mommy makeover Layyah, mommy makeover before and after, mommy makeover recovery, mummy makeover Lahore, mommy makeover Pakistan, post-pregnancy surgery Lahore, tummy tuck and breast lift Lahore, diastasis recti repair Lahore, breast lift after breastfeeding, delivery ke baad jism ki surgery, delivery ke baad body shape ka operation, Dr Junaid Fateh"
 hero_subtitle: "A personal plan for the changes that pregnancy and breastfeeding can leave behind"
+quick_answer: "A mommy makeover combines procedures, usually a tummy tuck with a breast lift, reduction or augmentation, to address changes after pregnancy and breastfeeding. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Surgery takes 4 to 6 hours under general anaesthesia, with a 1 to 2 night stay and 3 to 4 weeks recovery. Results are long-lasting. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Mummy makeover"
+  - "Mommy make over"
+  - "Post-pregnancy body surgery"
+  - "After pregnancy makeover"
+  - "Tummy tuck and breast lift"
+  - "Delivery ke baad jism ki surgery"
+  - "Delivery ke baad body shape ka operation"
+urdu_name: "زچگی کے بعد جسم کی سرجری"
+roman_urdu_summary: "Mommy makeover mein delivery aur bachon ko doodh pilane ke baad jism mein aane wali tabdeeliyon ke liye kuch operation ek sath plan kiye jate hain, jaise tummy tuck, breast lift aur liposuction. Dr. Junaid Fateh, FCPS plastic surgeon, har plan aap ki zaroorat ke mutabiq banate hain. Woh Lahore aur Layyah mein mareez dekhte hain. Nijee mashware ke liye WhatsApp par rabta karein."
+body_location: "Abdomen and breasts"
 price_from: ''
 stats:
   duration: 4–6 hours
@@ -101,6 +113,12 @@ faqs:
   a: "It is wise to wait at least six months after your last delivery and a few months after you stop breastfeeding, so your body and breasts have had time to settle. Your weight should also be stable."
 - q: "Is it safe to combine several procedures?"
   a: "Combining procedures is common practice when you are healthy and the total operating time stays within safe limits. Dr. Junaid plans each combination with this in mind, and if your plan would be too long for one session, he will suggest splitting it into two stages."
+- q: "What are the risks or side effects of a mommy makeover?"
+  a: "Because several procedures are combined, the risks include those of each one: bleeding, infection, fluid collection, wound healing problems, changes in nipple sensation and, rarely, blood clots. Dr. Junaid reduces these with a full pre-operative check, by keeping total operating time within safe limits or staging the plan, and by encouraging early walking. He goes through the risks with you at consultation."
+- q: "When will I see the final results of a mommy makeover?"
+  a: "You will notice a change soon after surgery, but swelling across the tummy and breasts takes time to settle. Most women see their final result between six and twelve months after surgery, once the swelling has resolved completely and the scars have softened."
+- q: "Is a mommy makeover available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your private consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you will be helped to plan surgery, your hospital stay and follow-up visits."
 ---
 
 ## About mommy makeover

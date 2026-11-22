@@ -6,10 +6,23 @@ order: 4
 specialty: false
 summary: "Ear reshaping surgery in Lahore with Dr. Junaid Fateh for children and adults, setting prominent ears closer to the head with scars behind the ear."
 seo:
-  title: "Otoplasty (Ear Pinning) in Lahore | Dr. Junaid Fateh"
-  description: "Otoplasty in Lahore with Dr. Junaid Fateh. Ear pinning and reshaping for children and adults, with discreet scars hidden behind the ear. Book a consultation."
-  keywords: "otoplasty Lahore, ear pinning Lahore, ear reshaping surgery Lahore, best otoplasty surgeon Lahore, prominent ears surgery Lahore, bat ears correction Pakistan, otoplasty cost in Lahore, ear surgery price Pakistan, otoplasty for children Lahore, torn earlobe repair Lahore, earlobe surgery Lahore, otoplasty Pakistan, Dr Junaid Fateh otoplasty"
+  title: "Ear Pinning Surgery (Otoplasty) in Lahore | Dr. Junaid Fateh"
+  description: "Ear pinning surgery (otoplasty) in Lahore with Dr. Junaid Fateh, FCPS, for children and adults. Day case, about 1 week off. Book a consultation on WhatsApp."
+  keywords: "ear pinning surgery, ear pinning surgery Lahore, otoplasty in Lahore, otoplasty cost in Lahore, otoplasty price in Pakistan, best otoplasty surgeon in Lahore, otoplasty near me, otoplasty Layyah, otoplasty before and after, otoplasty recovery, prominent ears surgery Lahore, bat ears correction, ear reshaping surgery, otoplasty for children Lahore, torn earlobe repair Lahore, kaan ki surgery, bahar nikle kaan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Ears that sit in proportion with your face, for children and adults alike"
+quick_answer: "Otoplasty, or ear pinning, reshapes ear cartilage so prominent ears sit closer to the head. In Lahore, FCPS plastic surgeon Dr. Junaid Fateh treats adults and children from about five or six years old. It is a 1 to 2 hour day case under local with sedation, or general anaesthesia for young children. Recovery takes about 1 week, and results are permanent. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Ear pinning"
+  - "Ear pinning surgery"
+  - "Ear reshaping surgery"
+  - "Pinnaplasty"
+  - "Bat ear correction"
+  - "Prominent ear correction"
+  - "Kaan ki surgery"
+  - "Bahar nikle kaan ka ilaj"
+urdu_name: "کانوں کی سرجری"
+roman_urdu_summary: "Otoplasty ya ear pinning surgery se bahar nikle hue ya ghair barabar kaanon ko sar ke qareeb aur mutanasib kiya jata hai, aur nishan kaan ke peeche chhup jata hai. Yeh bachon aur baron dono ke liye hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain, mashware ke liye WhatsApp par rabta karein."
+body_location: "Ears"
 price_from: ''
 stats:
   duration: "1–2 hours"
@@ -100,6 +113,12 @@ faqs:
   a: "Yes. Earlobes stretched or split by heavy earrings, often after years of wearing wedding jewellery, can be repaired in a short procedure under local anaesthetic. You will be advised how long to wait before the ear is pierced again."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Families living abroad often begin with a few WhatsApp photos of the ears, taken from the front, the back and each side, followed by a video call. Dr. Junaid uses this to explain what kind of correction is likely and how recovery works for a child or an adult. He makes the final decision after seeing the ears in person, and your trip should include at least a week after surgery for the bandage check."
+- q: "What are the risks or side effects of otoplasty?"
+  a: "Like any surgery, otoplasty has possible risks. Swelling, bruising and soreness are expected for the first days. Less common problems include infection, bleeding under the bandage, a thick or raised scar behind the ear, a slight difference between the two ears and the ears moving back a little over time, which occasionally needs a small adjustment. Careful technique, the head bandage, the night-time headband and keeping your follow-up visits all help reduce these risks."
+- q: "When will I see the final results of otoplasty?"
+  a: "You see the new position of the ears when the bandage comes off at around one week, although they may look swollen, red or bruised at first. Swelling has largely settled by two to three months, when the scar behind the ear has softened and the final shape is clear."
+- q: "Is otoplasty available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your otoplasty consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your or your child's surgery and bandage check would take place."
 ---
 
 ## About otoplasty

@@ -7,9 +7,21 @@ specialty: false
 summary: "Medically supervised treatment to even out skin tone, fade pigmentation and restore brightness, with realistic goals and daily sun protection."
 seo:
   title: "Skin Whitening & Brightening in Lahore | Dr. Junaid Fateh"
-  description: "Skin brightening in Lahore with Dr. Junaid Fateh. Medically supervised care to even tone and fade dark patches and melasma, with sun protection advice."
-  keywords: "skin whitening Lahore, skin whitening treatment in Lahore, skin brightening Lahore, skin whitening cost in Lahore, skin brightening price Pakistan, best skin brightening treatment in Lahore, pigmentation treatment Lahore, melasma treatment Lahore, Dr Junaid Fateh skin brightening, skin whitening Layyah, dark spots treatment Lahore, uneven skin tone treatment Pakistan, laser toning Lahore, glutathione injections Lahore, glutathione drip Lahore"
+  description: "Skin whitening in Lahore and Layyah with Dr. Junaid Fateh, FCPS, to fade dark patches and melasma, with minimal downtime. Book a consultation on WhatsApp."
+  keywords: "skin whitening in Lahore, skin whitening injections Lahore, glutathione injections Lahore, glutathione drip Lahore, skin whitening cost in Lahore, skin whitening price in Pakistan, best skin whitening treatment in Lahore, skin brightening near me, skin whitening Layyah, skin brightening before and after, skin brightening Lahore, pigmentation treatment Lahore, melasma treatment Lahore, laser toning Lahore, chehre ki chhaiyan ka ilaj, rang nikharne ka ilaj, rang gora karne ka tareeqa, Dr Junaid Fateh"
 hero_subtitle: "A clearer, more even complexion under medical supervision, with realistic goals"
+quick_answer: "Skin whitening and brightening is a medically supervised plan of skincare, peels, laser toning and skin boosters that fades dark patches, melasma and uneven tone. It does not change your natural skin colour. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Sessions take 30 to 60 minutes with minimal downtime, and results build gradually over a series. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Skin brightening treatment"
+  - "Skin whitening treatment"
+  - "Pigmentation treatment"
+  - "Melasma treatment"
+  - "Chehre ki chhaiyan ka ilaj"
+  - "Daag dhabbe ka ilaj"
+  - "Rang nikharne ka ilaj"
+urdu_name: "جلد نکھارنے کا علاج"
+roman_urdu_summary: "Is treatment mein chehre ki chhaiyan, daag dhabbe aur na-hamwar rangat ko doctor ki nigrani mein skincare, peels aur laser toning se kam kiya jata hai. Yeh aap ka qudrati rang nahi badalta, balke jild ko saaf aur nikhri hui banata hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "30–60 minutes per session"
@@ -103,6 +115,10 @@ faqs:
   a: "Melasma can usually be improved and controlled, but it tends to return, especially with sun, heat and hormonal changes. A long-term plan with sun protection and maintenance treatment gives the best chance of keeping it under control."
 - q: "Do you offer glutathione injections or drips?"
   a: "Yes, glutathione IV therapy is available as part of a supervised brightening plan. It is not approved specifically for skin lightening and results vary from person to person, so Dr. Junaid reviews your health, explains the possible side effects and combines it with sun protection and proven skincare for the best chance of a visible improvement."
+- q: "What are the risks or side effects of skin whitening treatment?"
+  a: "Side effects depend on the treatments in your plan. Peels can cause redness, flaking and, if the skin becomes irritated, temporary dark marks. Laser toning can leave pinkness for a few hours and may make some spots look darker for a short time before they fade. Skin booster injections can leave small bumps or pinpoint marks for a day or two. Glutathione drips are not approved for skin lightening and can cause side effects such as allergic reactions, so Dr. Junaid reviews your health first and keeps every step under medical supervision."
+- q: "Is skin whitening treatment available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Skin Whitening & Brightening

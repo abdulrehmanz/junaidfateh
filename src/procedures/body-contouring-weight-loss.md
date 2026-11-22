@@ -6,10 +6,23 @@ order: 3
 specialty: false
 summary: "Skin removal and body contouring after major weight loss in Lahore, planned in safe stages by Dr. Junaid Fateh to match your new shape."
 seo:
-  title: "Body Contouring After Weight Loss, Lahore | Dr. Junaid Fateh"
-  description: "Body contouring after weight loss in Lahore with Dr. Junaid Fateh. Remove loose, hanging skin after bariatric surgery or dieting. Book a private consultation."
-  keywords: body contouring after weight loss Lahore, skin removal surgery Lahore, excess skin removal after weight loss, post-bariatric surgery Lahore, body lift Lahore, lower body lift Pakistan, belt lipectomy Lahore, panniculectomy Lahore, loose skin after weight loss Pakistan, body contouring cost in Lahore, best body contouring surgeon in Lahore, Dr Junaid Fateh body contouring, skin removal after gastric sleeve, body contouring Layyah
+  title: "Skin Removal After Weight Loss in Lahore | Dr. Junaid Fateh"
+  description: "Skin removal after weight loss in Lahore with Dr. Junaid Fateh, FCPS. Staged body, arm and thigh lifts, 4 to 6 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "skin removal surgery in Lahore, skin removal after weight loss Lahore, body contouring after weight loss Lahore, loose skin removal cost in Lahore, skin removal surgery price in Pakistan, best body contouring surgeon in Lahore, loose skin surgery near me, body contouring Layyah, skin removal before and after, body lift recovery, lower body lift Lahore, belt lipectomy Lahore, panniculectomy Lahore, skin removal after gastric sleeve, post-bariatric surgery Lahore, wazan kam karne ke baad dheeli khaal ka operation, latakti khaal ka operation, Dr Junaid Fateh"
 hero_subtitle: "Removing loose skin after major weight loss, in carefully planned stages"
+quick_answer: "Body contouring after weight loss removes loose, hanging skin left after bariatric surgery or major dieting, usually in planned stages. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Each stage takes 4 to 8 hours under general anaesthesia with a 2 to 3 night stay, and recovery takes 4 to 6 weeks. Results are permanent. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Skin removal surgery after weight loss"
+  - "Post-bariatric body contouring"
+  - "Excess skin removal"
+  - "Body lift"
+  - "Belt lipectomy"
+  - "Panniculectomy"
+  - "Wazan kam karne ke baad dheeli khaal ka operation"
+  - "Latakti khaal ka operation"
+urdu_name: "وزن کم ہونے کے بعد ڈھیلی جلد کا آپریشن"
+roman_urdu_summary: "Bohat zyada wazan kam hone ke baad, chahe bariatric surgery se ho ya diet se, aksar pait, bazuon aur raanon par dheeli latakti khaal reh jati hai. Dr. Junaid Fateh, FCPS plastic surgeon, yeh khaal mehfooz marhalon mein operation ke zariye nikalte hain. Woh Lahore aur Layyah mein mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Abdomen, back, arms, thighs and chest"
 price_from: ''
 stats:
   duration: 4–8 hours
@@ -102,6 +115,12 @@ faqs:
   a: "Usually not. Combining too many areas makes surgery long and recovery harder, which increases risk. Most people have two or three stages a few months apart, for example treating the lower body first and the arms, chest or thighs later."
 - q: "Will I have scars?"
   a: "Yes. Removing large amounts of skin means longer scars, which Dr. Junaid places along natural lines and under clothing wherever possible. He will show you where each scar will lie so you can weigh this up before deciding, and scars gradually fade over 12 to 18 months."
+- q: "What are the risks or side effects of body contouring after weight loss?"
+  a: "Because these are larger operations, the risks are higher than for a single small procedure. They include wound healing problems, fluid collection, infection, blood clots and scars that heal less neatly than hoped. Dr. Junaid reduces risk by waiting until your weight is stable, checking your nutrition with blood tests, keeping each stage within a sensible length and encouraging early walking. He goes through the risks with you at consultation."
+- q: "When will I see the final results of body contouring after weight loss?"
+  a: "Each stage gives a clear change in shape soon after surgery, but swelling takes several months to settle. Your final contour usually becomes clear six to twelve months after each operation, and scars keep fading over 12 to 18 months. With a staged plan, the full result is seen once every stage has healed."
+- q: "Is skin removal surgery available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your first consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you can then plan each stage of surgery and your follow-up visits."
 ---
 
 ## About body contouring after weight loss

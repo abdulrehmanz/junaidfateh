@@ -6,10 +6,22 @@ order: 8
 specialty: false
 summary: "Medical chemical peels to improve uneven tone, acne marks, mild scarring and dull texture, chosen for South Asian skin and built up over a series."
 seo:
-  title: "Chemical Peels in Lahore | Dr. Junaid Fateh"
-  description: "Chemical peels in Lahore with Dr. Junaid Fateh for pigmentation, acne marks and dull skin. Peel strength is chosen for South Asian skin. Book a consultation."
-  keywords: "chemical peel Lahore, chemical peels in Lahore, chemical peel cost in Lahore, chemical peel price Pakistan, best chemical peel in Lahore, Dr Junaid Fateh chemical peel, chemical peel Layyah, peel for pigmentation Lahore, acne scar peel Lahore, melasma peel Pakistan, glycolic peel Lahore, TCA peel Lahore, skin peel treatment Lahore, deep chemical peel Lahore, phenol peel Lahore"
+  title: "Chemical Peel in Lahore: Cost & Recovery | Dr. Junaid Fateh"
+  description: "Chemical peels in Lahore and Layyah with Dr. Junaid Fateh, FCPS, for acne scars and pigmentation. Most take 15 to 30 minutes. Book a consultation on WhatsApp."
+  keywords: "chemical peel in Lahore, chemical peel cost in Lahore, chemical peel price in Pakistan, best chemical peel in Lahore, chemical peel near me, chemical peel Layyah, chemical peel before and after, chemical peel recovery, chemical peel for acne scars, chemical peel for pigmentation Lahore, melasma peel Pakistan, glycolic peel Lahore, TCA peel Lahore, phenol peel Lahore, chemical peeling Lahore, chehre ke daag dhabbe ka ilaj, daanon ke nishan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Clearer, more even skin with peels matched to your skin type"
+quick_answer: "A chemical peel is a medical solution that removes damaged surface layers of skin, improving uneven tone, acne marks, mild acne scars and dull texture. FCPS plastic surgeon Dr. Junaid Fateh offers peels to patients in Lahore and Layyah. Light peels take 15 to 30 minutes without anaesthesia, recovery takes 1 to 14 days depending on depth, and 3 to 6 sessions are usual. Cost depends on your plan and is confirmed after consultation."
+also_known_as:
+  - "Chemical peel"
+  - "Skin peel"
+  - "Facial peel"
+  - "Chemical peeling"
+  - "Acid peel"
+  - "Chehre ke daag dhabbe ka ilaj"
+  - "Daanon ke nishan ka ilaj"
+urdu_name: "کیمیکل پیل"
+roman_urdu_summary: "Chemical peel mein chehre par ek medical solution lagaya jata hai jo jild ki upar wali purani tah utaar deta hai, jis se daag dhabbe, daanon ke nishan aur bejaan jild behtar hoti hai. Dr. Junaid Fateh Lahore aur Layyah mein Pakistani jild ke mutabiq peel ki taaqat chunte hain. Mashware ke liye WhatsApp par rabta karein."
+body_location: "Face"
 price_from: ''
 stats:
   duration: "15–30 minutes (deep peels 1–2 hours)"
@@ -103,6 +115,10 @@ faqs:
   a: "Yes, if it is planned well ahead. Start a series at least two to three months before, and avoid any new or stronger peel in the final two weeks."
 - q: "Do you offer deep (phenol) peels?"
   a: "Yes. Deep phenol peels can give a dramatic improvement in deep wrinkles and sun damage, but they need sedation, monitoring during the treatment and a recovery of a few weeks. They are not suitable for darker skin types or for people with certain heart, liver or kidney conditions, so Dr. Junaid assesses you carefully first."
+- q: "What are the risks or side effects of a chemical peel?"
+  a: "Light peels usually cause only mild redness and flaking. Deeper peels carry more risk, including prolonged redness, infection, a cold sore flare-up, temporary darkening or lightening of the skin and, rarely, scarring. In South Asian skin the main concern is dark marks after treatment, so Dr. Junaid chooses the peel strength carefully, may suggest a preparation cream and a test patch, and asks you to use strict sun protection while your skin heals."
+- q: "Are chemical peels available in Layyah?"
+  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Chemical Peels
