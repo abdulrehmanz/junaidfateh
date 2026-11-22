@@ -25,7 +25,7 @@ The ready-built site is in the `_site` folder. From this folder run:
 python3 scripts/preview.py
 ```
 
-Your browser opens `http://localhost:8080/junaidfateh/`. (Opening `_site/index.html` by double-clicking does not work, because the pages expect to be served from a web address.)
+Your browser opens `http://localhost:8080/`. (Opening `_site/index.html` by double-clicking does not work, because the pages expect to be served from a web address.)
 
 ## Run it on your computer
 
@@ -38,15 +38,17 @@ npm run check      # validate content
 npm run build      # build the site into _site/
 ```
 
-`npm start` prints the local address. While `pathPrefix` in `src/_data/site.yml` is `/junaidfateh/`, the preview is at `http://localhost:8080/junaidfateh/`.
+`npm start` prints the local address (usually `http://localhost:8080/`).
 
 ## Deploying
 
-Every push to `main` builds and publishes the site to GitHub Pages using `.github/workflows/deploy.yml`.
+The site is hosted on **Vercel** at https://junaidfateh.vercel.app/. Every push to `main` is built and published by Vercel automatically, using the settings in `vercel.json` (content check, build, output folder `_site`, redirects and caching headers). If the content check fails, Vercel keeps the previous version live.
 
-One-time setup: on GitHub open **Settings > Pages** and set **Source** to **GitHub Actions**.
+Recommended Vercel setting: in **Project > Settings > Environment Variables** add `VERCEL_DEEP_CLONE` = `true`, so the "Updated" dates on pages come from the full git history.
 
-The site is then live at `https://abdulrehmanz.github.io/junaidfateh/`. To move to a custom domain, follow the last section of the content guide.
+The GitHub workflow in `.github/workflows/deploy.yml` re-checks the content on every push and then notifies Bing and other IndexNow search engines about the changes.
+
+To use a custom domain, add it in Vercel under **Project > Settings > Domains**, then change `url` in `src/_data/site.yml` to the new address.
 
 ## Project structure
 

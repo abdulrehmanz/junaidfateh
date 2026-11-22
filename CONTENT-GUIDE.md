@@ -4,7 +4,7 @@ Everything on the website comes from simple text files in the `src` folder. You 
 
 You can edit files in two ways:
 
-- **On GitHub (no software needed):** open the file on github.com, press the pencil icon, make the change and press **Commit changes**. The site rebuilds and goes live in about two minutes.
+- **On GitHub (no software needed):** open the file on github.com, press the pencil icon, make the change and press **Commit changes**. Vercel rebuilds the site and it goes live in about a minute.
 - **On your computer:** edit the file, run `npm run check`, then commit and push.
 
 Lines starting with `#` in `.yml` and `.md` files are comments. They explain the settings and are never shown on the website.
@@ -208,7 +208,7 @@ last_reviewed: 2026-12-01          # optional: the date Dr. Junaid reviewed the 
 
 ## Things only you can do (these matter most for ranking)
 
-1. **Connect the custom domain.** A site on `github.io/junaidfateh` cannot rank as well as `drjunaidfateh.com`, and `robots.txt` only works at the root of a domain.
+1. **Connect a custom domain.** A `vercel.app` address works, but a domain of his own, such as `drjunaidfateh.com`, builds trust and authority over time.
 2. **Google Search Console:** add the domain, paste the verification code into `analytics.googleVerification`, and submit `sitemap.xml`.
 3. **Bing Webmaster Tools:** add the site (you can import it from Search Console), paste the code into `analytics.bingVerification`, and submit the sitemap. Bing feeds ChatGPT search and Copilot.
 4. **Google Business Profile:** create or claim a profile for each location (Lahore and Layyah) with the exact same name, address and phone as `locations.yml`, category "Plastic surgeon", photos, hours and a link to the matching city page. This is the biggest factor for "plastic surgeon near me" and map results.
@@ -223,15 +223,14 @@ last_reviewed: 2026-12-01          # optional: the date Dr. Junaid reviewed the 
 
 When the domain is ready (for example `drjunaidfateh.com`):
 
-1. In `src/_data/site.yml` set:
+1. In Vercel open **Project > Settings > Domains**, add the domain and follow the DNS instructions Vercel shows (usually an A record and a CNAME for `www`).
+2. In `src/_data/site.yml` set:
    ```yaml
    url: "https://drjunaidfateh.com"
-   pathPrefix: "/"
-   customDomain: "drjunaidfateh.com"
    ```
-2. At your domain registrar, add the DNS records GitHub lists under **Settings > Pages > Custom domain**.
-3. In GitHub **Settings > Pages**, enter the domain and tick **Enforce HTTPS** once it is available.
-4. Add the site to Google Search Console and submit `https://drjunaidfateh.com/sitemap.xml`.
+   Keep `pathPrefix: "/"`. This updates canonical links, the sitemap, structured data and llms.txt.
+3. Add the domain to Google Search Console and Bing Webmaster Tools and submit `https://drjunaidfateh.com/sitemap.xml`.
+4. Keep the `vercel.app` address: Vercel automatically redirects it once the custom domain is set as primary.
 
 ## Checking your changes
 
@@ -242,4 +241,4 @@ When the domain is ready (for example `drjunaidfateh.com`):
 - SEO titles or descriptions that are too long or short
 - leftover wording from the old clinic site, prices written in text, or the word "guarantee"
 
-The same check runs automatically on GitHub before every deploy, so a mistake cannot take the site down: the previous version stays live until it is fixed.
+The same check runs automatically on Vercel before every deploy, so a mistake cannot take the site down: the previous version stays live until it is fixed.

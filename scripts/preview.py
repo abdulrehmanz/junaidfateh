@@ -5,7 +5,7 @@ Usage (from the junaidfateh folder):
     python3 scripts/preview.py
 
 Then open the address it prints. It serves the ready-made pages in _site/ under the
-same sub-folder the live site uses (pathPrefix in src/_data/site.yml), so every link,
+same path the live site uses (pathPrefix in src/_data/site.yml), so every link,
 image and style works exactly as it will online.
 
 To see edits you make in src/, rebuild first with:  npm run build

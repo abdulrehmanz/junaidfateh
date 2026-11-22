@@ -1,6 +1,7 @@
-# Builds the site and publishes it to GitHub Pages on every push to main.
-# One-time setup on GitHub: Settings > Pages > Build and deployment > Source: "GitHub Actions".
-name: Build and deploy
+# The website is built and hosted by Vercel on every push to main.
+# This workflow double-checks the content and, once Vercel has published,
+# tells search engines (Bing, Yandex and others via IndexNow) about the changes.
+name: Check content and notify search engines
 
 on:
   push:
@@ -9,20 +10,12 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
-
-concurrency:
-  group: pages
-  cancel-in-progress: true
 
 jobs:
-  build:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0   # full history, so "last updated" dates come from git
       - uses: actions/setup-node@v4
         with:
           node-version: 20
@@ -30,25 +23,11 @@ jobs:
       - run: npm ci
       - name: Check content
         run: npm run check
-      - name: Build site
+      - name: Test build
         run: npm run build
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
 
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
-
-  # Let search engines know about new and updated pages
   notify-search-engines:
-    needs: deploy
+    needs: check
     runs-on: ubuntu-latest
     continue-on-error: true
     steps:
@@ -58,5 +37,5 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
-      - name: Ping IndexNow (Bing, Yandex and others)
-        run: sleep 60 && node scripts/indexnow.mjs
+      - name: Wait for Vercel to publish, then ping IndexNow
+        run: sleep 180 && node scripts/indexnow.mjs
