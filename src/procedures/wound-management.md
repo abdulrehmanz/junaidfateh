@@ -128,6 +128,7 @@ Options Dr. Junaid may recommend include:
 - **Skin grafting:** covering a clean wound with a thin layer of skin taken from another part of your body.
 - **Flap surgery:** moving nearby tissue with its own blood supply to cover deeper wounds, such as those with exposed bone, tendon or metalwork.
 - **Closure and scar care:** stitching the wound once it is ready, then helping the scar settle.
+- **Fresh wound and laceration repair:** Cleaning and carefully closing new cuts and injuries in layers, so they heal with the neatest possible scar. Go to the nearest emergency department first for serious or heavily bleeding wounds.
 
 ## What to expect on the day
 

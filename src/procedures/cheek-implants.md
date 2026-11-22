@@ -126,6 +126,7 @@ Like any surgery, cheek implants carry risks. These include infection, swelling,
 - **Combined implants:** Cover both areas for people who need projection and mid-face volume together.
 - **Fat grafting to the cheeks:** Uses your own fat instead of an implant, suited to softer, more gradual volume restoration.
 - **Cheek fillers:** A non-surgical, temporary option for subtle enhancement or for previewing a result before surgery.
+- **Custom-shaped implants:** Implants trimmed or shaped to your own anatomy, useful when the two sides of the face differ or standard sizes do not fit well.
 
 ## What to expect on the day
 

@@ -128,6 +128,7 @@ Options Dr. Junaid may recommend include:
 - **Ear differences:** reshaping prominent or folded ears, and staged reconstruction for a small or underdeveloped ear (microtia) once the child is old enough.
 - **Birthmarks and skin lesions:** surgical removal of selected moles, vascular lesions and skin tags, with scars placed as discreetly as possible. Some birthmarks are better treated without surgery, and Dr. Junaid will tell you if so.
 - **Other limb and facial differences:** constriction bands, tight skin and some facial asymmetries can often be improved with local flaps, grafts or fat transfer.
+- **Chest wall differences:** Underdeveloped chest muscle or breast (as in Poland syndrome) and some chest shape differences can be improved with fat transfer, implants or tissue flaps once growth is complete.
 
 Cleft lip and palate is covered on its own page.
 

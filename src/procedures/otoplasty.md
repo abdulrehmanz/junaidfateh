@@ -129,6 +129,7 @@ Depending on the shape of the ear, the plan may include:
 - **Earlobe correction:** Large or forward-pointing earlobes are adjusted so they match the rest of the corrected ear.
 - **Asymmetry correction:** When only one ear stands out, that side is reshaped to match the other as closely as possible.
 - **Torn or stretched earlobe repair:** A short procedure under local anaesthetic closes a split or enlarged piercing hole.
+- **Ear reconstruction:** Rebuilds part of an ear lost to injury, or an underdeveloped ear, usually in planned stages using cartilage and skin from your own body.
 
 ## What to expect on the day
 

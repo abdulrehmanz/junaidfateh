@@ -128,6 +128,7 @@ Depending on your eyes, Dr. Junaid may suggest:
 - **Transconjunctival blepharoplasty:** Under-eye fat is treated from inside the lower eyelid, leaving no visible scar on the skin. It suits people with puffiness but good skin tone.
 - **Fat repositioning:** Instead of being removed, under-eye fat is moved into the hollow at the top of the cheek to soften the tear trough.
 - **Combined treatment:** Eyelid surgery is often paired with a brow lift, a facelift or non-surgical treatments when more than one area needs attention.
+- **Asian (double eyelid) blepharoplasty:** Creates or refines an upper eyelid crease while respecting the natural shape of the eye, using a small incision or a stitch technique depending on the lid.
 
 ## What to expect on the day
 

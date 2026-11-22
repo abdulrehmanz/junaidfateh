@@ -131,6 +131,8 @@ Options Dr. Junaid may recommend, depending on your face and goals, include:
 - **Deep plane facelift:** Releases and lifts the deeper tissues together, suited to more marked sagging of the mid-face and jowls.
 - **Neck lift:** Often added to a facelift to tighten loose neck skin and soften the bands under the chin.
 - **Fat transfer:** A small amount of your own fat can restore lost volume in the cheeks alongside the lift.
+- **MACS (short-scar) lift:** A version of the mini facelift that lifts the lower face with stitches through a short incision in front of the ear.
+- **Endoscopic mid-face lift:** Small hidden incisions and a camera are used to raise the cheek pad and soften the under-eye and nose-to-mouth area.
 
 ## What to expect on the day
 

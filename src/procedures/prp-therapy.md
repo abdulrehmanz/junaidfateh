@@ -126,6 +126,7 @@ Because PRP works best as a course, he also sets out a realistic timeline at the
 - **Under-eye PRP:** A gentle option for thin, crepey skin under the eyes; it does not replace filler where hollows are deep.
 - **PRP for acne scars:** Usually combined with microneedling or other scar treatments over several sessions.
 - **PRP as an add-on:** Used alongside other skin treatments as part of a wider plan when it is likely to help.
+- **PRP for wound and soft-tissue healing:** Used in selected slow-healing wounds or after some procedures to support the body's own repair, as part of a wider treatment plan.
 
 ## What to expect on the day
 

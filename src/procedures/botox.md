@@ -127,6 +127,8 @@ His aim is a face that looks rested, not one that has stopped moving. He prefers
 - **Gummy smile:** A tiny dose above the upper lip can reduce how much gum shows when you smile.
 - **Neck bands:** Softens prominent vertical cords at the front of the neck.
 - **Underarm sweating:** Reduces sweat production for people with excessive sweating, which many find helpful through Lahore's long, humid summers.
+- **Blepharospasm:** Small doses around the eyes can calm involuntary blinking or eyelid spasm, usually alongside assessment by an eye specialist or neurologist.
+- **Facial tics and spasms:** Selected muscle twitches, such as hemifacial spasm, may be eased with careful injections after the cause has been checked.
 
 ## What to expect on the day
 

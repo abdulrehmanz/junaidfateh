@@ -130,6 +130,7 @@ Options Dr. Junaid may recommend include:
 - **Skin grafting:** covering a clean wound with a thin layer of your own skin.
 - **Local flap surgery:** moving nearby tissue with its own blood supply to cover exposed bone or tendon.
 - **Foot-care education:** daily checks, nail care and footwear advice to help stop new ulcers forming.
+- **Limb salvage:** Combining infection control, off-loading, grafts and flaps with your diabetes and vascular care to save as much of the foot as possible and avoid amputation where it can be avoided.
 
 ## What to expect on the day
 

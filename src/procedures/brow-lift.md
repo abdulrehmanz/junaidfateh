@@ -128,6 +128,7 @@ The main approaches Dr. Junaid may recommend are:
 - **Hairline forehead lift:** An incision along the front of the hairline lifts the brow without making a high forehead look taller.
 - **Direct brow lift:** Skin is removed just above the eyebrow for precise lift. It leaves a scar along the brow, so it is mostly used for older patients or after facial nerve weakness.
 - **Non-surgical brow lift:** Anti-wrinkle injections or threads can give a small, temporary lift for early changes.
+- **Coronal brow lift:** An incision across the top of the scalp, well behind the hairline, allows a strong, even lift of the whole forehead. It suits heavier brows and people with a normal or low hairline.
 
 ## What to expect on the day
 
