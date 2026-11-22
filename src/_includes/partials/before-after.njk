@@ -1,0 +1,12 @@
+{#- expects: pair {before, after, caption}, label -#}
+<figure class="ba">
+  <div class="ba__stage" style="--pos:50%">
+    <img class="ba__img ba__img--after" src="{{ pair.after }}" alt="{{ label }} after treatment" loading="lazy" decoding="async">
+    <img class="ba__img ba__img--before" src="{{ pair.before }}" alt="{{ label }} before treatment" loading="lazy" decoding="async">
+    <span class="ba__tag ba__tag--before">Before</span>
+    <span class="ba__tag ba__tag--after">After</span>
+    <span class="ba__handle" aria-hidden="true"><i class="fas fa-arrows-left-right"></i></span>
+    <input class="ba__range" type="range" min="0" max="100" value="50" aria-label="Drag to compare before and after: {{ label }}">
+  </div>
+  <figcaption>{% if pair.caption %}{{ pair.caption }}{% else %}{{ label }}{% endif %} <span>Individual results vary.</span></figcaption>
+</figure>

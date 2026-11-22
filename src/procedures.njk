@@ -1,0 +1,40 @@
+---
+layout: layouts/base.njk
+permalink: /procedures/
+title: "Procedures"
+heroEyebrow: "Cosmetic &amp; Reconstructive"
+heroTitle: "Procedures &amp; treatments"
+heroSubtitle: "Surgical and non-surgical treatments offered by Dr. Junaid Fateh in Lahore and Layyah. Signature specialties are marked with a star."
+heroActions: true
+seo:
+  title: "Plastic Surgery Procedures in Lahore | Dr. Junaid Fateh"
+  description: "All cosmetic, non-surgical and reconstructive procedures offered by Dr. Junaid Fateh in Lahore and Layyah, from hair transplants to hand surgery."
+  keywords: "plastic surgery procedures Lahore, cosmetic surgery Lahore, cosmetic surgery Layyah, reconstructive surgery Lahore, non-surgical treatments Lahore, Dr Junaid Fateh procedures"
+---
+{%- set crumbs = [{ name: "Procedures" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container">
+    <nav class="pill-nav" aria-label="Jump to category">
+      {% for cat in collections.categories %}<a href="#{{ cat.fileSlug }}">{{ cat.data.nav_title }}</a>{% endfor %}
+    </nav>
+
+    {% for cat in collections.categories %}
+    <div class="cat-block" id="{{ cat.fileSlug }}">
+      <div class="cat-block__head">
+        <div>
+          <h2><i class="fas {{ cat.data.icon }}" aria-hidden="true"></i> {{ cat.data.title }}</h2>
+          <p>{{ cat.data.summary }}</p>
+        </div>
+        <a class="link-arrow" href="{{ cat.url }}">Overview <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+      </div>
+      <div class="card-grid">
+        {% for p in collections.procedures | byCategory(cat.fileSlug) %}{% include "partials/procedure-card.njk" %}{% endfor %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

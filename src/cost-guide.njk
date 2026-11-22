@@ -1,0 +1,100 @@
+---
+layout: layouts/base.njk
+permalink: /cost-guide/
+title: "Cost Guide"
+heroEyebrow: "Patient guide"
+heroTitle: "Cost guide"
+heroSubtitle: "How fees for cosmetic and reconstructive procedures are worked out, what a quote includes, and how to get yours."
+heroActions: true
+seo:
+  title: "Plastic Surgery Cost in Lahore | Dr. Junaid Fateh"
+  description: "What affects the cost of hair transplant, gynecomastia, liposuction and other procedures with Dr. Junaid Fateh in Lahore and Layyah, and how to get a quote."
+  keywords: "plastic surgery cost Lahore, hair transplant cost Lahore, gynecomastia surgery cost Lahore, liposuction cost Lahore, Botox price Lahore, cosmetic surgery price Pakistan, hair transplant cost Layyah"
+faqs:
+  - q: "Why can't I see an exact price online?"
+    a: "Two people asking for the same procedure often need quite different plans. A hair transplant for early recession is a very different operation from one for extensive loss, for example. A quote given without seeing you is usually wrong, so Dr. Junaid prefers to give you an accurate written quote after assessing you."
+  - q: "Can I get a rough idea before travelling?"
+    a: "Yes. Send clear photos and a short description on WhatsApp and book an online consultation. Dr. Junaid can then give you an indication and confirm the final quote when he sees you in person."
+  - q: "Does the quote include follow-up visits?"
+    a: "Your written quote lists exactly what is included, such as the procedure, anaesthesia, facility, garments or medicines where relevant, and follow-up visits. Ask about anything you are unsure of before you book."
+  - q: "Is the cheapest option the best value?"
+    a: "Not always. Very low prices can mean shortcuts in assessment, facilities, sterile technique, anaesthesia or aftercare. Compare what is included and who will actually perform your procedure, not just the headline price."
+---
+{%- set crumbs = [{ name: "Cost Guide" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container grid-2" style="align-items:start">
+    <div class="prose reveal">
+      <p class="eyebrow">How pricing works</p>
+      <h2>Every quote is personal</h2>
+      <p>The fee for a procedure depends on what you need, not on a fixed menu. After your consultation, Dr. Junaid gives you a clear written quote so you know exactly what you are paying for before you decide.</p>
+      <h3>What affects the cost</h3>
+      <ul>
+        <li><strong>The extent of treatment:</strong> for example the number of grafts in a hair transplant, or how many areas are treated with liposuction.</li>
+        <li><strong>Technique:</strong> some methods take longer or need special instruments.</li>
+        <li><strong>Anaesthesia:</strong> local anaesthetic, sedation or general anaesthesia.</li>
+        <li><strong>Facility and stay:</strong> day-case treatment or an overnight hospital stay.</li>
+        <li><strong>Aftercare:</strong> compression garments, medicines and follow-up visits.</li>
+        <li><strong>Combined procedures:</strong> having more than one procedure at the same time.</li>
+      </ul>
+    </div>
+    <div class="reveal">
+      <div class="info-box">
+        <h3><i class="fas fa-file-invoice" aria-hidden="true"></i> Your written quote shows</h3>
+        <ul class="checklist">
+          <li>The procedure and technique planned for you</li>
+          <li>Anaesthesia and facility charges</li>
+          <li>Medicines, garments or products where needed</li>
+          <li>Follow-up visits included</li>
+          <li>Anything that is not included</li>
+        </ul>
+      </div>
+      <div class="info-box" style="margin-top:1.25rem">
+        <h3><i class="fas fa-paper-plane" aria-hidden="true"></i> Get a quote</h3>
+        <p class="muted">Send photos and your questions on WhatsApp. You can start with an online consultation and confirm the final plan in person.</p>
+        <p style="margin-top:1rem"><a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult data-message="I would like a quote."><i class="fas fa-calendar-check" aria-hidden="true"></i> Request a quote</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">At a glance</p>
+      <h2>Procedures, recovery and fees</h2>
+      <p>Typical procedure time and recovery for each treatment. Fees are confirmed after your consultation.</p>
+    </div>
+    <div class="table-wrap">
+      <table class="price-table">
+        <thead>
+          <tr><th scope="col">Procedure</th><th scope="col" class="hide-sm">Duration</th><th scope="col" class="hide-sm">Recovery</th><th scope="col">Fee</th></tr>
+        </thead>
+        <tbody>
+          {% for cat in collections.categories %}
+          <tr class="cat-row"><th colspan="4" scope="colgroup">{{ cat.data.title }}</th></tr>
+          {% for p in collections.procedures | byCategory(cat.fileSlug) %}
+          <tr>
+            <th scope="row"><a href="{{ p.url }}">{{ p.data.short_title }}</a></th>
+            <td class="hide-sm">{{ p.data.stats.duration }}</td>
+            <td class="hide-sm">{{ p.data.stats.recovery }}</td>
+            {% if p.data.price_from %}<td class="price">From {{ p.data.price_from }}</td>{% else %}<td class="price price--ask"><a href="{{ '' | waLink }}" data-consult data-procedure="{{ p.data.title }}" data-message="I would like a quote.">Ask for a quote</a></td>{% endif %}
+          </tr>
+          {% endfor %}
+          {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container container--narrow">
+    <div class="section__head reveal"><p class="eyebrow">Questions</p><h2>Cost FAQs</h2></div>
+    {% set faqList = faqs %}{% set faqOpenFirst = true %}
+    {% include "partials/faq-list.njk" %}
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

@@ -1,0 +1,10 @@
+{#- expects: post -#}
+<a class="post-card reveal" href="{{ post.url }}">
+  <span class="post-card__img">{% if post.data.image %}<img src="{{ post.data.image }}" alt="{{ post.data.image_alt or '' }}" loading="lazy" decoding="async">{% endif %}</span>
+  <span class="post-card__body">
+    <span class="post-card__cat">{{ post.data.category }}</span>
+    <span class="post-card__title">{{ post.data.title }}</span>
+    <span class="post-card__text">{{ post.data.description | truncate(140) }}</span>
+    <span class="post-card__meta">{{ post.date | readableDate }}</span>
+  </span>
+</a>

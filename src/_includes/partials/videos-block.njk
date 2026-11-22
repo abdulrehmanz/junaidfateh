@@ -1,0 +1,14 @@
+{#- expects: videoList (list), socialList (list), videoLabel -#}
+{% if videoList and videoList.length %}
+<div class="video-grid">
+  {% for v in videoList %}{% videoEmbed v, videoLabel %}{% endfor %}
+</div>
+{% endif %}
+{% if socialList and socialList.length %}
+<div class="social-links">
+  {% for s in socialList %}
+  {%- set pf = s.url | platform -%}
+  <a class="social-pill social-pill--{{ pf.key }}" href="{{ s.url }}" target="_blank" rel="noopener"><i class="{{ pf.icon }}" aria-hidden="true"></i> {{ s.label or ("View on " ~ pf.label) }}</a>
+  {% endfor %}
+</div>
+{% endif %}

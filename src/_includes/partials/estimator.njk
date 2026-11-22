@@ -1,0 +1,66 @@
+{# Hair graft estimator. Options come from src/_data/estimator.yml #}
+<section class="estimator" id="graft-estimator" aria-labelledby="estimator-title" data-estimator>
+  <div class="estimator__head">
+    <p class="eyebrow">Free online tool</p>
+    <h2 id="estimator-title">Hair graft estimator</h2>
+    <p>Answer two quick questions to see roughly how many grafts people with similar hair loss usually need.</p>
+  </div>
+
+  <div class="estimator__tabs" role="tablist" aria-label="Area">
+    {% for area in estimator.areas %}
+    <button type="button" role="tab" class="estimator__tab{% if loop.first %} is-active{% endif %}" aria-selected="{{ 'true' if loop.first else 'false' }}" data-area="{{ area.id }}"><i class="fas {{ area.icon }}" aria-hidden="true"></i> {{ area.label }}</button>
+    {% endfor %}
+  </div>
+
+  {% for area in estimator.areas %}
+  <div class="estimator__panel" data-panel="{{ area.id }}" data-procedure="{{ area.procedure }}"{% if not loop.first %} hidden{% endif %}>
+    <p class="estimator__q">{{ area.question }}{% if area.id == 'scalp' %} <small>(head seen from above, forehead at the top)</small>{% endif %}</p>
+    <div class="estimator__options">
+      {% for o in area.options %}
+      <label class="est-opt">
+        <input type="radio" name="est-{{ area.id }}" value="{{ o.id }}" data-min="{{ o.min }}" data-max="{{ o.max }}" data-label="{{ o.label }}: {{ o.text }}"{% if loop.index == 2 %} checked{% endif %}>
+        <span class="est-opt__box">
+          {% if area.id == 'scalp' %}
+          <svg class="est-opt__head" viewBox="0 0 64 64" aria-hidden="true"><use href="#hl-{{ o.id }}"/></svg>
+          {% endif %}
+          <strong>{{ o.label }}</strong>
+          <small>{{ o.text }}</small>
+        </span>
+      </label>
+      {% endfor %}
+    </div>
+    {% if area.density %}
+    <p class="estimator__q">{{ area.density.label }}</p>
+    <div class="chips">
+      {% for d in area.density.options %}
+      <label class="chip"><input type="radio" name="est-density" value="{{ d.factor }}" data-label="{{ d.label }}"{% if loop.first %} checked{% endif %}><span>{{ d.label }}</span></label>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+
+  <div class="estimator__result" aria-live="polite">
+    <div>
+      <p class="estimator__label">Estimated grafts</p>
+      <p class="estimator__value" data-est-value>1,500 to 2,200</p>
+      <p class="estimator__meta" data-est-meta>Usually one session</p>
+    </div>
+    <a class="btn btn--gold" href="{{ '' | waLink }}" data-consult data-est-send><i class="fab fa-whatsapp" aria-hidden="true"></i> Send this to Dr. Junaid</a>
+  </div>
+  <p class="estimator__note"><i class="fas fa-circle-info" aria-hidden="true"></i> {{ estimator.disclaimer }}</p>
+
+  {# Scalp illustrations, seen from above with the forehead at the top (dark = hair) #}
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <clipPath id="hl-clip"><ellipse cx="32" cy="33" rx="22" ry="27"/></clipPath>
+      <symbol id="hl-nw2" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="19" cy="9" rx="5" ry="6"/><ellipse cx="45" cy="9" rx="5" ry="6"/></g></symbol>
+      <symbol id="hl-nw3" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="18" cy="12" rx="7" ry="9"/><ellipse cx="46" cy="12" rx="7" ry="9"/><ellipse cx="32" cy="5" rx="10" ry="3"/></g></symbol>
+      <symbol id="hl-nw3v" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="18" cy="12" rx="7" ry="9"/><ellipse cx="46" cy="12" rx="7" ry="9"/><ellipse cx="32" cy="5" rx="10" ry="3"/><circle cx="32" cy="44" r="5"/></g></symbol>
+      <symbol id="hl-nw4" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="32" cy="9" rx="17" ry="9"/><circle cx="32" cy="43" r="7"/></g></symbol>
+      <symbol id="hl-nw5" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="32" cy="13" rx="18" ry="12"/><circle cx="32" cy="41" r="10"/></g></symbol>
+      <symbol id="hl-nw6" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="32" cy="26" rx="18" ry="21"/></g></symbol>
+      <symbol id="hl-nw7" viewBox="0 0 64 64"><ellipse cx="9" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="55" cy="34" rx="3" ry="6" fill="#D9C2A5"/><ellipse cx="32" cy="33" rx="22" ry="27" fill="#2B2420"/><g fill="#EAD7BF" clip-path="url(#hl-clip)"><ellipse cx="32" cy="28" rx="19" ry="24"/></g></symbol>
+    </defs>
+  </svg>
+</section>

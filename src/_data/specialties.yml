@@ -1,0 +1,29 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  SIGNATURE SPECIALTIES (home page cards and About page)
+#  icon: any Font Awesome 6 solid icon name, see https://fontawesome.com/icons
+# ─────────────────────────────────────────────────────────────────────────────
+
+- title: "Hair Transplant"
+  icon: "fa-user"
+  url: "/hair-transplant/"
+  text: "FUE and FUT hair restoration with natural hairline design, plus beard and eyebrow transplants and PRP."
+
+- title: "Gynecomastia"
+  icon: "fa-shirt"
+  url: "/procedures/gynecomastia/"
+  text: "Discreet male chest reduction combining liposuction and gland removal for a flatter, firmer chest."
+
+- title: "Liposuction & Body Contouring"
+  icon: "fa-person"
+  url: "/procedures/liposuction/"
+  text: "Targeted fat removal and body shaping, from single areas to full contouring after weight loss."
+
+- title: "Non-Surgical Aesthetics"
+  icon: "fa-wand-magic-sparkles"
+  url: "/procedures/non-surgical/"
+  text: "Botox, fillers, PRP, peels and skin treatments for a fresher look with little or no downtime."
+
+- title: "Hand & Reconstructive Surgery"
+  icon: "fa-hand"
+  url: "/procedures/reconstructive-surgery/"
+  text: "Hand injuries, tendon and nerve repair, burns and scar reconstruction to restore form and function."

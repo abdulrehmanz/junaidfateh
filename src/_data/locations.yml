@@ -1,0 +1,35 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  PRACTICE LOCATIONS
+#  Shown in the footer, on the Contact page and in Google structured data.
+#  Empty values are hidden on the website.
+# ─────────────────────────────────────────────────────────────────────────────
+
+- id: lahore
+  city: "Lahore"
+  clinic: "Aestique Clinic"
+  address: "First Floor, 28-A, near Jail Road, Shadman II"
+  area: "Shadman"
+  postalCode: "54000"
+  region: "Punjab"
+  phone: "+92 336 6600008"
+  days: ""                         # e.g. "Monday to Thursday"
+  hours: ""                        # e.g. "5:00 pm to 9:00 pm"
+  mapsUrl: "https://maps.app.goo.gl/74EaRnSaxtmMGvgE8"
+  mapEmbed: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1330.5599071025865!2d74.33771786969022!3d31.53608469838791!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39190500103bdee5%3A0xa1a70a3282802516!2sAestique%20Clinic!5e1!3m2!1sen!2sus!4v1772926618272!5m2!1sen!2sus"
+  latitude: 31.5360847
+  longitude: 74.3377179
+
+- id: layyah
+  city: "Layyah"
+  clinic: ""                       # clinic name in Layyah
+  address: ""                      # street address in Layyah
+  area: ""
+  postalCode: ""
+  region: "Punjab"
+  phone: "+92 336 6600008"
+  days: ""
+  hours: ""
+  mapsUrl: ""                      # Google Maps share link
+  mapEmbed: ""                     # Google Maps "Embed a map" src URL
+  latitude: ""
+  longitude: ""

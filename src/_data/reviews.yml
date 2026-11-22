@@ -1,0 +1,195 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  PATIENT REVIEWS
+#  To add a review, copy one block and edit it. Newest reviews can go at the top.
+#    name:            patient name (or initials if they prefer)
+#    city:            where they came from
+#    procedure:       shown on the card
+#    procedure_slug:  file name of the procedure (without .md) so it also appears on that procedure page
+#    rating:          1 to 5
+#    featured:        true = shown on the home page
+#    source:          optional, e.g. "Google" or "Facebook"
+#    text:            the review
+# ─────────────────────────────────────────────────────────────────────────────
+
+- name: Zain Abbas
+  city: Lahore
+  procedure: Rhinoplasty
+  procedure_slug: rhinoplasty
+  rating: 5
+  featured: false
+  text: Best plastic surgeon in Lahore, hands down. The expertise and attention to detail from Dr. Junaid was unmatched. My nose looks perfectly natural.
+- name: Bilal Ahmed
+  city: Faisalabad
+  procedure: Rhinoplasty
+  procedure_slug: rhinoplasty
+  rating: 5
+  featured: false
+  text: Had my rhinoplasty with Dr. Junaid and the results are incredible. Natural looking, no visible scarring. My breathing has improved too!
+- name: Ahmed Malik
+  city: Lahore
+  procedure: FUE Hair Transplant
+  procedure_slug: fue-hair-transplant
+  rating: 5
+  featured: true
+  text: Dr. Junaid transformed my confidence with an incredible hair transplant. Professional, discreet, and amazing results. Highly recommended!
+- name: Usman Raza
+  city: Multan
+  procedure: FUE Hair Transplant
+  procedure_slug: fue-hair-transplant
+  rating: 5
+  featured: false
+  text: After years of hesitation, I finally got my hair transplant done by Dr. Junaid. The density and natural hairline exceeded my expectations.
+- name: Kamran Siddiqui
+  city: Lahore
+  procedure: FUT Hair Transplant
+  procedure_slug: fut-hair-transplant
+  rating: 5
+  featured: false
+  text: Dr. Junaid recommended FUT for maximum density and he was right. Six months post-op and my hair looks thicker than ever. Outstanding work.
+- name: Tariq Mehmood
+  city: Rawalpindi
+  procedure: FUE Hair Transplant
+  procedure_slug: fue-hair-transplant
+  rating: 5
+  featured: true
+  text: Came from Rawalpindi for Dr. Junaid's expertise. The FUE procedure was painless and the results started showing within 4 months. Worth every penny.
+- name: Waqar Hussain
+  city: Karachi
+  procedure: FUE Hair Transplant
+  procedure_slug: fue-hair-transplant
+  rating: 5
+  featured: false
+  text: Flew in from Karachi for my hair transplant. Dr. Junaid's technique is world-class. The grafts took perfectly and the results are life-changing.
+- name: Hassan Ali
+  city: Lahore
+  procedure: Gynecomastia
+  procedure_slug: gynecomastia
+  rating: 5
+  featured: false
+  text: Professional, discreet, and amazing results. I had concerns about privacy, but the clinic handled everything with utmost confidentiality and care.
+- name: Faisal Mahmood
+  city: Islamabad
+  procedure: Gynecomastia
+  procedure_slug: gynecomastia
+  rating: 5
+  featured: true
+  text: I was nervous about my gynecomastia surgery, but Dr. Junaid made me feel completely at ease. His expertise is unmatched. I'm thrilled with my new confident look.
+- name: Usman Haider
+  city: Lahore
+  procedure: Liposuction
+  procedure_slug: liposuction
+  rating: 5
+  featured: true
+  text: Dr. Junaid's liposuction work is exceptional. He sculpted my abdomen perfectly and the recovery was smoother than I expected. Top-notch surgeon.
+- name: Rizwan Chaudhry
+  city: Lahore
+  procedure: Brazilian Butt Lift
+  procedure_slug: brazilian-butt-lift
+  rating: 5
+  featured: false
+  text: Dr. Junaid performed my wife's BBL and she is over the moon with the results. The proportions are perfect and the recovery was well-managed.
+- name: Rahat Mirza
+  city: Lahore
+  procedure: PRP Therapy
+  procedure_slug: prp-therapy
+  rating: 5
+  featured: false
+  text: PRP therapy for my face has made a huge difference in my skin texture and glow. The treatment was comfortable and the results keep improving each session.
+- name: Noor Fatima
+  city: Lahore
+  procedure: Microneedling
+  procedure_slug: microneedling
+  rating: 5
+  featured: false
+  text: The microneedling sessions have dramatically improved my skin texture and reduced my pore size. The clinic maintains the highest hygiene standards.
+- name: Kashif Nawaz
+  city: Lahore
+  procedure: Scar Revision
+  procedure_slug: scar-revision
+  rating: 5
+  featured: false
+  text: Dr. Junaid significantly reduced a prominent scar from a childhood accident. His surgical precision is remarkable. The scar is barely visible now.
+- name: Tanveer Shah
+  city: Peshawar
+  procedure: Burn Reconstruction
+  procedure_slug: burn-reconstruction
+  rating: 5
+  featured: true
+  text: Dr. Junaid reconstructed my burn scars with incredible skill. The improvement is dramatic and has restored my confidence completely. A truly gifted surgeon.
+- name: Rukhsana Bibi
+  city: Lahore
+  procedure: Cleft Lip Repair
+  procedure_slug: cleft-lip-palate
+  rating: 5
+  featured: false
+  text: Dr. Junaid repaired my daughter's cleft lip and the result is beautiful. He treated our family with such compassion. We are forever grateful.
+- name: Ali Imran
+  city: Sahiwal
+  procedure: Hand Surgery
+  procedure_slug: hand-surgery
+  rating: 5
+  featured: true
+  text: Had a hand injury that needed expert reconstruction. Dr. Junaid's microsurgical skill restored full function to my fingers. Exceptional doctor.
+- name: Naveed Iqbal
+  city: Lahore
+  procedure: Beard Transplant
+  procedure_slug: beard-transplant
+  rating: 5
+  featured: true
+  text: Always wanted a fuller beard. Dr. Junaid's beard transplant gave me exactly that. The density is perfect and it looks completely natural.
+- name: Hamza Sheikh
+  city: Lahore
+  procedure: PRP Hair Therapy
+  procedure_slug: prp-hair-therapy
+  rating: 5
+  featured: false
+  text: Started PRP hair therapy with Dr. Junaid as a preventive measure. My hair fall has reduced by 70% and I'm seeing new growth. Excellent treatment.
+- name: Adeel Khan
+  city: Lahore
+  procedure: Eyebrow Transplant
+  procedure_slug: eyebrow-transplant
+  rating: 5
+  featured: false
+  text: Lost my eyebrows in an accident. Dr. Junaid performed an eyebrow transplant that looks incredibly natural. His attention to detail is extraordinary.
+- name: Saad Farooq
+  city: Lahore
+  procedure: Otoplasty
+  procedure_slug: otoplasty
+  rating: 5
+  featured: false
+  text: Had my ears pinned back by Dr. Junaid. I finally feel comfortable wearing my hair short. Subtle change but huge impact on my confidence.
+- name: Danish Raza
+  city: Gujrat
+  procedure: Chin Reshaping
+  procedure_slug: chin-reshaping
+  rating: 5
+  featured: false
+  text: Chin implant by Dr. Junaid completely balanced my facial profile. He has an incredible eye for facial proportions and aesthetics.
+- name: Asad Mahmood
+  city: Lahore
+  procedure: Neck Lift
+  procedure_slug: neck-lift
+  rating: 5
+  featured: false
+  text: Dr. Junaid removed years from my appearance with a neck lift. The jawline definition is incredible. Professional and highly skilled surgeon.
+- name: Rehan Akram
+  city: Lahore
+  procedure: Body Contouring
+  procedure_slug: body-contouring-weight-loss
+  rating: 5
+  featured: false
+  text: After losing 40kg, I had a lot of excess skin. Dr. Junaid's body contouring surgery gave me the body I had been working so hard for.
+- name: Yasir Ali
+  city: Lahore
+  procedure: Arm Lift
+  procedure_slug: arm-lift
+  rating: 5
+  featured: false
+  text: The brachioplasty by Dr. Junaid eliminated the loose skin on my arms after weight loss. Clean incisions, minimal scarring, excellent result.
+- name: Wajid Hassan
+  city: Lahore
+  procedure: Consultation
+  procedure_slug: ''
+  rating: 5
+  featured: true
+  text: Even before any procedure, the consultation itself was worth it. Dr. Junaid gave honest advice and didn't push unnecessary procedures. Rare integrity.

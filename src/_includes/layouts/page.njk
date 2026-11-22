@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+---
+{#- Simple content page (privacy, terms, or any new text page). Write the body in markdown or HTML. -#}
+{%- set crumbs = [{ name: breadcrumb or title }] -%}
+{% include "partials/page-hero.njk" %}
+<section class="section">
+  <div class="container container--narrow prose">
+    {{ content | safe }}
+  </div>
+</section>
+{% if not hideCta %}{% include "partials/cta-band.njk" %}{% endif %}

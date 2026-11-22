@@ -1,0 +1,9 @@
+{#- expects: r (review) -#}
+<figure class="review-card" data-filter-item="{{ r.procedure_slug }}">
+  <div class="review-card__stars" aria-label="{{ r.rating or 5 }} out of 5 stars">{% for i in range(0, r.rating or 5) %}<i class="fas fa-star" aria-hidden="true"></i>{% endfor %}</div>
+  <blockquote>{{ r.text }}</blockquote>
+  <figcaption>
+    <span class="review-card__avatar" aria-hidden="true">{{ r.name | initials }}</span>
+    <span><strong>{{ r.name }}</strong><small>{{ r.procedure }}{% if r.city %} &middot; {{ r.city }}{% endif %}{% if r.source %} &middot; via {{ r.source }}{% endif %}</small></span>
+  </figcaption>
+</figure>

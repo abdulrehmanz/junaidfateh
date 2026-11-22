@@ -1,0 +1,22 @@
+{#- Inner page hero. Uses: heroEyebrow, title, heroTitle, hero_subtitle/heroSubtitle, crumbs (list of {name,url}) -#}
+<section class="page-hero">
+  <div class="container page-hero__inner">
+    <nav class="crumbs" aria-label="Breadcrumb">
+      <a href="/">Home</a>
+      {%- for c in crumbs or [] %}<span aria-hidden="true">/</span>{% if c.url %}<a href="{{ c.url }}">{{ c.name }}</a>{% else %}<span aria-current="page">{{ c.name }}</span>{% endif %}{% endfor %}
+    </nav>
+    {% if heroEyebrow %}<p class="eyebrow eyebrow--light">{{ heroEyebrow | safe }}</p>{% endif %}
+    <h1>{{ (heroTitle or title) | safe }}</h1>
+    {% if hero_subtitle or heroSubtitle %}<p class="page-hero__sub">{{ (hero_subtitle or heroSubtitle) | safe }}</p>{% endif %}
+    {% if heroActions %}
+    <div class="page-hero__actions">
+      <a class="btn btn--gold" href="{{ '' | waLink }}" data-consult{% if consultProcedure %} data-procedure="{{ consultProcedure }}"{% endif %}><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
+      {% if estimator %}
+      <a class="btn btn--ghost-light" href="#graft-estimator"><i class="fas fa-calculator" aria-hidden="true"></i> Estimate your grafts</a>
+      {% else %}
+      <a class="btn btn--ghost-light" href="{{ ('Assalam o Alaikum Dr. Junaid, I have a question about ' ~ (consultProcedure or 'a treatment') ~ '.') | waLink }}" target="_blank" rel="noopener" data-direct><i class="fab fa-whatsapp" aria-hidden="true"></i> Quick question</a>
+      {% endif %}
+    </div>
+    {% endif %}
+  </div>
+</section>

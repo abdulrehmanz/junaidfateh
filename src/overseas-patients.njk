@@ -1,0 +1,95 @@
+---
+layout: layouts/base.njk
+permalink: /overseas-patients/
+title: "Overseas Patients"
+heroEyebrow: "Patients abroad"
+heroTitle: "Treatment in Pakistan for overseas patients"
+heroSubtitle: "Living in the UK, the Gulf, Europe or North America? Start with a video consultation, plan your visit around your procedure, and stay in touch after you fly home."
+heroActions: true
+seo:
+  title: "Overseas Patients | Surgery in Lahore with Dr. Junaid"
+  description: "Overseas Pakistanis can start with a WhatsApp video consultation, plan their stay and recover safely with Dr. Junaid Fateh in Lahore or Layyah."
+  keywords: "hair transplant Pakistan for overseas, cosmetic surgery Pakistan from UK, plastic surgery Lahore from Dubai, hair transplant Lahore from Saudi Arabia, overseas Pakistanis surgery Lahore, online consultation plastic surgeon Pakistan"
+faqs:
+  - q: "Can I have the whole consultation online?"
+    a: "You can start online. A video consultation lets Dr. Junaid understand your goals, look at your photos and give you an initial plan. Before any procedure he always examines you in person to confirm the plan is safe and suitable."
+  - q: "What photos should I send?"
+    a: "Clear photos in good daylight, without filters, from the front, both sides and at an angle. For hair loss, include the top and back of the head. The team will tell you if any other views are needed."
+  - q: "When can I fly home after surgery?"
+    a: "It depends on the procedure and how you recover. Short-haul travel may be possible within days after minor procedures, while larger operations usually need a longer stay. Dr. Junaid will confirm when it is safe for you to fly."
+  - q: "How does follow-up work once I'm home?"
+    a: "You can send progress photos and questions on WhatsApp, and online follow-up appointments can be arranged. If you need in-person care where you live, Dr. Junaid can share a summary of your procedure for your local doctor."
+---
+{%- set crumbs = [{ name: "Overseas Patients" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Step by step</p>
+      <h2>How it works from abroad</h2>
+    </div>
+    <ol class="steps">
+      <li class="step reveal"><h3>Send your details</h3><p>Use the consultation form and choose "Online". Add clear photos and a short description of what you would like to change.</p></li>
+      <li class="step reveal"><h3>Video consultation</h3><p>Dr. Junaid reviews your photos, discusses your goals and medical history, and explains the options.</p></li>
+      <li class="step reveal"><h3>Plan your visit</h3><p>You receive an outline plan with the number of days to allow in Pakistan, and preparation advice.</p></li>
+      <li class="step reveal"><h3>In-person assessment</h3><p>When you arrive, Dr. Junaid examines you and confirms the final plan and quote before treatment.</p></li>
+      <li class="step reveal"><h3>Procedure &amp; recovery</h3><p>Your treatment in Lahore or Layyah, followed by check-ups before you travel.</p></li>
+      <li class="step reveal"><h3>Follow-up from home</h3><p>Progress photos and questions on WhatsApp, with online reviews as you heal.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Planning your trip</p>
+      <h2>How long to stay</h2>
+      <p>General guidance only. Dr. Junaid will tell you how long to allow for your own plan.</p>
+    </div>
+    <div class="info-cols">
+      <div class="info-box reveal"><h3><i class="fas fa-wand-magic-sparkles" aria-hidden="true"></i> Non-surgical treatments</h3><p class="muted">Botox, fillers, PRP, peels and skin treatments: often a few days, allowing for a review if needed.</p></div>
+      <div class="info-box reveal"><h3><i class="fas fa-user" aria-hidden="true"></i> Hair, beard &amp; eyebrow transplant</h3><p class="muted">Usually around a week, so the first wash and early check can be done before you fly.</p></div>
+      <div class="info-box reveal"><h3><i class="fas fa-person" aria-hidden="true"></i> Liposuction &amp; gynecomastia</h3><p class="muted">Often around one to two weeks, depending on the extent of surgery and your recovery.</p></div>
+      <div class="info-box reveal"><h3><i class="fas fa-hospital" aria-hidden="true"></i> Larger body, breast &amp; facial surgery</h3><p class="muted">Usually two weeks or more, to allow for wound checks and safe travel.</p></div>
+    </div>
+    <p class="note" style="margin-top:2rem"><i class="fas fa-plane" aria-hidden="true"></i> Long flights soon after surgery raise the risk of blood clots. Follow Dr. Junaid's advice on when to fly, stay well hydrated, walk regularly and use compression stockings if they are recommended.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container info-cols">
+    <div class="info-box reveal">
+      <h3><i class="fas fa-suitcase-medical" aria-hidden="true"></i> What to bring</h3>
+      <ul class="checklist">
+        <li>A list of your medicines, allergies and medical conditions</li>
+        <li>Recent blood test or scan reports, if you have them</li>
+        <li>Loose, front-opening clothes for after surgery</li>
+        <li>A family member or friend for the procedure day if possible</li>
+        <li>Your return travel details so the plan can fit around them</li>
+      </ul>
+    </div>
+    <div class="info-box reveal">
+      <h3><i class="fas fa-calendar-check" aria-hidden="true"></i> Before you book flights</h3>
+      <ul class="checklist">
+        <li>Have your online consultation first</li>
+        <li>Confirm the dates with the team on WhatsApp</li>
+        <li>Allow extra days in case recovery takes longer</li>
+        <li>Avoid booking holidays in the sun straight after surgery</li>
+        <li>Check what your travel insurance covers</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container container--narrow">
+    <div class="section__head reveal"><p class="eyebrow">Questions</p><h2>Overseas patient FAQs</h2></div>
+    {% set faqList = faqs %}{% set faqOpenFirst = true %}
+    {% include "partials/faq-list.njk" %}
+  </div>
+</section>
+
+{% set ctaTitle = "Start with an online consultation" %}
+{% set ctaText = "Send your photos and questions on WhatsApp and arrange a video call with Dr. Junaid." %}
+{% include "partials/cta-band.njk" %}

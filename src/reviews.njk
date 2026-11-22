@@ -1,0 +1,39 @@
+---
+layout: layouts/base.njk
+permalink: /reviews/
+title: "Patient Reviews"
+heroEyebrow: "Reviews"
+heroTitle: "Patient reviews"
+heroSubtitle: "What patients from Lahore, Layyah and across Pakistan say about their experience with Dr. Junaid Fateh."
+seo:
+  title: "Patient Reviews | Dr. Junaid Fateh, Plastic Surgeon"
+  description: "Read what patients say about Dr. Junaid Fateh's hair transplants, gynecomastia surgery, liposuction, skin treatments and reconstructive surgery."
+  keywords: "Dr Junaid Fateh reviews, plastic surgeon Lahore reviews, hair transplant Lahore reviews, gynecomastia surgery reviews Lahore"
+---
+{%- set crumbs = [{ name: "Reviews" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container">
+    {%- set reviewCats = [] -%}
+    <div class="filter-bar" data-filter-group="#review-grid" role="group" aria-label="Filter reviews by procedure">
+      <button type="button" class="is-active" data-filter="all" aria-pressed="true">All</button>
+      {% set seen = "" %}
+      {% for r in reviews %}{% if r.procedure_slug and ("|" ~ r.procedure_slug ~ "|") not in seen %}{% set seen = seen ~ "|" ~ r.procedure_slug ~ "|" %}<button type="button" data-filter="{{ r.procedure_slug }}" aria-pressed="false">{{ r.procedure }}</button>{% endif %}{% endfor %}
+    </div>
+    <div class="review-grid" id="review-grid">
+      {% for r in reviews %}{% include "partials/review-card.njk" %}{% endfor %}
+    </div>
+    <div class="empty-state" style="margin-top:3rem">
+      <i class="fas fa-pen-to-square" aria-hidden="true"></i>
+      <h2 style="font-size:1.6rem">Were you treated by Dr. Junaid?</h2>
+      <p>Your feedback helps other patients make informed decisions. Send your review on WhatsApp or leave it on Facebook.</p>
+      <div class="section__foot" style="margin-top:0">
+        <a class="btn btn--wa" href="{{ 'Assalam o Alaikum Dr. Junaid, I would like to share a review of my treatment.' | waLink }}" target="_blank" rel="noopener" data-direct><i class="fab fa-whatsapp" aria-hidden="true"></i> Send a review</a>
+        {% if site.social.facebook %}<a class="btn btn--outline" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i> Review on Facebook</a>{% endif %}
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

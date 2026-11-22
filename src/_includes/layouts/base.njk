@@ -1,0 +1,77 @@
+{%- set seoTitle = seo.title if (seo and seo.title) else ((title ~ " | " ~ site.name) if title else (site.name ~ " | " ~ site.jobTitle)) -%}
+{%- set seoDescription = (seo.description if (seo and seo.description) else (description or summary or site.description)) | stripHtml -%}
+{%- set seoKeywords = seo.keywords if (seo and seo.keywords) else keywords -%}
+{%- set shareImage = (image or site.ogImage) | abs -%}
+{%- set canonical = page.url | abs -%}
+<!DOCTYPE html>
+<html lang="{{ site.language }}" class="no-js">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ seoTitle }}</title>
+  <meta name="description" content="{{ seoDescription }}">
+  {% if seoKeywords %}<meta name="keywords" content="{{ seoKeywords }}">{% endif %}
+  <meta name="author" content="{{ site.fullName }}">
+  <meta name="robots" content="{{ 'noindex, follow' if noindex else 'index, follow, max-image-preview:large' }}">
+  <link rel="canonical" href="{{ canonical }}">
+  <meta name="theme-color" content="#0F1B2A">
+  <meta name="geo.region" content="PK-PB">
+  <meta name="geo.placename" content="Lahore">
+
+  <meta property="og:site_name" content="{{ site.name }}">
+  <meta property="og:locale" content="{{ site.locale }}">
+  <meta property="og:type" content="{{ 'article' if pageType == 'post' else 'website' }}">
+  <meta property="og:title" content="{{ seoTitle }}">
+  <meta property="og:description" content="{{ seoDescription }}">
+  <meta property="og:url" content="{{ canonical }}">
+  <meta property="og:image" content="{{ shareImage }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{ seoTitle }}">
+  <meta name="twitter:description" content="{{ seoDescription }}">
+  <meta name="twitter:image" content="{{ shareImage }}">
+  {% if site.analytics.googleVerification %}<meta name="google-site-verification" content="{{ site.analytics.googleVerification }}">{% endif %}
+
+  <link rel="icon" href="/favicon.ico" sizes="any">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" referrerpolicy="no-referrer">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  {% if preloadImage %}<link rel="preload" as="image" href="{{ preloadImage }}">{% endif %}
+
+  {% include "partials/schema.njk" %}
+
+  {% if site.analytics.ga4 %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.analytics.ga4 }}"></script>
+  <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','{{ site.analytics.ga4 }}');</script>
+  {% endif %}
+  {% if site.analytics.metaPixel %}
+  <script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init','{{ site.analytics.metaPixel }}');fbq('track','PageView');</script>
+  {% endif %}
+</head>
+<body class="page-{{ pageType or 'page' }}" data-whatsapp="{{ site.whatsapp }}"{% if consultProcedure %} data-procedure="{{ consultProcedure }}"{% endif %}>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <div id="google_translate_element" aria-hidden="true"></div>
+
+  {% include "partials/header.njk" %}
+
+  <main id="main">
+    {{ content | safe }}
+  </main>
+
+  {% include "partials/footer.njk" %}
+  {% include "partials/consult-form.njk" %}
+
+  {% set floating = true %}{% include "partials/lang-toggle.njk" %}{% set floating = false %}
+
+  <a class="wa-float" href="{{ '' | waLink }}" data-consult aria-label="Message Dr. Junaid on WhatsApp">
+    <i class="fab fa-whatsapp" aria-hidden="true"></i>
+  </a>
+
+  <script src="/assets/js/main.js" defer></script>
+</body>
+</html>

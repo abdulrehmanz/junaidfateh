@@ -1,0 +1,74 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  SITE SETTINGS
+#  Change a value here and it updates on every page.
+#  Leave a value empty ("") to hide it on the website.
+# ─────────────────────────────────────────────────────────────────────────────
+
+name: "Dr. Junaid Fateh"
+fullName: "Dr. Muhammad Junaid Fateh"
+jobTitle: "Plastic, Cosmetic & Reconstructive Surgeon"
+shortCredentials: "MBBS, FCPS (Plastic Surgery)"
+tagline: "Natural results. Honest advice. Careful surgery."
+description: "Dr. Muhammad Junaid Fateh is an FCPS plastic, cosmetic and reconstructive surgeon in Lahore and Layyah, known for hair transplants, gynecomastia, liposuction and hand surgery."
+
+# ── Website address ───────────────────────────────────────────────────────────
+# While the site runs on GitHub Pages it lives at https://abdulrehmanz.github.io/junaidfateh/
+# When you connect your own domain (for example https://drjunaidfateh.com):
+#   url: "https://drjunaidfateh.com"
+#   pathPrefix: "/"
+#   customDomain: "drjunaidfateh.com"
+url: "https://abdulrehmanz.github.io"
+pathPrefix: "/junaidfateh/"
+customDomain: ""
+
+language: "en"
+locale: "en_PK"
+
+# ── Contact ───────────────────────────────────────────────────────────────────
+whatsapp: "923366600008"          # digits only, with country code, used for all WhatsApp buttons
+phone: "+92 336 6600008"          # how the number is displayed
+phoneHref: "+923366600008"        # used for tap-to-call links
+email: "drjunaidfateh@gmail.com"
+
+# ── Credentials ───────────────────────────────────────────────────────────────
+pmdcNumber: ""                    # PMDC registration number, shown on the About page when filled in
+
+education:
+  - title: "FCPS, Plastic Surgery"
+    institution: "College of Physicians & Surgeons Pakistan"
+    detail: "Postgraduate fellowship training at Jinnah Burn & Reconstructive Surgery Centre, Lahore."
+  - title: "MBBS"
+    institution: "Allama Iqbal Medical College, Lahore"
+    detail: "Medical degree."
+
+memberships:
+  - name: "Pakistan Association of Plastic Surgeons"
+    detail: "Member"
+
+# ── Numbers ───────────────────────────────────────────────────────────────────
+# Fill in real figures only. Any item left empty is not shown.
+stats:
+  - value: ""
+    label: "Procedures performed"
+  - value: ""
+    label: "Years in practice"
+  - value: ""
+    label: "Patients treated"
+
+# ── Social media ──────────────────────────────────────────────────────────────
+social:
+  instagram: "https://www.instagram.com/drjunaidfateh/"
+  facebook: "https://www.facebook.com/drjunaidfateh/"
+  tiktok: "https://www.tiktok.com/@dr.junaidfateh"
+  youtube: ""
+  linkedin: ""
+
+# ── Analytics and verification (optional) ────────────────────────────────────
+# Paste the IDs when you have them; nothing is loaded while they are empty.
+analytics:
+  ga4: ""                         # e.g. G-XXXXXXXXXX
+  metaPixel: ""                   # e.g. 123456789012345
+  googleVerification: ""          # Google Search Console HTML-tag code
+
+# Default image used when a page is shared on WhatsApp/Facebook
+ogImage: "/assets/images/og-default.jpg"

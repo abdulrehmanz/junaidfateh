@@ -1,0 +1,21 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  GENERAL VIDEOS (shown on the Videos page and the home page)
+#
+#  Videos about a specific procedure are better added to that procedure's file
+#  (src/procedures/<name>.md, under "videos:"). They appear on the procedure page
+#  AND on the Videos page automatically.
+#
+#  Use this file for videos that are not about one procedure, e.g. an introduction,
+#  a clinic tour, a TV interview or a Q&A.
+#
+#  Example (remove the leading "# " to use):
+#  - url: https://www.youtube.com/watch?v=VIDEO_ID
+#    title: "Meet Dr. Junaid Fateh"
+#    featured: true            # true = also shown on the home page
+#  - url: https://www.tiktok.com/@dr.junaidfateh/video/1234567890123456789
+#    title: "Hair transplant myths"
+#  - url: https://www.instagram.com/reel/ABC123xyz/
+#    title: "A day in theatre"
+# ─────────────────────────────────────────────────────────────────────────────
+
+[]

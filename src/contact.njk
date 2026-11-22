@@ -1,0 +1,53 @@
+---
+layout: layouts/base.njk
+permalink: /contact/
+title: "Contact & Book"
+breadcrumb: "Contact"
+heroEyebrow: "Contact"
+heroTitle: "Book a consultation"
+heroSubtitle: "See Dr. Junaid in Lahore or Layyah, or start with an online video consultation. The quickest way to book is WhatsApp."
+seo:
+  title: "Contact Dr. Junaid Fateh | Book in Lahore or Layyah"
+  description: "Book a consultation with Dr. Junaid Fateh, plastic surgeon in Lahore and Layyah, by WhatsApp, phone or email. Online video consultations available."
+  keywords: "book plastic surgeon Lahore, Dr Junaid Fateh contact, Dr Junaid Fateh WhatsApp, plastic surgeon Layyah contact, hair transplant consultation Lahore"
+---
+{%- set crumbs = [{ name: "Contact" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container">
+    <div class="contact-cards">
+      <a class="contact-card" href="{{ '' | waLink }}" data-consult><i class="fab fa-whatsapp" aria-hidden="true"></i><div><strong>WhatsApp</strong><span>{{ site.phone }}</span></div></a>
+      <a class="contact-card" href="tel:{{ site.phoneHref }}"><i class="fas fa-phone" aria-hidden="true"></i><div><strong>Call</strong><span>{{ site.phone }}</span></div></a>
+      <a class="contact-card" href="mailto:{{ site.email }}"><i class="fas fa-envelope" aria-hidden="true"></i><div><strong>Email</strong><span>{{ site.email }}</span></div></a>
+      <a class="contact-card" href="/overseas-patients/"><i class="fas fa-video" aria-hidden="true"></i><div><strong>Online consultation</strong><span>For patients abroad or in other cities</span></div></a>
+    </div>
+
+    <div class="estimator" style="margin-top:2.5rem;text-align:center">
+      <p class="eyebrow" style="justify-content:center">Fastest way to book</p>
+      <h2>Send your details on WhatsApp</h2>
+      <p class="muted" style="max-width:560px;margin:0.6rem auto 1.4rem">Tell us your name, the treatment you are interested in and where you would like to be seen. WhatsApp opens with the message ready to send.</p>
+      <a class="btn btn--wa btn--lg" href="{{ '' | waLink }}" data-consult><i class="fab fa-whatsapp" aria-hidden="true"></i> Open the booking form</a>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal"><p class="eyebrow">Locations</p><h2>Clinics</h2></div>
+    <div class="loc-grid">{% for loc in locations %}{% include "partials/location-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container center">
+    <p class="eyebrow" style="justify-content:center">Follow</p>
+    <h2>Dr. Junaid on social media</h2>
+    <div class="section__foot">
+      {% if site.social.instagram %}<a class="social-pill" href="{{ site.social.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a>{% endif %}
+      {% if site.social.facebook %}<a class="social-pill" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i> Facebook</a>{% endif %}
+      {% if site.social.tiktok %}<a class="social-pill" href="{{ site.social.tiktok }}" target="_blank" rel="noopener"><i class="fab fa-tiktok" aria-hidden="true"></i> TikTok</a>{% endif %}
+      {% if site.social.youtube %}<a class="social-pill" href="{{ site.social.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>{% endif %}
+    </div>
+  </div>
+</section>

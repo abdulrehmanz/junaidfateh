@@ -1,0 +1,300 @@
+---
+layout: layouts/base.njk
+pageType: home
+title: "Dr. Junaid Fateh"
+seo:
+  title: "Dr. Junaid Fateh | Plastic Surgeon in Lahore & Layyah"
+  description: "FCPS plastic, cosmetic and reconstructive surgeon in Lahore and Layyah. Hair transplant, gynecomastia, liposuction, Botox and hand surgery. Book on WhatsApp."
+  keywords: "Dr Junaid Fateh, plastic surgeon Lahore, cosmetic surgeon Lahore, plastic surgeon Layyah, hair transplant Lahore, hair transplant Layyah, gynecomastia surgeon Lahore, liposuction Lahore, hand surgeon Lahore, FCPS plastic surgeon Pakistan, best plastic surgeon in Lahore"
+preloadImage: /assets/images/doctor/dr-junaid-fateh.webp
+homeResults: [fue-hair-transplant, gynecomastia, liposuction]
+---
+{%- set filledStats = site.stats | filled -%}
+
+{# ── Hero ── #}
+<section class="hero">
+  <div class="container hero__inner">
+    <div class="hero__copy">
+      <p class="eyebrow eyebrow--light">{{ site.shortCredentials }} &middot; Lahore &amp; Layyah</p>
+      <h1>Dr. Junaid Fateh<br><em>Plastic &amp; Cosmetic Surgeon</em></h1>
+      <p class="hero__lead">Hair transplants, gynecomastia, liposuction, non-surgical aesthetics and hand &amp; reconstructive surgery, planned around you and performed with care. {{ site.tagline }}</p>
+      <div class="hero__actions">
+        <a class="btn btn--gold btn--lg" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
+        <a class="btn btn--ghost-light btn--lg" href="/hair-transplant/#graft-estimator"><i class="fas fa-calculator" aria-hidden="true"></i> Hair graft estimator</a>
+      </div>
+      <ul class="hero__trust">
+        <li><i class="fas fa-award" aria-hidden="true"></i> FCPS Plastic Surgery</li>
+        <li><i class="fas fa-hospital" aria-hidden="true"></i> Trained at Jinnah Burn &amp; Reconstructive Surgery Centre</li>
+        <li><i class="fas fa-video" aria-hidden="true"></i> Online consultations</li>
+      </ul>
+    </div>
+    <div class="hero__photo">
+      <img src="/assets/images/doctor/dr-junaid-fateh.webp" alt="Dr. Muhammad Junaid Fateh, plastic surgeon" width="900" height="1128" fetchpriority="high">
+      <div class="hero__badge">
+        <i class="fas fa-user-doctor" aria-hidden="true"></i>
+        <div><strong>{{ site.fullName }}</strong><span>Member, Pakistan Association of Plastic Surgeons</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{# ── Credentials / numbers ── #}
+<section class="cred-strip" aria-label="Credentials">
+  <div class="container cred-strip__grid">
+    {% if filledStats.length %}
+      {% for s in filledStats %}
+      <div class="cred-strip__item"><div><strong class="cred-strip__num">{{ s.value }}</strong><span>{{ s.label }}</span></div></div>
+      {% endfor %}
+    {% endif %}
+    <div class="cred-strip__item"><i class="fas fa-graduation-cap" aria-hidden="true"></i><div><strong>FCPS Plastic Surgery</strong><span>College of Physicians &amp; Surgeons Pakistan</span></div></div>
+    <div class="cred-strip__item"><i class="fas fa-building-columns" aria-hidden="true"></i><div><strong>MBBS</strong><span>Allama Iqbal Medical College, Lahore</span></div></div>
+    <div class="cred-strip__item"><i class="fas fa-users" aria-hidden="true"></i><div><strong>PAPS Member</strong><span>Pakistan Association of Plastic Surgeons</span></div></div>
+    <div class="cred-strip__item"><i class="fas fa-location-dot" aria-hidden="true"></i><div><strong>Lahore &amp; Layyah</strong><span>Plus video consultations worldwide</span></div></div>
+  </div>
+</section>
+
+{# ── Signature specialties ── #}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Signature specialties</p>
+      <h2>What Dr. Junaid is known for</h2>
+      <p>He performs a full range of cosmetic and reconstructive procedures, with particular focus on these five areas.</p>
+    </div>
+    <div class="spec-grid">
+      {% for s in specialties %}
+      <a class="spec-card reveal" href="{{ s.url }}">
+        <span class="spec-card__icon"><i class="fas {{ s.icon }}" aria-hidden="true"></i></span>
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.text }}</p>
+        <span class="link-arrow">Learn more <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{# ── About preview ── #}
+<section class="section section--sand">
+  <div class="container grid-2">
+    <div class="about-photo reveal">
+      <img src="/assets/images/doctor/dr-junaid-fateh.webp" alt="Portrait of Dr. Junaid Fateh" width="900" height="1128" loading="lazy">
+    </div>
+    <div class="reveal">
+      <p class="eyebrow">Meet your surgeon</p>
+      <h2>Careful planning, natural results and honest advice</h2>
+      <p class="lead">Dr. Muhammad Junaid Fateh is an FCPS-qualified plastic surgeon who trained at Jinnah Burn &amp; Reconstructive Surgery Centre, Lahore's dedicated centre for burns and reconstructive surgery.</p>
+      <p>That reconstructive grounding shapes his cosmetic work: a deep respect for anatomy, tissue and healing, and a preference for results that look like you on a good day rather than "done". He sees every patient personally, explains the options in plain language, and will tell you when a procedure is not the right choice.</p>
+      <ul class="cred-list">
+        {% for e in site.education %}
+        <li><i class="fas fa-graduation-cap" aria-hidden="true"></i><div><strong>{{ e.title }}</strong><span>{{ e.institution }}</span></div></li>
+        {% endfor %}
+        {% for m in site.memberships %}
+        <li><i class="fas fa-users" aria-hidden="true"></i><div><strong>{{ m.detail }}, {{ m.name }}</strong><span>Professional membership</span></div></li>
+        {% endfor %}
+      </ul>
+      <p style="margin-top:1.5rem"><a class="btn btn--ink" href="/about/">More about Dr. Junaid <i class="fas fa-arrow-right" aria-hidden="true"></i></a></p>
+    </div>
+  </div>
+</section>
+
+{# ── Hair transplant spotlight ── #}
+<section class="section section--ink">
+  <div class="container grid-2">
+    <div class="reveal">
+      <p class="eyebrow eyebrow--light">Hair restoration</p>
+      <h2>Hair transplant in Lahore and Layyah</h2>
+      <p>Hair restoration is the heart of Dr. Junaid's practice. Every plan starts with your donor area, your age and how your hair loss is likely to progress, so the hairline he designs still suits you years from now.</p>
+      <ul class="checklist" style="margin-top:1.2rem">
+        <li>FUE and FUT techniques, chosen for your hair and lifestyle</li>
+        <li>Hairline designed by hand to suit your face and age</li>
+        <li>Beard, moustache and eyebrow transplants</li>
+        <li>PRP to support existing hair</li>
+      </ul>
+      <div class="hero__actions">
+        <a class="btn btn--gold" href="/hair-transplant/#graft-estimator"><i class="fas fa-calculator" aria-hidden="true"></i> Estimate your grafts</a>
+        <a class="btn btn--ghost-light" href="/hair-transplant/">Hair transplant guide</a>
+      </div>
+    </div>
+    <div class="reveal">
+      <ol class="steps">
+        <li class="step"><h3>Assessment</h3><p>Hair loss pattern, donor density and family history reviewed in person or by photos.</p></li>
+        <li class="step"><h3>Design</h3><p>A natural hairline and graft plan agreed with you before the day.</p></li>
+        <li class="step"><h3>Procedure day</h3><p>Usually under local anaesthetic. Most people go home the same day.</p></li>
+        <li class="step"><h3>Growth</h3><p>New hair starts growing after a few months, with the full result in about a year.</p></li>
+      </ol>
+    </div>
+  </div>
+</section>
+
+{# ── Results ── #}
+{%- set showcase = collections.procedures | bySlugs(homeResults) | allResults -%}
+{% if showcase.length %}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Results</p>
+      <h2>Before &amp; after</h2>
+      <p>Drag the slider to compare. Every patient is different, and Dr. Junaid will show you results relevant to your own case at consultation.</p>
+    </div>
+    <div class="ba-list ba-list--grid">
+      {% for pair in showcase | limit(3) %}{% set label = pair.procedure %}{% include "partials/before-after.njk" %}{% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/gallery/">View the full gallery</a></div>
+  </div>
+</section>
+{% endif %}
+
+{# ── Why patients choose Dr. Junaid ── #}
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Why patients choose him</p>
+      <h2>A personal surgeon, not a production line</h2>
+    </div>
+    <div class="benefits">
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fas fa-user-doctor" aria-hidden="true"></i></span><div><h3>You see the surgeon</h3><p>Your consultation, plan and surgery are led by Dr. Junaid himself.</p></div></div>
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fas fa-graduation-cap" aria-hidden="true"></i></span><div><h3>Reconstructive training</h3><p>FCPS training in plastic and reconstructive surgery brings precision to cosmetic work.</p></div></div>
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fas fa-scale-balanced" aria-hidden="true"></i></span><div><h3>Honest advice</h3><p>Clear explanations of benefits, limits and risks, and a "no" when a procedure is not right for you.</p></div></div>
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fas fa-leaf" aria-hidden="true"></i></span><div><h3>Natural-looking results</h3><p>Plans that respect your features, ethnicity and age instead of a one-size-fits-all look.</p></div></div>
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fas fa-location-dot" aria-hidden="true"></i></span><div><h3>Two cities and online</h3><p>Consultations in Lahore and Layyah, and video consultations for patients abroad.</p></div></div>
+      <div class="benefit reveal"><span class="benefit__icon"><i class="fab fa-whatsapp" aria-hidden="true"></i></span><div><h3>Easy to reach</h3><p>Book, ask questions and stay in touch during recovery on WhatsApp.</p></div></div>
+    </div>
+  </div>
+</section>
+
+{# ── Reviews ── #}
+{%- set featuredReviews = reviews | selectattr("featured") -%}
+{% if featuredReviews.length %}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Patient reviews</p>
+      <h2>What patients say about Dr. Junaid</h2>
+    </div>
+    <div class="carousel" data-carousel>
+      <div class="carousel__track">
+        {% for r in featuredReviews %}{% include "partials/review-card.njk" %}{% endfor %}
+      </div>
+      <div class="carousel__nav">
+        <button class="carousel__btn" type="button" data-dir="-1" aria-label="Previous reviews"><i class="fas fa-arrow-left" aria-hidden="true"></i></button>
+        <button class="carousel__btn" type="button" data-dir="1" aria-label="Next reviews"><i class="fas fa-arrow-right" aria-hidden="true"></i></button>
+      </div>
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/reviews/">Read all reviews</a></div>
+  </div>
+</section>
+{% endif %}
+
+{# ── Videos ── #}
+{%- set homeVideos = collections.procedures | allVideos(videos | selectattr("featured")) -%}
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Watch &amp; learn</p>
+      <h2>Videos from Dr. Junaid</h2>
+      <p>Procedure explanations, patient journeys and answers to common questions.</p>
+    </div>
+    {% if homeVideos.length %}
+      {% set videoList = homeVideos | limit(3) %}{% set socialList = [] %}{% set videoLabel = "Dr. Junaid Fateh" %}
+      {% include "partials/videos-block.njk" %}
+      <div class="section__foot"><a class="btn btn--outline" href="/videos/">All videos</a></div>
+    {% else %}
+      <div class="empty-state reveal">
+        <i class="fas fa-circle-play" aria-hidden="true"></i>
+        <h3>Follow Dr. Junaid on social media</h3>
+        <p>Short videos about hair transplants, gynecomastia, skin and recovery are shared regularly.</p>
+        <div class="section__foot" style="margin-top:0">
+          {% if site.social.tiktok %}<a class="social-pill" href="{{ site.social.tiktok }}" target="_blank" rel="noopener"><i class="fab fa-tiktok" aria-hidden="true"></i> TikTok</a>{% endif %}
+          {% if site.social.instagram %}<a class="social-pill" href="{{ site.social.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a>{% endif %}
+          {% if site.social.facebook %}<a class="social-pill" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i> Facebook</a>{% endif %}
+          {% if site.social.youtube %}<a class="social-pill" href="{{ site.social.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>{% endif %}
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</section>
+
+{# ── All procedures ── #}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Procedures</p>
+      <h2>Cosmetic and reconstructive treatments</h2>
+    </div>
+    <div class="spec-grid">
+      {% for cat in collections.categories %}
+      {%- set count = (collections.procedures | byCategory(cat.fileSlug)).length -%}
+      <a class="spec-card reveal" href="{{ cat.url }}">
+        <span class="spec-card__icon"><i class="fas {{ cat.data.icon }}" aria-hidden="true"></i></span>
+        <h3>{{ cat.data.nav_title }}</h3>
+        <p>{{ cat.data.summary | truncate(110) }}</p>
+        <span class="link-arrow">{{ count }} treatments <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+      </a>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+{# ── Patient journey ── #}
+<section class="section section--ink">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow eyebrow--light">How it works</p>
+      <h2>From first message to final result</h2>
+    </div>
+    <ol class="steps">
+      <li class="step reveal"><h3>Message on WhatsApp</h3><p>Fill in the short form and choose Lahore, Layyah or an online consultation.</p></li>
+      <li class="step reveal"><h3>Consultation</h3><p>Dr. Junaid examines you, listens to your goals and explains your options and risks.</p></li>
+      <li class="step reveal"><h3>Your plan</h3><p>You receive a written plan and quote, with preparation instructions.</p></li>
+      <li class="step reveal"><h3>Treatment &amp; aftercare</h3><p>Your procedure, followed by check-ups and support until you have healed.</p></li>
+    </ol>
+    <div class="section__foot"><a class="btn btn--ghost-light" href="/patient-journey/">Read the full patient journey</a></div>
+  </div>
+</section>
+
+{# ── Blog ── #}
+{% if collections.posts.length %}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Patient education</p>
+      <h2>From the blog</h2>
+    </div>
+    <div class="post-grid">
+      {% for post in collections.posts | limit(3) %}{% include "partials/post-card.njk" %}{% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/blog/">All articles</a></div>
+  </div>
+</section>
+{% endif %}
+
+{# ── FAQs ── #}
+{%- set homeFaqs = [] -%}
+{% for g in generalFaqs %}{% for f in g.items %}{% if f.home %}{% set homeFaqs = (homeFaqs.push(f), homeFaqs) %}{% endif %}{% endfor %}{% endfor %}
+<section class="section section--sand">
+  <div class="container container--narrow">
+    <div class="section__head reveal">
+      <p class="eyebrow">Questions</p>
+      <h2>Frequently asked questions</h2>
+    </div>
+    {% set faqList = homeFaqs %}{% set faqOpenFirst = true %}
+    {% include "partials/faq-list.njk" %}
+    <div class="section__foot"><a class="btn btn--outline" href="/faq/">More questions</a></div>
+  </div>
+</section>
+
+{# ── Locations ── #}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Where to find him</p>
+      <h2>Consultations in Lahore &amp; Layyah</h2>
+    </div>
+    <div class="loc-grid">
+      {% for loc in locations %}{% include "partials/location-card.njk" %}{% endfor %}
+    </div>
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

@@ -1,0 +1,39 @@
+---
+layout: layouts/base.njk
+pageType: faq-page
+permalink: /faq/
+title: "Frequently Asked Questions"
+breadcrumb: "FAQs"
+heroEyebrow: "Questions"
+heroTitle: "Frequently asked questions"
+heroSubtitle: "Answers about booking, costs, safety and recovery. Each procedure page also has its own detailed FAQs."
+seo:
+  title: "FAQs | Dr. Junaid Fateh, Plastic Surgeon in Lahore"
+  description: "Answers to common questions about booking a consultation, costs, safety, online consultations and recovery with Dr. Junaid Fateh in Lahore and Layyah."
+  keywords: "plastic surgery FAQ Lahore, cosmetic surgery questions Pakistan, Dr Junaid Fateh FAQ, online consultation plastic surgeon"
+---
+{%- set crumbs = [{ name: "FAQs" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container container--narrow">
+    {% for g in generalFaqs %}
+    <div class="faq-group reveal">
+      <h2>{{ g.group }}</h2>
+      {% set faqList = g.items %}{% set faqOpenFirst = loop.first %}
+      {% include "partials/faq-list.njk" %}
+    </div>
+    {% endfor %}
+
+    <div class="faq-group reveal">
+      <h2>Questions about a specific procedure</h2>
+      <p class="muted">Every procedure page has its own FAQs on recovery, results, pain and cost.</p>
+      <div class="pill-nav" style="justify-content:flex-start;margin-top:1rem">
+        {% for p in collections.procedures | specialties %}<a href="{{ p.url }}#faq">{{ p.data.short_title }}</a>{% endfor %}
+        <a href="/procedures/">All procedures</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

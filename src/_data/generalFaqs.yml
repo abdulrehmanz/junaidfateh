@@ -1,0 +1,39 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  GENERAL FAQs (FAQ page; items with home: true also appear on the home page)
+#  Procedure-specific questions belong in each procedure file.
+#  Answers can use simple markdown, e.g. [cost guide](/cost-guide/).
+# ─────────────────────────────────────────────────────────────────────────────
+
+- group: "Booking and consultations"
+  items:
+    - q: "How do I book a consultation with Dr. Junaid?"
+      a: "Press any **Book Consultation** button and fill in the short form. It opens WhatsApp with your details already written, so the team can reply with available times. You can also message the WhatsApp number directly."
+      home: true
+    - q: "Where does Dr. Junaid see patients?"
+      a: "He sees patients in **Lahore** (Shadman) and in **Layyah**. Addresses and directions are on the [contact page](/contact/). When you book, tell the team which city suits you."
+      home: true
+    - q: "Can I have an online consultation?"
+      a: "Yes. If you live in another city or abroad, you can send photos on WhatsApp and book a video consultation. Dr. Junaid can then give you an initial opinion and a rough plan. The final plan is always confirmed in person before any procedure. See [overseas patients](/overseas-patients/)."
+      home: true
+    - q: "What should I bring to my consultation?"
+      a: "Bring a list of your medicines and any medical conditions, previous reports or scans, and photos of the look you hope for if you have them. Write down your questions beforehand so nothing is forgotten."
+    - q: "Can I bring a family member with me?"
+      a: "Of course. Many patients feel more comfortable with a family member or friend present, and it helps to have someone hear the advice and aftercare instructions too."
+
+- group: "Costs and payment"
+  items:
+    - q: "How much will my procedure cost?"
+      a: "Every plan is personal, so the fee depends on the procedure, its extent, the type of anaesthesia, the facility and your aftercare. You receive a clear written quote after your consultation. The [cost guide](/cost-guide/) explains what affects the price."
+      home: true
+
+- group: "Safety and recovery"
+  items:
+    - q: "Who performs my procedure?"
+      a: "Dr. Junaid assesses you personally, plans your treatment and performs your surgery with the support of his clinical team. He also follows your recovery afterwards."
+      home: true
+    - q: "Is cosmetic surgery safe?"
+      a: "All surgery carries some risk. Careful patient selection, honest planning, proper facilities and good aftercare reduce that risk. Dr. Junaid explains the specific risks of your procedure at consultation, and he will tell you if he thinks a procedure is not right for you."
+    - q: "How do I reach the team after my procedure?"
+      a: "You receive written aftercare instructions and can message the team on WhatsApp with questions during your recovery. Follow-up visits are booked as part of your plan."
+    - q: "How long should overseas patients stay in Pakistan?"
+      a: "It depends on the procedure. Non-surgical treatments may need only a day or two, while larger surgery usually needs one to two weeks before flying home. Dr. Junaid will advise you during your online consultation."

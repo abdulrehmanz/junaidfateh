@@ -1,0 +1,128 @@
+---
+layout: layouts/base.njk
+pageType: about
+permalink: /about/
+title: "About Dr. Junaid Fateh"
+breadcrumb: "About"
+heroEyebrow: "Plastic, Cosmetic &amp; Reconstructive Surgeon"
+heroTitle: "Dr. Muhammad Junaid Fateh"
+heroSubtitle: "MBBS, FCPS (Plastic Surgery). Trained at Jinnah Burn &amp; Reconstructive Surgery Centre, Lahore. Seeing patients in Lahore and Layyah."
+heroActions: true
+seo:
+  title: "About Dr. Junaid Fateh | FCPS Plastic Surgeon, Lahore"
+  description: "Meet Dr. Muhammad Junaid Fateh, FCPS plastic surgeon trained at Jinnah Burn & Reconstructive Surgery Centre. His training, approach and specialties."
+  keywords: "Dr Junaid Fateh, Dr Muhammad Junaid Fateh, plastic surgeon Lahore, FCPS plastic surgeon, plastic surgeon Layyah, hair transplant surgeon Lahore"
+image: /assets/images/doctor/dr-junaid-fateh.jpg
+---
+{%- set crumbs = [{ name: "About" }] -%}
+{% include "partials/page-hero.njk" %}
+
+<section class="section">
+  <div class="container grid-2" style="align-items:start">
+    <div class="about-photo reveal">
+      <img src="/assets/images/doctor/dr-junaid-fateh.webp" alt="Dr. Muhammad Junaid Fateh" width="900" height="1128">
+    </div>
+    <div class="prose reveal">
+      <p class="eyebrow">His story</p>
+      <h2>A reconstructive surgeon's eye for detail</h2>
+      <p>Dr. Muhammad Junaid Fateh is a plastic, cosmetic and reconstructive surgeon. He studied medicine at Allama Iqbal Medical College, Lahore, and completed his postgraduate fellowship (FCPS) in Plastic Surgery with the College of Physicians &amp; Surgeons Pakistan, training at Jinnah Burn &amp; Reconstructive Surgery Centre in Lahore.</p>
+      <p>Reconstructive training means learning how skin, fat, muscle, nerves and tendons behave and heal: knowledge that matters just as much in cosmetic surgery. Dr. Junaid brings that foundation to every procedure, whether he is designing a hairline, sculpting a chest or repairing an injured hand.</p>
+      <p>Today he sees patients in <strong>Lahore</strong> and <strong>Layyah</strong>, and offers video consultations to people in other cities and overseas. His main areas of focus are hair transplantation, gynecomastia, liposuction and body contouring, non-surgical aesthetics, and hand and reconstructive surgery.</p>
+      <h3>His approach</h3>
+      <ul>
+        <li><strong>Listen first.</strong> Every plan starts with what bothers you and what you hope to change.</li>
+        <li><strong>Be honest.</strong> You hear about the limits and risks as clearly as the benefits, and he will say so when a procedure is not right for you.</li>
+        <li><strong>Keep it natural.</strong> The aim is a result that fits your face, body and age.</li>
+        <li><strong>Stay with you.</strong> Aftercare and follow-up are part of the plan, not an afterthought.</li>
+      </ul>
+      <p><a class="btn btn--gold" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> Book a consultation</a></p>
+    </div>
+  </div>
+</section>
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Qualifications</p>
+      <h2>Education, training &amp; memberships</h2>
+    </div>
+    <div class="info-cols">
+      <div class="info-box reveal">
+        <h3><i class="fas fa-graduation-cap" aria-hidden="true"></i> Education &amp; training</h3>
+        <ul class="cred-list" style="margin-top:0">
+          {% for e in site.education %}
+          <li><i class="fas fa-award" aria-hidden="true"></i><div><strong>{{ e.title }}</strong><span>{{ e.institution }}. {{ e.detail }}</span></div></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="info-box reveal">
+        <h3><i class="fas fa-users" aria-hidden="true"></i> Registration &amp; memberships</h3>
+        <ul class="cred-list" style="margin-top:0">
+          {% for m in site.memberships %}
+          <li><i class="fas fa-id-card" aria-hidden="true"></i><div><strong>{{ m.name }}</strong><span>{{ m.detail }}</span></div></li>
+          {% endfor %}
+          {% if site.pmdcNumber %}
+          <li><i class="fas fa-shield-halved" aria-hidden="true"></i><div><strong>PMDC registration {{ site.pmdcNumber }}</strong><span>Registered with the Pakistan Medical &amp; Dental Council. You can verify this on the PMDC website.</span></div></li>
+          {% endif %}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Specialties</p>
+      <h2>Where Dr. Junaid focuses</h2>
+    </div>
+    <div class="spec-grid">
+      {% for s in specialties %}
+      <a class="spec-card reveal" href="{{ s.url }}">
+        <span class="spec-card__icon"><i class="fas {{ s.icon }}" aria-hidden="true"></i></span>
+        <h3>{{ s.title }}</h3>
+        <p>{{ s.text }}</p>
+        <span class="link-arrow">Learn more <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+      </a>
+      {% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/procedures/">See all procedures</a></div>
+  </div>
+</section>
+
+<section class="section section--ink">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow eyebrow--light">Values</p>
+      <h2>What you can expect</h2>
+    </div>
+    <div class="values">
+      <div class="value reveal"><i class="fas fa-user-doctor" aria-hidden="true"></i><h3>Personal care</h3><p>You meet Dr. Junaid at consultation, and he leads your treatment from planning to follow-up.</p></div>
+      <div class="value reveal"><i class="fas fa-shield-heart" aria-hidden="true"></i><h3>Safety first</h3><p>Careful assessment, suitable facilities and clear aftercare instructions for every procedure.</p></div>
+      <div class="value reveal"><i class="fas fa-lock" aria-hidden="true"></i><h3>Privacy</h3><p>Your consultation, photos and records are handled discreetly and never shared without your consent.</p></div>
+      <div class="value reveal"><i class="fas fa-comments" aria-hidden="true"></i><h3>Clear communication</h3><p>Plain-language explanations, written plans and easy contact on WhatsApp.</p></div>
+    </div>
+  </div>
+</section>
+
+{%- set aboutReviews = reviews | selectattr("featured") -%}
+{% if aboutReviews.length %}
+<section class="section">
+  <div class="container">
+    <div class="section__head reveal"><p class="eyebrow">Reviews</p><h2>In his patients' words</h2></div>
+    <div class="review-grid">
+      {% for r in aboutReviews | limit(3) %}{% include "partials/review-card.njk" %}{% endfor %}
+    </div>
+    <div class="section__foot"><a class="btn btn--outline" href="/reviews/">All reviews</a></div>
+  </div>
+</section>
+{% endif %}
+
+<section class="section section--sand">
+  <div class="container">
+    <div class="section__head reveal"><p class="eyebrow">Locations</p><h2>Where to see Dr. Junaid</h2></div>
+    <div class="loc-grid">{% for loc in locations %}{% include "partials/location-card.njk" %}{% endfor %}</div>
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

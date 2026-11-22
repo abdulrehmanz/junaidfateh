@@ -1,0 +1,108 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  HAIR GRAFT ESTIMATOR (on the Hair Transplant page)
+#  These are general guide ranges for education only. Adjust them to match
+#  Dr. Junaid's own planning. "min" and "max" are numbers of grafts.
+# ─────────────────────────────────────────────────────────────────────────────
+
+disclaimer: "This is a rough guide based on typical cases. Your real graft count depends on your donor density, hair type, age and goals, and is confirmed only after Dr. Junaid examines you."
+
+areas:
+  - id: scalp
+    label: "Scalp"
+    icon: "fa-user"
+    procedure: "FUE Hair Transplant"
+    question: "Which picture is closest to your hair loss?"
+    options:
+      - id: nw2
+        label: "Stage 2"
+        text: "Slight recession at the temples"
+        min: 800
+        max: 1500
+      - id: nw3
+        label: "Stage 3"
+        text: "Deeper temple recession, M-shaped hairline"
+        min: 1500
+        max: 2200
+      - id: nw3v
+        label: "Stage 3 crown"
+        text: "Receding hairline plus thinning crown"
+        min: 1800
+        max: 2600
+      - id: nw4
+        label: "Stage 4"
+        text: "Receded front and a clear bald patch at the crown"
+        min: 2200
+        max: 3200
+      - id: nw5
+        label: "Stage 5"
+        text: "Front and crown areas starting to join"
+        min: 3000
+        max: 4000
+      - id: nw6
+        label: "Stage 6"
+        text: "Front and crown joined, hair left on the sides"
+        min: 3800
+        max: 5000
+      - id: nw7
+        label: "Stage 7"
+        text: "Extensive loss, a band of hair at the back and sides"
+        min: 4500
+        max: 6000
+    density:
+      label: "How full would you like the result?"
+      options:
+        - id: natural
+          label: "Natural density"
+          factor: 1
+        - id: dense
+          label: "Extra density"
+          factor: 1.15
+
+  - id: beard
+    label: "Beard"
+    icon: "fa-user-tie"
+    procedure: "Beard Transplant"
+    question: "What would you like to fill?"
+    options:
+      - id: full
+        label: "Full beard"
+        text: "Cheeks, jawline, chin and moustache"
+        min: 2000
+        max: 3000
+      - id: goatee
+        label: "Goatee & moustache"
+        text: "Chin and upper lip"
+        min: 1000
+        max: 1600
+      - id: patchy
+        label: "Patchy areas"
+        text: "Filling gaps in an existing beard"
+        min: 400
+        max: 900
+      - id: sideburns
+        label: "Sideburns"
+        text: "Both sides"
+        min: 300
+        max: 700
+
+  - id: eyebrows
+    label: "Eyebrows"
+    icon: "fa-eye"
+    procedure: "Eyebrow Transplant"
+    question: "What would you like to restore?"
+    options:
+      - id: both
+        label: "Both eyebrows"
+        text: "Full shape for both brows"
+        min: 300
+        max: 600
+      - id: one
+        label: "One eyebrow"
+        text: "For example after an injury or scar"
+        min: 150
+        max: 300
+      - id: gaps
+        label: "Fill gaps"
+        text: "Thin areas or a missing tail"
+        min: 100
+        max: 300

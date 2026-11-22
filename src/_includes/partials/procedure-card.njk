@@ -1,0 +1,13 @@
+{#- expects: p (a procedure collection item) -#}
+{%- set ba = p.data.before_after[0] if p.data.before_after else null -%}
+<a class="proc-card" href="{{ p.url }}">
+  <span class="proc-card__img">
+    {% if ba %}<img src="{{ ba.after }}" alt="{{ p.data.short_title }}" loading="lazy" decoding="async" width="600" height="450">{% else %}<span class="proc-card__ph"><i class="fas fa-user-doctor" aria-hidden="true"></i></span>{% endif %}
+    {% if p.data.specialty %}<span class="badge badge--gold">Signature</span>{% endif %}
+  </span>
+  <span class="proc-card__body">
+    <span class="proc-card__title">{{ p.data.short_title }}</span>
+    <span class="proc-card__text">{{ p.data.summary | truncate(120) }}</span>
+    <span class="proc-card__more">Learn more <i class="fas fa-arrow-right" aria-hidden="true"></i></span>
+  </span>
+</a>

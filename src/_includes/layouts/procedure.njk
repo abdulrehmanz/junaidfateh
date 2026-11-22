@@ -1,0 +1,153 @@
+---
+layout: layouts/base.njk
+---
+{%- set cat = collections.categories | findBySlug(category) -%}
+{%- set crumbs = [{ name: "Procedures", url: "/procedures/" }, { name: cat.data.nav_title, url: cat.url }, { name: short_title }] if cat else [{ name: "Procedures", url: "/procedures/" }, { name: short_title }] -%}
+{%- set heroEyebrow = ('<i class="fas fa-star" aria-hidden="true"></i> Signature specialty of Dr. Junaid' if specialty else (cat.data.title if cat else "")) -%}
+{%- set heroActions = true -%}
+{% include "partials/page-hero.njk" %}
+
+{%- set statLabels = { duration: ["fa-clock", "Duration"], anesthesia: ["fa-syringe", "Anaesthesia"], recovery: ["fa-bed", "Recovery"], results: ["fa-circle-check", "Results"], hospital_stay: ["fa-hospital", "Hospital stay"] } -%}
+{% if stats %}
+<section class="stats-bar" aria-label="Procedure at a glance">
+  <div class="container stats-bar__grid">
+    {% for key, val in stats %}{% if val %}
+    <div class="stats-bar__item">
+      <i class="fas {{ statLabels[key][0] if statLabels[key] else 'fa-circle-info' }}" aria-hidden="true"></i>
+      <span class="stats-bar__label">{{ statLabels[key][1] if statLabels[key] else key | replace('_', ' ') | capitalize }}</span>
+      <span class="stats-bar__value">{{ val }}</span>
+    </div>
+    {% endif %}{% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<div class="container proc-layout">
+  <article class="proc-main">
+    <div class="prose">
+      {{ content | safe }}
+    </div>
+
+    {% if before_after and before_after.length %}
+    <section class="proc-section" id="results">
+      <h2>Before &amp; after</h2>
+      <div class="ba-list">
+        {% for pair in before_after %}{% if pair.before and pair.after %}
+          {% set label = short_title %}
+          {% include "partials/before-after.njk" %}
+        {% endif %}{% endfor %}
+      </div>
+      <p class="muted small">Photos are shared with patient consent. Results vary from person to person. <a href="/gallery/">See more results</a></p>
+    </section>
+    {% endif %}
+
+    {% if (videos and videos.length) or (social_links and social_links.length) %}
+    <section class="proc-section" id="videos">
+      <h2>Videos &amp; posts about {{ short_title }}</h2>
+      {% set videoList = videos %}{% set socialList = social_links %}{% set videoLabel = short_title %}
+      {% include "partials/videos-block.njk" %}
+    </section>
+    {% endif %}
+
+    {% if benefits and benefits.length %}
+    <section class="proc-section">
+      <h2>Benefits of {{ short_title }}</h2>
+      <div class="benefits">
+        {% for b in benefits %}
+        <div class="benefit">
+          <span class="benefit__icon"><i class="fas {{ b.icon or 'fa-check-circle' }}" aria-hidden="true"></i></span>
+          <div><h3>{{ b.title }}</h3><p>{{ b.text | mdInline | safe }}</p></div>
+        </div>
+        {% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if candidates %}
+    <section class="proc-section">
+      <h2>Are you a good candidate?</h2>
+      {% if candidates.intro %}<p>{{ candidates.intro | mdInline | safe }}</p>{% endif %}
+      <ul class="checklist">
+        {% for item in candidates.list %}<li>{{ item | mdInline | safe }}</li>{% endfor %}
+      </ul>
+      {% if candidates.outro %}<p>{{ candidates.outro | mdInline | safe }}</p>{% endif %}
+    </section>
+    {% endif %}
+
+    {% if recovery %}
+    <section class="proc-section">
+      <h2>Recovery &amp; aftercare</h2>
+      {% if recovery.intro %}<p>{{ recovery.intro | mdInline | safe }}</p>{% endif %}
+      <ol class="timeline">
+        {% for t in recovery.timeline %}
+        <li><span class="timeline__stage">{{ t.stage }}</span><p>{{ t.text | mdInline | safe }}</p></li>
+        {% endfor %}
+      </ol>
+      {% if recovery.outro %}<p>{{ recovery.outro | mdInline | safe }}</p>{% endif %}
+    </section>
+    {% endif %}
+
+    {% set procReviews = reviews | reviewsFor(page.fileSlug) %}
+    {% if procReviews.length %}
+    <section class="proc-section">
+      <h2>What patients say</h2>
+      <div class="review-grid review-grid--2">
+        {% for r in procReviews | limit(4) %}{% include "partials/review-card.njk" %}{% endfor %}
+      </div>
+    </section>
+    {% endif %}
+
+    {% if faqs and faqs.length %}
+    <section class="proc-section" id="faq">
+      <h2>{{ short_title }} FAQs</h2>
+      {% set faqList = faqs %}{% set faqOpenFirst = true %}
+      {% include "partials/faq-list.njk" %}
+    </section>
+    {% endif %}
+  </article>
+
+  <aside class="proc-aside">
+    <div class="aside-card aside-card--doctor">
+      <img src="/assets/images/doctor/dr-junaid-fateh-square.webp" alt="{{ site.fullName }}" width="88" height="88" loading="lazy">
+      <p class="aside-card__name">{{ site.fullName }}</p>
+      <p class="aside-card__cred">{{ site.shortCredentials }}</p>
+      <p>Discuss {{ short_title }} with Dr. Junaid in Lahore, Layyah or online.</p>
+      <a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult data-procedure="{{ title }}"><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
+      <a class="btn btn--outline btn--block" href="{{ ('Assalam o Alaikum Dr. Junaid, I would like to ask about ' ~ title ~ '.') | waLink }}" target="_blank" rel="noopener" data-direct><i class="fab fa-whatsapp" aria-hidden="true"></i> Ask on WhatsApp</a>
+    </div>
+
+    <div class="aside-card">
+      <p class="aside-card__title"><i class="fas fa-receipt" aria-hidden="true"></i> Cost</p>
+      {% if price_from %}
+      <p class="aside-card__price">From {{ price_from }}</p>
+      <p class="small muted">Final fee confirmed after your consultation.</p>
+      {% else %}
+      <p>Fees depend on your individual plan. You receive a written quote after your consultation.</p>
+      {% endif %}
+      <a class="link-arrow" href="/cost-guide/">How pricing works <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+    </div>
+
+    <nav class="aside-card" aria-label="On this page">
+      <p class="aside-card__title"><i class="fas fa-list" aria-hidden="true"></i> On this page</p>
+      <ul class="aside-toc">
+        {% if before_after and before_after.length %}<li><a href="#results">Before &amp; after</a></li>{% endif %}
+        {% if (videos and videos.length) or (social_links and social_links.length) %}<li><a href="#videos">Videos</a></li>{% endif %}
+        <li><a href="#faq">FAQs</a></li>
+      </ul>
+    </nav>
+
+    {% set relatedItems = collections.procedures | relatedTo({ related: related, category: category, page: page }) %}
+    {% if relatedItems.length %}
+    <div class="aside-card">
+      <p class="aside-card__title"><i class="fas fa-layer-group" aria-hidden="true"></i> Related procedures</p>
+      <ul class="aside-links">
+        {% for p in relatedItems %}<li><a href="{{ p.url }}">{{ p.data.short_title }} <i class="fas fa-chevron-right" aria-hidden="true"></i></a></li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </aside>
+</div>
+
+{% set ctaTitle = "Considering " ~ short_title ~ "?" %}
+{% set ctaText = "Book a consultation with Dr. Junaid in Lahore or Layyah, or send your photos for an online opinion first." %}
+{% include "partials/cta-band.njk" %}

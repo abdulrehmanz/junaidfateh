@@ -1,0 +1,57 @@
+---
+layout: layouts/base.njk
+permalink: /videos/
+title: "Videos"
+heroEyebrow: "Watch &amp; learn"
+heroTitle: "Videos"
+heroSubtitle: "Procedure explanations, patient journeys and answers to common questions from Dr. Junaid Fateh."
+seo:
+  title: "Videos | Dr. Junaid Fateh, Plastic Surgeon in Lahore"
+  description: "Watch Dr. Junaid Fateh explain hair transplants, gynecomastia surgery, liposuction, skin treatments and recovery, with patient journeys and Q&As."
+  keywords: "Dr Junaid Fateh videos, hair transplant video Urdu, plastic surgery videos Pakistan, gynecomastia surgery video, Dr Junaid Fateh TikTok"
+---
+{%- set crumbs = [{ name: "Videos" }] -%}
+{% include "partials/page-hero.njk" %}
+{%- set all = collections.procedures | allVideos(videos) -%}
+
+<section class="section">
+  <div class="container">
+    {% if all.length %}
+      {%- set general = all | withoutKey("procedureUrl") -%}
+      {% if general.length %}
+      <div class="cat-block">
+        <div class="cat-block__head"><h2><i class="fas fa-circle-play" aria-hidden="true"></i> Featured</h2></div>
+        {% set videoList = general %}{% set socialList = [] %}{% set videoLabel = "Dr. Junaid Fateh" %}{% include "partials/videos-block.njk" %}
+      </div>
+      {% endif %}
+      {% for cat in collections.categories %}
+        {%- set catVideos = all | where("category", cat.fileSlug) -%}
+        {% if catVideos.length %}
+        <div class="cat-block">
+          <div class="cat-block__head"><h2><i class="fas {{ cat.data.icon }}" aria-hidden="true"></i> {{ cat.data.nav_title }}</h2><a class="link-arrow" href="{{ cat.url }}">Procedures <i class="fas fa-arrow-right" aria-hidden="true"></i></a></div>
+          {% set videoList = catVideos %}{% set socialList = [] %}{% set videoLabel = cat.data.nav_title %}{% include "partials/videos-block.njk" %}
+        </div>
+        {% endif %}
+      {% endfor %}
+    {% else %}
+      <div class="empty-state">
+        <i class="fas fa-circle-play" aria-hidden="true"></i>
+        <h2 style="font-size:1.6rem">Videos are coming soon</h2>
+        <p>In the meantime, Dr. Junaid shares short videos about procedures, recovery and common questions on social media.</p>
+      </div>
+    {% endif %}
+
+    <div class="section__head" style="margin-top:4rem">
+      <p class="eyebrow">Follow</p>
+      <h2>More on social media</h2>
+    </div>
+    <div class="contact-cards">
+      {% if site.social.tiktok %}<a class="contact-card" href="{{ site.social.tiktok }}" target="_blank" rel="noopener"><i class="fab fa-tiktok" aria-hidden="true"></i><div><strong>TikTok</strong><span>@dr.junaidfateh</span></div></a>{% endif %}
+      {% if site.social.instagram %}<a class="contact-card" href="{{ site.social.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i><div><strong>Instagram</strong><span>@drjunaidfateh</span></div></a>{% endif %}
+      {% if site.social.facebook %}<a class="contact-card" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i><div><strong>Facebook</strong><span>drjunaidfateh</span></div></a>{% endif %}
+      {% if site.social.youtube %}<a class="contact-card" href="{{ site.social.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i><div><strong>YouTube</strong><span>Subscribe</span></div></a>{% endif %}
+    </div>
+  </div>
+</section>
+
+{% include "partials/cta-band.njk" %}

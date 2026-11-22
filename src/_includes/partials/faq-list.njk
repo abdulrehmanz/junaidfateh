@@ -1,0 +1,9 @@
+{#- expects: faqList (list of {q,a}) -#}
+<div class="faq">
+  {% for f in faqList %}
+  <details class="faq__item"{% if loop.first and faqOpenFirst %} open{% endif %}>
+    <summary><span>{{ f.q }}</span><i class="fas fa-plus" aria-hidden="true"></i></summary>
+    <div class="faq__answer">{{ f.a | md | safe }}</div>
+  </details>
+  {% endfor %}
+</div>

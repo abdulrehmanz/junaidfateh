@@ -1,0 +1,72 @@
+---
+layout: layouts/base.njk
+---
+{%- set crumbs = [{ name: "Blog", url: "/blog/" }, { name: category }] -%}
+{%- set heroEyebrow = category -%}
+{%- set heroSubtitle = description -%}
+{% include "partials/page-hero.njk" %}
+
+<div class="container post-layout">
+  <article class="post">
+    <div class="post__meta">
+      <img src="/assets/images/doctor/dr-junaid-fateh-square.webp" alt="" width="44" height="44" loading="lazy">
+      <span>By <a href="/about/">{{ author }}</a><br><time datetime="{{ page.date | isoDate }}">{{ page.date | readableDate }}</time> &middot; {{ content | readingTime }} min read</span>
+    </div>
+    {% if image %}
+    <figure class="post__image"><img src="{{ image }}" alt="{{ image_alt or title }}" loading="eager" decoding="async"></figure>
+    {% endif %}
+    <div class="prose">
+      {{ content | safe }}
+    </div>
+
+    {% if videos and videos.length %}
+    <section class="proc-section">
+      <h2>Watch</h2>
+      {% set videoList = videos %}{% set socialList = social_links %}{% set videoLabel = title %}
+      {% include "partials/videos-block.njk" %}
+    </section>
+    {% endif %}
+
+    {% if faqs and faqs.length %}
+    <section class="proc-section">
+      <h2>Quick answers</h2>
+      {% set faqList = faqs %}{% set faqOpenFirst = false %}
+      {% include "partials/faq-list.njk" %}
+    </section>
+    {% endif %}
+
+    <div class="post__author">
+      <img src="/assets/images/doctor/dr-junaid-fateh-square.webp" alt="{{ site.fullName }}" width="96" height="96" loading="lazy">
+      <div>
+        <p class="eyebrow">About the author</p>
+        <h2>{{ site.fullName }}</h2>
+        <p>{{ site.jobTitle }} ({{ site.shortCredentials }}) seeing patients in Lahore and Layyah. <a href="/about/">Read more about Dr. Junaid</a>.</p>
+      </div>
+    </div>
+  </article>
+
+  <aside class="proc-aside">
+    <div class="aside-card aside-card--doctor">
+      <p class="aside-card__title">Have a question?</p>
+      <p>Send Dr. Junaid a message and book a consultation in Lahore, Layyah or online.</p>
+      <a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
+    </div>
+    {% set relatedProcs = collections.procedures | bySlugs(related_procedures) %}
+    {% if relatedProcs.length %}
+    <div class="aside-card">
+      <p class="aside-card__title"><i class="fas fa-layer-group" aria-hidden="true"></i> Related procedures</p>
+      <ul class="aside-links">
+        {% for p in relatedProcs %}<li><a href="{{ p.url }}">{{ p.data.short_title }} <i class="fas fa-chevron-right" aria-hidden="true"></i></a></li>{% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+    <div class="aside-card">
+      <p class="aside-card__title"><i class="fas fa-newspaper" aria-hidden="true"></i> More articles</p>
+      <ul class="aside-links">
+        {% for p in collections.posts | exceptUrl(page.url) | limit(4) %}<li><a href="{{ p.url }}">{{ p.data.title }}</a></li>{% endfor %}
+      </ul>
+    </div>
+  </aside>
+</div>
+
+{% include "partials/cta-band.njk" %}

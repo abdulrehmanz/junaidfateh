@@ -1,0 +1,140 @@
+{%- set navUrl = page.url -%}
+<header class="site-header" data-header>
+  <div class="topbar">
+    <div class="container topbar__inner">
+      <p class="topbar__places"><i class="fas fa-location-dot" aria-hidden="true"></i> Consultations in {% for loc in locations %}{{ loc.city }}{% if not loop.last %} &amp; {% endif %}{% endfor %} &middot; Online video consultations available</p>
+      <div class="topbar__links">
+        <a href="tel:{{ site.phoneHref }}"><i class="fas fa-phone" aria-hidden="true"></i> {{ site.phone }}</a>
+        <a href="mailto:{{ site.email }}"><i class="fas fa-envelope" aria-hidden="true"></i> {{ site.email }}</a>
+        {% include "partials/social-icons.njk" %}
+        {% include "partials/lang-toggle.njk" %}
+      </div>
+    </div>
+  </div>
+
+  <div class="navbar">
+    <div class="container navbar__inner">
+      <a class="brand" href="/" aria-label="{{ site.name }}, home">
+        <span class="brand__mark" aria-hidden="true">JF</span>
+        <span class="brand__text">
+          <span class="brand__name">{{ site.name }}</span>
+          <span class="brand__role">Plastic &amp; Cosmetic Surgeon</span>
+        </span>
+      </a>
+
+      <nav class="nav" aria-label="Main">
+        <ul class="nav__list">
+          <li><a class="nav__link{% if navUrl == '/about/' %} is-active{% endif %}" href="/about/">About</a></li>
+          <li><a class="nav__link{% if navUrl == '/hair-transplant/' %} is-active{% endif %}" href="/hair-transplant/">Hair Transplant</a></li>
+          <li class="nav__item--mega">
+            <button class="nav__link nav__toggle{% if (pageType == 'procedure' or pageType == 'category' or navUrl == '/procedures/') and navUrl != '/hair-transplant/' %} is-active{% endif %}" aria-expanded="false" aria-controls="mega-procedures">Procedures <i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <div class="mega" id="mega-procedures">
+              <div class="container mega__grid">
+                {% for cat in collections.categories %}
+                <div class="mega__col">
+                  <a class="mega__title" href="{{ cat.url }}"><i class="fas {{ cat.data.icon }}" aria-hidden="true"></i> {{ cat.data.nav_title }}</a>
+                  <ul>
+                    {% for p in collections.procedures | byCategory(cat.fileSlug) %}
+                    <li><a href="{{ p.url }}"{% if p.url == navUrl %} aria-current="page"{% endif %}>{{ p.data.short_title }}{% if p.data.specialty %} <span class="tag-star" title="Signature specialty">&#9733;</span>{% endif %}</a></li>
+                    {% endfor %}
+                  </ul>
+                </div>
+                {% endfor %}
+              </div>
+              <div class="container mega__foot">
+                <span><span class="tag-star">&#9733;</span> Signature specialties of Dr. Junaid</span>
+                <a href="/procedures/">View all procedures <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+              </div>
+            </div>
+          </li>
+          <li class="nav__item--drop">
+            <button class="nav__link nav__toggle{% if navUrl == '/gallery/' or navUrl == '/reviews/' or navUrl == '/videos/' %} is-active{% endif %}" aria-expanded="false" aria-controls="drop-results">Results <i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <ul class="drop" id="drop-results">
+              <li><a href="/gallery/"><i class="fas fa-images" aria-hidden="true"></i> Before &amp; After</a></li>
+              <li><a href="/reviews/"><i class="fas fa-star" aria-hidden="true"></i> Patient Reviews</a></li>
+              <li><a href="/videos/"><i class="fas fa-circle-play" aria-hidden="true"></i> Videos</a></li>
+            </ul>
+          </li>
+          <li class="nav__item--drop">
+            <button class="nav__link nav__toggle{% if navUrl == '/patient-journey/' or navUrl == '/cost-guide/' or navUrl == '/overseas-patients/' or navUrl == '/faq/' or navUrl == '/blog/' or pageType == 'post' %} is-active{% endif %}" aria-expanded="false" aria-controls="drop-patients">Patient Guide <i class="fas fa-chevron-down" aria-hidden="true"></i></button>
+            <ul class="drop" id="drop-patients">
+              <li><a href="/patient-journey/"><i class="fas fa-route" aria-hidden="true"></i> Your Patient Journey</a></li>
+              <li><a href="/cost-guide/"><i class="fas fa-receipt" aria-hidden="true"></i> Cost Guide</a></li>
+              <li><a href="/overseas-patients/"><i class="fas fa-plane-arrival" aria-hidden="true"></i> Overseas Patients</a></li>
+              <li><a href="/faq/"><i class="fas fa-circle-question" aria-hidden="true"></i> FAQs</a></li>
+              <li><a href="/blog/"><i class="fas fa-newspaper" aria-hidden="true"></i> Blog &amp; Articles</a></li>
+            </ul>
+          </li>
+          <li><a class="nav__link{% if navUrl == '/contact/' %} is-active{% endif %}" href="/contact/">Contact</a></li>
+        </ul>
+      </nav>
+
+      <div class="navbar__actions">
+        <a class="btn btn--gold btn--sm navbar__cta" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> <span>Book Consultation</span></a>
+        <button class="burger" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-menu" data-burger>
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  {# ── Mobile menu ── #}
+  <div class="mobile-menu" id="mobile-menu" hidden>
+    <div class="mobile-menu__panel">
+      <div class="mobile-menu__head">
+        <span class="brand__name">{{ site.name }}</span>
+        <button class="mobile-menu__close" type="button" aria-label="Close menu" data-burger-close><i class="fas fa-xmark" aria-hidden="true"></i></button>
+      </div>
+      <ul class="mnav">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About Dr. Junaid</a></li>
+        <li><a href="/hair-transplant/">Hair Transplant</a></li>
+        <li>
+          <details>
+            <summary>Procedures</summary>
+            {% for cat in collections.categories %}
+            <details class="mnav__sub">
+              <summary>{{ cat.data.nav_title }}</summary>
+              <ul>
+                <li><a href="{{ cat.url }}">Overview</a></li>
+                {% for p in collections.procedures | byCategory(cat.fileSlug) %}
+                <li><a href="{{ p.url }}">{{ p.data.short_title }}</a></li>
+                {% endfor %}
+              </ul>
+            </details>
+            {% endfor %}
+            <a class="mnav__all" href="/procedures/">All procedures</a>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Results</summary>
+            <ul>
+              <li><a href="/gallery/">Before &amp; After</a></li>
+              <li><a href="/reviews/">Patient Reviews</a></li>
+              <li><a href="/videos/">Videos</a></li>
+            </ul>
+          </details>
+        </li>
+        <li>
+          <details>
+            <summary>Patient Guide</summary>
+            <ul>
+              <li><a href="/patient-journey/">Your Patient Journey</a></li>
+              <li><a href="/cost-guide/">Cost Guide</a></li>
+              <li><a href="/overseas-patients/">Overseas Patients</a></li>
+              <li><a href="/faq/">FAQs</a></li>
+            </ul>
+          </details>
+        </li>
+        <li><a href="/blog/">Blog</a></li>
+        <li><a href="/contact/">Contact</a></li>
+      </ul>
+      <div class="mobile-menu__foot">
+        <a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
+        <a class="btn btn--outline btn--block" href="tel:{{ site.phoneHref }}"><i class="fas fa-phone" aria-hidden="true"></i> {{ site.phone }}</a>
+        {% include "partials/social-icons.njk" %}
+      </div>
+    </div>
+  </div>
+</header>

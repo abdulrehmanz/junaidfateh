@@ -1,0 +1,21 @@
+{#- expects: loc -#}
+<article class="loc-card">
+  {% if loc.mapEmbed %}
+  <div class="loc-card__map"><iframe src="{{ loc.mapEmbed }}" title="Map of {{ loc.clinic or loc.city }}" loading="lazy" referrerpolicy="no-referrer-when-downgrade" allowfullscreen></iframe></div>
+  {% else %}
+  <div class="loc-card__map loc-card__map--empty"><i class="fas fa-map-location-dot" aria-hidden="true"></i><span>Map coming soon</span></div>
+  {% endif %}
+  <div class="loc-card__body">
+    <p class="eyebrow">{{ loc.city }}</p>
+    <h3>{{ loc.clinic or ("Dr. Junaid Fateh, " ~ loc.city) }}</h3>
+    <ul class="loc-card__list">
+      <li><i class="fas fa-location-dot" aria-hidden="true"></i> {% if loc.address %}{{ loc.address }}{% if loc.area and loc.area not in loc.address %}, {{ loc.area }}{% endif %}, {{ loc.city }}{% if loc.postalCode %} {{ loc.postalCode }}{% endif %}{% else %}Full address shared when you book{% endif %}</li>
+      {% if loc.days or loc.hours %}<li><i class="fas fa-clock" aria-hidden="true"></i> {{ loc.days }}{% if loc.days and loc.hours %}, {% endif %}{{ loc.hours }}</li>{% else %}<li><i class="fas fa-clock" aria-hidden="true"></i> By appointment, message to check days</li>{% endif %}
+      <li><i class="fas fa-phone" aria-hidden="true"></i> <a href="tel:{{ (loc.phone or site.phone) | replace(' ', '') }}">{{ loc.phone or site.phone }}</a></li>
+    </ul>
+    <div class="loc-card__actions">
+      <a class="btn btn--gold btn--sm" href="{{ '' | waLink }}" data-consult data-location="{{ loc.city }}"><i class="fas fa-calendar-check" aria-hidden="true"></i> Book in {{ loc.city }}</a>
+      {% if loc.mapsUrl %}<a class="btn btn--outline btn--sm" href="{{ loc.mapsUrl }}" target="_blank" rel="noopener"><i class="fas fa-diamond-turn-right" aria-hidden="true"></i> Directions</a>{% endif %}
+    </div>
+  </div>
+</article>
