@@ -53,7 +53,7 @@ Your stage helps Dr. Junaid judge how many grafts you may need and whether your 
 
 ## FUE or FUT?
 
-Both methods move the same thing: natural groups of one to four hairs called follicular units. FUE takes them out one at a time, leaving tiny dot marks that are usually hard to see once your hair grows back, and suits people who keep their hair short. FUT removes a thin strip of scalp that is divided into grafts, leaving a fine line hidden under hair of moderate length, and can provide a large number of grafts in a single session. Dr. Junaid recommends one, or occasionally both, based on your scalp, the extent of your loss and your preferred hairstyle.
+Both methods move the same thing: natural groups of one to four hairs called follicular units. FUE takes them out one at a time, leaving tiny dot marks that are usually hard to see once your hair grows back, and suits people who keep their hair short. FUT removes a thin strip of scalp that is divided into grafts, leaving a fine line hidden under hair of moderate length, and can provide a large number of grafts in a single session. Dr. Junaid recommends one, or occasionally both, based on your scalp, the extent of your loss and your preferred hairstyle. FUE itself can be carried out in different ways, including [Sapphire FUE, DHI and robotic FUE](/procedures/fue-hair-transplant/), and he will explain which suits your hair.
 
 ## Who is a good candidate?
 

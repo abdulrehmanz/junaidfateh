@@ -8,7 +8,7 @@ summary: "Medically supervised treatment to even out skin tone, fade pigmentatio
 seo:
   title: "Skin Whitening & Brightening in Lahore | Dr. Junaid Fateh"
   description: "Skin brightening in Lahore with Dr. Junaid Fateh. Medically supervised care to even tone and fade dark patches and melasma, with sun protection advice."
-  keywords: "skin whitening Lahore, skin whitening treatment in Lahore, skin brightening Lahore, skin whitening cost in Lahore, skin brightening price Pakistan, best skin brightening treatment in Lahore, pigmentation treatment Lahore, melasma treatment Lahore, Dr Junaid Fateh skin brightening, skin whitening Layyah, dark spots treatment Lahore, uneven skin tone treatment Pakistan, laser toning Lahore"
+  keywords: "skin whitening Lahore, skin whitening treatment in Lahore, skin brightening Lahore, skin whitening cost in Lahore, skin brightening price Pakistan, best skin brightening treatment in Lahore, pigmentation treatment Lahore, melasma treatment Lahore, Dr Junaid Fateh skin brightening, skin whitening Layyah, dark spots treatment Lahore, uneven skin tone treatment Pakistan, laser toning Lahore, glutathione injections Lahore, glutathione drip Lahore"
 hero_subtitle: "A clearer, more even complexion under medical supervision, with realistic goals"
 price_from: ''
 stats:
@@ -101,6 +101,8 @@ faqs:
   a: "Be cautious. Some unregulated or unlabelled whitening creams have been found to contain strong steroids or mercury, which can damage the skin and affect your health. Dr. Junaid recommends only treatments and products used under medical supervision, and will discuss what the evidence does and does not support."
 - q: "Can melasma be cured?"
   a: "Melasma can usually be improved and controlled, but it tends to return, especially with sun, heat and hormonal changes. A long-term plan with sun protection and maintenance treatment gives the best chance of keeping it under control."
+- q: "Do you offer glutathione injections or drips?"
+  a: "Yes, glutathione IV therapy is available as part of a supervised brightening plan. It is not approved specifically for skin lightening and results vary from person to person, so Dr. Junaid reviews your health, explains the possible side effects and combines it with sun protection and proven skincare for the best chance of a visible improvement."
 ---
 
 ## About Skin Whitening & Brightening
@@ -125,6 +127,7 @@ He then builds a plan around your skin rather than a fixed package. In most case
 - **Skin boosters and mesotherapy:** Fine injections of hydrating and brightening ingredients to improve skin quality and glow.
 - **Microneedling and HydraFacial:** Supporting treatments for texture and radiance, used as part of a wider plan where suitable.
 - **Sun protection:** Daily broad-spectrum sunscreen and shade in strong sun, the single most important step for keeping results.
+- **Glutathione IV therapy:** Glutathione is given as a drip or injection as part of some brightening programmes. Evidence for skin lightening is limited and results vary, so Dr. Junaid explains the expected benefit, the possible side effects and the medical checks needed before you start.
 
 ## What to expect on the day
 

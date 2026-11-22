@@ -8,13 +8,13 @@ summary: "Medical chemical peels to improve uneven tone, acne marks, mild scarri
 seo:
   title: "Chemical Peels in Lahore | Dr. Junaid Fateh"
   description: "Chemical peels in Lahore with Dr. Junaid Fateh for pigmentation, acne marks and dull skin. Peel strength is chosen for South Asian skin. Book a consultation."
-  keywords: "chemical peel Lahore, chemical peels in Lahore, chemical peel cost in Lahore, chemical peel price Pakistan, best chemical peel in Lahore, Dr Junaid Fateh chemical peel, chemical peel Layyah, peel for pigmentation Lahore, acne scar peel Lahore, melasma peel Pakistan, glycolic peel Lahore, TCA peel Lahore, skin peel treatment Lahore"
+  keywords: "chemical peel Lahore, chemical peels in Lahore, chemical peel cost in Lahore, chemical peel price Pakistan, best chemical peel in Lahore, Dr Junaid Fateh chemical peel, chemical peel Layyah, peel for pigmentation Lahore, acne scar peel Lahore, melasma peel Pakistan, glycolic peel Lahore, TCA peel Lahore, skin peel treatment Lahore, deep chemical peel Lahore, phenol peel Lahore"
 hero_subtitle: "Clearer, more even skin with peels matched to your skin type"
 price_from: ''
 stats:
-  duration: "15–30 minutes"
-  anesthesia: "None"
-  recovery: "1–14 days (depending on depth)"
+  duration: "15–30 minutes (deep peels 1–2 hours)"
+  anesthesia: "None for light peels; sedation for deep peels"
+  recovery: "1–14 days (2–3 weeks for deep peels)"
   results: "Visible improvement after peeling (series of 3–6 for best results)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
@@ -101,6 +101,8 @@ faqs:
   a: "Light peels usually work best as a series of three to six, a few weeks apart. Medium peels are repeated less often. Your plan depends on your skin and your goals."
 - q: "Can I have a peel before my wedding?"
   a: "Yes, if it is planned well ahead. Start a series at least two to three months before, and avoid any new or stronger peel in the final two weeks."
+- q: "Do you offer deep (phenol) peels?"
+  a: "Yes. Deep phenol peels can give a dramatic improvement in deep wrinkles and sun damage, but they need sedation, monitoring during the treatment and a recovery of a few weeks. They are not suitable for darker skin types or for people with certain heart, liver or kidney conditions, so Dr. Junaid assesses you carefully first."
 ---
 
 ## About Chemical Peels
@@ -124,6 +126,7 @@ He then chooses a peel strong enough to help but gentle enough for your skin, an
 - **Combination peels:** Blends of several acids, such as Jessner's solution, for acne marks, pigmentation and texture.
 - **Medium-depth peels:** TCA (trichloroacetic acid) peels for more noticeable improvement in sun damage, fine lines and some scarring, with a week or so of peeling.
 - **Pigmentation-focused peels:** Formulations selected for melasma and uneven tone, used alongside home skincare and sun protection.
+- **Deep peels:** Phenol-based peels reach deeper into the skin for marked wrinkles, sun damage and some scarring. They are a single, carefully planned treatment with sedation and monitoring, a longer recovery of a few weeks, and are not suitable for every skin type.
 
 ## What to expect on the day
 

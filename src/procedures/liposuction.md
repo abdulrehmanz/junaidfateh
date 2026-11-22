@@ -8,7 +8,7 @@ summary: "Liposuction in Lahore with Dr. Junaid Fateh to remove stubborn pockets
 seo:
   title: "Liposuction in Lahore | Dr. Junaid Fateh"
   description: "Liposuction in Lahore by Dr. Junaid Fateh. Remove stubborn fat from the tummy, flanks, thighs or arms for a smoother shape. Book a WhatsApp consultation."
-  keywords: liposuction Lahore, liposuction cost in Lahore, best liposuction surgeon in Lahore, Dr Junaid Fateh liposuction, liposuction Layyah, liposuction Pakistan, lipo surgery Lahore, fat removal surgery Lahore, tumescent liposuction Lahore, tummy liposuction Lahore, arm and thigh liposuction, chin and neck liposuction, body sculpting Lahore, liposuction for men Lahore
+  keywords: liposuction Lahore, liposuction cost in Lahore, best liposuction surgeon in Lahore, Dr Junaid Fateh liposuction, liposuction Layyah, liposuction Pakistan, lipo surgery Lahore, fat removal surgery Lahore, tumescent liposuction Lahore, tummy liposuction Lahore, arm and thigh liposuction, chin and neck liposuction, body sculpting Lahore, liposuction for men Lahore, VASER liposuction Lahore, VASER lipo Pakistan, hi-def liposuction Lahore
 hero_subtitle: "Precise fat removal and natural-looking body contouring in Lahore and Layyah"
 price_from: ''
 stats:
@@ -102,6 +102,8 @@ faqs:
   a: "Not in any meaningful way. Liposuction is designed to reshape particular areas, and the change on the scales is usually small. It works best once you are close to your goal weight and want to refine the places that have not responded."
 - q: "What if I have loose skin as well as fat?"
   a: "Skin with good elasticity usually tightens over the new contour. If the skin is already loose, for example after pregnancy or major weight loss, removing fat alone can make sagging more noticeable. In that case Dr. Junaid may suggest combining liposuction with a skin-tightening operation such as a tummy tuck or arm lift."
+- q: "Do you offer VASER liposuction?"
+  a: "Yes. VASER uses ultrasound energy to loosen fat before it is suctioned out, which can help with firmer areas and detailed contouring. It is not automatically better for everyone, so Dr. Junaid recommends the technique that best fits your body and goals after examining you."
 ---
 
 ## About liposuction
@@ -132,6 +134,7 @@ Options Dr. Junaid may recommend, depending on your body and goals, include:
 - **Liposuction with fat transfer:** Fat removed from one area can be purified and placed where volume is wanted, such as the buttocks, breasts or face.
 - **Liposuction with skin surgery:** When skin is loose, liposuction can be paired with a tummy tuck, arm lift or thigh lift for a smoother overall result.
 - **Small-area liposuction:** The chin, neck, knees or arms can often be treated under local anaesthesia with sedation.
+- **VASER liposuction:** Ultrasound energy is used to loosen fat before it is removed. It can be helpful for fibrous areas and for detailed contouring and definition, and Dr. Junaid will explain whether it offers an advantage in your case.
 
 ## What to expect on the day
 

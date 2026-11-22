@@ -8,7 +8,7 @@ summary: "Hair moved one follicle at a time to rebuild a receding hairline, temp
 seo:
   title: "FUE Hair Transplant in Lahore | Dr. Junaid Fateh"
   description: "FUE hair transplant in Lahore with Dr. Junaid Fateh. Natural hairline design, no linear scar and a quick return to work. Send your photos on WhatsApp today."
-  keywords: "FUE hair transplant Lahore, FUE hair transplant Pakistan, best FUE hair transplant surgeon in Lahore, FUE hair transplant cost in Lahore, follicular unit extraction Lahore, Dr Junaid Fateh hair transplant, hair transplant Layyah, hairline transplant Lahore, crown hair transplant Lahore, hair transplant Shadman Lahore, FUE for women Pakistan, baldness treatment Lahore, sapphire FUE Lahore, DHI hair transplant Lahore"
+  keywords: "FUE hair transplant Lahore, FUE hair transplant Pakistan, best FUE hair transplant surgeon in Lahore, FUE hair transplant cost in Lahore, follicular unit extraction Lahore, Dr Junaid Fateh hair transplant, hair transplant Layyah, hairline transplant Lahore, crown hair transplant Lahore, hair transplant Shadman Lahore, FUE for women Pakistan, baldness treatment Lahore, sapphire FUE Lahore, DHI hair transplant Lahore, robotic hair transplant Lahore, robotic FUE Pakistan"
 hero_subtitle: "Natural hairlines rebuilt one follicle at a time, with no strip scar at the back"
 price_from: ''
 stats:
@@ -133,6 +133,7 @@ Options Dr. Junaid may recommend include:
 - **DHI (direct hair implantation):** Grafts are loaded into a pen-like implanter and placed directly, which gives fine control over angle and depth, especially along the hairline.
 - **Body hair transplant:** For people with very limited scalp donor hair, hair from the beard area or chest may be used to add density in selected cases.
 - **Large single sessions:** When the donor area allows, a higher number of grafts can be moved in one longer session, so long as graft quality is not compromised.
+- **Robotic FUE:** A robotic system assists with mapping and extracting follicles in a consistent pattern. Dr. Junaid still designs the hairline and plans graft placement himself, and will advise whether robotic or manual extraction suits your hair type.
 
 ## What to expect on the day
 

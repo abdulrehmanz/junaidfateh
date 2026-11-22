@@ -8,7 +8,7 @@ summary: "Complete removal of skin cancers such as basal cell carcinoma, followe
 seo:
   title: "Skin Cancer Surgery in Lahore | Dr. Junaid Fateh"
   description: "Skin cancer removal in Lahore with Dr. Junaid Fateh. Careful excision of BCC, SCC and melanoma with reconstruction that respects your face. Book a consult."
-  keywords: "skin cancer surgery Lahore, skin cancer treatment Lahore, basal cell carcinoma surgery Lahore, squamous cell carcinoma treatment Pakistan, melanoma surgery Lahore, skin cancer removal Pakistan, best skin cancer surgeon in Lahore, skin cancer reconstruction Lahore, facial skin cancer surgery Lahore, suspicious mole removal Lahore, skin lesion biopsy Lahore, skin cancer surgery cost in Lahore, Dr Junaid Fateh skin cancer"
+  keywords: "skin cancer surgery Lahore, skin cancer treatment Lahore, basal cell carcinoma surgery Lahore, squamous cell carcinoma treatment Pakistan, melanoma surgery Lahore, skin cancer removal Pakistan, best skin cancer surgeon in Lahore, skin cancer reconstruction Lahore, facial skin cancer surgery Lahore, suspicious mole removal Lahore, skin lesion biopsy Lahore, skin cancer surgery cost in Lahore, Dr Junaid Fateh skin cancer, Mohs surgery Lahore, Mohs micrographic surgery Pakistan"
 hero_subtitle: "Removing skin cancer completely, then rebuilding with care for how you look"
 price_from: ''
 stats:
@@ -101,6 +101,8 @@ faqs:
   a: "The cost depends on the size, number and location of the lesions, the type of reconstruction needed, the anaesthetic, and histopathology fees. Dr. Junaid will give you a personalised quote after your consultation. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
   a: "Yes. Send clear photos of the spot and any biopsy or pathology reports on WhatsApp, then book a video consultation. A photo cannot confirm a diagnosis, but Dr. Junaid can advise on how urgently you should be seen. The final plan is confirmed after he examines you in person in Lahore or Layyah."
+- q: "What is Mohs surgery and do I need it?"
+  a: "Mohs micrographic surgery removes a skin cancer layer by layer, checking each layer under the microscope during the procedure until the margins are clear. It is especially useful for basal and squamous cell cancers on the face, ears and eyelids where saving healthy skin matters. Dr. Junaid will advise whether Mohs or standard excision is the better option for your lesion."
 ---
 
 ## About Skin Cancer Surgery
@@ -132,6 +134,7 @@ Options Dr. Junaid may recommend include:
 - **Skin graft:** Covering a larger wound with skin taken from another area, such as in front of or behind the ear.
 - **Staged reconstruction:** Removing the cancer first and completing the repair once the laboratory confirms clear margins.
 - **Sentinel lymph node biopsy:** A staging test used for some melanomas, discussed with you if it is relevant.
+- **Mohs micrographic surgery:** The cancer is removed in thin layers that are examined under the microscope during the procedure, continuing only where cancer remains. It saves as much healthy skin as possible and is used mainly for basal and squamous cell cancers on the face and other sensitive areas.
 
 ## What to expect on the day
 

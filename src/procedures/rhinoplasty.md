@@ -8,7 +8,7 @@ summary: "Nose reshaping surgery in Lahore with Dr. Junaid Fateh, planned to sui
 seo:
   title: "Rhinoplasty in Lahore | Dr. Junaid Fateh"
   description: "Rhinoplasty in Lahore with Dr. Junaid Fateh. Nose reshaping planned around your own features for a natural, balanced result. Book a consultation on WhatsApp."
-  keywords: "rhinoplasty Lahore, nose job Lahore, best rhinoplasty surgeon Lahore, nose reshaping Lahore, rhinoplasty cost in Lahore, nose job price Pakistan, rhinoplasty Pakistan, Dr Junaid Fateh rhinoplasty, revision rhinoplasty Lahore, septorhinoplasty Lahore, functional rhinoplasty Lahore, open rhinoplasty, closed rhinoplasty, nose surgery Lahore"
+  keywords: "rhinoplasty Lahore, nose job Lahore, best rhinoplasty surgeon Lahore, nose reshaping Lahore, rhinoplasty cost in Lahore, nose job price Pakistan, rhinoplasty Pakistan, Dr Junaid Fateh rhinoplasty, revision rhinoplasty Lahore, septorhinoplasty Lahore, functional rhinoplasty Lahore, open rhinoplasty, closed rhinoplasty, nose surgery Lahore, ultrasonic rhinoplasty Lahore, piezo rhinoplasty Pakistan"
 hero_subtitle: "A nose that suits your face and breathes well, planned with care by Dr. Junaid"
 price_from: ''
 stats:
@@ -102,6 +102,8 @@ faqs:
   a: "Like any surgery, rhinoplasty carries risks, including bleeding, infection, a reaction to anaesthesia, prolonged swelling, changes in breathing and the chance that a small revision is needed later. Dr. Junaid goes through these with you at consultation and explains how they are kept as low as possible."
 - q: "Can I have an online consultation from abroad?"
   a: "Yes. Many overseas Pakistanis start this way. Send clear front, side and three-quarter photos of your face on WhatsApp and book a video consultation, and Dr. Junaid can discuss your goals and outline a likely plan. The final plan is confirmed in person in Lahore before surgery, so allow enough time in Pakistan for splint removal and your early check-up."
+- q: "What is ultrasonic (piezo) rhinoplasty?"
+  a: "It is a technique where the nasal bones are shaped with a piezoelectric instrument instead of traditional chisels and rasps. The instrument works on bone while sparing nearby soft tissue, which allows fine control and may reduce bruising. Dr. Junaid will tell you at consultation whether it suits your nose."
 ---
 
 ## About rhinoplasty
@@ -131,6 +133,7 @@ Options Dr. Junaid may recommend include:
 - **Septorhinoplasty:** A deviated septum is straightened alongside the cosmetic changes, improving airflow as well as appearance.
 - **Revision rhinoplasty:** Corrects problems left after earlier nose surgery. This is often more involved, and cartilage grafts may be needed to rebuild support.
 - **Non-surgical rhinoplasty:** Carefully placed dermal filler can smooth a small bump or lift the tip for a temporary change without an operation. It cannot make the nose smaller or fix breathing.
+- **Ultrasonic (piezo) rhinoplasty:** Bone is reshaped with a piezoelectric instrument that vibrates to sculpt bone while sparing the surrounding soft tissue. It allows precise refinement of the nasal bones and can mean less bruising and swelling for some patients.
 
 ## What to expect on the day
 

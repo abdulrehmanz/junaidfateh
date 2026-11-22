@@ -8,7 +8,7 @@ summary: "Private, respectful intimate surgery in Lahore with Dr. Junaid Fateh, 
 seo:
   title: "Aesthetic Gynecology in Lahore | Dr. Junaid Fateh"
   description: "Aesthetic gynecology in Lahore with Dr. Junaid Fateh. Discreet labiaplasty and intimate repair after childbirth, focused on comfort. Book a private consult."
-  keywords: aesthetic gynecology Lahore, labiaplasty Lahore, labiaplasty cost in Lahore, best labiaplasty surgeon in Lahore, vaginoplasty Lahore, vaginal tightening surgery Lahore, intimate surgery Pakistan, perineoplasty Lahore, labia reduction surgery Pakistan, monsplasty Lahore, female intimate surgery Lahore, confidential intimate surgery Lahore, Dr Junaid Fateh
+  keywords: aesthetic gynecology Lahore, labiaplasty Lahore, labiaplasty cost in Lahore, best labiaplasty surgeon in Lahore, vaginoplasty Lahore, vaginal tightening surgery Lahore, intimate surgery Pakistan, perineoplasty Lahore, labia reduction surgery Pakistan, monsplasty Lahore, female intimate surgery Lahore, confidential intimate surgery Lahore, Dr Junaid Fateh, laser vaginal rejuvenation Lahore, vaginal rejuvenation Pakistan, hymenoplasty Lahore
 hero_subtitle: "Discreet, respectful care for intimate comfort and confidence"
 price_from: ''
 stats:
@@ -128,6 +128,8 @@ Options Dr. Junaid may recommend, after a private discussion, include:
 - **Vaginoplasty:** Tightens the vaginal canal and supporting muscles when they have been stretched by childbirth.
 - **Perineoplasty:** Repairs the area between the vagina and anus, often after a tear or episiotomy that has healed poorly.
 - **Monsplasty:** Reduces fullness or lifts the area above the pubic bone, sometimes with liposuction.
+- **Laser vaginal rejuvenation:** Laser or energy-based treatment of the vaginal tissue, offered to selected women for laxity or dryness after a full assessment, with an honest discussion of the evidence, the possible side effects and the alternatives.
+- **Hymenoplasty:** A confidential reconstructive procedure, discussed privately at consultation.
 
 ## What to expect on the day
 
