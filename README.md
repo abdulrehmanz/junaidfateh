@@ -16,6 +16,16 @@ Built with [Eleventy](https://www.11ty.dev/) as a fast static site. All content 
 - SEO: unique titles and descriptions, canonical links, Open Graph images, sitemap, robots.txt and schema.org structured data (Physician, Person, MedicalProcedure, FAQPage, BlogPosting, BreadcrumbList)
 - Optional Google Analytics 4 and Meta Pixel with lead tracking
 
+## Preview it without installing anything
+
+The ready-built site is in the `_site` folder. From this folder run:
+
+```bash
+python3 scripts/preview.py
+```
+
+Your browser opens `http://localhost:8080/junaidfateh/`. (Opening `_site/index.html` by double-clicking does not work, because the pages expect to be served from a web address.)
+
 ## Run it on your computer
 
 Requires [Node.js](https://nodejs.org/) 18 or newer.
