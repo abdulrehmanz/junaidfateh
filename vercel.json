@@ -5,6 +5,28 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.drjunaidfateh.com"
+        }
+      ],
+      "destination": "https://drjunaidfateh.com/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "junaidfateh.vercel.app"
+        }
+      ],
+      "destination": "https://drjunaidfateh.com/:path*",
+      "permanent": true
+    },
+    {
       "source": "/junaidfateh",
       "destination": "/",
       "permanent": true

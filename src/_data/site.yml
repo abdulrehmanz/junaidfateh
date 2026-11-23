@@ -12,10 +12,10 @@ tagline: "Natural results. Honest advice. Careful surgery."
 description: "Dr. Muhammad Junaid Fateh is an FCPS plastic, cosmetic and reconstructive surgeon in Lahore, known for hair transplants, gynecomastia, liposuction and hand surgery."
 
 # ── Website address ───────────────────────────────────────────────────────────
-# The site is hosted on Vercel. When you connect your own domain in Vercel
-# (Project > Settings > Domains), change url to it, e.g. "https://drjunaidfateh.com".
+# The site is hosted on Vercel at https://drjunaidfateh.com (connected in Project > Settings > Domains).
+# www.drjunaidfateh.com and junaidfateh.vercel.app redirect here (see vercel.json).
 # pathPrefix stays "/" on Vercel. customDomain is only needed for GitHub Pages.
-url: "https://junaidfateh.vercel.app"
+url: "https://drjunaidfateh.com"
 pathPrefix: "/"
 customDomain: ""
 

@@ -42,7 +42,7 @@ npm run build      # build the site into _site/
 
 ## Deploying
 
-The site is hosted on **Vercel** at https://junaidfateh.vercel.app/. Every push to `main` is built and published by Vercel automatically, using the settings in `vercel.json` (content check, build, output folder `_site`, redirects and caching headers). If the content check fails, Vercel keeps the previous version live.
+The site is hosted on **Vercel** at https://drjunaidfateh.com/ (www and the vercel.app address redirect there). Every push to `main` is built and published by Vercel automatically, using the settings in `vercel.json` (content check, build, output folder `_site`, redirects and caching headers). If the content check fails, Vercel keeps the previous version live.
 
 Recommended Vercel setting: in **Project > Settings > Environment Variables** add `VERCEL_DEEP_CLONE` = `true`, so the "Updated" dates on pages come from the full git history.
 
