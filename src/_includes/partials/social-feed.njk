@@ -1,0 +1,76 @@
+{#- Live social media feed. Settings: src/_data/socialFeed.yml; profile links: src/_data/site.yml.
+    The embeds only load when the section scrolls into view, so they don't slow the page down. -#}
+{%- set igHandle = site.social.instagram | replace("https://www.instagram.com/", "") | replace("/", "") -%}
+{%- set ttHandle = site.social.tiktok | replace("https://www.tiktok.com/@", "") | replace("/", "") -%}
+<section class="section {{ feedClass or 'section--sand' }}" id="social">
+  <div class="container">
+    <div class="section__head reveal">
+      <p class="eyebrow">Follow</p>
+      <h2>{{ socialFeed.title }}</h2>
+      <p>{{ socialFeed.intro }}</p>
+    </div>
+
+    <div class="social-feed">
+      {% if socialFeed.instagram and site.social.instagram %}
+      <article class="feed-card">
+        <header class="feed-card__head">
+          <span class="feed-card__icon feed-card__icon--ig"><i class="fab fa-instagram" aria-hidden="true"></i></span>
+          <span><strong>Instagram</strong><small>@{{ igHandle }}</small></span>
+          <a class="btn btn--outline btn--sm" href="{{ site.social.instagram }}" target="_blank" rel="noopener">Follow</a>
+        </header>
+        <div class="feed-card__body">
+          {% if socialFeed.instagramFeedUrl %}
+            <div class="ig-grid" data-social-embed="instagram-feed" data-feed="{{ socialFeed.instagramFeedUrl }}" data-count="{{ socialFeed.instagramPostCount or 9 }}" data-profile="{{ site.social.instagram }}">
+              {% for i in range(0, 9) %}<span class="ig-grid__ph"></span>{% endfor %}
+            </div>
+          {% elif socialFeed.instagramPosts and socialFeed.instagramPosts.length %}
+            <div class="feed-scroll">
+              {% for url in socialFeed.instagramPosts %}{% videoEmbed { url: url }, "Instagram post by Dr. Junaid Fateh" %}{% endfor %}
+            </div>
+          {% else %}
+            <a class="feed-empty" href="{{ site.social.instagram }}" target="_blank" rel="noopener">
+              <i class="fab fa-instagram" aria-hidden="true"></i>
+              <strong>See the latest posts on Instagram</strong>
+              <span>Results, reels and patient education from @{{ igHandle }}</span>
+            </a>
+          {% endif %}
+        </div>
+      </article>
+      {% endif %}
+
+      {% if socialFeed.facebook and site.social.facebook %}
+      <article class="feed-card">
+        <header class="feed-card__head">
+          <span class="feed-card__icon feed-card__icon--fb"><i class="fab fa-facebook-f" aria-hidden="true"></i></span>
+          <span><strong>Facebook</strong><small>Dr. Junaid Fateh</small></span>
+          <a class="btn btn--outline btn--sm" href="{{ site.social.facebook }}" target="_blank" rel="noopener">Follow</a>
+        </header>
+        <div class="feed-card__body feed-card__body--embed" data-social-embed="facebook" data-page="{{ site.social.facebook }}">
+          <a class="feed-empty" href="{{ site.social.facebook }}" target="_blank" rel="noopener">
+            <i class="fab fa-facebook-f" aria-hidden="true"></i>
+            <strong>Loading latest Facebook posts</strong>
+            <span>Or open the page on Facebook</span>
+          </a>
+        </div>
+      </article>
+      {% endif %}
+
+      {% if socialFeed.tiktok and site.social.tiktok %}
+      <article class="feed-card">
+        <header class="feed-card__head">
+          <span class="feed-card__icon feed-card__icon--tt"><i class="fab fa-tiktok" aria-hidden="true"></i></span>
+          <span><strong>TikTok</strong><small>@{{ ttHandle }}</small></span>
+          <a class="btn btn--outline btn--sm" href="{{ site.social.tiktok }}" target="_blank" rel="noopener">Follow</a>
+        </header>
+        <div class="feed-card__body feed-card__body--embed" data-social-embed="tiktok" data-handle="{{ ttHandle }}" data-profile="{{ site.social.tiktok }}">
+          <a class="feed-empty" href="{{ site.social.tiktok }}" target="_blank" rel="noopener">
+            <i class="fab fa-tiktok" aria-hidden="true"></i>
+            <strong>Loading latest TikTok videos</strong>
+            <span>Or watch on TikTok</span>
+          </a>
+        </div>
+      </article>
+      {% endif %}
+    </div>
+  </div>
+</section>

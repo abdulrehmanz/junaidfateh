@@ -762,3 +762,32 @@ i.fas, i.fab, i.far { display: inline-block; min-width: 1em; text-align: center;
 .footer__about p a { color: var(--gold-light); text-decoration: none; }
 /* A single clinic card should not stretch across the whole page */
 .loc-grid:has(> :only-child) { max-width: 760px; margin-inline: auto; }
+
+/* ── Live social media feed ────────────────────────────────────────────── */
+.social-feed { display: grid; gap: 1.25rem; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); align-items: start; }
+.feed-card { background: var(--white); border: 1px solid var(--line); border-radius: var(--radius-lg); overflow: hidden; box-shadow: var(--shadow-sm); }
+.feed-card__head { display: flex; align-items: center; gap: 0.75rem; padding: 0.9rem 1rem; border-bottom: 1px solid var(--line); }
+.feed-card__head > span:nth-child(2) { flex: 1; display: flex; flex-direction: column; line-height: 1.25; }
+.feed-card__head strong { color: var(--ink); }
+.feed-card__head small { color: var(--muted); font-size: 0.8rem; }
+.feed-card__icon { width: 40px; height: 40px; border-radius: 12px; display: grid; place-items: center; color: var(--white); font-size: 1.15rem; flex-shrink: 0; }
+.feed-card__icon--ig { background: linear-gradient(45deg, #f09433, #dc2743 50%, #bc1888); }
+.feed-card__icon--fb { background: #1877f2; }
+.feed-card__icon--tt { background: #111; }
+.feed-card__body { padding: 0.75rem; }
+.feed-card__body--embed { display: flex; justify-content: center; min-height: 420px; }
+.feed-card__body--embed > .feed-empty { width: 100%; }
+.feed-card__body iframe { display: block; margin: 0 auto; }
+.feed-card .tiktok-embed { width: 100%; }
+.feed-empty { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 0.4rem; min-height: 400px; padding: 1.5rem; text-align: center; border-radius: var(--radius); background: var(--sand); text-decoration: none; }
+.feed-empty i { font-size: 2.2rem; color: var(--gold-dark); margin-bottom: 0.3rem; }
+.feed-empty strong { color: var(--ink); }
+.feed-empty span { font-size: 0.85rem; color: var(--muted); }
+.ig-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 4px; border-radius: var(--radius); overflow: hidden; }
+.ig-grid__ph { aspect-ratio: 1; background: linear-gradient(110deg, var(--sand) 8%, #f8f3ea 18%, var(--sand) 33%); background-size: 200% 100%; animation: shimmer 1.4s linear infinite; }
+@keyframes shimmer { to { background-position-x: -200%; } }
+.ig-grid__item { position: relative; display: block; aspect-ratio: 1; overflow: hidden; background: var(--sand); }
+.ig-grid__item img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s var(--ease); }
+.ig-grid__item:hover img { transform: scale(1.06); }
+.ig-grid__badge { position: absolute; top: 6px; right: 6px; width: 24px; height: 24px; border-radius: 50%; display: grid; place-items: center; background: rgba(0, 0, 0, 0.55); color: var(--white); font-size: 0.6rem; }
+.feed-scroll { display: grid; gap: 0.75rem; max-height: 640px; overflow-y: auto; }

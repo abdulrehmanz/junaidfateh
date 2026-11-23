@@ -346,4 +346,76 @@
   } else {
     reveals.forEach(function (r) { r.classList.add("is-visible"); });
   }
+
+  /* ── Live social media feed (loads only when scrolled into view) ─────── */
+  var escapeHtml = function (s) {
+    return String(s || "").replace(/[&<>"']/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]; });
+  };
+  var loadScript = function (src) {
+    if (doc.querySelector('script[src="' + src + '"]')) return;
+    var s = doc.createElement("script");
+    s.src = src; s.async = true;
+    doc.body.appendChild(s);
+  };
+  var socialLoaders = {
+    facebook: function (el) {
+      var width = Math.max(260, Math.min(500, Math.floor(el.clientWidth)));
+      var height = 640;
+      var src = "https://www.facebook.com/plugins/page.php?href=" + encodeURIComponent(el.getAttribute("data-page")) +
+        "&tabs=timeline&width=" + width + "&height=" + height +
+        "&small_header=true&adapt_container_width=true&hide_cover=false&show_facepile=false";
+      el.innerHTML = '<iframe src="' + src + '" width="' + width + '" height="' + height + '" title="Latest Facebook posts" ' +
+        'style="border:none;overflow:hidden;width:100%;max-width:500px" scrolling="no" frameborder="0" loading="lazy" ' +
+        'allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe>';
+    },
+    tiktok: function (el) {
+      var handle = el.getAttribute("data-handle");
+      var profile = el.getAttribute("data-profile");
+      el.innerHTML = '<blockquote class="tiktok-embed" cite="' + escapeHtml(profile) + '" data-unique-id="' + escapeHtml(handle) + '" ' +
+        'data-embed-type="creator" style="max-width:780px;min-width:288px;margin:0"><section>' +
+        '<a target="_blank" rel="noopener" href="' + escapeHtml(profile) + '?refer=creator_embed">@' + escapeHtml(handle) + "</a></section></blockquote>";
+      loadScript("https://www.tiktok.com/embed.js");
+    },
+    "instagram-feed": function (el) {
+      var count = Number(el.getAttribute("data-count")) || 9;
+      fetch(el.getAttribute("data-feed"))
+        .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+        .then(function (data) {
+          var posts = Array.isArray(data) ? data : (data.posts || []);
+          if (!posts.length) throw new Error("empty");
+          el.innerHTML = posts.slice(0, count).map(function (p) {
+            var sizes = p.sizes || {};
+            var img = (sizes.medium && sizes.medium.mediaUrl) || p.thumbnailUrl || p.mediaUrl;
+            var video = p.mediaType === "VIDEO" || p.isReel;
+            var caption = (p.prunedCaption || p.caption || "Instagram post").slice(0, 120);
+            return '<a class="ig-grid__item" href="' + escapeHtml(p.permalink) + '" target="_blank" rel="noopener" title="' + escapeHtml(caption) + '">' +
+              '<img src="' + escapeHtml(img) + '" alt="' + escapeHtml(caption) + '" loading="lazy" decoding="async">' +
+              (video ? '<span class="ig-grid__badge"><i class="fas fa-play" aria-hidden="true"></i></span>' : "") + "</a>";
+          }).join("");
+        })
+        .catch(function () {
+          el.outerHTML = '<a class="feed-empty" href="' + escapeHtml(el.getAttribute("data-profile")) + '" target="_blank" rel="noopener">' +
+            '<i class="fab fa-instagram" aria-hidden="true"></i><strong>See the latest posts on Instagram</strong><span>Open Instagram</span></a>';
+        });
+    },
+  };
+  var socialEmbeds = $$("[data-social-embed]");
+  var mountSocial = function (el) {
+    var type = el.getAttribute("data-social-embed");
+    if (el.getAttribute("data-mounted") || !socialLoaders[type]) return;
+    el.setAttribute("data-mounted", "1");
+    try { socialLoaders[type](el); } catch (e) { /* leave the fallback link in place */ }
+  };
+  if (socialEmbeds.length) {
+    if ("IntersectionObserver" in window) {
+      var sio = new IntersectionObserver(function (entries) {
+        entries.forEach(function (en) {
+          if (en.isIntersecting) { mountSocial(en.target); sio.unobserve(en.target); }
+        });
+      }, { rootMargin: "300px 0px" });
+      socialEmbeds.forEach(function (el) { sio.observe(el); });
+    } else {
+      socialEmbeds.forEach(mountSocial);
+    }
+  }
 })();

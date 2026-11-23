@@ -186,34 +186,25 @@ homeResults: [fue-hair-transplant, gynecomastia, liposuction]
 </section>
 {% endif %}
 
-{# ── Videos ── #}
+{# ── Videos (shown when videos have been added) ── #}
 {%- set homeVideos = collections.procedures | allVideos(videos | selectattr("featured")) -%}
-<section class="section section--sand">
+{% if homeVideos.length %}
+<section class="section">
   <div class="container">
     <div class="section__head reveal">
       <p class="eyebrow">Watch &amp; learn</p>
       <h2>Videos from Dr. Junaid</h2>
       <p>Procedure explanations, patient journeys and answers to common questions.</p>
     </div>
-    {% if homeVideos.length %}
-      {% set videoList = homeVideos | limit(3) %}{% set socialList = [] %}{% set videoLabel = "Dr. Junaid Fateh" %}
-      {% include "partials/videos-block.njk" %}
-      <div class="section__foot"><a class="btn btn--outline" href="/videos/">All videos</a></div>
-    {% else %}
-      <div class="empty-state reveal">
-        <i class="fas fa-circle-play" aria-hidden="true"></i>
-        <h3>Follow Dr. Junaid on social media</h3>
-        <p>Short videos about hair transplants, gynecomastia, skin and recovery are shared regularly.</p>
-        <div class="section__foot" style="margin-top:0">
-          {% if site.social.tiktok %}<a class="social-pill" href="{{ site.social.tiktok }}" target="_blank" rel="noopener"><i class="fab fa-tiktok" aria-hidden="true"></i> TikTok</a>{% endif %}
-          {% if site.social.instagram %}<a class="social-pill" href="{{ site.social.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i> Instagram</a>{% endif %}
-          {% if site.social.facebook %}<a class="social-pill" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i> Facebook</a>{% endif %}
-          {% if site.social.youtube %}<a class="social-pill" href="{{ site.social.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i> YouTube</a>{% endif %}
-        </div>
-      </div>
-    {% endif %}
+    {% set videoList = homeVideos | limit(3) %}{% set socialList = [] %}{% set videoLabel = "Dr. Junaid Fateh" %}
+    {% include "partials/videos-block.njk" %}
+    <div class="section__foot"><a class="btn btn--outline" href="/videos/">All videos</a></div>
   </div>
 </section>
+{% endif %}
+
+{# ── Live social media feed ── #}
+{% set feedClass = "section--sand" %}{% include "partials/social-feed.njk" %}
 
 {# ── All procedures ── #}
 <section class="section">

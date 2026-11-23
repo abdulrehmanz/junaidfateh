@@ -41,17 +41,9 @@ seo:
       </div>
     {% endif %}
 
-    <div class="section__head" style="margin-top:4rem">
-      <p class="eyebrow">Follow</p>
-      <h2>More on social media</h2>
-    </div>
-    <div class="contact-cards">
-      {% if site.social.tiktok %}<a class="contact-card" href="{{ site.social.tiktok }}" target="_blank" rel="noopener"><i class="fab fa-tiktok" aria-hidden="true"></i><div><strong>TikTok</strong><span>@dr.junaidfateh</span></div></a>{% endif %}
-      {% if site.social.instagram %}<a class="contact-card" href="{{ site.social.instagram }}" target="_blank" rel="noopener"><i class="fab fa-instagram" aria-hidden="true"></i><div><strong>Instagram</strong><span>@drjunaidfateh</span></div></a>{% endif %}
-      {% if site.social.facebook %}<a class="contact-card" href="{{ site.social.facebook }}" target="_blank" rel="noopener"><i class="fab fa-facebook-f" aria-hidden="true"></i><div><strong>Facebook</strong><span>drjunaidfateh</span></div></a>{% endif %}
-      {% if site.social.youtube %}<a class="contact-card" href="{{ site.social.youtube }}" target="_blank" rel="noopener"><i class="fab fa-youtube" aria-hidden="true"></i><div><strong>YouTube</strong><span>Subscribe</span></div></a>{% endif %}
-    </div>
   </div>
 </section>
+
+{% set feedClass = "section--sand" %}{% include "partials/social-feed.njk" %}
 
 {% include "partials/cta-band.njk" %}

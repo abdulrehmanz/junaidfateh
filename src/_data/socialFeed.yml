@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────────────────────
+#  LIVE SOCIAL MEDIA FEED (home page and Videos page)
+#
+#  TikTok and Facebook update automatically from the profile links in site.yml.
+#  Instagram needs one extra step, because Instagram has no official profile embed:
+#
+#  Option A (automatic, recommended):
+#    1. Create a free account at https://behold.so and connect the Instagram account.
+#    2. Create a feed and copy its "JSON feed URL" (looks like https://feeds.behold.so/AbC123...).
+#    3. Paste it into instagramFeedUrl below. The latest posts then appear by themselves.
+#
+#  Option B (manual): paste links to the Instagram posts or reels you want to show
+#  under instagramPosts, newest first.
+# ─────────────────────────────────────────────────────────────────────────────
+
+title: "Latest from Dr. Junaid on social media"
+intro: "Short videos and updates about hair transplants, gynecomastia, skin treatments and recovery, straight from his Instagram, Facebook and TikTok."
+
+tiktok: true            # show the TikTok profile with its latest videos
+facebook: true          # show the Facebook page with its latest posts
+instagram: true         # show the Instagram card
+
+instagramFeedUrl: ""    # Option A: Behold.so JSON feed URL
+instagramPostCount: 9   # how many Instagram posts to show from the feed
+
+# Option B: individual Instagram posts or reels (used when instagramFeedUrl is empty)
+# Example:
+#   - https://www.instagram.com/reel/ABC123xyz/
+#   - https://www.instagram.com/p/DEF456uvw/
+instagramPosts: []
