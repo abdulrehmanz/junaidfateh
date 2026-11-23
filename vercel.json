@@ -5,25 +5,25 @@
   "trailingSlash": true,
   "redirects": [
     {
-      "source": "/:path*",
+      "source": "/:path(.*)",
       "has": [
         {
           "type": "host",
           "value": "www.drjunaidfateh.com"
         }
       ],
-      "destination": "https://drjunaidfateh.com/:path*",
+      "destination": "https://drjunaidfateh.com/:path",
       "permanent": true
     },
     {
-      "source": "/:path*",
+      "source": "/:path(.*)",
       "has": [
         {
           "type": "host",
           "value": "junaidfateh.vercel.app"
         }
       ],
-      "destination": "https://drjunaidfateh.com/:path*",
+      "destination": "https://drjunaidfateh.com/:path",
       "permanent": true
     },
     {
@@ -32,8 +32,8 @@
       "permanent": true
     },
     {
-      "source": "/junaidfateh/:path*",
-      "destination": "/:path*",
+      "source": "/junaidfateh/:path(.*)",
+      "destination": "/:path",
       "permanent": true
     },
     {
