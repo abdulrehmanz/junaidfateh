@@ -21,6 +21,7 @@ Lines starting with `#` in `.yml` and `.md` files are comments. They explain the
 | Add a video to a procedure page | `src/procedures/<procedure>.md` (under `videos:`) |
 | Add a link to an Instagram/TikTok post on a procedure page | `src/procedures/<procedure>.md` (under `social_links:`) |
 | Add a general video (not about one procedure) | `src/_data/videos.yml` |
+| Live Instagram / Facebook / TikTok feed | `src/_data/socialFeed.yml` |
 | Add a patient review | `src/_data/reviews.yml` |
 | Add before and after photos | `src/assets/images/procedures/<procedure>/` and the procedure file |
 | Set a "from" price | `src/procedures/<procedure>.md` (`price_from:`) |
@@ -87,6 +88,17 @@ Videos that are not about one procedure (an introduction, an interview, a Q&A) g
 ```
 
 Replace the `[]` at the bottom of the file with your list the first time you add one.
+
+## Live social media feed
+
+The home page and the Videos page show a live feed from Dr. Junaid's social media. Settings are in `src/_data/socialFeed.yml`; the profile links come from `social:` in `src/_data/site.yml`.
+
+- **TikTok** and **Facebook** update by themselves: new posts appear on the website automatically.
+- **Instagram** has no official profile feed, so it needs one of these:
+  - **Automatic (recommended):** create a free account at [behold.so](https://behold.so), connect the Instagram account, create a feed and paste its JSON feed URL into `instagramFeedUrl`. The latest posts then appear as a grid automatically.
+  - **Manual:** paste links to chosen posts or reels under `instagramPosts`.
+- Set `tiktok`, `facebook` or `instagram` to `false` to hide a card.
+- The feeds only load when a visitor scrolls to them, so they don't slow the page down.
 
 ## Patient reviews
 
