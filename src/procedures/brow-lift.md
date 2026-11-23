@@ -24,10 +24,10 @@ roman_urdu_summary: "Brow lift mein neeche aayi hui bhari bhanwon ko upar uthaya
 body_location: "Forehead and eyebrows"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "General or local with sedation"
-  recovery: "1–2 weeks"
-  results: "Long-lasting (5–10 years)"
+  recovery: "1-2 weeks"
+  results: "Long-lasting (5-10 years)"
   hospital_stay: "Day case"
 before_after:
 - before: /assets/images/procedures/brow-lift/brow-lift-before.webp
@@ -85,15 +85,15 @@ candidates:
 recovery:
   intro: "Brow lift recovery is often gentler than people expect. A typical course looks like this:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "A light dressing or head wrap may be worn. Swelling can drift down towards the eyes and cheeks, so keep your head raised and use cool compresses."
-  - stage: "Days 7–10"
+  - stage: "Days 7-10"
     text: "Stitches or clips are removed. Bruising fades, and an office job is usually manageable around this point."
-  - stage: "Weeks 2–3"
+  - stage: "Weeks 2-3"
     text: "Social life and normal routines resume. Some numbness or itching of the scalp is common while the nerves recover."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Exercise and heavier activity usually return with approval. Hair colouring should wait until the incisions have fully healed."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "Feeling continues to return to the scalp and the brows settle into their final position."
   outro: "Dr. Junaid sees you at follow-up visits to check healing, sensation and the position of your brows."
 faqs:

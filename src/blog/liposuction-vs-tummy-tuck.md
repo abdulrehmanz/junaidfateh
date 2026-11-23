@@ -69,9 +69,9 @@ The trade-off is a scar. It runs low across the abdomen, usually placed so it ca
 | Repairs separated muscles | No | Yes, in most cases |
 | Scars | A few small marks | A long, low scar plus one around the belly button |
 | Anaesthesia | General, or local with sedation | General |
-| Hospital stay | Usually day case | Usually 1–2 nights |
-| Back to desk work | Often 1–2 weeks | Often 2–4 weeks |
-| Final shape visible | Around 3–6 months | Around 6–12 months |
+| Hospital stay | Usually day case | Usually 1-2 nights |
+| Back to desk work | Often 1-2 weeks | Often 2-4 weeks |
+| Final shape visible | Around 3-6 months | Around 6-12 months |
 
 These are general ranges. Your own recovery depends on your health and the extent of surgery.
 

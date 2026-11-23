@@ -23,7 +23,7 @@ roman_urdu_summary: "HydraFacial ek medical facial hai jis mein ek hi session me
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30–45 minutes"
+  duration: "30-45 minutes"
   anesthesia: "None"
   recovery: "No downtime"
   results: "Immediate glow (monthly maintenance recommended)"

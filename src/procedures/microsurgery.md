@@ -25,11 +25,11 @@ roman_urdu_summary: "Microsurgery mein magnification ke zariye khoon ki bohat ba
 body_location: "Hand, arm and leg"
 price_from: ''
 stats:
-  duration: "4–12 hours"
+  duration: "4-12 hours"
   anesthesia: General
-  recovery: "2–8 weeks"
+  recovery: "2-8 weeks"
   results: Restores form and function
-  hospital_stay: "3–7 days"
+  hospital_stay: "3-7 days"
 before_after:
 - before: /assets/images/procedures/microsurgery/microsurgery-before.webp
   after: /assets/images/procedures/microsurgery/microsurgery-after.webp
@@ -86,15 +86,15 @@ candidates:
 recovery:
   intro: "Recovery depends on which microsurgical procedure you have. As a general guide:"
   timeline:
-  - stage: "First 3–5 days"
+  - stage: "First 3-5 days"
     text: "The flap or repair is monitored closely in hospital. Rest, warmth and good fluid intake help blood flow."
   - stage: Going home
     text: "Most people are discharged after three to seven days with a dressing, and a splint if the hand or arm was treated."
-  - stage: "Weeks 2–4"
+  - stage: "Weeks 2-4"
     text: "Stitches are removed and activity is increased gradually. Avoid pressure on the flap and do not smoke."
-  - stage: "Weeks 4–8"
+  - stage: "Weeks 4-8"
     text: "Most people return to normal daily activities, guided by Dr. Junaid and your therapist."
-  - stage: "6–18 months"
+  - stage: "6-18 months"
     text: "After nerve repair, feeling and strength come back slowly as the nerve regrows, roughly a millimetre a day."
   outro: "A flap may look bulky at first and usually settles over several months, and a small revision can refine its shape later if needed. Results vary between people."
 faqs:

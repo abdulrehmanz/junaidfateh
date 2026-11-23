@@ -25,11 +25,11 @@ roman_urdu_summary: "Tummy tuck (abdominoplasty) mein pait ke nichle hisse ki dh
 body_location: "Abdomen"
 price_from: ''
 stats:
-  duration: 2–4 hours
+  duration: 2-4 hours
   anesthesia: General
-  recovery: 2–4 weeks
+  recovery: 2-4 weeks
   results: Permanent (with a stable weight)
-  hospital_stay: 1–2 nights
+  hospital_stay: 1-2 nights
 before_after:
 - before: /assets/images/procedures/tummy-tuck/tummy-tuck-before.webp
   after: /assets/images/procedures/tummy-tuck/tummy-tuck-after.webp
@@ -89,13 +89,13 @@ recovery:
   timeline:
   - stage: Week 1
     text: "Small drains may stay in for several days, and you wear an abdominal binder. Walking slightly bent at the waist protects the wound, and short walks help prevent clots."
-  - stage: Weeks 2–3
+  - stage: Weeks 2-3
     text: "Any remaining drains and stitches come out. You gradually stand straighter, and many people go back to desk work during this window."
-  - stage: Weeks 4–6
+  - stage: Weeks 4-6
     text: "Daily routines become easier. The binder is usually worn for around six weeks in total, and heavy lifting is still avoided."
-  - stage: Months 2–3
+  - stage: Months 2-3
     text: "Moderate exercise can resume once your wounds have healed well. Numbness around the scar slowly improves and the scar starts to flatten."
-  - stage: Months 6–12
+  - stage: Months 6-12
     text: "Strenuous exercise is back to normal. The scar keeps softening and fading over 12 to 18 months."
   outro: "Healing differs from person to person. Arranging help at home with lifting, cooking and young children for the first two weeks makes a real difference."
 faqs:

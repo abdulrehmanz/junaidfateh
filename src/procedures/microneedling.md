@@ -24,10 +24,10 @@ roman_urdu_summary: "Microneedling mein bohat bareek sterile suiyon se jild mein
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30–60 minutes"
+  duration: "30-60 minutes"
   anesthesia: "Topical numbing cream"
-  recovery: "1–3 days (redness)"
-  results: "Progressive (3–6 sessions recommended)"
+  recovery: "1-3 days (redness)"
+  results: "Progressive (3-6 sessions recommended)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/microneedling/microneedling-before.webp
@@ -87,13 +87,13 @@ recovery:
   timeline:
   - stage: "Day 1"
     text: "Skin looks red and feels warm and tight, much like mild sunburn. Use only the gentle products the team recommends."
-  - stage: "Days 2–3"
+  - stage: "Days 2-3"
     text: "Redness fades and skin may feel dry. Keep moisturising, avoid make-up for the first day and protect your skin from the sun."
-  - stage: "Days 3–5"
+  - stage: "Days 3-5"
     text: "Light flaking is common. Let it shed naturally rather than picking or scrubbing."
-  - stage: "Weeks 1–2"
+  - stage: "Weeks 1-2"
     text: "Skin often looks fresher and smoother, although the deeper collagen changes are only beginning."
-  - stage: "Weeks 4–6 onwards"
+  - stage: "Weeks 4-6 onwards"
     text: "Collagen remodelling continues and the next session is usually booked, with the best results after a full course."
   outro: "Daily broad-spectrum sunscreen matters throughout your course, especially in Pakistan's strong summer sun, because healing skin can darken more easily."
 faqs:

@@ -24,10 +24,10 @@ roman_urdu_summary: "PRP hair therapy mein aap ke apne khoon se plasma tayyar ka
 body_location: "Scalp"
 price_from: ''
 stats:
-  duration: 30–60 minutes
+  duration: 30-60 minutes
   anesthesia: None or topical numbing
   recovery: No downtime
-  results: Gradual improvement (4–6 sessions recommended)
+  results: Gradual improvement (4-6 sessions recommended)
   hospital_stay: In-clinic procedure
 before_after:
 - before: /assets/images/procedures/prp-hair-therapy/prp-hair-therapy-before.webp
@@ -91,10 +91,10 @@ recovery:
     text: "Wash your hair as advised, usually from the next day, and avoid heavy exercise, saunas and hair colouring for the short period the team recommends."
   - stage: First course
     text: "Sessions are usually spaced about four weeks apart, with your progress reviewed along the way."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "If you are responding, shedding often reduces and hair may start to feel thicker."
   - stage: Maintenance
-    text: "Top-up sessions every 3–6 months may help to hold on to the improvement."
+    text: "Top-up sessions every 3-6 months may help to hold on to the improvement."
   outro: "Progress is checked at follow-up visits, often with comparison photos, so you and Dr. Junaid can judge whether PRP is genuinely helping."
 faqs:
 - q: How much does PRP hair therapy cost?
@@ -147,4 +147,4 @@ Options Dr. Junaid may recommend include:
 
 ## What to expect on the day
 
-A session usually takes 30–60 minutes. Blood is drawn from your arm, much like a routine test, and processed while you wait. Your scalp is cleaned and may be numbed, then a series of small injections is given across the treated area. You can return to normal activity the same day, though the scalp may feel tender for a day or so.
+A session usually takes 30-60 minutes. Blood is drawn from your arm, much like a routine test, and processed while you wait. Your scalp is cleaned and may be numbed, then a series of small injections is given across the treated area. You can return to normal activity the same day, though the scalp may feel tender for a day or so.

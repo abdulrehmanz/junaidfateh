@@ -25,10 +25,10 @@ roman_urdu_summary: "Facelift mein chehre aur gardan ki dheeli jild aur neeche l
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "3–5 hours"
+  duration: "3-5 hours"
   anesthesia: "General"
-  recovery: "2–3 weeks"
-  results: "Long-lasting (8–12 years)"
+  recovery: "2-3 weeks"
+  results: "Long-lasting (8-12 years)"
   hospital_stay: "1 night"
 before_after:
 - before: /assets/images/procedures/facelift/facelift-before.webp
@@ -87,15 +87,15 @@ candidates:
 recovery:
   intro: "Recovery from a facelift is gradual. A typical pattern looks like this, though results and healing vary between people:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your face feels tight and swollen, and you may have a light dressing and small drains, which are usually removed within a day or two. Rest with your head raised and keep movements gentle."
-  - stage: "Days 5–10"
+  - stage: "Days 5-10"
     text: "Stitches are removed in stages. Bruising turns yellow and fades, and most people feel comfortable seeing close family and taking short walks outside."
-  - stage: "Weeks 2–3"
+  - stage: "Weeks 2-3"
     text: "Office-based work and social plans usually become manageable, with makeup, a scarf or a dupatta covering any remaining marks."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Normal exercise usually resumes with Dr. Junaid's approval. Numbness or tightness near the ears continues to improve."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "Remaining swelling settles and the final, softer result becomes clear."
   outro: "If a family wedding or other big event is on the calendar, allow at least two to three months between surgery and the day so swelling has time to settle."
 faqs:

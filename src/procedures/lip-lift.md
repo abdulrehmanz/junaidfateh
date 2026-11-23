@@ -24,9 +24,9 @@ roman_urdu_summary: "Lip lift mein naak ke neeche se thodi si jild nikaal kar la
 body_location: "Upper lip"
 price_from: ''
 stats:
-  duration: "45–60 minutes"
+  duration: "45-60 minutes"
   anesthesia: "Local"
-  recovery: "5–7 days"
+  recovery: "5-7 days"
   results: "Permanent"
   hospital_stay: "Day case"
 before_after:
@@ -85,15 +85,15 @@ candidates:
 recovery:
   intro: "Recovery from a lip lift is fairly quick and usually follows these stages:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your upper lip feels tight and looks swollen. Eat soft foods, avoid wide smiles or stretching the lip, and keep the stitch line clean."
-  - stage: "Days 5–7"
+  - stage: "Days 5-7"
     text: "Stitches are usually removed. Swelling has eased enough for most people to return to work."
-  - stage: "Weeks 2–4"
+  - stage: "Weeks 2-4"
     text: "The scar under your nose looks pink but can usually be covered with makeup once healed. Use scar care and sun protection as advised."
-  - stage: "Months 1–3"
+  - stage: "Months 1-3"
     text: "Any remaining stiffness eases and your lip settles into its new shape."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The scar matures and usually fades to a fine line along the natural shadow beneath the nose."
   outro: "Scars heal differently from person to person, especially in darker skin, so Dr. Junaid checks your healing at each review and adjusts your scar care if needed."
 faqs:

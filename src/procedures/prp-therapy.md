@@ -23,10 +23,10 @@ roman_urdu_summary: "PRP facial, jise vampire facial bhi kaha jata hai, mein aap
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30–60 minutes"
+  duration: "30-60 minutes"
   anesthesia: "Topical numbing"
-  recovery: "1–3 days (mild redness)"
-  results: "Gradual improvement over weeks (3–6 sessions recommended)"
+  recovery: "1-3 days (mild redness)"
+  results: "Gradual improvement over weeks (3-6 sessions recommended)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/prp-therapy/prp-therapy-before.webp
@@ -88,9 +88,9 @@ recovery:
     text: "Skin looks pink and may feel tight or slightly puffy, especially if PRP was combined with microneedling."
   - stage: "First 24 hours"
     text: "Keep make-up off, stay out of strong sun, skip swimming and the gym, and use only the gentle products the team suggests."
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Redness fades. Any small bruises at injection points settle over a few days."
-  - stage: "Weeks 3–6"
+  - stage: "Weeks 3-6"
     text: "Early changes in brightness and texture may appear, and this is usually when the next session is booked."
   - stage: "After a full course"
     text: "Collagen continues to build over the following months, and occasional maintenance sessions help keep the benefit."

@@ -85,14 +85,14 @@ Growth continues to mature and the texture settles. Around the twelve-month mark
 
 | Time after surgery | What is usually happening | What you can usually do |
 |---|---|---|
-| Days 0–3 | Soreness, swelling, crusts forming | Rest, sleep head-up, first gentle wash as instructed |
-| Days 4–7 | Swelling fading, redness | Light walking, desk work for many FUE patients |
-| Days 7–14 | Crusts fall off, FUT stitches out | Most normal daily activities |
-| Weeks 2–6 | Transplanted hairs shed | Light exercise, then gradual return to the gym as advised |
-| Months 2–3 | Resting phase, possible pimples | Normal routine; be patient |
-| Months 3–4 | Fine new hairs appear | Haircuts with scissors, as advised |
-| Months 6–9 | Clear thickening | Style as normal |
-| Months 12–18 | Final result | Review with Dr. Junaid |
+| Days 0-3 | Soreness, swelling, crusts forming | Rest, sleep head-up, first gentle wash as instructed |
+| Days 4-7 | Swelling fading, redness | Light walking, desk work for many FUE patients |
+| Days 7-14 | Crusts fall off, FUT stitches out | Most normal daily activities |
+| Weeks 2-6 | Transplanted hairs shed | Light exercise, then gradual return to the gym as advised |
+| Months 2-3 | Resting phase, possible pimples | Normal routine; be patient |
+| Months 3-4 | Fine new hairs appear | Haircuts with scissors, as advised |
+| Months 6-9 | Clear thickening | Style as normal |
+| Months 12-18 | Final result | Review with Dr. Junaid |
 
 ## Activities: when can I…?
 

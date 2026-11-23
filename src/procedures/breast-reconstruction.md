@@ -24,11 +24,11 @@ roman_urdu_summary: "Breast reconstruction mein mastectomy ya cancer ke operatio
 body_location: "Breast"
 price_from: ''
 stats:
-  duration: 3–8 hours
+  duration: 3-8 hours
   anesthesia: General
-  recovery: 4–6 weeks
+  recovery: 4-6 weeks
   results: Long-lasting
-  hospital_stay: 2–5 days
+  hospital_stay: 2-5 days
 before_after:
 - before: /assets/images/procedures/breast-reconstruction/breast-reconstruction-before.webp
   after: /assets/images/procedures/breast-reconstruction/breast-reconstruction-after.webp
@@ -87,13 +87,13 @@ recovery:
   timeline:
   - stage: "In hospital"
     text: "Implant reconstruction usually needs a shorter stay, while tissue flap surgery often means several days in hospital so the new tissue can be monitored closely."
-  - stage: "Weeks 1–2"
+  - stage: "Weeks 1-2"
     text: "Drains may stay in for some days. You rest at home, walk short distances and keep arm movements gentle as advised."
-  - stage: "Weeks 2–6"
+  - stage: "Weeks 2-6"
     text: "Light activity returns gradually. Implant reconstruction often settles within 2 to 4 weeks, while flap surgery commonly needs 4 to 6 weeks or more, including healing at the donor site."
-  - stage: "Months 1–6"
+  - stage: "Months 1-6"
     text: "If a tissue expander was placed, it is filled step by step at clinic visits before being exchanged for a permanent implant. Gentle exercises can help shoulder movement."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The shape continues to settle. Further stages, such as nipple reconstruction or symmetry adjustments, are usually planned once healing is complete."
   outro: "Reconstruction is often a series of operations rather than a single one. Dr. Junaid will map out each stage with you so you always know what comes next."
 faqs:

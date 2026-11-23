@@ -24,9 +24,9 @@ roman_urdu_summary: "Is chhote se operation mein andar ki taraf dhanse hue nippl
 body_location: "Nipple and areola"
 price_from: ''
 stats:
-  duration: 30–60 minutes
+  duration: 30-60 minutes
   anesthesia: Local
-  recovery: 3–5 days
+  recovery: 3-5 days
   results: Long-lasting
   hospital_stay: Day case
 before_after:
@@ -87,13 +87,13 @@ recovery:
   timeline:
   - stage: "Day 1"
     text: "A small dressing or protective cover sits over the area. Any discomfort is usually mild and eased with simple pain relief."
-  - stage: "Days 3–5"
+  - stage: "Days 3-5"
     text: "Most people are back at work and their normal routine. Keep the dressings clean and dry as advised."
-  - stage: "Weeks 1–2"
+  - stage: "Weeks 1-2"
     text: "Stitches dissolve or are removed. Some swelling around the nipple is normal at this point."
-  - stage: "Weeks 3–4"
+  - stage: "Weeks 3-4"
     text: "Exercise and all normal activities can usually resume once Dr. Junaid has checked your healing."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "The swelling has gone and the scars keep fading and softening."
   outro: "Avoid tight or rough fabric against the area for the first couple of weeks, and attend your follow-up so the result can be reviewed."
 faqs:

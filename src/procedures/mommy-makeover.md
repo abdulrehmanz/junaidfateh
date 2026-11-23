@@ -24,11 +24,11 @@ roman_urdu_summary: "Mommy makeover mein delivery aur bachon ko doodh pilane ke 
 body_location: "Abdomen and breasts"
 price_from: ''
 stats:
-  duration: 4–6 hours
+  duration: 4-6 hours
   anesthesia: General
-  recovery: 3–4 weeks
+  recovery: 3-4 weeks
   results: Long-lasting
-  hospital_stay: 1–2 nights
+  hospital_stay: 1-2 nights
 before_after:
 - before: /assets/images/procedures/mommy-makeover/mommy-makeover-before.webp
   after: /assets/images/procedures/mommy-makeover/mommy-makeover-after.webp
@@ -87,13 +87,13 @@ recovery:
   timeline:
   - stage: Week 1
     text: "Rest is the priority. You wear a support bra and an abdominal binder, and you will need help with daily tasks and with looking after your children."
-  - stage: Weeks 2–3
+  - stage: Weeks 2-3
     text: "Light activity increases. You can care for your children in ways that do not involve lifting them, and many women return to desk work towards the end of this stage."
-  - stage: Weeks 4–6
+  - stage: Weeks 4-6
     text: "Comfort and mobility improve noticeably. Gentle exercise can begin, but lifting restrictions still apply."
-  - stage: Months 2–3
+  - stage: Months 2-3
     text: "Most normal activities resume, including picking up your children and regular exercise, after Dr. Junaid has checked your progress."
-  - stage: Months 6–12
+  - stage: Months 6-12
     text: "Swelling settles completely and scars soften, revealing your final result."
   outro: "Every woman heals at her own pace. Support from family at home during the first weeks makes a real difference, and Dr. Junaid sees you regularly throughout."
 faqs:

@@ -24,9 +24,9 @@ roman_urdu_summary: "Is tareeqe mein liposuction ke zariye pait, pehlu ya ranon 
 body_location: "Breast"
 price_from: ''
 stats:
-  duration: 2–3 hours
+  duration: 2-3 hours
   anesthesia: General or local with sedation
-  recovery: 1–2 weeks
+  recovery: 1-2 weeks
   results: Long-lasting
   hospital_stay: Day case
 before_after:
@@ -90,7 +90,7 @@ recovery:
     text: "Soreness and bruising are felt mostly at the donor area. Wear the compression garment there and a soft bra without underwire, and avoid pressing on the breasts."
   - stage: "Week 2"
     text: "Many women return to desk work. Bruising fades, and the compression garment stays on over the donor area."
-  - stage: "Weeks 3–6"
+  - stage: "Weeks 3-6"
     text: "Light exercise can restart gradually. The breasts may look fuller than the final result while swelling settles."
   - stage: "Month 3"
     text: "Some of the transferred fat is naturally reabsorbed, and the size you see now is closer to the lasting result."

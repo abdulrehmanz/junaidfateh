@@ -82,8 +82,8 @@ The result is a single fine scar running across the back of the head. In most pe
 | How grafts are collected | One by one with a small punch | A thin strip of scalp, then divided into grafts |
 | Donor scar | Tiny scattered dots | One fine line across the back of the head |
 | Shaving | Donor area usually trimmed short | Usually not needed |
-| Stitches | None | Yes, removed after about 10–14 days |
-| Donor discomfort | Mild, usually a few days | Tightness and soreness, usually 1–2 weeks |
+| Stitches | None | Yes, removed after about 10-14 days |
+| Donor discomfort | Mild, usually a few days | Tightness and soreness, usually 1-2 weeks |
 | Back to desk work | Often within a few days to a week | Often within one to two weeks |
 | Often suits | Short hairstyles, small-to-moderate areas | Larger areas, longer hairstyles, people who prefer not to shave |
 

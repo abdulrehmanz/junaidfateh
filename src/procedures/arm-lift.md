@@ -24,9 +24,9 @@ roman_urdu_summary: "Arm lift (brachioplasty) mein bazuon ke neeche latakti hui 
 body_location: "Upper arms"
 price_from: ''
 stats:
-  duration: 1–3 hours
+  duration: 1-3 hours
   anesthesia: General
-  recovery: 2–3 weeks
+  recovery: 2-3 weeks
   results: Permanent
   hospital_stay: Day case
 before_after:
@@ -89,11 +89,11 @@ recovery:
     text: "Wear your compression sleeves and rest with your arms raised on pillows when you can. Small drains, if used, usually come out within a few days."
   - stage: Week 2
     text: "Stitches are removed and light daily tasks are fine. Avoid lifting anything heavier than a few kilograms, including small children."
-  - stage: Weeks 3–4
+  - stage: Weeks 3-4
     text: "Many people return to work. Compression is usually continued for four to six weeks in total."
   - stage: Month 2
     text: "Light exercise can begin, and you gradually build up arm movement and lifting."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "Normal activity and exercise resume fully. Scars begin to flatten and fade, a process that continues for 12 to 18 months."
   outro: "Recovery varies between people, and Dr. Junaid will guide you on when to raise your arms fully and return to the gym."
 faqs:

@@ -91,12 +91,12 @@ Scars around the edge of the areola, or small entry points from [liposuction](/p
 
 | Time after surgery | What is usually happening | What you can usually do |
 |---|---|---|
-| Days 1–3 | Tightness, soreness, bruising | Rest, short walks, vest day and night |
+| Days 1-3 | Tightness, soreness, bruising | Rest, short walks, vest day and night |
 | Week 1 | Swelling and bruising easing | Desk work for many men, wound check |
-| Weeks 2–3 | Most daily tasks comfortable | Longer walks, light lower-body exercise if cleared |
-| Weeks 4–6 | Healing well underway | Gradual return to the gym; vest often stopped |
-| Months 2–6 | Swelling fading, shape settling | Normal activities |
-| Months 6–18 | Scars softening and fading | Review with Dr. Junaid |
+| Weeks 2-3 | Most daily tasks comfortable | Longer walks, light lower-body exercise if cleared |
+| Weeks 4-6 | Healing well underway | Gradual return to the gym; vest often stopped |
+| Months 2-6 | Swelling fading, shape settling | Normal activities |
+| Months 6-18 | Scars softening and fading | Review with Dr. Junaid |
 
 ## Warning signs: contact the team
 

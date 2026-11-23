@@ -25,7 +25,7 @@ roman_urdu_summary: "Otoplasty ya ear pinning surgery se bahar nikle hue ya ghai
 body_location: "Ears"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "Local with sedation (general for young children)"
   recovery: "1 week"
   results: "Permanent"
@@ -87,13 +87,13 @@ candidates:
 recovery:
   intro: "Recovery after otoplasty is usually straightforward. These are the typical stages, though healing varies:"
   timeline:
-  - stage: "Days 1–5"
+  - stage: "Days 1-5"
     text: "A padded head bandage protects the ears and holds them in position. Some aching and throbbing is normal and eases with simple painkillers."
   - stage: "Around 1 week"
     text: "The bandage is removed and your ears are checked. They may look swollen, red or bruised at first. Most people return to school or desk work around now."
-  - stage: "Weeks 2–6"
+  - stage: "Weeks 2-6"
     text: "A soft headband is worn, usually at night, to stop the ears folding forward during sleep. Avoid contact sports and anything that could bend the ears."
-  - stage: "Months 2–3"
+  - stage: "Months 2-3"
     text: "Swelling has largely settled, the scar behind the ear softens, and the final shape becomes clear."
   outro: "If you can, plan surgery around school holidays. Many families find the cooler months more comfortable than the peak of a Pakistani summer for wearing a head bandage."
 faqs:

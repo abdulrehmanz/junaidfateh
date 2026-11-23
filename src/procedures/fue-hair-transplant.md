@@ -24,10 +24,10 @@ roman_urdu_summary: "FUE hair transplant mein sar ke peeche se baal ek ek kar ke
 body_location: "Scalp"
 price_from: ''
 stats:
-  duration: 4–8 hours
+  duration: 4-8 hours
   anesthesia: Local
-  recovery: 7–10 days
-  results: Permanent (visible growth at 6–12 months)
+  recovery: 7-10 days
+  results: Permanent (visible growth at 6-12 months)
   hospital_stay: Day case
 before_after:
 - before: /assets/images/procedures/fue-hair-transplant/fue-hair-transplant-before.webp
@@ -85,16 +85,16 @@ candidates:
 recovery:
   intro: "The scalp heals within days, but the new hair takes many months to come through. A typical timeline looks like this:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "Mild swelling of the forehead and tenderness at the back are common. Sleep with your head raised and avoid touching the grafts."
-  - stage: Days 4–10
+  - stage: Days 4-10
     text: "Small crusts loosen with the gentle washing routine the team shows you. Many people return to desk work towards the end of this stage."
-  - stage: Weeks 2–6
+  - stage: Weeks 2-6
     text: "Most transplanted hairs shed. This is expected, because the roots stay in place and rest before they regrow."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "New hairs begin to appear, often fine and wispy at first, and gradually become stronger."
-  - stage: Months 6–12
-    text: "Growth thickens and the look becomes more natural. The final result is usually judged at 12–18 months."
+  - stage: Months 6-12
+    text: "Growth thickens and the look becomes more natural. The final result is usually judged at 12-18 months."
   outro: "Avoid heavy exercise, swimming, direct sun and smoking for as long as the team advises. In the summer heat, staying out of the midday sun and wearing a loose cap once you are allowed one helps protect the healing scalp."
 faqs:
 - q: How much does an FUE hair transplant cost in Lahore?
@@ -104,7 +104,7 @@ faqs:
 - q: How long do FUE results last?
   a: "Transplanted hair comes from an area that is usually resistant to pattern baldness, so it tends to last for the long term. The original hair around it can still thin with age, which is why Dr. Junaid may suggest medication or PRP to help protect it. Results vary between people."
 - q: How much time off work will I need?
-  a: "Many people with desk jobs go back after about a week. If your work is physical, dusty or outdoors in the heat, plan for closer to two weeks. Redness and small crusts usually settle within 7–10 days."
+  a: "Many people with desk jobs go back after about a week. If your work is physical, dusty or outdoors in the heat, plan for closer to two weeks. Redness and small crusts usually settle within 7-10 days."
 - q: How many grafts does an FUE transplant need?
   a: "That depends on the area being treated, the density of your donor hair and the look you want. A hairline on its own needs far fewer grafts than a hairline plus crown. The graft estimator on the hair transplant page gives a rough idea, and Dr. Junaid confirms the number after examining you."
 - q: Will the donor area look thin or scarred?
@@ -112,7 +112,7 @@ faqs:
 - q: Can I have an online consultation from abroad?
   a: "Yes. Many overseas Pakistanis start by sending clear photos of the front, top, crown and back of the scalp on WhatsApp, then book a video consultation with Dr. Junaid. He can give an initial opinion and a rough plan, and the final graft count and hairline are confirmed in person before surgery."
 - q: Can I have it done in time for a wedding?
-  a: "Plan well ahead. The scalp usually looks presentable after about two weeks, but new hair takes 6–12 months to show properly and longer to mature. If you want the full effect for a family wedding, booking around a year beforehand is sensible."
+  a: "Plan well ahead. The scalp usually looks presentable after about two weeks, but new hair takes 6-12 months to show properly and longer to mature. If you want the full effect for a family wedding, booking around a year beforehand is sensible."
 - q: "What are the risks or side effects of FUE hair transplant?"
   a: "Common, short-lived effects are forehead swelling, redness, small crusts, tenderness and some numbness of the scalp. Less often there may be infection, small pimples around the grafts (folliculitis), temporary shedding of existing hair or uneven growth. Dr. Junaid reduces these risks with a careful assessment, a graft number your donor area can safely give, sterile technique and a clear aftercare plan, and he goes through them with you at consultation."
 - q: "What is the best age for FUE hair transplant?"

@@ -25,9 +25,9 @@ roman_urdu_summary: "Keel muhason ke baad chehre par rehne wale gehre ya oonche 
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30 min–2 hours"
+  duration: "30 min-2 hours"
   anesthesia: "Local / topical"
-  recovery: "3–7 days"
+  recovery: "3-7 days"
   results: "Progressive improvement"
   hospital_stay: "Outpatient"
 before_after:

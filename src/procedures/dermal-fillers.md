@@ -24,10 +24,10 @@ roman_urdu_summary: "Fillers narm gel hote hain jo jild ke neeche lagaye jate ha
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "15–45 minutes"
+  duration: "15-45 minutes"
   anesthesia: "Topical numbing cream"
-  recovery: "Minimal (mild swelling for 1–2 days)"
-  results: "6–18 months, depending on the area"
+  recovery: "Minimal (mild swelling for 1-2 days)"
+  results: "6-18 months, depending on the area"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/dermal-fillers/dermal-fillers-before.webp
@@ -89,11 +89,11 @@ recovery:
     text: "The treated area may look slightly swollen and red and feel tender to touch, but the new shape is already visible."
   - stage: "First 24 hours"
     text: "Skip the gym, alcohol and saunas, and try not to press on the area. A cold compress helps with swelling."
-  - stage: "Days 2–7"
+  - stage: "Days 2-7"
     text: "Swelling settles, with lips often taking the longest, and any bruising fades. Skip facial massage unless advised."
   - stage: "Around 2 weeks"
     text: "The filler has settled into the tissues and you see the final result. A review lets Dr. Junaid check balance and symmetry."
-  - stage: "6–18 months"
+  - stage: "6-18 months"
     text: "Your body gradually absorbs the filler. Lips tend to need topping up sooner than cheeks or chin."
   outro: "Severe or increasing pain, skin that turns pale or dusky, or any change in your vision after filler needs urgent attention. Contact the clinical team straight away if you notice any of these."
 faqs:

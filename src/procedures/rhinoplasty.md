@@ -25,9 +25,9 @@ roman_urdu_summary: "Rhinoplasty, jise aam taur par nose job ya naak ki surgery 
 body_location: "Nose"
 price_from: ''
 stats:
-  duration: "2–4 hours"
+  duration: "2-4 hours"
   anesthesia: "General or local with sedation"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Permanent (final results visible at 12 months)"
   hospital_stay: "Day case or 1 night"
 before_after:
@@ -89,13 +89,13 @@ recovery:
   timeline:
   - stage: "First week"
     text: "A splint sits on your nose and soft internal support may be used. Swelling and bruising around the eyes peak in the first few days, so sleep with your head raised."
-  - stage: "Days 7–10"
+  - stage: "Days 7-10"
     text: "The splint is usually removed. Most bruising has faded or can be covered, and many people feel ready for office work and light errands."
-  - stage: "Weeks 2–6"
+  - stage: "Weeks 2-6"
     text: "You look presentable in public, though the nose still feels firm and a little puffy. Avoid resting glasses on the bridge, heavy lifting and hard exercise until cleared."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "Much of the swelling has gone and your profile looks more defined. The tip is usually the last area to settle."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The final shape gradually appears, more slowly if your skin is thicker. Dr. Junaid reviews your progress along the way."
   outro: "You go home with written aftercare advice, and you can message the clinical team on WhatsApp if anything worries you while you heal."
 faqs:

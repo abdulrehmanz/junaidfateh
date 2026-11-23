@@ -39,7 +39,7 @@ Before the myths, it helps to know what each treatment does.
 | How it works | Relaxes the muscles that cause expression lines | Adds volume, support or hydration beneath the skin |
 | Best for | Forehead lines, frown lines, crow's feet | Lips, cheeks, under-eye hollows, jawline, chin, deeper folds |
 | When you see results | Starts within a few days, full effect around two weeks | Straight away, settling over one to two weeks |
-| How long it lasts | Around 3–6 months | Around 6–18 months, depending on area and product |
+| How long it lasts | Around 3-6 months | Around 6-18 months, depending on area and product |
 | Reversible? | No, but it wears off gradually | Hyaluronic acid fillers can be dissolved |
 
 ## Myth 1: "Botox and fillers are basically the same thing"

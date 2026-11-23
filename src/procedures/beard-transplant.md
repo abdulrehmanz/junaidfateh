@@ -24,10 +24,10 @@ roman_urdu_summary: "Beard transplant mein sar ke peeche se baal le kar darhi, m
 body_location: "Face"
 price_from: ''
 stats:
-  duration: 3–6 hours
+  duration: 3-6 hours
   anesthesia: Local
-  recovery: 7–10 days
-  results: Permanent (visible growth at 4–6 months)
+  recovery: 7-10 days
+  results: Permanent (visible growth at 4-6 months)
   hospital_stay: Day case
 before_after:
 - before: /assets/images/procedures/beard-transplant/beard-transplant-before.webp
@@ -71,7 +71,7 @@ benefits:
   text: "Hair can help disguise scars from injury, acne, burns or an earlier cleft lip repair."
 - icon: fa-clock
   title: Short Recovery
-  text: "Redness and tiny crusts on the face usually settle within 7–10 days."
+  text: "Redness and tiny crusts on the face usually settle within 7-10 days."
 candidates:
   intro: "A beard transplant may suit you if you:"
   list:
@@ -85,15 +85,15 @@ candidates:
 recovery:
   intro: "The face heals quickly, but the new beard takes time to grow in. A typical timeline:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "Small crusts form around each graft and the cheeks may be slightly swollen. Avoid touching the area and sleep on your back."
-  - stage: Days 4–10
+  - stage: Days 4-10
     text: "Crusts fall away with gentle washing as the team demonstrates, including how to do wudu without rubbing the grafts. Most people are back at work during this stage."
-  - stage: Weeks 2–6
+  - stage: Weeks 2-6
     text: "Many of the transplanted hairs shed, which is normal. Wait for the team's go-ahead before shaving the treated area."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "New beard hairs begin to grow and gradually fill in the planned shape."
-  - stage: Months 9–12
+  - stage: Months 9-12
     text: "The beard reaches its full look, and you can groom it like the rest of your facial hair."
   outro: "Avoid heavy sweating, steam rooms and strong sun on the face for the first couple of weeks, especially in the hot months."
 faqs:
@@ -104,7 +104,7 @@ faqs:
 - q: How long does a transplanted beard last?
   a: "The hair comes from the scalp donor area, which tends to keep growing long term, so the result is generally long-lasting. Results vary between people, and some grafts may not take, particularly in scarred skin."
 - q: When can I go back to work?
-  a: "Redness and crusting usually settle in 7–10 days. Many people return to work after around five days, but if your job involves meeting people face to face, you may prefer to take a full week."
+  a: "Redness and crusting usually settle in 7-10 days. Many people return to work after around five days, but if your job involves meeting people face to face, you may prefer to take a full week."
 - q: How many grafts does a beard transplant take?
   a: "It depends on your goals. Filling a few small gaps may need a few hundred grafts, while building a full beard can take a couple of thousand or more. Dr. Junaid confirms the number once he has seen your face and donor area."
 - q: Can I shave or trim my new beard?
@@ -112,7 +112,7 @@ faqs:
 - q: Can I have an online consultation from abroad?
   a: "Yes. WhatsApp clear photos of your face from the front and both sides, plus the back of your scalp, and set up a video consultation. Dr. Junaid can then suggest an initial beard design, which he finalises with you in person before the procedure."
 - q: How far ahead of a wedding should I plan it?
-  a: "Give yourself plenty of time. Your face usually looks normal within about two weeks, but a fuller beard takes around 9–12 months to develop, so book well before the wedding or Eid you have in mind."
+  a: "Give yourself plenty of time. Your face usually looks normal within about two weeks, but a fuller beard takes around 9-12 months to develop, so book well before the wedding or Eid you have in mind."
 - q: "What are the risks or side effects of a beard transplant?"
   a: "Short-lived redness, swelling, small crusts and mild soreness on the face and donor area are common. Less often there may be infection, ingrown hairs, small pimples around the grafts or uneven growth, and grafts take less reliably in scarred skin. Dr. Junaid reduces these risks with careful planning, sterile technique, a graft number your donor area can spare and clear aftercare, and he goes through them with you at consultation."
 - q: "When will I see the final results of a beard transplant?"
@@ -147,4 +147,4 @@ Options Dr. Junaid may recommend include:
 
 ## What to expect on the day
 
-The hair over a small donor patch is clipped short, then local anaesthetic is used to numb the scalp and the face. After harvesting, tiny sites are made on the face at the planned angles and each graft is placed individually. The procedure usually takes 3–6 hours with breaks, and you go home the same day.
+The hair over a small donor patch is clipped short, then local anaesthetic is used to numb the scalp and the face. After harvesting, tiny sites are made on the face at the planned angles and each graft is placed individually. The procedure usually takes 3-6 hours with breaks, and you go home the same day.

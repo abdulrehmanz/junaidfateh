@@ -79,10 +79,10 @@ How long you need to stay depends on the procedure and on how you heal. The tabl
 |---|---|---|
 | [Botox](/procedures/botox/) or [fillers](/procedures/dermal-fillers/) | A few days | Lets swelling and bruising settle and allows a check |
 | [FUE hair transplant](/procedures/fue-hair-transplant/) | About 1 week | First washes, crusts settling and a review before flying |
-| [FUT hair transplant](/procedures/fut-hair-transplant/) | About 10–14 days | Stitch removal and a wound check |
-| [Gynecomastia](/procedures/gynecomastia/) or [liposuction](/procedures/liposuction/) | About 1–2 weeks | Wound check and settling into your compression garment |
-| [Rhinoplasty](/procedures/rhinoplasty/) | About 7–10 days | Splint removal and early review |
-| [Tummy tuck](/procedures/tummy-tuck/) or combined procedures | About 2–3 weeks or more | Wound checks, any drains removed, lower clot risk before a long flight |
+| [FUT hair transplant](/procedures/fut-hair-transplant/) | About 10-14 days | Stitch removal and a wound check |
+| [Gynecomastia](/procedures/gynecomastia/) or [liposuction](/procedures/liposuction/) | About 1-2 weeks | Wound check and settling into your compression garment |
+| [Rhinoplasty](/procedures/rhinoplasty/) | About 7-10 days | Splint removal and early review |
+| [Tummy tuck](/procedures/tummy-tuck/) or combined procedures | About 2-3 weeks or more | Wound checks, any drains removed, lower clot risk before a long flight |
 
 ## Flying home after surgery
 

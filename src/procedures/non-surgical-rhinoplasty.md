@@ -24,10 +24,10 @@ roman_urdu_summary: "Non-surgical rhinoplasty mein filler ke zariye bina operati
 body_location: "Nose"
 price_from: ''
 stats:
-  duration: "15–30 minutes"
+  duration: "15-30 minutes"
   anesthesia: "Topical numbing cream"
   recovery: "No downtime"
-  results: "Immediate (lasts 12–18 months)"
+  results: "Immediate (lasts 12-18 months)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/non-surgical-rhinoplasty/non-surgical-rhinoplasty-before.webp
@@ -89,11 +89,11 @@ recovery:
     text: "Mild redness, swelling or tenderness is common and settles over a few hours to a day or two."
   - stage: "First 24 hours"
     text: "Avoid touching, massaging or pressing the nose, as well as strenuous exercise and alcohol."
-  - stage: "First 1–2 weeks"
+  - stage: "First 1-2 weeks"
     text: "Avoid heavy glasses resting on the bridge and any facial treatments on the nose, as advised by the team."
   - stage: "Around 2 weeks"
     text: "Swelling has settled and the result is easier to judge. A review allows small refinements if needed."
-  - stage: "12–18 months"
+  - stage: "12-18 months"
     text: "The filler is gradually absorbed, and many people choose a top-up to keep the shape."
   outro: "Contact the clinic straight away if you notice severe or increasing pain, skin that turns pale, blotchy or dusky, or any change in your vision. These are rare but need urgent treatment."
 faqs:

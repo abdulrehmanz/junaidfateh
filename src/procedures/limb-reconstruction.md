@@ -24,11 +24,11 @@ roman_urdu_summary: "Limb reconstruction mein shadeed chot, infection ya rasoli 
 body_location: "Arm and leg"
 price_from: ''
 stats:
-  duration: "3–10 hours"
+  duration: "3-10 hours"
   anesthesia: General
-  recovery: "4–12 weeks"
+  recovery: "4-12 weeks"
   results: Functional restoration
-  hospital_stay: "3–7 days"
+  hospital_stay: "3-7 days"
 before_after:
 - before: /assets/images/procedures/limb-reconstruction/limb-reconstruction-before.webp
   after: /assets/images/procedures/limb-reconstruction/limb-reconstruction-after.webp
@@ -87,13 +87,13 @@ recovery:
   timeline:
   - stage: "First 3 days"
     text: "The flap is checked frequently for colour and warmth, and the limb is kept raised and still."
-  - stage: "Days 3–7"
+  - stage: "Days 3-7"
     text: "Most people leave hospital in this window. A leg flap is gradually allowed to hang down for short periods, as the team guides you."
-  - stage: "Weeks 2–4"
+  - stage: "Weeks 2-4"
     text: "Wounds are checked and stitches removed. After a local flap, activity is increased step by step."
-  - stage: "Weeks 6–12"
+  - stage: "Weeks 6-12"
     text: "If bone was reconstructed, weight on the leg is usually limited for six to twelve weeks. Physiotherapy builds strength and movement."
-  - stage: "3–12 months"
+  - stage: "3-12 months"
     text: "Full recovery from complex reconstruction takes many months. A minor procedure may later refine the result."
   outro: "Rehabilitation is as important as the surgery itself. Results vary between people, depending on the injury and how healing goes."
 faqs:

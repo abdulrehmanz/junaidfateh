@@ -23,9 +23,9 @@ roman_urdu_summary: "Breast reduction mein bhari chhati se izafi tissue, charbi 
 body_location: "Breast"
 price_from: ''
 stats:
-  duration: 2–4 hours
+  duration: 2-4 hours
   anesthesia: General
-  recovery: 2–3 weeks
+  recovery: 2-3 weeks
   results: Permanent
   hospital_stay: 1 night
 before_after:
@@ -88,11 +88,11 @@ recovery:
     text: "Expect soreness, tightness and swelling. You wear a support bra day and night, sleep with your upper body raised and rest at home. If drains were used, they usually come out within the first few days."
   - stage: "Week 2"
     text: "Stitches are checked or removed. Many women go back to desk work and light household tasks, while still avoiding any lifting."
-  - stage: "Weeks 3–4"
+  - stage: "Weeks 3-4"
     text: "Bruising and swelling fade further. Walking can increase, but heavy lifting, including small children, should still wait."
-  - stage: "Months 2–3"
+  - stage: "Months 2-3"
     text: "Most normal activities and exercise resume, reintroduced step by step with the agreement of Dr. Junaid."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The breasts soften and settle into their final shape, and scars slowly flatten and lighten."
   outro: "Arrange help at home for the first week or two, especially if you look after young children. Follow-up visits let Dr. Junaid check your healing and guide your scar care."
 faqs:

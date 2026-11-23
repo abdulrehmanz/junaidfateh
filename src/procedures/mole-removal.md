@@ -25,9 +25,9 @@ roman_urdu_summary: "Chehre ya jism par mojood til (mole) aur masse (skin tags) 
 body_location: "Skin"
 price_from: ''
 stats:
-  duration: "15–30 minutes"
+  duration: "15-30 minutes"
   anesthesia: "Local"
-  recovery: "3–7 days"
+  recovery: "3-7 days"
   results: "Permanent"
   hospital_stay: "Day case"
 before_after:
@@ -88,13 +88,13 @@ recovery:
   timeline:
   - stage: "Day 1"
     text: "A small dressing covers the site. You can return to most normal activities the same day."
-  - stage: "Days 2–7"
+  - stage: "Days 2-7"
     text: "Keep the area clean and follow the wound-care advice you are given, such as applying ointment and changing the dressing."
-  - stage: "Days 5–14"
+  - stage: "Days 5-14"
     text: "Stitches, if used, come out after about a week on the face or up to two weeks on the body. Any laboratory result is discussed with you once it is back."
-  - stage: "Months 1–3"
+  - stage: "Months 1-3"
     text: "The mark starts pink or red and gradually turns paler."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The scar matures and softens, and is usually much less noticeable."
   outro: "Protect the area from the sun while it heals to reduce darkening, and get in touch if you notice spreading redness, discharge or bleeding that does not stop with firm pressure."
 faqs:

@@ -23,7 +23,7 @@ roman_urdu_summary: "Sugar (diabetes) ke mareezon mein paon ka chhota sa zakhm b
 body_location: "Foot"
 price_from: ''
 stats:
-  duration: "1–4 hours"
+  duration: "1-4 hours"
   anesthesia: Local, regional or general
   recovery: Variable (weeks to months)
   results: Wound healing and limb preservation
@@ -86,7 +86,7 @@ recovery:
   timeline:
   - stage: First days
     text: "Infection is controlled with debridement and antibiotics, and blood sugar is brought under control with your physician."
-  - stage: "Weeks 1–4"
+  - stage: "Weeks 1-4"
     text: "Regular dressing changes and strict off-loading. Keeping weight off the foot is one of the most important parts of healing."
   - stage: After a skin graft
     text: "Usually no weight on the foot for one to two weeks, with the grafted area healing over roughly three to six weeks."

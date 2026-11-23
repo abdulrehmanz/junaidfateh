@@ -25,9 +25,9 @@ roman_urdu_summary: "Chin reshaping mein implant, haddi ki position badal kar (g
 body_location: "Chin"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "General or local with sedation"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Permanent (implants/surgery)"
   hospital_stay: "Day case"
 before_after:
@@ -87,15 +87,15 @@ candidates:
 recovery:
   intro: "Recovery depends on the technique used. For most people it runs roughly as follows:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your chin feels tight, swollen and numb, and supportive tape or a strap may be worn. Stick to soft foods and rinse your mouth after meals if the incision is inside the lip."
   - stage: "First week"
     text: "Most discomfort eases. Any external stitches are removed, and people with desk-based jobs are often back towards the end of the week."
-  - stage: "Weeks 2–3"
+  - stage: "Weeks 2-3"
     text: "Swelling keeps falling and you look presentable socially. Avoid knocks to the chin and strenuous exercise."
-  - stage: "Months 1–3"
+  - stage: "Months 1-3"
     text: "Any numbness of the lower lip and chin usually improves gradually, and normal activities resume."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "The last of the swelling fades and the final contour of your chin and jawline becomes clear."
   outro: "Bone repositioning (genioplasty) usually takes a little longer to settle than an implant, so Dr. Junaid tailors your aftercare to the procedure you have."
 faqs:

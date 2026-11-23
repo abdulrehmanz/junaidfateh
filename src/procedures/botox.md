@@ -24,10 +24,10 @@ roman_urdu_summary: "Botox ek injection hai jo chehre ke un muscles ko narm kart
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "15–30 minutes"
+  duration: "15-30 minutes"
   anesthesia: "None (topical numbing optional)"
   recovery: "No downtime"
-  results: "3–6 months"
+  results: "3-6 months"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/botox/botox-before.webp
@@ -89,11 +89,11 @@ recovery:
     text: "Small raised bumps at the injection points usually flatten within half an hour, and you can carry on with your day."
   - stage: "First 4 hours"
     text: "Stay upright, avoid rubbing or pressing the treated areas, and leave the gym until the next day."
-  - stage: "Days 3–5"
+  - stage: "Days 3-5"
     text: "The muscles begin to relax and you start to notice the lines softening."
   - stage: "Around 2 weeks"
     text: "You can now judge the complete result, and a review at this point allows a small adjustment if needed."
-  - stage: "3–6 months"
+  - stage: "3-6 months"
     text: "Movement gradually returns and lines reappear, which is when most people plan a repeat treatment."
   outro: "Mild bruising or a short-lived headache can happen. If you notice anything unexpected, such as a heavy eyelid, message the clinical team on WhatsApp so Dr. Junaid can advise you."
 faqs:

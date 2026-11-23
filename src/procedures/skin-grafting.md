@@ -24,11 +24,11 @@ roman_urdu_summary: "Skin grafting mein jism ke kisi hisse se sehatmand jild le 
 body_location: "Skin"
 price_from: ''
 stats:
-  duration: "1–3 hours"
+  duration: "1-3 hours"
   anesthesia: "Local or general"
-  recovery: "2–4 weeks"
+  recovery: "2-4 weeks"
   results: "Permanent wound coverage"
-  hospital_stay: "1–3 days"
+  hospital_stay: "1-3 days"
 before_after:
 - before: /assets/images/procedures/skin-grafting/skin-grafting-before.webp
   after: /assets/images/procedures/skin-grafting/skin-grafting-after.webp

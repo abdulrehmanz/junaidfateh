@@ -24,9 +24,9 @@ roman_urdu_summary: "BBL (Brazilian butt lift) mein aap ki apni charbi liposucti
 body_location: "Buttocks and hips"
 price_from: ''
 stats:
-  duration: 3–4 hours
+  duration: 3-4 hours
   anesthesia: General
-  recovery: 2–3 weeks
+  recovery: 2-3 weeks
   results: Long-lasting (some transferred fat is naturally reabsorbed)
   hospital_stay: Day case or 1 night
 before_after:
@@ -86,15 +86,15 @@ candidates:
 recovery:
   intro: "Protecting the transferred fat is the main focus of BBL recovery. A typical timeline:"
   timeline:
-  - stage: Weeks 1–2
+  - stage: Weeks 1-2
     text: "Avoid sitting or lying directly on your buttocks. Sleep on your front or side, and if you must sit, use a special cushion that takes the pressure onto your thighs. Wear the compression garment over the liposuction areas."
-  - stage: Weeks 2–3
+  - stage: Weeks 2-3
     text: "Short periods of sitting with the cushion can begin. Swelling and bruising in both the donor and treated areas start to ease."
-  - stage: Weeks 3–4
+  - stage: Weeks 3-4
     text: "Many people return to desk-based work, still using the cushion. Keep up regular gentle walks."
   - stage: Month 2
     text: "Normal sitting can usually resume. Moderate exercise can restart, but squats and exercises that press on the buttocks wait a little longer."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "Some of the transferred fat is naturally reabsorbed in the early months, and what remains settles into your final shape."
   outro: "Results vary between people, and a smaller top-up session is sometimes needed. Dr. Junaid reviews your progress at every follow-up."
 faqs:

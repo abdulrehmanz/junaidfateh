@@ -24,9 +24,9 @@ roman_urdu_summary: "Fat grafting mein aap ke apne jism, jaise pait ya raan, se 
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "Local with sedation"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Long-lasting (several years)"
   hospital_stay: "Day case"
 before_after:
@@ -85,13 +85,13 @@ candidates:
 recovery:
   intro: "Recovery after facial fat grafting is usually quicker than after larger facial surgery. These times are typical, and every person heals differently:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "The treated areas look fuller than the final result and may bruise. Cool compresses and sleeping with your head raised help."
   - stage: "Week 1"
     text: "Facial swelling starts to come down. The donor area may feel sore and bruised, and a compression garment may be advised."
-  - stage: "Weeks 1–2"
+  - stage: "Weeks 1-2"
     text: "Most people return to work and normal routines. Avoid pressing on or massaging the face unless you are told to."
-  - stage: "Weeks 2–4"
+  - stage: "Weeks 2-4"
     text: "Remaining swelling fades. Keep wearing any compression on the donor area for as long as advised."
   - stage: "Month 3 onwards"
     text: "The fat that has taken hold is now stable, and what you see is close to the final result."

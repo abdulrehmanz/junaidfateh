@@ -24,11 +24,11 @@ roman_urdu_summary: "Burn reconstruction mein jalne ke baad sakht aur khinche hu
 body_location: "Skin and joints"
 price_from: ''
 stats:
-  duration: "1–6 hours"
+  duration: "1-6 hours"
   anesthesia: "General"
-  recovery: "2–6 weeks per procedure"
+  recovery: "2-6 weeks per procedure"
   results: "Progressive improvement with multiple stages"
-  hospital_stay: "1–5 days"
+  hospital_stay: "1-5 days"
 before_after:
 - before: /assets/images/procedures/burn-reconstruction/burn-reconstruction-before.webp
   after: /assets/images/procedures/burn-reconstruction/burn-reconstruction-after.webp

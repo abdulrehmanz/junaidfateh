@@ -23,10 +23,10 @@ roman_urdu_summary: "Laser hair removal se chehre aur jism ke ghair zaroori baal
 body_location: "Face and body"
 price_from: ''
 stats:
-  duration: "15–60 minutes per session"
+  duration: "15-60 minutes per session"
   anesthesia: "None (cooling built into the device)"
   recovery: "No downtime"
-  results: "Long-term hair reduction (usually 6–8 sessions)"
+  results: "Long-term hair reduction (usually 6-8 sessions)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/laser-hair-removal/laser-hair-removal-before.webp
@@ -86,9 +86,9 @@ recovery:
   timeline:
   - stage: "Straight after"
     text: "Treated skin may look pink, with small raised bumps around the follicles. This usually settles within a few hours."
-  - stage: "First 24–48 hours"
+  - stage: "First 24-48 hours"
     text: "Avoid hot showers, saunas, the gym and direct sun. A soothing gel or cool compress helps if your skin feels warm."
-  - stage: "Days 5–14"
+  - stage: "Days 5-14"
     text: "Treated hairs loosen and shed. Do not pluck, wax or thread, although shaving is fine between sessions."
   - stage: "Between sessions"
     text: "Sessions are usually spaced four to eight weeks apart, depending on the area, to catch hairs in their growth phase."

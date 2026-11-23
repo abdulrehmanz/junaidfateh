@@ -25,10 +25,10 @@ roman_urdu_summary: "Blepharoplasty, yaani eyelid surgery, mein upar ke papoton 
 body_location: "Eyelids"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "Local with sedation"
-  recovery: "7–10 days"
-  results: "Long-lasting (5–7 years)"
+  recovery: "7-10 days"
+  results: "Long-lasting (5-7 years)"
   hospital_stay: "Day case"
 before_after:
 - before: /assets/images/procedures/blepharoplasty/blepharoplasty-before.webp
@@ -86,15 +86,15 @@ candidates:
 recovery:
   intro: "Most people find recovery from eyelid surgery manageable. A typical timeline looks like this:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your eyelids feel tight and look swollen and bruised. Cool compresses, a raised head and the prescribed drops or ointment help. Rest your eyes and keep screen time and reading short."
-  - stage: "Days 5–7"
+  - stage: "Days 5-7"
     text: "Stitches, if used, are usually removed. Bruising turns yellow and starts to fade."
-  - stage: "Days 7–10"
+  - stage: "Days 7-10"
     text: "Most people feel ready for work and social outings, perhaps with tinted glasses. Light walking is fine."
-  - stage: "Weeks 2–4"
+  - stage: "Weeks 2-4"
     text: "Eye makeup and contact lenses can usually return once Dr. Junaid is happy with healing. Gentle exercise resumes gradually."
-  - stage: "Months 2–3"
+  - stage: "Months 2-3"
     text: "Remaining swelling settles and the scars soften and fade into the natural crease."
   outro: "Good sunglasses are worth having in Pakistan's strong sun while your scars mature, and they protect sensitive eyes in the early weeks."
 faqs:

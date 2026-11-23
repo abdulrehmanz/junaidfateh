@@ -53,10 +53,10 @@ A transplant does not create new hair. It redistributes the hair you have, and y
 | Best for | Early or diffuse thinning with hair still present | Bald or very thin areas, receded hairline, crown |
 | Grows hair in bald areas | No | Yes, using your donor hair |
 | Anaesthesia | None or topical numbing | Local anaesthetic |
-| Time per visit | About 30–60 minutes | Usually 4–8 hours |
-| Number of sessions | A course, often 4–6 sessions, then top-ups | Usually one; some people choose a second later |
+| Time per visit | About 30-60 minutes | Usually 4-8 hours |
+| Number of sessions | A course, often 4-6 sessions, then top-ups | Usually one; some people choose a second later |
 | Downtime | Usually none; scalp tender for a day or so | A few days to two weeks |
-| When results show | Gradually over a few months, if you respond | New growth from 3–4 months, full result at 12–18 months |
+| When results show | Gradually over a few months, if you respond | New growth from 3-4 months, full result at 12-18 months |
 | How long results last | Tends to fade without maintenance | Transplanted hair is usually long-lasting |
 | Main side effects | Tenderness, pinpoint bleeding, mild swelling, headache | Swelling, scabs, numbness, temporary shedding, small scars |
 | Cost depends on | Number of sessions | Graft count, technique and sessions |

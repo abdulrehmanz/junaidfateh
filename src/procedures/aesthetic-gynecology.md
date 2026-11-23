@@ -24,9 +24,9 @@ roman_urdu_summary: "Aesthetic gynecology mein khawateen ke intimate hissay ke l
 body_location: "Female intimate area"
 price_from: ''
 stats:
-  duration: 1–3 hours
+  duration: 1-3 hours
   anesthesia: Local or general
-  recovery: 1–2 weeks
+  recovery: 1-2 weeks
   results: Long-lasting
   hospital_stay: Day case or 1 night
 before_after:
@@ -85,15 +85,15 @@ candidates:
 recovery:
   intro: "Recovery is usually straightforward, though it depends on the procedure. As a general guide:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "Swelling and tenderness are expected and are eased with prescribed pain relief and cold packs. Rest at home and keep activity to a minimum."
   - stage: Week 1
     text: "Comfort improves day by day. Wear loose cotton clothing and follow the hygiene advice given by the clinical team."
-  - stage: Weeks 2–3
+  - stage: Weeks 2-3
     text: "Most women return to work and their daily routine. Swelling continues to settle, and light exercise may restart."
-  - stage: Weeks 4–6
+  - stage: Weeks 4-6
     text: "After your check-up, Dr. Junaid will usually advise when you can return to full exercise and intimacy."
-  - stage: Months 2–3
+  - stage: Months 2-3
     text: "Remaining swelling resolves and the tissues settle into their final shape."
   outro: "Healing varies between women and between procedures. You receive clear aftercare instructions, and follow-up visits are arranged to check that you are healing well."
 faqs:

@@ -92,7 +92,7 @@ To avoid this, Dr. Junaid draws the hairline to suit your age and face, gives it
 | What you notice | Usually normal | Contact the team |
 |---|---|---|
 | Swelling | Forehead and around the eyes in the first week | Swelling with fever or spreading redness |
-| Bleeding | Light spotting in the first day or two | Bleeding that has not stopped after 10–15 minutes of firm, gentle pressure |
+| Bleeding | Light spotting in the first day or two | Bleeding that has not stopped after 10-15 minutes of firm, gentle pressure |
 | Pain | Mild to moderate, improving each day | Pain that keeps getting worse |
 | Scabs | Small crusts that come away by about two weeks | Thick yellow crusts, pus or a bad smell |
 | Numbness | Patchy numbness that slowly improves | Numbness not improving after several months |

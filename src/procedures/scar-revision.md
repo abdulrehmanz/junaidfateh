@@ -25,9 +25,9 @@ roman_urdu_summary: "Scar revision mein chot, jalne ya operation ke baad bane ch
 body_location: "Skin"
 price_from: ''
 stats:
-  duration: "30 minutes–2 hours"
+  duration: "30 minutes-2 hours"
   anesthesia: "Local"
-  recovery: "5–14 days"
+  recovery: "5-14 days"
   results: "Gradual improvement over months"
   hospital_stay: "Day case"
 before_after:
@@ -88,13 +88,13 @@ recovery:
   timeline:
   - stage: "Surgical revision, week 1"
     text: "The area is dressed and may be sore and swollen. Stitches usually come out after about five to seven days on the face, and a little later elsewhere on the body."
-  - stage: "Surgical revision, weeks 2–4"
+  - stage: "Surgical revision, weeks 2-4"
     text: "Avoid stretching, heavy lifting or strenuous activity that puts tension on the new scar."
   - stage: "Injections and resurfacing"
     text: "Steroid injections need very little downtime, while resurfacing leaves redness for several days. Repeat sessions are often spaced a few weeks apart."
   - stage: "Ongoing scar care"
     text: "Silicone gel or sheets, gentle massage when advised and strict sun protection help the new scar settle well."
-  - stage: "Months 6–18"
+  - stage: "Months 6-18"
     text: "The scar keeps flattening and fading as it matures, so the final result is judged after this period."
   outro: "Keep your follow-up appointments, especially for keloids, because treating any early regrowth promptly gives the best chance of keeping it under control."
 faqs:

@@ -37,8 +37,8 @@ Both are quick clinic treatments, which is why they are often confused. In this 
 | How it works | Relaxes the muscles that fold the skin into lines | Fills, lifts or shapes the area where it is placed |
 | Treats | Lines that appear when you move your face | Volume loss, hollows, deeper folds and areas you want to shape |
 | Common areas | Forehead, frown lines, crow's feet | Lips, cheeks, under-eyes, smile lines, chin, jawline |
-| When you see results | Starts in 3–5 days, full effect around 2 weeks | Straight away, settling over 1–2 weeks |
-| How long it lasts | Around 3–6 months | Around 6–18 months, depending on area and product |
+| When you see results | Starts in 3-5 days, full effect around 2 weeks | Straight away, settling over 1-2 weeks |
+| How long it lasts | Around 3-6 months | Around 6-18 months, depending on area and product |
 | Downtime | Usually none | Mild swelling or bruising for a few days |
 | Reversible? | No, but it wears off gradually | Hyaluronic acid fillers can be dissolved |
 

@@ -25,11 +25,11 @@ roman_urdu_summary: "Bohat zyada wazan kam hone ke baad, chahe bariatric surgery
 body_location: "Abdomen, back, arms, thighs and chest"
 price_from: ''
 stats:
-  duration: 4–8 hours
+  duration: 4-8 hours
   anesthesia: General
-  recovery: 4–6 weeks
+  recovery: 4-6 weeks
   results: Permanent
-  hospital_stay: 2–3 nights
+  hospital_stay: 2-3 nights
 before_after:
 - before: /assets/images/procedures/body-contouring-weight-loss/body-contouring-weight-loss-before.webp
   after: /assets/images/procedures/body-contouring-weight-loss/body-contouring-weight-loss-after.webp
@@ -87,15 +87,15 @@ candidates:
 recovery:
   intro: "These are major operations, and recovery depends on how much is done at each stage. As a general guide:"
   timeline:
-  - stage: Weeks 1–2
+  - stage: Weeks 1-2
     text: "Drains and compression garments are usual. You will need plenty of rest and help at home with everyday tasks."
-  - stage: Weeks 3–4
+  - stage: Weeks 3-4
     text: "Drains are normally out by now. Light activity around the house and short outings become manageable."
-  - stage: Months 1–2
+  - stage: Months 1-2
     text: "You gradually return to normal routines and desk work. Heavy lifting and strenuous exercise are still off limits."
   - stage: Month 3
     text: "Most restrictions are lifted and exercise is built back up step by step. This is often when the next stage can be planned."
-  - stage: Months 6–12
+  - stage: Months 6-12
     text: "Scars keep softening and fading, and your final contour becomes clear."
   outro: "Everyone heals at their own pace. Dr. Junaid sees you regularly during recovery and only plans the next stage once you have healed well."
 faqs:

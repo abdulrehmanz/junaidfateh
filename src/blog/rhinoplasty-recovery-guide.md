@@ -83,12 +83,12 @@ The final shape appears gradually, often at around twelve months, and more slowl
 
 | Time after surgery | What is usually happening | What you can usually do |
 |---|---|---|
-| Days 1–3 | Blocked nose, swelling and bruising peak | Rest with head raised, walk around the house |
-| Days 4–7 | Bruising fading | Light activity at home; no nose blowing |
-| Days 7–10 | Splint and stitches removed | Office work and errands for many people |
-| Weeks 2–6 | Firm, slightly swollen nose | Light cardio from around 3 weeks; no glasses on the bridge |
-| Months 3–6 | Most swelling gone | Most normal activities, including the gym as advised |
-| Months 6–12 | Final shape emerging | Review with Dr. Junaid |
+| Days 1-3 | Blocked nose, swelling and bruising peak | Rest with head raised, walk around the house |
+| Days 4-7 | Bruising fading | Light activity at home; no nose blowing |
+| Days 7-10 | Splint and stitches removed | Office work and errands for many people |
+| Weeks 2-6 | Firm, slightly swollen nose | Light cardio from around 3 weeks; no glasses on the bridge |
+| Months 3-6 | Most swelling gone | Most normal activities, including the gym as advised |
+| Months 6-12 | Final shape emerging | Review with Dr. Junaid |
 
 ## Warning signs: contact the team
 

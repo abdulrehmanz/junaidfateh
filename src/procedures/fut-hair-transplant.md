@@ -24,10 +24,10 @@ roman_urdu_summary: "FUT ya strip method mein sar ke peeche se jild ki ek patli 
 body_location: "Scalp"
 price_from: ''
 stats:
-  duration: 4–8 hours
+  duration: 4-8 hours
   anesthesia: Local with sedation
-  recovery: 10–14 days
-  results: Permanent (visible growth at 6–12 months)
+  recovery: 10-14 days
+  results: Permanent (visible growth at 6-12 months)
   hospital_stay: Day case
 before_after:
 - before: /assets/images/procedures/fut-hair-transplant/fut-hair-transplant-before.webp
@@ -85,16 +85,16 @@ candidates:
 recovery:
   intro: "With FUT you are healing in two places, the strip site and the grafted area. A typical course looks like this:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "The back of the head feels tight and sore, and the forehead may swell. Sleep with your head raised and take the pain relief prescribed."
   - stage: Week 1
     text: "Light daily activity is fine. Avoid bending your head far forward or lifting heavy weights, which can strain the wound."
-  - stage: Days 10–14
+  - stage: Days 10-14
     text: "Stitches are removed unless dissolving ones were used, and crusts in the grafted area have mostly cleared."
-  - stage: Weeks 2–6
+  - stage: Weeks 2-6
     text: "Transplanted hairs shed as expected. Numbness or tightness around the scar usually eases over the following weeks to months."
-  - stage: Months 3–12
-    text: "New growth appears and steadily thickens, with the final result usually seen at 12–18 months."
+  - stage: Months 3-12
+    text: "New growth appears and steadily thickens, with the final result usually seen at 12-18 months."
   outro: "Avoid heavy gym work, contact sport and swimming for as long as the team advises, as this helps the scar stay as fine as possible."
 faqs:
 - q: What is the difference between FUT and FUE?

@@ -24,9 +24,9 @@ roman_urdu_summary: "Lip reduction surgery mein zyada mote ya bhare hue honton k
 body_location: "Lips"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "Local anesthesia"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Permanent"
   hospital_stay: "Day case"
 before_after:
@@ -85,9 +85,9 @@ candidates:
 recovery:
   intro: "The lips swell quite a lot at first, but recovery is generally straightforward. A typical course looks like this:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your lips feel swollen and tight and may bruise. Cold compresses, a soft or liquid diet and keeping your head raised all help."
-  - stage: "Days 5–10"
+  - stage: "Days 5-10"
     text: "Stitches dissolve or are removed. Swelling eases day by day and eating becomes easier."
   - stage: "Week 2"
     text: "Most people return to work and a normal diet, although the lips may still look slightly full."

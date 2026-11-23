@@ -24,10 +24,10 @@ roman_urdu_summary: "Eyebrow transplant mein sar ke peeche se bareek baal ek ek 
 body_location: "Eyebrows"
 price_from: ''
 stats:
-  duration: 2–4 hours
+  duration: 2-4 hours
   anesthesia: Local
-  recovery: 5–7 days
-  results: Permanent (visible growth at 4–6 months)
+  recovery: 5-7 days
+  results: Permanent (visible growth at 4-6 months)
   hospital_stay: Day case
 before_after:
 - before: /assets/images/procedures/eyebrow-transplant/eyebrow-transplant-before.webp
@@ -86,15 +86,15 @@ candidates:
 recovery:
   intro: "The brows heal quickly, but the hair itself takes months to come through:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "Tiny crusts form at each graft and there may be mild swelling, which can spread around the eyes. Avoid touching, rubbing or wetting the brows except as instructed."
-  - stage: Days 4–7
+  - stage: Days 4-7
     text: "Crusts begin to fall away and most people return to work. Keep makeup off the brows until the team says it is safe."
-  - stage: Weeks 2–6
+  - stage: Weeks 2-6
     text: "Most transplanted hairs shed, which is normal. The roots stay in place under the skin."
-  - stage: Months 3–4
+  - stage: Months 3-4
     text: "New hairs start to grow, fine at first, then gradually stronger."
-  - stage: Months 8–12
+  - stage: Months 8-12
     text: "The brows reach their full look. Regular trimming keeps them at a natural length."
   outro: "Avoid threading, waxing or plucking near the grafts while they heal, and protect the area from strong sun."
 faqs:
@@ -105,7 +105,7 @@ faqs:
 - q: How long do the results last?
   a: "Transplanted hairs come from the scalp donor area and usually go on growing for many years. Because they keep their scalp-like growth, they need trimming. Results vary between people, and a top-up session is sometimes needed for density."
 - q: How long until I can return to work?
-  a: "Most people return to work within 5–7 days, once swelling settles and the crusts have mostly gone. If you are planning around a wedding or Eid, leave several months for the new hair to grow in as well."
+  a: "Most people return to work within 5-7 days, once swelling settles and the crusts have mostly gone. If you are planning around a wedding or Eid, leave several months for the new hair to grow in as well."
 - q: Do transplanted eyebrows need trimming?
   a: "Yes. Scalp hair grows longer than brow hair, so most people trim every week or two with small scissors. Some hairs may slow down a little over time, but regular trimming is part of having transplanted brows."
 - q: Is an eyebrow transplant better than microblading?
@@ -148,4 +148,4 @@ Options Dr. Junaid may recommend include:
 
 ## What to expect on the day
 
-A small patch of hair at the back of the scalp is trimmed, usually where longer hair above it can cover the area. The brows and the donor site are numbed with local anaesthetic. Grafts are taken and then placed one at a time along the agreed design. The procedure usually takes 2–4 hours, and you go home the same day.
+A small patch of hair at the back of the scalp is trimmed, usually where longer hair above it can cover the area. The brows and the donor site are numbed with local anaesthetic. Grafts are taken and then placed one at a time along the agreed design. The procedure usually takes 2-4 hours, and you go home the same day.

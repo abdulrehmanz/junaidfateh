@@ -25,9 +25,9 @@ roman_urdu_summary: "Gynecomastia mein mardon ki chhati par extra gland aur char
 body_location: "Chest"
 price_from: ''
 stats:
-  duration: 1–2 hours
+  duration: 1-2 hours
   anesthesia: General or local with sedation
-  recovery: 1–2 weeks
+  recovery: 1-2 weeks
   results: Permanent
   hospital_stay: Day case
 before_after:
@@ -87,15 +87,15 @@ candidates:
 recovery:
   intro: "Most men find recovery from gynecomastia surgery easier than they expected. A typical course looks like this, although everyone heals at their own pace:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your chest feels tight and sore, and a compression vest is worn day and night. Prescribed pain relief and short walks around the house help."
   - stage: "Week 1"
     text: "Many men return to office or desk work. Bruising and swelling begin to settle, and your wounds are checked at your follow-up visit."
-  - stage: "Weeks 2–3"
+  - stage: "Weeks 2-3"
     text: "Most daily tasks are comfortable again. Keep wearing the vest and avoid heavy lifting, running and upper-body exercise."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Light gym sessions usually restart, with chest workouts added gradually once Dr. Junaid is happy with healing. The vest is normally stopped around this time."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "The last of the swelling fades and your final chest shape becomes clear. Scars keep softening and lightening over the following year."
   outro: "In the Lahore summer the compression vest can feel warm, so some men prefer to schedule surgery for the cooler months. Keeping a spare vest makes it easier to wash one and wear the other."
 faqs:

@@ -24,9 +24,9 @@ roman_urdu_summary: "Breast lift (mastopexy) mein hamal, doodh pilane, wazan kam
 body_location: "Breast"
 price_from: ''
 stats:
-  duration: 2–3 hours
+  duration: 2-3 hours
   anesthesia: General
-  recovery: 2–3 weeks
+  recovery: 2-3 weeks
   results: Long-lasting
   hospital_stay: Day case or 1 night
 before_after:
@@ -90,11 +90,11 @@ recovery:
     text: "Wear your support bra day and night. Soreness is usually moderate and eased by prescribed pain relief. Avoid raising your arms above shoulder height."
   - stage: "Week 2"
     text: "Your wounds are reviewed at follow-up. Desk-based work and light daily tasks are usually possible by now."
-  - stage: "Weeks 3–4"
+  - stage: "Weeks 3-4"
     text: "Swelling keeps settling. Gentle activity such as walking can increase, but avoid lifting and strenuous effort."
-  - stage: "Weeks 6–8"
+  - stage: "Weeks 6-8"
     text: "Most usual activities resume, including a gradual return to exercise once Dr. Junaid gives the go-ahead."
-  - stage: "Months 6–12"
+  - stage: "Months 6-12"
     text: "The breasts settle into their final shape and the scars fade from pink to a softer, paler line."
   outro: "A good supportive bra, a steady weight and staying smoke-free all help your lift last longer."
 faqs:

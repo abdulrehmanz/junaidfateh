@@ -31,7 +31,7 @@ faqs:
 - q: Is a hair transplant permanent?
   a: "Transplanted hair is taken from the back and sides of the scalp, where follicles are usually far less sensitive to the hormone behind pattern baldness, so it generally keeps growing for the long term. Your original hair can still thin with age, so Dr. Junaid may suggest treatment to protect it. Results vary between people."
 - q: How soon can I go back to work?
-  a: "After FUE, many people return to desk work in about a week. FUT, or a physical job, may need closer to two weeks. Redness and crusts usually settle within 7–14 days."
+  a: "After FUE, many people return to desk work in about a week. FUT, or a physical job, may need closer to two weeks. Redness and crusts usually settle within 7-14 days."
 - q: Should I choose FUE or FUT?
   a: "FUE suits people who keep their hair short and need a moderate number of grafts. FUT can suit larger areas and people who wear their hair longer. Dr. Junaid recommends a method after examining your scalp, and sometimes combines the two."
 - q: What is the right age for a hair transplant?
@@ -56,10 +56,10 @@ Women can have a similar inherited pattern, usually seen as a widening parting r
 
 Doctors describe male hair loss using the Norwood scale, which runs from stage 1 to stage 7:
 
-- **Stages 1–2:** little or no loss, perhaps a slight rise at the temples.
+- **Stages 1-2:** little or no loss, perhaps a slight rise at the temples.
 - **Stage 3:** the temples recede into a clear M shape, sometimes with early thinning on the crown.
-- **Stages 4–5:** the front and crown thin further, with a band of hair still separating them.
-- **Stages 6–7:** that band has gone, leaving hair mainly in a horseshoe around the sides and back.
+- **Stages 4-5:** the front and crown thin further, with a band of hair still separating them.
+- **Stages 6-7:** that band has gone, leaving hair mainly in a horseshoe around the sides and back.
 
 Your stage helps Dr. Junaid judge how many grafts you may need and whether your donor area can cover it. The graft estimator on this page gives a rough starting figure, and the real number is set at consultation.
 
@@ -81,6 +81,6 @@ Most hair transplants are day cases. You arrive in the morning, confirm the hair
 
 ## Aftercare and the months ahead
 
-For the first few nights you sleep with your head raised and follow the washing routine the team shows you, which loosens the crusts over the next one to two weeks. Heavy exercise, swimming, strong sun and smoking are avoided for as long as advised. The transplanted hairs usually shed between two and six weeks, then new growth starts at around three to four months. Most people see a clear change by six to nine months, with the final result at 12–18 months.
+For the first few nights you sleep with your head raised and follow the washing routine the team shows you, which loosens the crusts over the next one to two weeks. Heavy exercise, swimming, strong sun and smoking are avoided for as long as advised. The transplanted hairs usually shed between two and six weeks, then new growth starts at around three to four months. Most people see a clear change by six to nine months, with the final result at 12-18 months.
 
 Results vary between people. Like any surgery, a hair transplant carries risks, such as swelling, infection, numbness and uneven growth, and Dr. Junaid goes through these with you at consultation before following your progress as the new hair comes in.

@@ -21,7 +21,7 @@ import { buildSchema } from "./lib/schema.js";
 const site = yaml.load(fs.readFileSync("./src/_data/site.yml", "utf8"));
 const pathPrefix = site.pathPrefix || "/";
 
-const md = markdownIt({ html: true, linkify: true, typographer: true });
+const md = markdownIt({ html: true, linkify: true, typographer: false }); // typographer off: it would turn "--" into dashes
 
 /** Build an absolute URL (for canonical links, Open Graph and structured data). */
 function absoluteUrl(path = "/") {

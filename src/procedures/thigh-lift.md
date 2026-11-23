@@ -24,9 +24,9 @@ roman_urdu_summary: "Thigh lift mein raanon ki dheeli khaal aur kuch charbi nika
 body_location: "Thighs"
 price_from: ''
 stats:
-  duration: 2–3 hours
+  duration: 2-3 hours
   anesthesia: General
-  recovery: 2–4 weeks
+  recovery: 2-4 weeks
   results: Permanent
   hospital_stay: 1 night
 before_after:
@@ -89,7 +89,7 @@ recovery:
     text: "Wear your compression garment and rest with your legs raised. Drains may be in place. Keep walking to short, gentle trips around the house."
   - stage: Week 2
     text: "Stitches come out and you can walk a little further each day. Compression continues for four to six weeks."
-  - stage: Weeks 3–4
+  - stage: Weeks 3-4
     text: "Many people go back to desk work. Avoid wide leg movements, such as straddling or deep squats, which can strain the scar."
   - stage: Month 2
     text: "Light exercise can restart and the scars begin to settle."

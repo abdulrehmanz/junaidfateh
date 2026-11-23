@@ -27,9 +27,9 @@ price_from: ''
 stats:
   duration: "Under 1 hour to 4 hours"
   anesthesia: "Local, regional or general"
-  recovery: "2–12 weeks (longer for tendon or nerve repair)"
+  recovery: "2-12 weeks (longer for tendon or nerve repair)"
   results: "Varies by condition"
-  hospital_stay: "Day case or 1–2 nights"
+  hospital_stay: "Day case or 1-2 nights"
 before_after:
 - before: /assets/images/procedures/hand-surgery/hand-surgery-before.webp
   after: /assets/images/procedures/hand-surgery/hand-surgery-after.webp

@@ -24,11 +24,11 @@ roman_urdu_summary: "Kuch bachche kate hue hont ya talu ke sath paida hote hain,
 body_location: "Lip and palate"
 price_from: ''
 stats:
-  duration: "1–3 hours per procedure"
+  duration: "1-3 hours per procedure"
   anesthesia: "General"
-  recovery: "1–2 weeks per procedure"
+  recovery: "1-2 weeks per procedure"
   results: "Long-term improvement, often with staged care"
-  hospital_stay: "1–3 days"
+  hospital_stay: "1-3 days"
 before_after:
 - before: /assets/images/procedures/cleft-lip-palate/cleft-lip-palate-before.webp
   after: /assets/images/procedures/cleft-lip-palate/cleft-lip-palate-after.webp

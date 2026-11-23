@@ -24,7 +24,7 @@ roman_urdu_summary: "Is treatment mein chehre ki chhaiyan, daag dhabbe aur na-ha
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30–60 minutes per session"
+  duration: "30-60 minutes per session"
   anesthesia: "None or topical numbing"
   recovery: "Minimal"
   results: "Gradual (series of treatments recommended)"

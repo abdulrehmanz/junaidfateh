@@ -24,9 +24,9 @@ roman_urdu_summary: "Cheek implants mein aam taur par munh ke andar se chhota sa
 body_location: "Cheeks"
 price_from: ''
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "General or local with sedation"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Permanent"
   hospital_stay: "Day case"
 before_after:
@@ -85,13 +85,13 @@ candidates:
 recovery:
   intro: "Most people find cheek implant recovery manageable. Healing varies, but a typical course looks like this:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your cheeks feel swollen and tight, and smiling may feel stiff. Painkillers, cool compresses, soft food and sleeping with your head raised help."
   - stage: "Week 1"
     text: "Swelling reaches its peak and then starts to ease. Rinse your mouth after meals as advised, because the incisions are inside it."
   - stage: "Week 2"
     text: "Most people go back to work and everyday life, although some puffiness can remain."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Exercise can usually restart once Dr. Junaid is happy with healing. Avoid pressing on your cheeks or contact sports until you are cleared."
   - stage: "Month 3"
     text: "Remaining swelling has settled and the implants have bedded in, revealing your final contour."

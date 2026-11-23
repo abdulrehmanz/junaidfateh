@@ -25,11 +25,11 @@ roman_urdu_summary: "Kuch bachche izafi ya judi hui ungliyon, kaan ki mukhtalif 
 body_location: "Hand, ear and skin"
 price_from: ''
 stats:
-  duration: "1–6 hours"
+  duration: "1-6 hours"
   anesthesia: General
-  recovery: "1–4 weeks"
+  recovery: "1-4 weeks"
   results: Improved function and appearance
-  hospital_stay: "1–3 days"
+  hospital_stay: "1-3 days"
 before_after:
 - before: /assets/images/procedures/congenital-deformities/congenital-deformities-before.webp
   after: /assets/images/procedures/congenital-deformities/congenital-deformities-after.webp
@@ -89,11 +89,11 @@ recovery:
   timeline:
   - stage: First few days
     text: "Some soreness, eased with regular pain relief. A dressing or splint keeps the area protected."
-  - stage: "1–2 weeks"
+  - stage: "1-2 weeks"
     text: "First wound check. Stitches are often dissolvable, and any others are removed in clinic."
-  - stage: "2–6 weeks"
+  - stage: "2-6 weeks"
     text: "After hand surgery a splint or protective dressing is usually worn for this period, with gentle movement when Dr. Junaid advises."
-  - stage: "2–6 months"
+  - stage: "2-6 months"
     text: "Scars are pink at first and slowly soften. Exercises or hand therapy may continue to improve movement."
   - stage: Through childhood
     text: "Regular check-ups follow your child's growth, and any further stages are planned if needed."

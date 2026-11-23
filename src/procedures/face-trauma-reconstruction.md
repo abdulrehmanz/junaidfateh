@@ -24,11 +24,11 @@ roman_urdu_summary: "Face trauma reconstruction mein accident, girne ya chot ke 
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "1–6 hours"
+  duration: "1-6 hours"
   anesthesia: "General"
-  recovery: "2–6 weeks"
+  recovery: "2-6 weeks"
   results: "Restoration of function and appearance"
-  hospital_stay: "1–5 days"
+  hospital_stay: "1-5 days"
 before_after:
 - before: /assets/images/procedures/face-trauma-reconstruction/face-trauma-reconstruction-before.webp
   after: /assets/images/procedures/face-trauma-reconstruction/face-trauma-reconstruction-after.webp

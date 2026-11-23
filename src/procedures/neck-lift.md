@@ -24,10 +24,10 @@ roman_urdu_summary: "Neck lift mein gardan ki dheeli jild aur thodi ke neeche ki
 body_location: "Neck"
 price_from: ''
 stats:
-  duration: "2–3 hours"
+  duration: "2-3 hours"
   anesthesia: "General or local with sedation"
-  recovery: "2–3 weeks"
-  results: "Long-lasting (5–10 years)"
+  recovery: "2-3 weeks"
+  results: "Long-lasting (5-10 years)"
   hospital_stay: "Day case or 1 night"
 before_after:
 - before: /assets/images/procedures/neck-lift/neck-lift-before.webp
@@ -85,15 +85,15 @@ candidates:
 recovery:
   intro: "Neck lift recovery happens in stages. Everyone heals at their own pace, so treat these times as a rough guide:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Expect swelling, bruising and a tight feeling under the chin. You wear a supportive chin strap or dressing and sleep with your head raised."
   - stage: "End of week 1"
     text: "Stitches are usually taken out around this time. Bruising begins to fade and moving around the house feels easier."
-  - stage: "Weeks 2–3"
+  - stage: "Weeks 2-3"
     text: "Many people return to desk work and social plans. A collar or scarf can cover any marks that remain."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Gentle exercise can usually restart once Dr. Junaid is happy with healing. Numbness and tightness keep easing."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "The last of the swelling settles, the final neck contour becomes clear and scars continue to soften."
   outro: "Avoid heavy lifting and hard workouts until you are cleared, and message the clinic on WhatsApp straight away if you notice swelling building up on one side, bleeding or a fever."
 faqs:

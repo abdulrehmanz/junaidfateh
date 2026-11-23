@@ -23,10 +23,10 @@ roman_urdu_summary: "Thread lift mein ghul jane wale PDO dhaage jild ke neeche l
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "30–60 minutes"
+  duration: "30-60 minutes"
   anesthesia: "Local anaesthetic"
-  recovery: "2–5 days (mild swelling)"
-  results: "Immediate lift, then gradual improvement (lasts 12–18 months)"
+  recovery: "2-5 days (mild swelling)"
+  results: "Immediate lift, then gradual improvement (lasts 12-18 months)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/thread-lift/thread-lift-before.webp
@@ -84,15 +84,15 @@ candidates:
 recovery:
   intro: "Recovery is usually quick, but the threads need time to settle over the first few weeks."
   timeline:
-  - stage: "Days 1–2"
+  - stage: "Days 1-2"
     text: "Swelling, tenderness and small bruises at the entry points are common. Some tightness when you smile or chew is normal."
-  - stage: "Days 2–5"
+  - stage: "Days 2-5"
     text: "Swelling settles and many people return to work. Sleep on your back and avoid pressing or rubbing your face."
-  - stage: "Weeks 1–3"
+  - stage: "Weeks 1-3"
     text: "Avoid opening your mouth very wide, dental treatment, facial massage, strenuous exercise and saunas, as advised by the team."
-  - stage: "Weeks 3–4"
+  - stage: "Weeks 3-4"
     text: "Any small puckering or irregularity usually smooths out, and you can return to your full routine."
-  - stage: "Months 1–6"
+  - stage: "Months 1-6"
     text: "The threads dissolve gradually while collagen forms around them, helping to support the result."
   outro: "Like any procedure, a thread lift carries risks, including bruising, unevenness, dimpling, a thread becoming visible or felt under the skin, and infection. Dr. Junaid goes through the risks with you at consultation."
 faqs:

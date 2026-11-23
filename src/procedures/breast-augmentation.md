@@ -24,10 +24,10 @@ roman_urdu_summary: "Breast augmentation mein implant ke zariye chhati ka size a
 body_location: "Breast"
 price_from: ''
 stats:
-  duration: 1–2 hours
+  duration: 1-2 hours
   anesthesia: General
-  recovery: 1–2 weeks
-  results: Long-lasting (10–15+ years)
+  recovery: 1-2 weeks
+  results: Long-lasting (10-15+ years)
   hospital_stay: Day case or 1 night
 before_after:
 - before: /assets/images/procedures/breast-augmentation/breast-augmentation-before.webp
@@ -86,15 +86,15 @@ candidates:
 recovery:
   intro: "Recovery after breast augmentation is usually manageable, though it differs from one woman to the next. As a general guide:"
   timeline:
-  - stage: "Days 1–3"
+  - stage: "Days 1-3"
     text: "Your chest feels tight, heavy and sore, especially if the implant sits under the muscle. Rest, take the prescribed pain relief and keep your support bra on."
   - stage: "Week 1"
     text: "Gentle activity around the home is fine. Avoid lifting children, shopping bags or anything heavy, and sleep on your back."
   - stage: "Week 2"
     text: "Many women return to desk work and light errands. Swelling continues to ease and your wounds are checked at follow-up."
-  - stage: "Weeks 4–6"
+  - stage: "Weeks 4-6"
     text: "Light exercise can restart gradually. Upper-body workouts and heavy lifting wait until Dr. Junaid confirms you are ready."
-  - stage: "Months 3–6"
+  - stage: "Months 3-6"
     text: "The implants drop and soften into their final position, and the scar slowly fades from pink to a paler line."
   outro: "Wear the support bra as advised and keep your follow-up appointments. Contact the clinical team promptly if one side becomes suddenly more swollen or painful, or if you develop a fever."
 faqs:

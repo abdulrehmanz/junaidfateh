@@ -25,6 +25,7 @@ const FORBIDDEN = [
   [/guarantee/i, "uses 'guarantee' (avoid promising results)"],
   [/\b(PKR|Rs\.?)\s?\d/i, "contains a price (use price_from instead)"],
   [/\u2014/, "contains an em dash (use a comma, colon or full stop instead)"],
+  [/\u2013/, "contains an en dash (use a plain hyphen, e.g. 1-2 weeks)"],
 ];
 
 const REQUIRED = {
@@ -66,7 +67,7 @@ for (const f of files) {
   const title = seo.title || data.title || "";
   const desc = seo.description || data.description || "";
   if (title.length > 70) warn(f, `SEO title is ${title.length} chars (aim for ≤ 65)`);
-  if (desc && (desc.length < 70 || desc.length > 165)) warn(f, `SEO description is ${desc.length} chars (aim for 120–160)`);
+  if (desc && (desc.length < 70 || desc.length > 165)) warn(f, `SEO description is ${desc.length} chars (aim for 120-160)`);
   if (kind === "procedures") {
     if ((data.faqs || []).length < 5) warn(f, `only ${(data.faqs || []).length} FAQs (aim for 6+)`);
     for (const pair of data.before_after || []) {
@@ -82,15 +83,15 @@ for (const f of files) {
   const words = (s) => String(s || "").trim().split(/\s+/).filter(Boolean).length;
   if (kind === "procedures" || kind === "categories") {
     const qa = words(data.quick_answer);
-    if (!qa) warn(f, `missing "quick_answer" (a 40–80 word direct answer shown at the top of the page)`);
-    else if (qa < 30 || qa > 95) warn(f, `quick_answer is ${qa} words (aim for 40–80)`);
+    if (!qa) warn(f, `missing "quick_answer" (a 40-80 word direct answer shown at the top of the page)`);
+    else if (qa < 30 || qa > 95) warn(f, `quick_answer is ${qa} words (aim for 40-80)`);
     if (!Array.isArray(data.also_known_as) || data.also_known_as.length < 2) warn(f, `add 2+ "also_known_as" names (other names people search for)`);
-    if (!data.roman_urdu_summary) warn(f, `missing "roman_urdu_summary" (2–4 sentences in Roman Urdu)`);
+    if (!data.roman_urdu_summary) warn(f, `missing "roman_urdu_summary" (2-4 sentences in Roman Urdu)`);
     const kw = String(seo.keywords || "").split(",").filter((k) => k.trim()).length;
-    if (kw < 10) warn(f, `only ${kw} SEO keywords (aim for 12–20)`);
+    if (kw < 10) warn(f, `only ${kw} SEO keywords (aim for 12-20)`);
   }
   if (kind === "blog") {
-    if (!Array.isArray(data.key_takeaways) || data.key_takeaways.length < 3) warn(f, `add 3–5 "key_takeaways" (shown at the top of the article)`);
+    if (!Array.isArray(data.key_takeaways) || data.key_takeaways.length < 3) warn(f, `add 3-5 "key_takeaways" (shown at the top of the article)`);
     if (!data.keywords) warn(f, `missing "keywords"`);
   }
 }

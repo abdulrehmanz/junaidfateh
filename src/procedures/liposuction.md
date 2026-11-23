@@ -25,9 +25,9 @@ roman_urdu_summary: "Liposuction mein jism ke un hisson se zaid charbi nikali ja
 body_location: "Abdomen, flanks, thighs, arms and chin"
 price_from: ''
 stats:
-  duration: 1–4 hours
+  duration: 1-4 hours
   anesthesia: General or local with sedation
-  recovery: 1–2 weeks
+  recovery: 1-2 weeks
   results: Permanent (with a stable weight)
   hospital_stay: Day case
 before_after:
@@ -87,15 +87,15 @@ candidates:
 recovery:
   intro: "Recovery depends on how many areas are treated and how much fat is removed. A typical pattern looks like this:"
   timeline:
-  - stage: Days 1–3
+  - stage: Days 1-3
     text: "Expect soreness, swelling and bruising. Some fluid leaking from the small incisions is normal. Wear your compression garment day and night and take short walks around the house."
   - stage: Week 1
     text: "Discomfort eases steadily. Many people return to desk-based work towards the end of the first week. Keep the garment on and avoid strenuous activity."
-  - stage: Weeks 2–4
+  - stage: Weeks 2-4
     text: "Bruising fades and swelling settles noticeably. Light exercise such as brisk walking can usually restart from around week three, once Dr. Junaid is happy with your healing."
-  - stage: Months 1–3
+  - stage: Months 1-3
     text: "Your new shape becomes clearer as the swelling goes down. The garment is usually worn for about six weeks in total, often during the daytime only in the later weeks."
-  - stage: Months 3–6
+  - stage: Months 3-6
     text: "The last of the swelling resolves and the skin settles over the new contour, so this is when you see the final result."
   outro: "Results vary between people. If your surgery falls in the hot summer months, the clinical team can advise you on staying comfortable in your garment, and Dr. Junaid reviews your progress at each follow-up."
 faqs:

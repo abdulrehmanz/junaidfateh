@@ -23,9 +23,9 @@ hero_subtitle: "One short line shown under the heading"
 price_from: ""                          # e.g. "PKR 150,000". Leave empty to show "Ask for a quote"
 
 stats:
-  duration: "1–2 hours"
+  duration: "1-2 hours"
   anesthesia: "General"
-  recovery: "1–2 weeks"
+  recovery: "1-2 weeks"
   results: "Long-lasting"
   hospital_stay: "Day case"
 
@@ -64,7 +64,7 @@ recovery:
   timeline:
     - stage: "Week 1"
       text: "What happens in the first week."
-    - stage: "Weeks 2–4"
+    - stage: "Weeks 2-4"
       text: "What happens next."
   outro: "Results vary from person to person."
 

@@ -24,10 +24,10 @@ roman_urdu_summary: "Chemical peel mein chehre par ek medical solution lagaya ja
 body_location: "Face"
 price_from: ''
 stats:
-  duration: "15–30 minutes (deep peels 1–2 hours)"
+  duration: "15-30 minutes (deep peels 1-2 hours)"
   anesthesia: "None for light peels; sedation for deep peels"
-  recovery: "1–14 days (2–3 weeks for deep peels)"
-  results: "Visible improvement after peeling (series of 3–6 for best results)"
+  recovery: "1-14 days (2-3 weeks for deep peels)"
+  results: "Visible improvement after peeling (series of 3-6 for best results)"
   hospital_stay: "Clinic procedure, home the same day"
 before_after:
 - before: /assets/images/procedures/chemical-peels/chemical-peels-before.webp

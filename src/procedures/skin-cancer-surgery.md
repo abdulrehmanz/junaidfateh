@@ -24,9 +24,9 @@ roman_urdu_summary: "Skin cancer surgery mein jild ka cancer, jaise BCC ya SCC, 
 body_location: "Skin"
 price_from: ''
 stats:
-  duration: "1–4 hours"
+  duration: "1-4 hours"
   anesthesia: "Local or general"
-  recovery: "1–3 weeks"
+  recovery: "1-3 weeks"
   results: "Often curative when margins are clear"
   hospital_stay: "Day case or 1 night"
 before_after:
