@@ -124,6 +124,6 @@ To read more about the procedures themselves, see [FUE hair transplant](/procedu
 
 ## Talk to Dr. Junaid
 
-If you are considering a hair transplant, or you have had one and want an opinion on your progress, send photos of your scalp on WhatsApp and [book a consultation](/contact/). Dr. Junaid sees patients in Lahore and Layyah, and offers video consultations for people in other cities or [overseas patients](/overseas-patients/).
+If you are considering a hair transplant, or you have had one and want an opinion on your progress, send photos of your scalp on WhatsApp and [book a consultation](/contact/). Dr. Junaid sees patients in Lahore, and offers video consultations for people in other cities or [overseas patients](/overseas-patients/).
 
 *This article is general information and not a substitute for a personal medical consultation.*

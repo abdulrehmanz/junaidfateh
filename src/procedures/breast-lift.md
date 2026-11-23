@@ -8,9 +8,9 @@ summary: "Breast lift (mastopexy) in Lahore with Dr. Junaid Fateh, raising and r
 seo:
   title: "Breast Lift (Mastopexy) in Lahore | Dr. Junaid Fateh"
   description: "Breast lift (mastopexy) in Lahore with Dr. Junaid Fateh, FCPS, after pregnancy or weight loss. Recovery takes 2 to 3 weeks. Book a consultation on WhatsApp."
-  keywords: "breast lift in Lahore, breast lift cost in Lahore, breast lift price in Pakistan, best breast lift surgeon in Lahore, breast lift near me, breast lift Layyah, breast lift before and after, breast lift recovery, mastopexy Lahore, mastopexy Pakistan, breast uplift, sagging breasts treatment Lahore, breast lift after pregnancy, breast lift with implants, breast ptosis surgery, chhati uthane ki surgery, dheeli chhati ka ilaj, Dr Junaid Fateh"
+  keywords: "breast lift in Lahore, breast lift cost in Lahore, breast lift price in Pakistan, best breast lift surgeon in Lahore, breast lift near me, breast lift before and after, breast lift recovery, mastopexy Lahore, mastopexy Pakistan, breast uplift, sagging breasts treatment Lahore, breast lift after pregnancy, breast lift with implants, breast ptosis surgery, chhati uthane ki surgery, dheeli chhati ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A higher, firmer breast shape after pregnancy, weight change or time"
-quick_answer: "A breast lift (mastopexy) raises and reshapes breasts that have dropped after pregnancy, breastfeeding, weight change or ageing, removing loose skin and raising the nipple. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore and Layyah. Surgery takes 2 to 3 hours under general anaesthesia, as a day case or overnight stay. Recovery takes 2 to 3 weeks, and results are long-lasting. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "A breast lift (mastopexy) raises and reshapes breasts that have dropped after pregnancy, breastfeeding, weight change or ageing, removing loose skin and raising the nipple. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore. Surgery takes 2 to 3 hours under general anaesthesia, as a day case or overnight stay. Recovery takes 2 to 3 weeks, and results are long-lasting. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Mastopexy"
   - "Breast uplift"
@@ -20,7 +20,7 @@ also_known_as:
   - "Chhati uthane ki surgery"
   - "Dheeli chhati ka ilaj"
 urdu_name: "چھاتی اٹھانے کی سرجری"
-roman_urdu_summary: "Breast lift (mastopexy) mein hamal, doodh pilane, wazan kam hone ya umar ke saath dheeli ho jane wali chhati ko dobara upar aur behtar shape mein laya jata hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Breast lift (mastopexy) mein hamal, doodh pilane, wazan kam hone ya umar ke saath dheeli ho jane wali chhati ko dobara upar aur behtar shape mein laya jata hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareezon ko dekhte hain aur aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Breast"
 price_from: ''
 stats:
@@ -118,8 +118,6 @@ faqs:
   a: "Swelling, bruising and soreness are expected at first, and the breasts usually settle into their final shape over 6 to 12 months. Other risks include scarring, changes in nipple sensation, asymmetry, delayed wound healing and some gradual settling of the breasts over the years. Smoking slows healing, so it should ideally be stopped well before surgery. Dr. Junaid lowers these risks by choosing the type of lift that suits your breasts and by checking your healing closely at follow-up."
 - q: "What is the best age for a breast lift?"
   a: "There is no set age. A lift is done once the breasts have fully developed, and it tends to last longer when your weight is stable and you have finished having children, because pregnancy and breastfeeding can stretch the breasts again. Many women choose it once their children are older. Dr. Junaid can help you decide whether to go ahead now or wait."
-- q: "Is a breast lift available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery date, travel and follow-up visits."
 ---
 
 ## About Breast Lift Surgery

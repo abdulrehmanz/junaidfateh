@@ -8,9 +8,9 @@ summary: "Rebuilding arms and legs after serious injury, infection or tumour rem
 seo:
   title: "Limb Reconstruction Surgery in Lahore | Dr. Junaid Fateh"
   description: "Limb reconstruction in Lahore with Dr. Junaid Fateh, FCPS, using flaps to cover exposed bone. Recovery is 4 to 12 weeks. Book a consultation on WhatsApp."
-  keywords: "limb reconstruction in Lahore, limb reconstruction surgery Pakistan, limb reconstruction cost in Lahore, limb reconstruction price in Pakistan, best limb reconstruction surgeon in Lahore, limb reconstruction surgeon near me, limb reconstruction Layyah, limb salvage surgery, leg reconstruction surgery Lahore, flap surgery for leg wound, exposed bone wound treatment, open fracture wound cover, limb reconstruction recovery, limb reconstruction before and after, taang bachane ka operation, taang ke zakhm ka operation, Dr Junaid Fateh"
+  keywords: "limb reconstruction in Lahore, limb reconstruction surgery Pakistan, limb reconstruction cost in Lahore, limb reconstruction price in Pakistan, best limb reconstruction surgeon in Lahore, limb reconstruction surgeon near me, limb salvage surgery, leg reconstruction surgery Lahore, flap surgery for leg wound, exposed bone wound treatment, open fracture wound cover, limb reconstruction recovery, limb reconstruction before and after, taang bachane ka operation, taang ke zakhm ka operation, Dr Junaid Fateh"
 hero_subtitle: "Covering, protecting and restoring injured arms and legs"
-quick_answer: "Limb reconstruction rebuilds arms and legs after serious injury, infection or tumour removal, usually with flap surgery to cover exposed bone, tendon or metalwork and help restore function. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Surgery takes 3 to 10 hours under general anaesthesia, with 3 to 7 days in hospital and 4 to 12 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Limb reconstruction rebuilds arms and legs after serious injury, infection or tumour removal, usually with flap surgery to cover exposed bone, tendon or metalwork and help restore function. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore. Surgery takes 3 to 10 hours under general anaesthesia, with 3 to 7 days in hospital and 4 to 12 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Limb salvage surgery"
   - "Leg reconstruction"
@@ -20,7 +20,7 @@ also_known_as:
   - "Taang bachane ka operation"
   - "Taang ke gehre zakhm ka operation"
 urdu_name: "بازو اور ٹانگ کی تعمیرِ نو"
-roman_urdu_summary: "Limb reconstruction mein shadeed chot, infection ya rasoli nikalne ke baad bazu ya taang ke aise zakhm ko dhaka jata hai jahan haddi ya plate nazar aa rahi ho, taake azu bach sake aur us ka kaam behtar ho. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur orthopaedic surgeon ke sath mil kar ilaj plan karte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Limb reconstruction mein shadeed chot, infection ya rasoli nikalne ke baad bazu ya taang ke aise zakhm ko dhaka jata hai jahan haddi ya plate nazar aa rahi ho, taake azu bach sake aur us ka kaam behtar ho. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur orthopaedic surgeon ke sath mil kar ilaj plan karte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Arm and leg"
 price_from: ''
 stats:
@@ -115,15 +115,13 @@ faqs:
   a: "Yes, for planned or delayed reconstruction. Send photos, X-rays and reports on WhatsApp and book a video consultation with Dr. Junaid. The final plan is confirmed after he examines you in person. A fresh injury needs the nearest emergency department first."
 - q: "What are the risks or side effects of limb reconstruction?"
   a: "Limb reconstruction is major surgery. Risks include bleeding, infection, problems with the flap's blood supply that may need a return to theatre, slow healing at the donor site, blood clots, and swelling or bulk of the flap. In very severe injuries the limb cannot always be saved. Risks are reduced by close flap monitoring, keeping the limb raised, not smoking, controlling diabetes and working closely with your orthopaedic team. Dr. Junaid discusses these openly before surgery."
-- q: "Is limb reconstruction available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a consultation for planned or delayed reconstruction can be in either city. Ask on WhatsApp which procedures are done at which location. A fresh limb injury needs the nearest emergency department first."
 ---
 
 ## About Limb Reconstruction
 
 A serious injury to an arm or leg, from a road accident, a fall or farm and factory machinery, can damage skin, muscle, tendon, nerve and bone all at once. A long-standing bone infection, or the removal of a tumour, can leave a similar gap. Limb reconstruction is the surgery that repairs these areas so the limb is covered with healthy tissue, protected from infection and able to work again.
 
-Dr. Junaid Fateh is an FCPS-qualified plastic and reconstructive surgeon practising in Lahore and Layyah. In limb reconstruction his main role is rebuilding the soft tissues, the skin, fat and muscle that cover and nourish bone, tendons and any plates or rods. He works closely with orthopaedic surgeons, who manage the bone and its fixation.
+Dr. Junaid Fateh is an FCPS-qualified plastic and reconstructive surgeon practising in Lahore. In limb reconstruction his main role is rebuilding the soft tissues, the skin, fat and muscle that cover and nourish bone, tendons and any plates or rods. He works closely with orthopaedic surgeons, who manage the bone and its fixation.
 
 **For a fresh injury, go to the nearest emergency department first.** Stopping bleeding, cleaning the wound, stabilising fractures and starting antibiotics all come before reconstruction. Dr. Junaid can then help plan how the wound will be covered.
 

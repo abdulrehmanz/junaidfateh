@@ -7,7 +7,7 @@ category: "Hair Restoration"
 image: /assets/images/procedures/fue-hair-transplant/fue-hair-transplant-before.webp
 image_alt: "Top view of a closely trimmed scalp with the planned hairline and treatment area marked in pen before a hair transplant"
 related_procedures: [fue-hair-transplant, fut-hair-transplant, prp-hair-therapy]
-keywords: "hair transplant cost in Pakistan, hair transplant cost in Lahore, hair transplant price in Pakistan, hair transplant price in Lahore, hair transplant cost per graft Pakistan, FUE hair transplant cost Lahore, FUT hair transplant cost Pakistan, sapphire FUE cost Lahore, DHI hair transplant cost Pakistan, how much does a hair transplant cost, cheap hair transplant Lahore, hair transplant cost Layyah, best hair transplant surgeon in Lahore, Dr Junaid Fateh hair transplant, hair transplant kitne ka hota hai, baal lagwane ka kharcha"
+keywords: "hair transplant cost in Pakistan, hair transplant cost in Lahore, hair transplant price in Pakistan, hair transplant price in Lahore, hair transplant cost per graft Pakistan, FUE hair transplant cost Lahore, FUT hair transplant cost Pakistan, sapphire FUE cost Lahore, DHI hair transplant cost Pakistan, how much does a hair transplant cost, cheap hair transplant Lahore, best hair transplant surgeon in Lahore, Dr Junaid Fateh hair transplant, hair transplant kitne ka hota hai, baal lagwane ka kharcha"
 key_takeaways:
   - "The biggest factor in hair transplant cost is the number of grafts your scalp needs and your donor area can safely give."
   - "Technique (FUE, FUT, Sapphire FUE or DHI), surgeon involvement, facility and aftercare all change the price."
@@ -27,7 +27,7 @@ faqs:
 
 The cost of a hair transplant in Pakistan depends mainly on how many grafts you need, which technique is used, how much of the work the surgeon does personally, the standard of the facility and what aftercare is included. Because these vary so much from one person to the next, an honest quote can only be given after your scalp has been assessed, in person or through an online consultation with photos.
 
-Dr. Junaid Fateh, an FCPS plastic surgeon who sees hair transplant patients in Lahore and Layyah, explains each factor below so you can compare quotes properly and avoid the common traps.
+Dr. Junaid Fateh, an FCPS plastic surgeon who sees hair transplant patients in Lahore, explains each factor below so you can compare quotes properly and avoid the common traps.
 
 ## 1. The number of grafts you need
 
@@ -111,6 +111,6 @@ The [cost guide](/cost-guide/) explains what a written quote includes, and the [
 
 ## Talk to Dr. Junaid
 
-If you would like to know what your own hair transplant would involve, send your photos on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah, or by video from another city or abroad. Dr. Junaid will give you an honest view of what is achievable and a clear quote once your plan is set.
+If you would like to know what your own hair transplant would involve, send your photos on WhatsApp and [book a consultation](/contact/) in Lahore, or by video from another city or abroad. Dr. Junaid will give you an honest view of what is achievable and a clear quote once your plan is set.
 
 *This article is general information and not a substitute for a personal medical consultation.*

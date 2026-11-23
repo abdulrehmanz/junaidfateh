@@ -8,7 +8,7 @@ summary: "Acne scar treatment in Lahore that combines subcision, microneedling, 
 seo:
   title: "Acne Scars Treatment in Lahore | Dr. Junaid Fateh"
   description: "Acne scars treatment in Lahore with Dr. Junaid Fateh, FCPS. Subcision, microneedling and peels as outpatient sessions, 3 to 7 days downtime. Book on WhatsApp."
-  keywords: "acne scars treatment in Lahore, acne scar treatment Lahore, acne scar removal Lahore, acne scar treatment cost in Lahore, acne scar treatment price in Pakistan, best acne scar treatment in Lahore, acne scar treatment near me, acne scar treatment Layyah, acne scars before and after, subcision Lahore, microneedling for acne scars, pitted scars treatment, ice pick scar treatment, pimple scars treatment, chehre ke daag ka ilaj, daanon ke nishan ka ilaj, keel muhason ke nishan ka ilaj, Dr Junaid Fateh"
+  keywords: "acne scars treatment in Lahore, acne scar treatment Lahore, acne scar removal Lahore, acne scar treatment cost in Lahore, acne scar treatment price in Pakistan, best acne scar treatment in Lahore, acne scar treatment near me, acne scars before and after, subcision Lahore, microneedling for acne scars, pitted scars treatment, ice pick scar treatment, pimple scars treatment, chehre ke daag ka ilaj, daanon ke nishan ka ilaj, keel muhason ke nishan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A step-by-step plan to smooth pitted, uneven skin left behind by acne"
 quick_answer: "Acne scar treatment improves pitted, rolling or uneven scars left after acne, using methods such as subcision, microneedling, chemical peels and, where suitable, laser resurfacing. In Lahore it is provided by FCPS plastic surgeon Dr. Junaid Fateh. Outpatient sessions take 30 minutes to 2 hours under topical or local anesthesia, with 3 to 7 days of downtime. Improvement is progressive over several sessions. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Daanon ke nishan ka ilaj"
   - "Keel muhason ke nishan ka ilaj"
 urdu_name: "کیل مہاسوں کے داغوں کا علاج"
-roman_urdu_summary: "Keel muhason ke baad chehre par rehne wale gehre ya oonche neeche daag ko subcision, microneedling aur peels jaise tareeqon se qadam ba qadam behtar kiya jata hai. Aam taur par kai sessions lagte hain. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain, mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Keel muhason ke baad chehre par rehne wale gehre ya oonche neeche daag ko subcision, microneedling aur peels jaise tareeqon se qadam ba qadam behtar kiya jata hai. Aam taur par kai sessions lagte hain. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain, mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -118,8 +118,6 @@ faqs:
   a: "Most side effects are short-lived, such as redness, swelling, flaking and, after subcision, bruising for about a week. Less common risks include infection, a flare of acne or cold sores, dark patches (post-inflammatory hyperpigmentation), which are more likely in brown skin and strong sun, and rarely new scarring after deeper treatments. Matching the treatment depth to your skin type, spacing sessions properly and using daily sunscreen help reduce these risks."
 - q: "When will I see the final results of acne scar treatment?"
   a: "Improvement is gradual because the skin needs time to build new collagen. Many people notice a change after the first few sessions, and the skin keeps improving for several months after the final session, so the overall result is best judged a few months after the course is complete."
-- q: "Is acne scar treatment available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your acne scar consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your treatment sessions would take place."
 ---
 
 ## About Acne Scar Treatment

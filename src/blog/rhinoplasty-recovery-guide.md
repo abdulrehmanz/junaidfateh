@@ -7,7 +7,7 @@ category: "Patient Guides"
 image: /assets/images/procedures/rhinoplasty/rhinoplasty-after.webp
 image_alt: "Side profile of a woman's nose at the end of rhinoplasty surgery, with fine stitches at the base of the nose"
 related_procedures: [rhinoplasty, non-surgical-rhinoplasty]
-keywords: "rhinoplasty recovery, rhinoplasty recovery week by week, nose job recovery, rhinoplasty swelling, rhinoplasty splint removal, rhinoplasty recovery time, glasses after rhinoplasty, exercise after rhinoplasty, rhinoplasty final result, how long does rhinoplasty swelling last, rhinoplasty in Lahore, nose job in Lahore, rhinoplasty recovery Lahore, rhinoplasty Pakistan, rhinoplasty Layyah, Dr Junaid Fateh, naak ki surgery ke baad, naak ka operation recovery"
+keywords: "rhinoplasty recovery, rhinoplasty recovery week by week, nose job recovery, rhinoplasty swelling, rhinoplasty splint removal, rhinoplasty recovery time, glasses after rhinoplasty, exercise after rhinoplasty, rhinoplasty final result, how long does rhinoplasty swelling last, rhinoplasty in Lahore, nose job in Lahore, rhinoplasty recovery Lahore, rhinoplasty Pakistan, Dr Junaid Fateh, naak ki surgery ke baad, naak ka operation recovery"
 key_takeaways:
   - "Most people return to office work and social life around one to two weeks after rhinoplasty, once the splint is off and bruising has faded."
   - "Swelling and bruising peak in the first few days; sleeping with your head raised helps them settle."
@@ -107,6 +107,6 @@ If you live abroad, plan to stay in Pakistan for at least seven to ten days, unt
 
 ## Talk to Dr. Junaid
 
-If you are thinking about a nose job, or you have had one and want advice on your recovery, send clear photos of your nose from the front and both sides on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. The [cost guide](/cost-guide/) explains what affects the price, and a personalised quote follows your consultation.
+If you are thinking about a nose job, or you have had one and want advice on your recovery, send clear photos of your nose from the front and both sides on WhatsApp and [book a consultation](/contact/) in Lahore. The [cost guide](/cost-guide/) explains what affects the price, and a personalised quote follows your consultation.
 
 *This article is general information and not a substitute for a personal medical consultation.*

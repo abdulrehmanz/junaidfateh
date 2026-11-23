@@ -7,7 +7,7 @@ category: "Non-Surgical Aesthetics"
 image: /assets/images/procedures/dermal-fillers/dermal-fillers-after.webp
 image_alt: "Lower face and lips of a woman after dermal filler treatment, with a soft, natural look"
 related_procedures: [botox, dermal-fillers]
-keywords: "botox myths, filler myths, botox and fillers myths vs facts, does botox freeze your face, are fillers permanent, is botox safe, can fillers be dissolved, botox side effects, fillers side effects, botox before wedding, botox in Lahore, fillers in Lahore, botox and fillers Pakistan, botox Layyah, Dr Junaid Fateh, botox ke nuqsanat, filler karwana safe hai"
+keywords: "botox myths, filler myths, botox and fillers myths vs facts, does botox freeze your face, are fillers permanent, is botox safe, can fillers be dissolved, botox side effects, fillers side effects, botox before wedding, botox in Lahore, fillers in Lahore, botox and fillers Pakistan, Dr Junaid Fateh, botox ke nuqsanat, filler karwana safe hai"
 key_takeaways:
   - "Botox and fillers work differently: Botox relaxes the muscles behind expression lines, while fillers restore volume and shape."
   - "A frozen or overfilled look comes from too much product or poor placement, not from the treatments themselves."
@@ -96,6 +96,6 @@ Wondering about cost? It depends on the treatment, the areas, the product and th
 
 ## Talk to Dr. Junaid
 
-If you are curious about Botox or fillers but unsure what is right for you, send a few clear, filter-free photos on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. Dr. Junaid will talk you through your options without any pressure to go ahead.
+If you are curious about Botox or fillers but unsure what is right for you, send a few clear, filter-free photos on WhatsApp and [book a consultation](/contact/) in Lahore. Dr. Junaid will talk you through your options without any pressure to go ahead.
 
 *This article is general information and not a substitute for a personal medical consultation.*

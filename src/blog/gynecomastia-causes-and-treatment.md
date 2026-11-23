@@ -7,7 +7,7 @@ category: "Breast & Chest Surgery"
 image: /assets/images/procedures/gynecomastia/gynecomastia-after.webp
 image_alt: "Front view of a man's chest with a flatter, more masculine contour after gynecomastia surgery"
 related_procedures: [gynecomastia, liposuction, nipple-correction]
-keywords: "gynecomastia causes, gynecomastia treatment, gynecomastia treatment in Lahore, gynecomastia surgery in Lahore, gynecomastia surgery Pakistan, gynaecomastia treatment Pakistan, man boobs treatment Lahore, does gynecomastia go away, pubertal gynecomastia, gynecomastia without surgery, gynecomastia surgery recovery, gynecomastia surgery cost in Lahore, best gynecomastia surgeon in Lahore, gynecomastia Layyah, Dr Junaid Fateh gynecomastia, mardon ki chhati barhna, chhati ki charbi ka operation"
+keywords: "gynecomastia causes, gynecomastia treatment, gynecomastia treatment in Lahore, gynecomastia surgery in Lahore, gynecomastia surgery Pakistan, gynaecomastia treatment Pakistan, man boobs treatment Lahore, does gynecomastia go away, pubertal gynecomastia, gynecomastia without surgery, gynecomastia surgery recovery, gynecomastia surgery cost in Lahore, best gynecomastia surgeon in Lahore, Dr Junaid Fateh gynecomastia, mardon ki chhati barhna, chhati ki charbi ka operation"
 key_takeaways:
   - "Gynecomastia is enlarged glandular breast tissue in men and is usually benign."
   - "Gynecomastia that starts in puberty often settles on its own within months to a couple of years."
@@ -126,6 +126,6 @@ The cost depends on whether you need liposuction, gland removal or skin reductio
 
 ## Talk to Dr. Junaid
 
-If gynecomastia is affecting your confidence, you do not have to keep hiding it under loose clothes. Send photos on WhatsApp for a private first opinion and [book a consultation](/contact/) in Lahore or Layyah, or by video if you are abroad. You can also read more about [gynecomastia surgery](/procedures/gynecomastia/).
+If gynecomastia is affecting your confidence, you do not have to keep hiding it under loose clothes. Send photos on WhatsApp for a private first opinion and [book a consultation](/contact/) in Lahore, or by video if you are abroad. You can also read more about [gynecomastia surgery](/procedures/gynecomastia/).
 
 *This article is general information and not a substitute for a personal medical consultation.*

@@ -7,10 +7,10 @@ specialty: false
 summary: "Carefully placed filler to smooth a bump on the nose, lift the tip or correct minor asymmetry, without surgery or downtime."
 seo:
   title: "Non-Surgical Rhinoplasty in Lahore | Dr. Junaid Fateh"
-  description: "Non-surgical rhinoplasty (nose filler) in Lahore and Layyah with Dr. Junaid Fateh, FCPS. 15 to 30 minutes, no downtime. Book a consultation on WhatsApp."
-  keywords: "non-surgical rhinoplasty in Lahore, nose filler Lahore, liquid rhinoplasty Lahore, non-surgical rhinoplasty cost in Lahore, nose filler price in Pakistan, best non-surgical rhinoplasty in Lahore, nose filler near me, non-surgical rhinoplasty Layyah, nose filler before and after, non-surgical rhinoplasty recovery, non-surgical nose job Pakistan, non surgical rhinoplasty, nose reshaping without surgery Lahore, nose hump filler Lahore, bina operation naak ki shape, naak ka filler, Dr Junaid Fateh"
+  description: "Non-surgical rhinoplasty (nose filler) in Lahore with Dr. Junaid Fateh, FCPS. 15 to 30 minutes, no downtime. Book a consultation on WhatsApp."
+  keywords: "non-surgical rhinoplasty in Lahore, nose filler Lahore, liquid rhinoplasty Lahore, non-surgical rhinoplasty cost in Lahore, nose filler price in Pakistan, best non-surgical rhinoplasty in Lahore, nose filler near me, nose filler before and after, non-surgical rhinoplasty recovery, non-surgical nose job Pakistan, non surgical rhinoplasty, nose reshaping without surgery Lahore, nose hump filler Lahore, bina operation naak ki shape, naak ka filler, Dr Junaid Fateh"
 hero_subtitle: "Refine your nose profile with filler, planned by a plastic surgeon"
-quick_answer: "Non-surgical rhinoplasty, or liquid rhinoplasty, uses hyaluronic acid filler to smooth a bump on the nose, lift the tip or correct minor asymmetry. It cannot make the nose smaller. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Treatment takes 15 to 30 minutes under numbing cream with no downtime, and results are immediate and last 12 to 18 months. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Non-surgical rhinoplasty, or liquid rhinoplasty, uses hyaluronic acid filler to smooth a bump on the nose, lift the tip or correct minor asymmetry. It cannot make the nose smaller. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore. Treatment takes 15 to 30 minutes under numbing cream with no downtime, and results are immediate and last 12 to 18 months. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Liquid rhinoplasty"
   - "Nose filler"
@@ -20,7 +20,7 @@ also_known_as:
   - "Naak ka filler"
   - "Bina operation naak ki shape theek karna"
 urdu_name: "ناک کا فلر"
-roman_urdu_summary: "Non-surgical rhinoplasty mein filler ke zariye bina operation naak ka ubhar hamwar kiya jata hai, naak ki nok thori upar uthayi jati hai ya halki be-tarteebi theek ki jati hai. Is se naak chhoti nahi hoti. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Non-surgical rhinoplasty mein filler ke zariye bina operation naak ka ubhar hamwar kiya jata hai, naak ki nok thori upar uthayi jati hai ya halki be-tarteebi theek ki jati hai. Is se naak chhoti nahi hoti. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Nose"
 price_from: ''
 stats:
@@ -115,8 +115,6 @@ faqs:
   a: "Sometimes, but the blood supply can be altered after surgery, so extra caution is needed. Dr. Junaid will want the nose fully healed and will assess you carefully before deciding."
 - q: "When will I see the final results of non-surgical rhinoplasty?"
   a: "The new profile is visible straight away. Mild redness, swelling or tenderness settles over a few hours to a day or two, and by around two weeks the result is easier to judge, which is when a review allows small refinements. The result then usually lasts around 12 to 18 months."
-- q: "Is non-surgical rhinoplasty available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 - q: "What is the best age for non-surgical rhinoplasty?"
   a: "Nose filler is generally offered only to adults aged 18 and over, once the face has finished developing. Beyond that, your goals matter more than your age: filler suits people who want to smooth a small bump or lift the tip, not those who want a smaller nose or better breathing, which need surgical rhinoplasty."
 ---
@@ -125,7 +123,7 @@ faqs:
 
 Non-surgical rhinoplasty, sometimes called a liquid rhinoplasty, uses small amounts of hyaluronic acid filler to change how the nose looks in profile and from the front. Filler placed above and below a bump can make the bridge appear straighter. Support at the base of the tip can make it look slightly lifted, and filling a dip or uneven area can improve overall balance.
 
-Dr. Junaid Fateh offers non-surgical rhinoplasty at his clinics in Lahore and Layyah. As a plastic surgeon who also performs surgical rhinoplasty, he can help you decide which route suits you. For many people, filler is a useful way to refine a nose they mostly like, or to preview a change before committing to surgery.
+Dr. Junaid Fateh offers non-surgical rhinoplasty at his clinic in Lahore. As a plastic surgeon who also performs surgical rhinoplasty, he can help you decide which route suits you. For many people, filler is a useful way to refine a nose they mostly like, or to preview a change before committing to surgery.
 
 It is important to understand the limits. Filler adds volume, so the nose cannot be made smaller, narrower or shorter, and breathing problems are not improved. The change is also temporary, lasting many months rather than for life. If you are hoping to look your best for a wedding or another big occasion, it is wise to have treatment several weeks ahead so any swelling has fully settled.
 

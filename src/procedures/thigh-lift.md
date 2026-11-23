@@ -8,9 +8,9 @@ summary: "Smoother, firmer legs and less chafing. Dr. Junaid Fateh's thigh lift 
 seo:
   title: "Thigh Lift in Lahore: Cost & Recovery | Dr. Junaid Fateh"
   description: "Thigh lift in Lahore with Dr. Junaid Fateh, FCPS. Removes loose inner thigh skin to ease chafing, with 2 to 4 weeks recovery. Book a consultation on WhatsApp."
-  keywords: "thigh lift in Lahore, thigh lift cost in Lahore, thigh lift price in Pakistan, best thigh lift surgeon in Lahore, thigh lift near me, thigh lift Layyah, thigh lift before and after, thigh lift recovery, inner thigh lift Lahore, medial thigh lift, thighplasty Lahore, loose thigh skin removal, thigh lift after weight loss, thigh chafing surgery, thigh liposuction Lahore, raanon ki dheeli khaal ka operation, raan ki latakti khaal ka ilaj, Dr Junaid Fateh"
+  keywords: "thigh lift in Lahore, thigh lift cost in Lahore, thigh lift price in Pakistan, best thigh lift surgeon in Lahore, thigh lift near me, thigh lift before and after, thigh lift recovery, inner thigh lift Lahore, medial thigh lift, thighplasty Lahore, loose thigh skin removal, thigh lift after weight loss, thigh chafing surgery, thigh liposuction Lahore, raanon ki dheeli khaal ka operation, raan ki latakti khaal ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Smoother, firmer thighs and less chafing after weight loss or with age"
-quick_answer: "A thigh lift (thighplasty) removes loose skin and some fat, most often from the inner thighs, to reduce chafing and smooth the legs. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Surgery takes 2 to 3 hours under general anaesthesia with a one-night stay, and recovery takes 2 to 4 weeks. Results are permanent. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "A thigh lift (thighplasty) removes loose skin and some fat, most often from the inner thighs, to reduce chafing and smooth the legs. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore. Surgery takes 2 to 3 hours under general anaesthesia with a one-night stay, and recovery takes 2 to 4 weeks. Results are permanent. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Thighplasty"
   - "Inner thigh lift"
@@ -20,7 +20,7 @@ also_known_as:
   - "Raanon ki dheeli khaal ka operation"
   - "Raan ki latakti khaal ka ilaj"
 urdu_name: "رانوں کی ڈھیلی جلد کا آپریشن"
-roman_urdu_summary: "Thigh lift mein raanon ki dheeli khaal aur kuch charbi nikali jati hai, khaas taur par andar ki taraf se. Is se chalte waqt ragar aur dane kam hote hain aur tangein zyada hamwar nazar aati hain. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Thigh lift mein raanon ki dheeli khaal aur kuch charbi nikali jati hai, khaas taur par andar ki taraf se. Is se chalte waqt ragar aur dane kam hote hain aur tangein zyada hamwar nazar aati hain. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Thighs"
 price_from: ''
 stats:
@@ -117,8 +117,6 @@ faqs:
   a: "Soreness, swelling and tightness in the groin and thighs are expected at first. Possible complications include wound separation, infection, fluid collection, swelling in the legs, scars that widen or shift and, rarely, blood clots. Keeping the groin clean and dry, wearing your compression garment, walking gently from the first day and avoiding wide leg movements early on all help reduce these risks. Dr. Junaid goes through them with you at consultation."
 - q: "When will I see the final results of a thigh lift?"
   a: "Your thighs look smoother soon after surgery, but swelling in the legs can take several months to settle. Most people see a result close to final at around six months, and the scars continue to soften and fade for 12 to 18 months."
-- q: "Is a thigh lift available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your thigh lift consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you will be guided on planning surgery and follow-up visits."
 ---
 
 ## About thigh lift

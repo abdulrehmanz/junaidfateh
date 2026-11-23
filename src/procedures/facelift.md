@@ -8,7 +8,7 @@ summary: "Facelift surgery in Lahore with Dr. Junaid Fateh to lift jowls, firm t
 seo:
   title: "Facelift in Lahore: Cost & Recovery | Dr. Junaid Fateh"
   description: "Facelift in Lahore with Dr. Junaid Fateh, FCPS plastic surgeon. Lifts jowls, cheeks and neck, with 1 night in hospital and 2 to 3 weeks off. Book on WhatsApp."
-  keywords: "facelift in Lahore, facelift surgery Lahore, facelift cost in Lahore, facelift cost in Pakistan, facelift price in Pakistan, best facelift surgeon in Lahore, facelift near me, facelift Layyah, facelift before and after, facelift recovery, face lift surgery, rhytidectomy Lahore, mini facelift Lahore, deep plane facelift Lahore, face and neck lift Lahore, chehre ki jhuriyan ka ilaj, chehre ki dheeli jild ka operation, Dr Junaid Fateh"
+  keywords: "facelift in Lahore, facelift surgery Lahore, facelift cost in Lahore, facelift cost in Pakistan, facelift price in Pakistan, best facelift surgeon in Lahore, facelift near me, facelift before and after, facelift recovery, face lift surgery, rhytidectomy Lahore, mini facelift Lahore, deep plane facelift Lahore, face and neck lift Lahore, chehre ki jhuriyan ka ilaj, chehre ki dheeli jild ka operation, Dr Junaid Fateh"
 hero_subtitle: "Lift and refresh your face and jawline, without a tight or pulled look"
 quick_answer: "A facelift (rhytidectomy) lifts sagging cheeks, jowls and neck tissue to give a firmer jawline and a refreshed look. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 3 to 5 hours under general anaesthesia with 1 night in hospital, and most people need 2 to 3 weeks off. Results are long-lasting, often 8 to 12 years. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Chehre ki jhuriyan ka ilaj"
   - "Chehre ki dheeli jild ka operation"
 urdu_name: "فیس لفٹ سرجری"
-roman_urdu_summary: "Facelift mein chehre aur gardan ki dheeli jild aur neeche latke hue tissue ko upar uthaya jata hai, taake jawline saaf aur chehra taaza nazar aaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur facelift ka plan aap ke chehre ke mutabiq banate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Facelift mein chehre aur gardan ki dheeli jild aur neeche latke hue tissue ko upar uthaya jata hai, taake jawline saaf aur chehra taaza nazar aaye. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur facelift ka plan aap ke chehre ke mutabiq banate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -119,8 +119,6 @@ faqs:
   a: "You can see the lifted jawline once the early swelling goes down, but the face takes time to soften. Most people feel presentable at two to three weeks, and the remaining swelling settles over three to six months, when the final, natural result becomes clear. Numbness or tightness near the ears can take a few months to fade."
 - q: "What is the best age for a facelift?"
   a: "There is no single right age. Most people who choose a facelift are somewhere between their forties and seventies, but suitability depends on how much sagging you have, your skin quality, bone structure and general health rather than age alone. At consultation Dr. Junaid tells you honestly whether a facelift, a smaller procedure or a non-surgical option would suit you better."
-- q: "Is facelift surgery available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your facelift consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your operation, overnight stay and follow-up visits would take place."
 ---
 
 ## About facelift surgery

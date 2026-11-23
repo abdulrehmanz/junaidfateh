@@ -7,10 +7,10 @@ specialty: false
 summary: "Platelet-rich plasma from your own blood, used to improve skin texture, tone and early fine lines, with gradual results over a course of sessions."
 seo:
   title: "PRP Facial (Vampire Facial) in Lahore | Dr. Junaid Fateh"
-  description: "PRP facial (vampire facial) in Lahore and Layyah with Dr. Junaid Fateh, FCPS. Mild redness settles in 1 to 3 days. Book a consultation on WhatsApp."
-  keywords: "PRP facial Lahore, vampire facial Lahore, PRP therapy in Lahore, PRP treatment cost in Lahore, PRP facial price in Pakistan, best PRP treatment in Lahore, PRP facial near me, PRP Layyah, PRP facial before and after, PRP facial recovery, platelet rich plasma Lahore, PRP for acne scars Lahore, under eye PRP Lahore, PRP face treatment, apne khoon se chehre ka ilaj, PRP facial ka tareeqa, Dr Junaid Fateh"
+  description: "PRP facial (vampire facial) in Lahore with Dr. Junaid Fateh, FCPS. Mild redness settles in 1 to 3 days. Book a consultation on WhatsApp."
+  keywords: "PRP facial Lahore, vampire facial Lahore, PRP therapy in Lahore, PRP treatment cost in Lahore, PRP facial price in Pakistan, best PRP treatment in Lahore, PRP facial near me, PRP facial before and after, PRP facial recovery, platelet rich plasma Lahore, PRP for acne scars Lahore, under eye PRP Lahore, PRP face treatment, apne khoon se chehre ka ilaj, PRP facial ka tareeqa, Dr Junaid Fateh"
 hero_subtitle: "Skin renewal using your own platelets, with gradual, natural-looking results"
-quick_answer: "PRP therapy uses platelet-rich plasma from your own blood to improve skin texture, tone and fine lines. With microneedling it is called a vampire facial. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Sessions take 30 to 60 minutes under numbing cream, redness settles in 1 to 3 days, and results build over 3 to 6 sessions. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "PRP therapy uses platelet-rich plasma from your own blood to improve skin texture, tone and fine lines. With microneedling it is called a vampire facial. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore. Sessions take 30 to 60 minutes under numbing cream, redness settles in 1 to 3 days, and results build over 3 to 6 sessions. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Vampire facial"
   - "PRP facial"
@@ -19,7 +19,7 @@ also_known_as:
   - "PRP face treatment"
   - "Apne khoon se chehre ka ilaj"
 urdu_name: "پی آر پی فیشل"
-roman_urdu_summary: "PRP facial, jise vampire facial bhi kaha jata hai, mein aap ke apne khoon se platelets wala plasma tayyar kar ke chehre par lagaya jata hai. Is se kuch sessions ke baad jild ki banawat, rangat aur bareek lakeeron mein ahista ahista behtari aati hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "PRP facial, jise vampire facial bhi kaha jata hai, mein aap ke apne khoon se platelets wala plasma tayyar kar ke chehre par lagaya jata hai. Is se kuch sessions ke baad jild ki banawat, rangat aur bareek lakeeron mein ahista ahista behtari aati hai. Dr. Junaid Fateh Lahore mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -116,15 +116,13 @@ faqs:
   a: "Because PRP is made from your own blood, an allergic reaction is very unlikely. Common effects are redness, mild swelling, tenderness and small bruises at injection points, which usually settle within one to three days. Infection is uncommon, and the risk is kept low by preparing the blood and treating the skin under clean clinical conditions. Healing skin can also be prone to dark marks, so daily sunscreen is advised. Dr. Junaid checks your health history first, since PRP is not advised with some blood disorders or blood-thinning medicines."
 - q: "When will I see the final results of PRP therapy?"
   a: "PRP works gradually. Early changes in brightness and texture may appear three to six weeks after a session, and the fuller result builds over a course of three to six sessions, with collagen continuing to form in the months that follow. Results vary between people."
-- q: "Is PRP therapy available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About PRP Therapy
 
 Platelets are the cells in your blood that help wounds heal. They carry growth factors, natural signalling proteins that encourage tissue repair and the production of new collagen. PRP, short for platelet-rich plasma, concentrates these platelets from a small sample of your own blood so they can be returned to the skin where they are needed.
 
-On the face, PRP is used to improve skin quality: a dull complexion, early fine lines, crepey skin under the eyes and mild acne scarring. When it is combined with microneedling, the treatment is often called a vampire facial. Dr. Junaid Fateh offers PRP as part of his non-surgical aesthetics work in Lahore and Layyah.
+On the face, PRP is used to improve skin quality: a dull complexion, early fine lines, crepey skin under the eyes and mild acne scarring. When it is combined with microneedling, the treatment is often called a vampire facial. Dr. Junaid Fateh offers PRP as part of his non-surgical aesthetics work in Lahore.
 
 It is worth being clear about what to expect. PRP is a gentle, gradual treatment rather than a dramatic one. Changes tend to be subtle, appear over weeks and build across a course of sessions. Research into PRP for the skin is still developing, and results vary between people.
 

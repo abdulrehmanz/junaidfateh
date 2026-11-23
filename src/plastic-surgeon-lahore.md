@@ -29,7 +29,7 @@ faqs:
   - q: "How much does plastic surgery cost in Lahore?"
     a: "Fees depend on the procedure, its extent, anaesthesia, hospital stay and aftercare. Dr. Junaid gives you a written quote after your consultation. The [cost guide](/cost-guide/) explains what affects the price."
   - q: "I live outside Lahore. Can I still see Dr. Junaid?"
-    a: "Yes. If you live in Faisalabad, Gujranwala, Sialkot, Sheikhupura, Kasur or further away, you can start with an online video consultation, then come to Lahore for your examination and treatment. Dr. Junaid also sees patients in [Layyah](/plastic-surgeon-layyah/)."
+    a: "Yes. If you live in Faisalabad, Gujranwala, Sialkot, Sheikhupura, Kasur or further away, you can start with an online video consultation, then come to Lahore for your examination and treatment."
   - q: "Is Dr. Junaid a qualified plastic surgeon?"
     a: "Yes. He holds an MBBS from Allama Iqbal Medical College, Lahore, and the FCPS in Plastic Surgery from the College of Physicians & Surgeons Pakistan, with training at Jinnah Burn & Reconstructive Surgery Centre. He is a [Life Member of the Pakistan Association of Plastic Surgeons](https://paps.org.pk/staff/muhammad-junaid-fateh/). Read more on the [About page](/about/)."
 ---

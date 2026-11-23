@@ -7,7 +7,7 @@ category: "Hand & Reconstructive Surgery"
 image: /assets/images/procedures/hand-surgery/hand-surgery-after.webp
 image_alt: "Stitched wound across the back of the hand and wrist after hand surgery"
 related_procedures: [hand-surgery, microsurgery]
-keywords: "hand injury when to see a doctor, when to see a hand surgeon, cut tendon in finger, finger tendon repair, nerve injury in hand, carpal tunnel syndrome treatment, trigger finger treatment, mallet finger, hand surgeon in Lahore, hand surgery in Lahore, hand surgeon Pakistan, tendon repair Lahore, carpal tunnel surgery Lahore, hand surgeon Layyah, Dr Junaid Fateh, haath ki surgery, ungli ki nas kat jana"
+keywords: "hand injury when to see a doctor, when to see a hand surgeon, cut tendon in finger, finger tendon repair, nerve injury in hand, carpal tunnel syndrome treatment, trigger finger treatment, mallet finger, hand surgeon in Lahore, hand surgery in Lahore, hand surgeon Pakistan, tendon repair Lahore, carpal tunnel surgery Lahore, Dr Junaid Fateh, haath ki surgery, ungli ki nas kat jana"
 key_takeaways:
   - "Go to the nearest emergency department first for any deep, heavily bleeding, crushed or numb hand injury."
   - "A finger that will not bend or straighten after a cut may mean a tendon injury, which is best repaired early."
@@ -136,6 +136,6 @@ Like any surgery, hand surgery carries risks such as infection, stiffness, scarr
 
 ## Talk to Dr. Junaid
 
-For a fresh injury, always go to emergency first. For specialist repair, ongoing symptoms like tingling or locking, or an old injury that has not healed well, send photos, X-rays and reports on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. You can read more about [hand surgery](/procedures/hand-surgery/) on its own page.
+For a fresh injury, always go to emergency first. For specialist repair, ongoing symptoms like tingling or locking, or an old injury that has not healed well, send photos, X-rays and reports on WhatsApp and [book a consultation](/contact/) in Lahore. You can read more about [hand surgery](/procedures/hand-surgery/) on its own page.
 
 *This article is general information and not a substitute for a personal medical consultation.*

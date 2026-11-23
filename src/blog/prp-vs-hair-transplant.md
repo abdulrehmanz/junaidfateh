@@ -7,7 +7,7 @@ category: "Hair Restoration"
 image: /assets/images/procedures/prp-hair-therapy/prp-hair-therapy-before.webp
 image_alt: "Gloved hand parting dark hair to show thinning over the crown of the scalp before PRP hair therapy"
 related_procedures: [prp-hair-therapy, fue-hair-transplant, fut-hair-transplant]
-keywords: "PRP vs hair transplant, PRP or hair transplant, PRP for hair loss Lahore, PRP hair treatment Lahore, PRP hair treatment Pakistan, does PRP work for hair loss, PRP after hair transplant, PRP hair treatment cost Lahore, hair transplant vs PRP results, non-surgical hair loss treatment Lahore, hair thinning treatment Pakistan, hair transplant Lahore, PRP hair treatment Layyah, Dr Junaid Fateh PRP, baal girne ka ilaj, PRP se baal wapas aate hain"
+keywords: "PRP vs hair transplant, PRP or hair transplant, PRP for hair loss Lahore, PRP hair treatment Lahore, PRP hair treatment Pakistan, does PRP work for hair loss, PRP after hair transplant, PRP hair treatment cost Lahore, hair transplant vs PRP results, non-surgical hair loss treatment Lahore, hair thinning treatment Pakistan, hair transplant Lahore, Dr Junaid Fateh PRP, baal girne ka ilaj, PRP se baal wapas aate hain"
 key_takeaways:
   - "PRP may help early thinning where hair follicles are still alive, but it cannot regrow hair in bald areas."
   - "A hair transplant moves permanent follicles into bald or very thin areas and is a one-off surgical procedure for most people."
@@ -95,6 +95,6 @@ The cost depends on the number of PRP sessions, or on the graft count, technique
 
 ## Talk to Dr. Junaid
 
-If you are not sure whether you need PRP, a transplant or both, send clear photos of your hairline, parting, crown and the back of your head on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. If you live in another city or abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how to plan your visit.
+If you are not sure whether you need PRP, a transplant or both, send clear photos of your hairline, parting, crown and the back of your head on WhatsApp and [book a consultation](/contact/) in Lahore. If you live in another city or abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how to plan your visit.
 
 *This article is general information and not a substitute for a personal medical consultation.*

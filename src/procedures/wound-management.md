@@ -8,9 +8,9 @@ summary: "Specialist care for wounds that are slow to heal, from cleaning and dr
 seo:
   title: "Wound Care & Management in Lahore | Dr. Junaid Fateh"
   description: "Wound care in Lahore with Dr. Junaid Fateh, FCPS, for slow-healing wounds and bed sores, from dressings to skin grafts. Book a consultation on WhatsApp."
-  keywords: "wound care in Lahore, wound management Lahore, wound care cost in Lahore, wound treatment price in Pakistan, best wound care surgeon in Lahore, wound care specialist near me, wound care Layyah, chronic wound treatment, non-healing wound treatment, bed sore treatment Lahore, pressure ulcer treatment, wound debridement Lahore, vacuum dressing Lahore, negative pressure wound therapy Pakistan, zakhm ka ilaj, na bharne wale zakhm ka ilaj, Dr Junaid Fateh"
+  keywords: "wound care in Lahore, wound management Lahore, wound care cost in Lahore, wound treatment price in Pakistan, best wound care surgeon in Lahore, wound care specialist near me, chronic wound treatment, non-healing wound treatment, bed sore treatment Lahore, pressure ulcer treatment, wound debridement Lahore, vacuum dressing Lahore, negative pressure wound therapy Pakistan, zakhm ka ilaj, na bharne wale zakhm ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A clear, step-by-step plan for wounds that are slow to heal"
-quick_answer: "Wound management is specialist care for wounds that are slow to heal, such as bed sores, ulcers and wounds that open after surgery, using cleaning, dressings, debridement and, when needed, skin grafts or flaps. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Procedures take 30 minutes to 3 hours under local or general anaesthesia, and recovery varies with the wound. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Wound management is specialist care for wounds that are slow to heal, such as bed sores, ulcers and wounds that open after surgery, using cleaning, dressings, debridement and, when needed, skin grafts or flaps. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore. Procedures take 30 minutes to 3 hours under local or general anaesthesia, and recovery varies with the wound. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Wound care"
   - "Chronic wound treatment"
@@ -20,7 +20,7 @@ also_known_as:
   - "Zakhm ka ilaj"
   - "Na bharne wale zakhm ka ilaj"
 urdu_name: "زخموں کا علاج"
-roman_urdu_summary: "Wound management mein aise zakhmon ka ilaj kiya jata hai jo der se bhar rahe hon, jaise bed sore, purane ulcer ya operation ke baad khul jane wale zakhm. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur zakhm ki wajah dhoond kar marhala-war ilaj ka plan banate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Wound management mein aise zakhmon ka ilaj kiya jata hai jo der se bhar rahe hon, jaise bed sore, purane ulcer ya operation ke baad khul jane wale zakhm. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur zakhm ki wajah dhoond kar marhala-war ilaj ka plan banate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Skin and soft tissue"
 price_from: ''
 stats:
@@ -113,15 +113,13 @@ faqs:
   a: "Yes. You can send photos of the wound on WhatsApp and book a video consultation with Dr. Junaid, which can help if you are arranging care for a relative in Pakistan. The final plan is confirmed in person. A video call is not a substitute for urgent care if the wound looks infected."
 - q: "What are the risks or side effects of wound treatment?"
   a: "Dressing changes and debridement can be uncomfortable, and removing dead tissue may cause some bleeding. If surgery is needed, risks include infection, part of a graft or flap not taking, delayed healing and the wound coming back if its cause continues. Risks are reduced by treating infection early, controlling blood sugar, good nutrition, relieving pressure on the wound and not smoking. Dr. Junaid explains the risks of each step before it is done."
-- q: "Is wound management available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a wound can be assessed in either city. Ask on WhatsApp which treatments are done at which location. If a wound shows signs of spreading infection, go to the nearest emergency department rather than waiting for an appointment."
 ---
 
 ## About Wound Management
 
 Most cuts and grazes heal on their own within a couple of weeks. A wound that stays open, keeps weeping or gets larger is a sign that something is getting in the way of healing. That might be infection, poor circulation, raised blood sugar, pressure on the area, poor nutrition, smoking or certain medicines.
 
-Dr. Junaid Fateh, a plastic and reconstructive surgeon practising in Lahore and Layyah, sees patients with long-standing ulcers, bed sores, wounds that have opened up after an operation and injuries that have not closed properly. Wound management means finding the reason a wound is stuck, putting it right, and then choosing the simplest method that will close it. Sometimes that is good dressings and patience. Sometimes it is a short operation.
+Dr. Junaid Fateh, a plastic and reconstructive surgeon practising in Lahore, sees patients with long-standing ulcers, bed sores, wounds that have opened up after an operation and injuries that have not closed properly. Wound management means finding the reason a wound is stuck, putting it right, and then choosing the simplest method that will close it. Sometimes that is good dressings and patience. Sometimes it is a short operation.
 
 **When to seek urgent care.** If redness is spreading, the wound smells bad, or you have a fever or feel unwell, go to the nearest emergency department or contact your doctor the same day. For a fresh, deep or heavily bleeding injury, go to the emergency department first.
 

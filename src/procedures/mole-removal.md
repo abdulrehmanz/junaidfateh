@@ -8,7 +8,7 @@ summary: "Mole and skin tag removal in Lahore under local anesthesia, with neat 
 seo:
   title: "Mole & Skin Tag Removal in Lahore | Dr. Junaid Fateh"
   description: "Mole and skin tag removal in Lahore with Dr. Junaid Fateh, FCPS. A 15 to 30 minute procedure under local anesthetic, lab tested if needed. Book on WhatsApp."
-  keywords: "mole removal Lahore, mole removal in Lahore, skin tag removal Lahore, mole removal cost in Lahore, mole removal price in Pakistan, best mole removal surgeon in Lahore, mole removal near me, mole removal Layyah, mole removal before and after, mole removal recovery, face mole removal, mole excision, suspicious mole biopsy Lahore, til hatwana, til ka ilaj, masse ka ilaj, chehre ka til nikalwana, Dr Junaid Fateh"
+  keywords: "mole removal Lahore, mole removal in Lahore, skin tag removal Lahore, mole removal cost in Lahore, mole removal price in Pakistan, best mole removal surgeon in Lahore, mole removal near me, mole removal before and after, mole removal recovery, face mole removal, mole excision, suspicious mole biopsy Lahore, til hatwana, til ka ilaj, masse ka ilaj, chehre ka til nikalwana, Dr Junaid Fateh"
 hero_subtitle: "Quick, careful removal of moles and skin tags, with lab testing when it matters"
 quick_answer: "Mole and skin tag removal cuts, shaves or seals away unwanted moles and skin tags, with neat closure to limit scarring and lab testing of any suspicious mole. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 15 to 30 minutes under local anesthetic, with 3 to 7 days of recovery. Results are permanent. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Masse hatwana"
   - "Chehre ka til nikalwana"
 urdu_name: "تل اور مسے ہٹوانا"
-roman_urdu_summary: "Chehre ya jism par mojood til (mole) aur masse (skin tags) ko local anesthesia mein chhote se procedure se hataya jata hai, aur agar til mashkook ho to use lab test ke liye bheja jata hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Chehre ya jism par mojood til (mole) aur masse (skin tags) ko local anesthesia mein chhote se procedure se hataya jata hai, aur agar til mashkook ho to use lab test ke liye bheja jata hai. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Skin"
 price_from: ''
 stats:
@@ -118,8 +118,6 @@ faqs:
   a: "Mole and skin tag removal is a minor procedure, but it still has some risks. Any removal through the skin leaves a mark, and some people form a raised, thickened or darker scar. Other possible problems include infection, minor bleeding and, after a shave removal, a little pigment coming back. Choosing the right method, neat closure, good wound care and sun protection help reduce these risks."
 - q: "When will I see the final results of mole removal?"
   a: "The mole or skin tag is gone straight away. The mark left behind starts pink or red, turns paler over one to three months, and usually matures into a much less noticeable scar by six to twelve months. If the mole was sent for testing, Dr. Junaid discusses the result with you once it is back."
-- q: "Is mole removal available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your mole removal consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your procedure and stitch removal would take place."
 ---
 
 ## About Mole & Skin Tag Removal

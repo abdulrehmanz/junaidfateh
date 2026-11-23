@@ -8,7 +8,7 @@ summary: "Lip reduction surgery in Lahore reshapes overly full lips through inci
 seo:
   title: "Lip Reduction Surgery in Lahore | Dr. Junaid Fateh"
   description: "Lip reduction surgery in Lahore with Dr. Junaid Fateh, FCPS. Reduces full lips through hidden incisions inside the mouth, 1 to 2 weeks off. Book on WhatsApp."
-  keywords: "lip reduction in Lahore, lip reduction surgery Lahore, lip reduction cost in Lahore, lip reduction price in Pakistan, best lip reduction surgeon in Lahore, lip reduction near me, lip reduction Layyah, lip reduction before and after, lip reduction recovery, reduction cheiloplasty, upper lip reduction, lower lip reduction, thick lips surgery, lip thinning surgery, mote honton ki surgery, hont patle karne ki surgery, Dr Junaid Fateh"
+  keywords: "lip reduction in Lahore, lip reduction surgery Lahore, lip reduction cost in Lahore, lip reduction price in Pakistan, best lip reduction surgeon in Lahore, lip reduction near me, lip reduction before and after, lip reduction recovery, reduction cheiloplasty, upper lip reduction, lower lip reduction, thick lips surgery, lip thinning surgery, mote honton ki surgery, hont patle karne ki surgery, Dr Junaid Fateh"
 hero_subtitle: "Softer, more balanced lips, with scars kept inside the mouth"
 quick_answer: "Lip reduction surgery removes a strip of tissue from inside an overly full upper or lower lip to make it thinner and more balanced, with the scar hidden inside the mouth. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 1 to 2 hours under local anesthesia as a day case, with 1 to 2 weeks off. Results are permanent. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -20,7 +20,7 @@ also_known_as:
   - "Mote honton ki surgery"
   - "Hont patle karne ki surgery"
 urdu_name: "ہونٹ پتلے کرنے کی سرجری"
-roman_urdu_summary: "Lip reduction surgery mein zyada mote ya bhare hue honton ko andar ki taraf se chhota kiya jata hai, aur nishan munh ke andar rehta hai. Is se hont chehre ke saath zyada mutanasib lagte hain. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain, mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Lip reduction surgery mein zyada mote ya bhare hue honton ko andar ki taraf se chhota kiya jata hai, aur nishan munh ke andar rehta hai. Is se hont chehre ke saath zyada mutanasib lagte hain. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain, mashware ke liye WhatsApp par rabta karein."
 body_location: "Lips"
 price_from: ''
 stats:
@@ -115,8 +115,6 @@ faqs:
   a: "Yes. Send relaxed front and side photos of your lips on WhatsApp and book a video call. Dr. Junaid can give you an initial view of what is possible, and the final plan is confirmed when he examines you in person."
 - q: "When will I see the final results of lip reduction?"
   a: "The lips swell quite a lot at first, so they can look fuller than expected for the first week or two. Most of the swelling has gone by about one month, when the new shape is easy to see, and the final result is clear at around three months."
-- q: "Is lip reduction available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your lip reduction consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your procedure and follow-up visits would take place."
 ---
 
 ## About Lip Reduction Surgery

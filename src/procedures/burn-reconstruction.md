@@ -6,11 +6,11 @@ order: 2
 specialty: false
 summary: "Surgery to release tight burn scars, restore movement and improve how scars look and feel, planned in stages once the skin has healed."
 seo:
-  title: "Burn Scar Surgery in Lahore & Layyah | Dr. Junaid Fateh"
-  description: "Burn scar and contracture surgery in Lahore and Layyah with Dr. Junaid Fateh, FCPS. Recovery is 2 to 6 weeks per stage. Book a consultation on WhatsApp."
-  keywords: "burn reconstruction in Lahore, burn scar surgery Lahore, burn reconstruction cost in Lahore, burn scar surgery price in Pakistan, best burn reconstruction surgeon in Lahore, burn scar treatment near me, burn reconstruction Layyah, burn contracture release, burn scar removal Lahore, skin graft for burns Lahore, post burn deformity surgery, burn reconstruction before and after, burn scar surgery recovery, jalne ke nishan ka ilaj, jale hue nishan ka operation, Dr Junaid Fateh"
+  title: "Burn Scar Surgery in Lahore | Dr. Junaid Fateh"
+  description: "Burn scar and contracture surgery in Lahore with Dr. Junaid Fateh, FCPS. Recovery is 2 to 6 weeks per stage. Book a consultation on WhatsApp."
+  keywords: "burn reconstruction in Lahore, burn scar surgery Lahore, burn reconstruction cost in Lahore, burn scar surgery price in Pakistan, best burn reconstruction surgeon in Lahore, burn scar treatment near me, burn contracture release, burn scar removal Lahore, skin graft for burns Lahore, post burn deformity surgery, burn reconstruction before and after, burn scar surgery recovery, jalne ke nishan ka ilaj, jale hue nishan ka operation, Dr Junaid Fateh"
 hero_subtitle: "Releasing tight burn scars so you can move, heal and live more comfortably"
-quick_answer: "Burn reconstruction releases tight burn scars (contractures) and improves how scars look and feel, often using skin grafts or flaps. FCPS plastic surgeon Dr. Junaid Fateh, trained at Jinnah Burn & Reconstructive Surgery Centre, sees patients in Lahore and Layyah. Each operation takes 1 to 6 hours under general anaesthesia, with 2 to 6 weeks of recovery. Improvement builds over several stages. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Burn reconstruction releases tight burn scars (contractures) and improves how scars look and feel, often using skin grafts or flaps. FCPS plastic surgeon Dr. Junaid Fateh, trained at Jinnah Burn & Reconstructive Surgery Centre, sees patients in Lahore. Each operation takes 1 to 6 hours under general anaesthesia, with 2 to 6 weeks of recovery. Improvement builds over several stages. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Burn scar surgery"
   - "Burn contracture release"
@@ -20,7 +20,7 @@ also_known_as:
   - "Jale hue nishan ka operation"
   - "Jalne ke baad khinchao ka operation"
 urdu_name: "جلنے کے نشانات کی سرجری"
-roman_urdu_summary: "Burn reconstruction mein jalne ke baad sakht aur khinche hue nishan ko dheela kiya jata hai, taake gardan, haath ya jodon ki harkat behtar ho aur nishan naram aur kam numayan hon. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur zaroorat ke mutabiq marhala-war ilaj ka plan banate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Burn reconstruction mein jalne ke baad sakht aur khinche hue nishan ko dheela kiya jata hai, taake gardan, haath ya jodon ki harkat behtar ho aur nishan naram aur kam numayan hon. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur zaroorat ke mutabiq marhala-war ilaj ka plan banate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Skin and joints"
 price_from: ''
 stats:
@@ -112,13 +112,11 @@ faqs:
 - q: How much does burn reconstruction cost in Lahore?
   a: "The cost depends on how many areas are treated, the technique used (graft, flap or tissue expansion), the number of stages, the length of your hospital stay, and any splints or pressure garments. Dr. Junaid will give you a personalised quote after your consultation. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
-  a: "Yes. Many families living overseas or in other cities start this way. Send clear photos of the scars, showing how far each joint can move, on WhatsApp and book a video consultation. Dr. Junaid can outline a likely plan, and the final plan is confirmed after he examines you in person in Lahore or Layyah."
+  a: "Yes. Many families living overseas or in other cities start this way. Send clear photos of the scars, showing how far each joint can move, on WhatsApp and book a video consultation. Dr. Junaid can outline a likely plan, and the final plan is confirmed after he examines you in person in Lahore."
 - q: "What are the risks or side effects of burn reconstruction?"
   a: "Common issues are soreness at the donor site, swelling and slow healing at the edges of a graft. Less often, part of a graft or flap does not take, the wound becomes infected, or the scar tightens again over time, especially in growing children. Risks are reduced by careful timing, firm dressings, splints, good nutrition, controlled blood sugar and not smoking. Dr. Junaid explains the risks of your plan at consultation."
 - q: "When will I see the final results of burn reconstruction?"
   a: "Each operation has its own timeline. A graft usually settles over the first few weeks, but scars keep softening and fading for 3 to 12 months with pressure garments, silicone, moisturiser and sun protection. Because larger burns are treated in stages, the overall result builds gradually, and the next stage is planned once the tissues have settled."
-- q: "Is burn reconstruction available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation and scar assessment can be in either city. Ask on WhatsApp which burn procedures are done at which location. A fresh burn needs the nearest emergency department or burns unit first."
 ---
 
 ## About Burn Reconstruction

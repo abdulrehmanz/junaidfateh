@@ -7,10 +7,10 @@ specialty: true
 summary: "Liposuction in Lahore with Dr. Junaid Fateh to remove stubborn pockets of fat and refine your shape, planned around your body and your goals."
 seo:
   title: "Liposuction in Lahore: Cost & Recovery | Dr. Junaid Fateh"
-  description: "Liposuction and VASER lipo in Lahore and Layyah with Dr. Junaid Fateh, FCPS. Usually a day case with 1 to 2 weeks recovery. Book a consultation on WhatsApp."
-  keywords: "liposuction in Lahore, liposuction cost in Lahore, liposuction price in Pakistan, liposuction cost in Pakistan, best liposuction surgeon in Lahore, liposuction near me, liposuction Layyah, liposuction before and after, liposuction recovery, VASER liposuction Lahore, VASER lipo Pakistan, tummy liposuction Lahore, fat removal surgery Lahore, liposculpture Lahore, liposuction for men Lahore, liposaction Lahore, pait ki charbi kam karne ka operation, charbi nikalne ka operation, Dr Junaid Fateh"
-hero_subtitle: "Precise fat removal and natural-looking body contouring in Lahore and Layyah"
-quick_answer: "Liposuction removes stubborn fat through small incisions to reshape areas such as the tummy, flanks, thighs and arms. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore and sees patients in Layyah. Surgery takes 1 to 4 hours under general or local anaesthesia with sedation, usually as a day case, with 1 to 2 weeks recovery. Results are permanent with a stable weight. Cost depends on your plan and is confirmed after consultation."
+  description: "Liposuction and VASER lipo in Lahore with Dr. Junaid Fateh, FCPS. Usually a day case with 1 to 2 weeks recovery. Book a consultation on WhatsApp."
+  keywords: "liposuction in Lahore, liposuction cost in Lahore, liposuction price in Pakistan, liposuction cost in Pakistan, best liposuction surgeon in Lahore, liposuction near me, liposuction before and after, liposuction recovery, VASER liposuction Lahore, VASER lipo Pakistan, tummy liposuction Lahore, fat removal surgery Lahore, liposculpture Lahore, liposuction for men Lahore, liposaction Lahore, pait ki charbi kam karne ka operation, charbi nikalne ka operation, Dr Junaid Fateh"
+hero_subtitle: "Precise fat removal and natural-looking body contouring in Lahore"
+quick_answer: "Liposuction removes stubborn fat through small incisions to reshape areas such as the tummy, flanks, thighs and arms. FCPS plastic surgeon Dr. Junaid Fateh performs it in Lahore. Surgery takes 1 to 4 hours under general or local anaesthesia with sedation, usually as a day case, with 1 to 2 weeks recovery. Results are permanent with a stable weight. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Lipo"
   - "Lipoplasty"
@@ -21,7 +21,7 @@ also_known_as:
   - "Pait ki charbi kam karne ka operation"
   - "Charbi nikalne ka operation"
 urdu_name: "چربی نکالنے کا آپریشن"
-roman_urdu_summary: "Liposuction mein jism ke un hisson se zaid charbi nikali jati hai jo diet aur exercise se kam nahi hoti, jaise pait, kamar, raanen aur bazu. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareez dekhte hain aur zaroorat ke mutabiq VASER samait liposuction ke mukhtalif tareeqe istemal karte hain. Yeh wazan kam karne ka ilaj nahi, balkay jism ki shape behtar karne ka operation hai. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Liposuction mein jism ke un hisson se zaid charbi nikali jati hai jo diet aur exercise se kam nahi hoti, jaise pait, kamar, raanen aur bazu. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareez dekhte hain aur zaroorat ke mutabiq VASER samait liposuction ke mukhtalif tareeqe istemal karte hain. Yeh wazan kam karne ka ilaj nahi, balkay jism ki shape behtar karne ka operation hai. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Abdomen, flanks, thighs, arms and chin"
 price_from: ''
 stats:
@@ -119,15 +119,13 @@ faqs:
   a: "Yes. VASER uses ultrasound energy to loosen fat before it is suctioned out, which can help with firmer areas and detailed contouring. It is not automatically better for everyone, so Dr. Junaid recommends the technique that best fits your body and goals after examining you."
 - q: "What are the risks or side effects of liposuction?"
   a: "Bruising, swelling and temporary numbness are common and settle over the following weeks. Less common risks include uneven contours, fluid collecting under the skin, infection and, rarely, blood clots. Dr. Junaid reduces these risks with a pre-operative assessment, by keeping the amount of fat removed within safe limits, and with a compression garment and early walking after surgery. He goes through the risks with you at consultation."
-- q: "Is liposuction available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your liposuction consultation can take place in either city. Ask on WhatsApp which procedures are done at which location, and you will be guided on where your surgery and follow-up visits can be arranged."
 ---
 
 ## About liposuction
 
 Liposuction removes pockets of fat that refuse to shift, however carefully you eat or however often you exercise. Through a few small incisions, a slim tube called a cannula is used to loosen and draw out fat from beneath the skin, reshaping the area so it sits in better proportion with the rest of your body.
 
-It is one of the core specialties of Dr. Junaid Fateh, a plastic, cosmetic and reconstructive surgeon who sees patients in Lahore and Layyah. Common areas include the tummy, flanks, back, thighs, knees, upper arms, and the chin and neck. In men, liposuction is often used on the chest as part of gynecomastia treatment, as well as on the waist and flanks.
+It is one of the core specialties of Dr. Junaid Fateh, a plastic, cosmetic and reconstructive surgeon who sees patients in Lahore. Common areas include the tummy, flanks, back, thighs, knees, upper arms, and the chin and neck. In men, liposuction is often used on the chest as part of gynecomastia treatment, as well as on the waist and flanks.
 
 It also helps to know what liposuction is not. It is not a weight-loss treatment, it does not tighten loose skin on its own, and it does not remove cellulite. It suits people near a healthy weight who want to refine specific areas.
 

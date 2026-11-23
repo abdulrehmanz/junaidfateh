@@ -17,7 +17,7 @@ Lines starting with `#` in `.yml` and `.md` files are comments. They explain the
 |---|---|
 | Change phone, WhatsApp, email, social links | `src/_data/site.yml` |
 | Add the PMDC number or real statistics | `src/_data/site.yml` |
-| Add Layyah address, hours or map | `src/_data/locations.yml` |
+| Change the clinic address, hours or map | `src/_data/locations.yml` |
 | Add a video to a procedure page | `src/procedures/<procedure>.md` (under `videos:`) |
 | Add a link to an Instagram/TikTok post on a procedure page | `src/procedures/<procedure>.md` (under `social_links:`) |
 | Add a general video (not about one procedure) | `src/_data/videos.yml` |
@@ -162,14 +162,15 @@ Please only enter figures you can stand behind.
 
 ## Locations
 
-`src/_data/locations.yml` has one block per city. For Layyah, fill in:
+`src/_data/locations.yml` holds the clinic details (currently the Lahore clinic). You can fill in or change:
 
-- `clinic`: the clinic name
-- `address`: street address
-- `days` and `hours`: when Dr. Junaid is there
+- `days` and `hours`: when Dr. Junaid sees patients
 - `mapsUrl`: the Google Maps share link
 - `mapEmbed`: in Google Maps press **Share > Embed a map**, and copy only the address inside `src="..."`
 - `latitude` and `longitude`: right-click the pin in Google Maps to copy them
+- `areasServed`: areas and nearby cities patients come from
+
+To add another clinic later, copy the whole block, give it a new `id`, and fill in its details. It then appears in the footer, the contact page, the booking form and Google structured data automatically.
 
 ## Analytics
 
@@ -211,7 +212,7 @@ last_reviewed: 2026-12-01          # optional: the date Dr. Junaid reviewed the 
 1. **Connect a custom domain.** A `vercel.app` address works, but a domain of his own, such as `drjunaidfateh.com`, builds trust and authority over time.
 2. **Google Search Console:** add the domain, paste the verification code into `analytics.googleVerification`, and submit `sitemap.xml`.
 3. **Bing Webmaster Tools:** add the site (you can import it from Search Console), paste the code into `analytics.bingVerification`, and submit the sitemap. Bing feeds ChatGPT search and Copilot.
-4. **Google Business Profile:** create or claim a profile for each location (Lahore and Layyah) with the exact same name, address and phone as `locations.yml`, category "Plastic surgeon", photos, hours and a link to the matching city page. This is the biggest factor for "plastic surgeon near me" and map results.
+4. **Google Business Profile:** create or claim a profile for the Lahore clinic with the exact same name, address and phone as `locations.yml`, category "Plastic surgeon", photos, hours and a link to the matching city page. This is the biggest factor for "plastic surgeon near me" and map results.
 5. **Directory profiles:** create matching profiles on Marham, Oladoc and Healthwire. These sites rank on page one for most procedure searches in Pakistan and link back to the website.
 6. **Real Google reviews:** ask happy patients to leave a Google review on the Business Profile. Replace the example reviews in `reviews.yml` with real ones.
 7. **Prices:** add `price_from` to procedures where possible. Pakistani patients search "cost" and "price" more than anything else, and pages that show a starting price tend to rank and convert better.

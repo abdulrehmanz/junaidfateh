@@ -8,9 +8,9 @@ summary: "Surgery for differences a child is born with, such as extra or joined 
 seo:
   title: "Congenital Deformity Surgery in Lahore | Dr. Junaid Fateh"
   description: "Congenital deformity surgery in Lahore with Dr. Junaid Fateh, FCPS, for extra or joined fingers. Recovery is 1 to 4 weeks. Book a consultation on WhatsApp."
-  keywords: "congenital deformity surgery in Lahore, birth defect surgery Lahore, congenital deformity surgery cost in Lahore, congenital surgery price in Pakistan, best paediatric plastic surgeon in Lahore, paediatric plastic surgeon near me, congenital deformity surgery Layyah, extra finger surgery Lahore, polydactyly surgery, syndactyly surgery, webbed fingers treatment, microtia ear reconstruction Pakistan, congenital hand surgery recovery, birth defect surgery before and after, izafi ungli ka operation, judi hui ungliyon ka operation, Dr Junaid Fateh"
+  keywords: "congenital deformity surgery in Lahore, birth defect surgery Lahore, congenital deformity surgery cost in Lahore, congenital surgery price in Pakistan, best paediatric plastic surgeon in Lahore, paediatric plastic surgeon near me, extra finger surgery Lahore, polydactyly surgery, syndactyly surgery, webbed fingers treatment, microtia ear reconstruction Pakistan, congenital hand surgery recovery, birth defect surgery before and after, izafi ungli ka operation, judi hui ungliyon ka operation, Dr Junaid Fateh"
 hero_subtitle: "Gentle, growth-aware surgery for differences a child is born with"
-quick_answer: "Congenital deformity surgery corrects differences a child is born with, such as extra or joined fingers, ear shape problems and some birthmarks, to improve function and appearance. FCPS plastic surgeon Dr. Junaid Fateh sees families in Lahore and Layyah. Surgery takes 1 to 6 hours under general anaesthesia, usually with 1 to 3 days in hospital and 1 to 4 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Congenital deformity surgery corrects differences a child is born with, such as extra or joined fingers, ear shape problems and some birthmarks, to improve function and appearance. FCPS plastic surgeon Dr. Junaid Fateh sees families in Lahore. Surgery takes 1 to 6 hours under general anaesthesia, usually with 1 to 3 days in hospital and 1 to 4 weeks of recovery. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Birth defect surgery"
   - "Congenital hand surgery"
@@ -21,7 +21,7 @@ also_known_as:
   - "Izafi ungli ka operation"
   - "Judi hui ungliyon ka operation"
 urdu_name: "پیدائشی نقائص کی سرجری"
-roman_urdu_summary: "Kuch bachche izafi ya judi hui ungliyon, kaan ki mukhtalif banawat ya kisi aur paidaishi farq ke sath paida hote hain. Dr. Junaid Fateh Lahore aur Layyah mein bachchon ko dekhte hain aur bachche ki umar aur nashonuma ke mutabiq operation ka sahi waqt batate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Kuch bachche izafi ya judi hui ungliyon, kaan ki mukhtalif banawat ya kisi aur paidaishi farq ke sath paida hote hain. Dr. Junaid Fateh Lahore mein bachchon ko dekhte hain aur bachche ki umar aur nashonuma ke mutabiq operation ka sahi waqt batate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Hand, ear and skin"
 price_from: ''
 stats:
@@ -112,20 +112,18 @@ faqs:
 - q: How much does congenital deformity surgery cost?
   a: "The cost depends on the condition, how complex the correction is, whether it is done in stages, the type of anaesthesia and the length of hospital stay. You will receive a personalised quote after Dr. Junaid has examined your child, and the [cost guide](/cost-guide/) explains these factors in more detail."
 - q: Can I have an online consultation from abroad?
-  a: "Yes. Families overseas or in other cities can send clear photos on WhatsApp and book a video consultation with Dr. Junaid. He can explain the likely options and timing, but the final plan is confirmed after he examines your child in person in Lahore or Layyah."
+  a: "Yes. Families overseas or in other cities can send clear photos on WhatsApp and book a video consultation with Dr. Junaid. He can explain the likely options and timing, but the final plan is confirmed after he examines your child in person in Lahore."
 - q: "What are the risks or side effects of congenital deformity surgery?"
   a: "As with any operation, there are risks such as bleeding, infection, scarring and occasionally the need for further surgery. After separating joined fingers, part of a skin graft may not take, or the web between the fingers can creep forward again as the child grows. Risks are reduced by careful timing, surgery in a hospital setting with an anaesthetist experienced in caring for children, and regular follow-up as your child grows."
 - q: "When will I see the final results of congenital deformity surgery?"
   a: "Scars are pink at first and slowly soften over 2 to 6 months, and they keep fading for a year or more. Movement after hand surgery can keep improving with exercises or hand therapy. Because children keep growing, Dr. Junaid continues to check the result through childhood, and some conditions are only complete after a planned series of stages."
-- q: "Is congenital deformity surgery available in Layyah?"
-  a: "Dr. Junaid sees families in both Layyah and Lahore, so your child's consultation can be in either city. Ask on WhatsApp which procedures are done at which location, and the team will help you plan any further visits."
 ---
 
 ## About Congenital Deformities
 
 Some children are born with a part of the body that has formed differently. It might be an extra finger, two fingers joined together, an ear that is small or unusually shaped, or a birthmark. Doctors call these congenital differences or deformities. They are nobody's fault, and many can be improved with well-timed surgery.
 
-Dr. Junaid Fateh is a plastic and reconstructive surgeon in Lahore and Layyah who treats congenital conditions of the hand, ear, face and skin. His aim is always twofold: to help the affected part work as well as it can, and to help it look as natural as possible so your child can grow up feeling comfortable.
+Dr. Junaid Fateh is a plastic and reconstructive surgeon in Lahore who treats congenital conditions of the hand, ear, face and skin. His aim is always twofold: to help the affected part work as well as it can, and to help it look as natural as possible so your child can grow up feeling comfortable.
 
 Not every difference needs an operation, and not every operation should happen straight away. Some conditions are best treated in the first year or two of life, while others are safer to correct when a child is older. Adults who were never treated as children can also be assessed.
 

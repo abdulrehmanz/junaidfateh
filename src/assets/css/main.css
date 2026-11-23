@@ -760,3 +760,5 @@ i.fas, i.fab, i.far { display: inline-block; min-width: 1em; text-align: center;
 .verify-link:hover { text-decoration: underline; }
 .verify-link i { font-size: 0.7em; }
 .footer__about p a { color: var(--gold-light); text-decoration: none; }
+/* A single clinic card should not stretch across the whole page */
+.loc-grid:has(> :only-child) { max-width: 760px; margin-inline: auto; }

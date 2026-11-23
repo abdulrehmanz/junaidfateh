@@ -8,9 +8,9 @@ summary: "Using your own fat instead of implants, Dr. Junaid Fateh offers breast
 seo:
   title: "Breast Fat Transfer in Lahore | Dr. Junaid Fateh"
   description: "Breast fat transfer in Lahore with Dr. Junaid Fateh, FCPS. Your own fat adds modest fullness without implants, as a day case. Book a consultation on WhatsApp."
-  keywords: "breast fat transfer in Lahore, fat transfer breast augmentation Lahore, breast fat transfer cost in Lahore, fat transfer breast augmentation price in Pakistan, best fat transfer surgeon in Lahore, breast fat transfer near me, breast fat transfer Layyah, fat transfer breast before and after, breast fat transfer recovery, natural breast augmentation without implants, breast lipofilling Lahore, fat grafting to breasts, autologous fat transfer breast, fat injection breast Pakistan, apni charbi se chhati bari karna, bina implant chhati bari karna, Dr Junaid Fateh"
+  keywords: "breast fat transfer in Lahore, fat transfer breast augmentation Lahore, breast fat transfer cost in Lahore, fat transfer breast augmentation price in Pakistan, best fat transfer surgeon in Lahore, breast fat transfer near me, fat transfer breast before and after, breast fat transfer recovery, natural breast augmentation without implants, breast lipofilling Lahore, fat grafting to breasts, autologous fat transfer breast, fat injection breast Pakistan, apni charbi se chhati bari karna, bina implant chhati bari karna, Dr Junaid Fateh"
 hero_subtitle: "A soft, modest increase in fullness using your own fat instead of implants"
-quick_answer: "Breast fat transfer uses your own fat, taken by liposuction from the tummy, flanks or thighs, to add modest, soft breast fullness without implants. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore and Layyah. It takes 2 to 3 hours under general or local anaesthesia with sedation, as a day case, and recovery takes 1 to 2 weeks. Surviving fat is long-lasting. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Breast fat transfer uses your own fat, taken by liposuction from the tummy, flanks or thighs, to add modest, soft breast fullness without implants. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore. It takes 2 to 3 hours under general or local anaesthesia with sedation, as a day case, and recovery takes 1 to 2 weeks. Surviving fat is long-lasting. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Fat transfer breast augmentation"
   - "Breast lipofilling"
@@ -20,7 +20,7 @@ also_known_as:
   - "Breast augmentation without implants"
   - "Apni charbi se chhati bari karna"
 urdu_name: "چربی سے چھاتی بڑی کرنا"
-roman_urdu_summary: "Is tareeqe mein liposuction ke zariye pait, pehlu ya ranon se apni charbi le kar chhati mein lagayi jati hai, jis se bina implant ke chhati mein halka aur qudrati izafa hota hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur saaf batate hain ke yeh tareeqa aap ke liye munasib hai ya nahin. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Is tareeqe mein liposuction ke zariye pait, pehlu ya ranon se apni charbi le kar chhati mein lagayi jati hai, jis se bina implant ke chhati mein halka aur qudrati izafa hota hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareezon ko dekhte hain aur saaf batate hain ke yeh tareeqa aap ke liye munasib hai ya nahin. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Breast"
 price_from: ''
 stats:
@@ -118,8 +118,6 @@ faqs:
   a: "Bruising and soreness, mostly at the donor area, are expected for a week or two. Other risks include loss of some of the transferred volume, small firm lumps or oil cysts, an uneven result, infection and irregularities where the fat was taken. Dr. Junaid lowers these risks by harvesting the fat gently, placing it in many thin layers and avoiding overfilling, and he may suggest breast imaging before surgery so there is a clear baseline."
 - q: "When will I see the final results of breast fat transfer?"
   a: "In the first weeks the breasts often look fuller than the final result because of swelling. Some of the fat is naturally reabsorbed, so the size you see at around 3 months is closer to the lasting result, and by about 6 months the fat that has survived is stable."
-- q: "Is breast fat transfer available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery date, travel and follow-up visits."
 ---
 
 ## About Breast Augmentation with Fat Transfer

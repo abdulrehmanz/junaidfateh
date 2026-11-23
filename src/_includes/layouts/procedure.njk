@@ -124,7 +124,7 @@ layout: layouts/base.njk
       <img src="/assets/images/doctor/dr-junaid-fateh-square.webp" alt="{{ site.fullName }}" width="88" height="88" loading="lazy">
       <p class="aside-card__name">{{ site.fullName }}</p>
       <p class="aside-card__cred">{{ site.shortCredentials }}</p>
-      <p>Discuss {{ short_title }} with Dr. Junaid in Lahore, Layyah or online.</p>
+      <p>Discuss {{ short_title }} with Dr. Junaid in Lahore or online.</p>
       <a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult data-procedure="{{ title }}"><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
       <a class="btn btn--outline btn--block" href="{{ ('Assalam o Alaikum Dr. Junaid, I would like to ask about ' ~ title ~ '.') | waLink }}" target="_blank" rel="noopener" data-direct><i class="fab fa-whatsapp" aria-hidden="true"></i> Ask on WhatsApp</a>
     </div>
@@ -162,5 +162,5 @@ layout: layouts/base.njk
 </div>
 
 {% set ctaTitle = "Considering " ~ short_title ~ "?" %}
-{% set ctaText = "Book a consultation with Dr. Junaid in Lahore or Layyah, or send your photos for an online opinion first." %}
+{% set ctaText = "Book a consultation with Dr. Junaid in Lahore, or send your photos for an online opinion first." %}
 {% include "partials/cta-band.njk" %}

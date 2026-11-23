@@ -8,9 +8,9 @@ summary: "Breast reduction in Lahore with Dr. Junaid Fateh, easing the weight of
 seo:
   title: "Breast Reduction Surgery in Lahore | Dr. Junaid Fateh"
   description: "Breast reduction surgery in Lahore with Dr. Junaid Fateh, FCPS, to ease neck, back and shoulder strain. Usually one night stay. Book a consultation on WhatsApp."
-  keywords: "breast reduction in Lahore, breast reduction surgery cost in Lahore, breast reduction price in Pakistan, best breast reduction surgeon in Lahore, breast reduction near me, breast reduction Layyah, breast reduction before and after, breast reduction recovery, reduction mammoplasty, reduction mammaplasty Pakistan, heavy breasts treatment Lahore, breast reduction for back pain, breast size reduction surgery, large breast reduction Pakistan, chhati chhoti karne ki surgery, chhati kam karne ka operation, Dr Junaid Fateh"
+  keywords: "breast reduction in Lahore, breast reduction surgery cost in Lahore, breast reduction price in Pakistan, best breast reduction surgeon in Lahore, breast reduction near me, breast reduction before and after, breast reduction recovery, reduction mammoplasty, reduction mammaplasty Pakistan, heavy breasts treatment Lahore, breast reduction for back pain, breast size reduction surgery, large breast reduction Pakistan, chhati chhoti karne ki surgery, chhati kam karne ka operation, Dr Junaid Fateh"
 hero_subtitle: "Lighter, better-proportioned breasts and relief from everyday strain"
-quick_answer: "Breast reduction surgery removes extra breast tissue, fat and skin to make heavy breasts smaller, lighter and lifted, often easing neck, back and shoulder strain. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore and Layyah. Surgery takes about 2 to 4 hours under general anaesthesia, usually with one night's stay. Recovery takes 2 to 3 weeks, and the reduction is permanent. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Breast reduction surgery removes extra breast tissue, fat and skin to make heavy breasts smaller, lighter and lifted, often easing neck, back and shoulder strain. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore. Surgery takes about 2 to 4 hours under general anaesthesia, usually with one night's stay. Recovery takes 2 to 3 weeks, and the reduction is permanent. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Reduction mammoplasty"
   - "Reduction mammaplasty"
@@ -19,7 +19,7 @@ also_known_as:
   - "Chhati chhoti karne ki surgery"
   - "Chhati kam karne ka operation"
 urdu_name: "چھاتی چھوٹی کرنے کی سرجری"
-roman_urdu_summary: "Breast reduction mein bhari chhati se izafi tissue, charbi aur jild nikal kar usay halka aur mutanasib banaya jata hai, jis se gardan, kamar aur kandhon ka dard kam ho sakta hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Breast reduction mein bhari chhati se izafi tissue, charbi aur jild nikal kar usay halka aur mutanasib banaya jata hai, jis se gardan, kamar aur kandhon ka dard kam ho sakta hai. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareezon ko dekhte hain aur aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Breast"
 price_from: ''
 stats:
@@ -116,8 +116,6 @@ faqs:
   a: "Swelling, bruising and tightness are expected for the first few weeks. Other risks include bleeding, infection, slow wound healing, noticeable scars, changes in nipple sensation, uneven size or shape and, rarely, problems with the blood supply to the nipple. Smoking raises several of these risks. Dr. Junaid lowers them with a health check before surgery, by keeping the nipple attached to its underlying tissue wherever possible, and with close follow-up of your healing and scars."
 - q: "When will I see the final results of breast reduction?"
   a: "Many women notice the lighter weight soon after surgery, but swelling takes time to settle. Most normal activities and exercise resume by around 2 to 3 months, and the breasts soften into their final shape over 6 to 12 months. The scars keep flattening and fading for 12 to 18 months."
-- q: "Is breast reduction available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery date, travel and follow-up visits."
 ---
 
 ## About Breast Reduction

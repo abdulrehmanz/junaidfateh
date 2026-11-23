@@ -109,6 +109,6 @@ You can read more about the procedures on the [FUE hair transplant](/procedures/
 
 ## Talk to Dr. Junaid
 
-Whether you are planning a hair transplant or worried about how one is healing, send clear photos of your scalp on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. If you live in another city or abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how to plan your visit.
+Whether you are planning a hair transplant or worried about how one is healing, send clear photos of your scalp on WhatsApp and [book a consultation](/contact/) in Lahore. If you live in another city or abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how to plan your visit.
 
 *This article is general information and not a substitute for a personal medical consultation.*

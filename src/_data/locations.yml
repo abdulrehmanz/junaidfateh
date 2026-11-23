@@ -20,20 +20,3 @@
   longitude: 74.3377179
   # Areas and nearby cities patients come from (used on the Lahore page and in Google structured data)
   areasServed: ["Lahore", "Shadman", "Gulberg", "DHA Lahore", "Model Town", "Johar Town", "Garden Town", "Lahore Cantt", "Bahria Town Lahore", "Iqbal Town", "Faisal Town", "Wapda Town", "Kasur", "Sheikhupura", "Gujranwala", "Okara", "Sialkot", "Faisalabad"]
-
-- id: layyah
-  city: "Layyah"
-  clinic: ""                       # clinic name in Layyah
-  address: ""                      # street address in Layyah
-  area: ""
-  postalCode: ""
-  region: "Punjab"
-  phone: "+92 336 6600008"
-  days: ""
-  hours: ""
-  mapsUrl: ""                      # Google Maps share link
-  mapEmbed: ""                     # Google Maps "Embed a map" src URL
-  latitude: ""
-  longitude: ""
-  # Areas and nearby cities patients come from (used on the Layyah page and in Google structured data)
-  areasServed: ["Layyah", "Karor Lal Esan", "Chaubara", "Fatehpur", "Kot Sultan", "Bhakkar", "Muzaffargarh", "Kot Adu", "Dera Ghazi Khan", "Jhang", "Mianwali", "Khushab"]

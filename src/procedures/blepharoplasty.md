@@ -8,7 +8,7 @@ summary: "Upper and lower eyelid surgery in Lahore with Dr. Junaid Fateh to remo
 seo:
   title: "Eyelid Surgery (Blepharoplasty) in Lahore | Dr. Junaid Fateh"
   description: "Eyelid surgery (blepharoplasty) in Lahore with Dr. Junaid Fateh, FCPS. Day case for droopy lids and eye bags, back to work in 7 to 10 days. Book on WhatsApp."
-  keywords: "eyelid surgery Lahore, eyelid surgery in Lahore, blepharoplasty in Lahore, blepharoplasty cost in Lahore, eyelid surgery price in Pakistan, best blepharoplasty surgeon in Lahore, eyelid surgery near me, blepharoplasty Layyah, blepharoplasty before and after, blepharoplasty recovery, upper eyelid surgery Lahore, under eye bags removal Lahore, droopy eyelid surgery, blepheroplasty, palkon ki surgery, aankhon ke papoton ka operation, Dr Junaid Fateh"
+  keywords: "eyelid surgery Lahore, eyelid surgery in Lahore, blepharoplasty in Lahore, blepharoplasty cost in Lahore, eyelid surgery price in Pakistan, best blepharoplasty surgeon in Lahore, eyelid surgery near me, blepharoplasty before and after, blepharoplasty recovery, upper eyelid surgery Lahore, under eye bags removal Lahore, droopy eyelid surgery, blepheroplasty, palkon ki surgery, aankhon ke papoton ka operation, Dr Junaid Fateh"
 hero_subtitle: "Lighter lids and smoother under-eyes for a fresher, more awake look"
 quick_answer: "Blepharoplasty, or eyelid surgery, removes loose upper eyelid skin and puffy under-eye fat so the eyes look more rested. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 1 to 2 hours as a day case under local anaesthetic with sedation, and most people return to work in 7 to 10 days. Results are long-lasting, typically 5 to 7 years. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Palkon ki surgery"
   - "Aankhon ke papoton ka operation"
 urdu_name: "آنکھوں کے پپوٹوں کی سرجری"
-roman_urdu_summary: "Blepharoplasty, yaani eyelid surgery, mein upar ke papoton ki latki hui jild aur aankhon ke neeche ki phooli hui charbi ko theek kiya jata hai, jis se aankhein taaza aur khuli nazar aati hain. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Blepharoplasty, yaani eyelid surgery, mein upar ke papoton ki latki hui jild aur aankhon ke neeche ki phooli hui charbi ko theek kiya jata hai, jis se aankhein taaza aur khuli nazar aati hain. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Eyelids"
 price_from: ''
 stats:
@@ -116,8 +116,6 @@ faqs:
   a: "Yes. Start by sharing close-up photos of your eyes on WhatsApp, one looking straight ahead with your face relaxed and one with your eyes gently closed. A video consultation follows, where Dr. Junaid gives an early view on whether eyelid surgery would help. He confirms the plan after examining you face to face, and around a week in Pakistan after surgery covers stitch removal and review."
 - q: "When will I see the final results of eyelid surgery?"
   a: "Your eyes look brighter as soon as the early swelling eases, and most people feel ready to be seen in public after seven to ten days. The remaining swelling settles over two to three months, by which time the scars have softened into the natural crease and the final result is clear."
-- q: "Is eyelid surgery available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your eyelid surgery consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your surgery and stitch-removal visit would take place."
 ---
 
 ## About blepharoplasty

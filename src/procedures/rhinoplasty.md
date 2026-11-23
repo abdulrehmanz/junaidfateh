@@ -8,7 +8,7 @@ summary: "Nose reshaping surgery in Lahore with Dr. Junaid Fateh, planned to sui
 seo:
   title: "Nose Job (Rhinoplasty) in Lahore | Dr. Junaid Fateh"
   description: "Nose job (rhinoplasty) in Lahore with Dr. Junaid Fateh, FCPS plastic surgeon. Reshaping and breathing correction, 1 to 2 weeks off. Book on WhatsApp."
-  keywords: "nose job in Lahore, rhinoplasty in Lahore, rhinoplasty cost in Lahore, rhinoplasty cost in Pakistan, nose job price in Pakistan, best rhinoplasty surgeon in Lahore, rhinoplasty near me, rhinoplasty Layyah, rhinoplasty before and after, rhinoplasty recovery, nose reshaping surgery Lahore, septorhinoplasty Lahore, revision rhinoplasty Lahore, ultrasonic rhinoplasty Lahore, rhinoplasti, naak ki surgery, naak ka operation, Dr Junaid Fateh"
+  keywords: "nose job in Lahore, rhinoplasty in Lahore, rhinoplasty cost in Lahore, rhinoplasty cost in Pakistan, nose job price in Pakistan, best rhinoplasty surgeon in Lahore, rhinoplasty near me, rhinoplasty before and after, rhinoplasty recovery, nose reshaping surgery Lahore, septorhinoplasty Lahore, revision rhinoplasty Lahore, ultrasonic rhinoplasty Lahore, rhinoplasti, naak ki surgery, naak ka operation, Dr Junaid Fateh"
 hero_subtitle: "A nose that suits your face and breathes well, planned with care by Dr. Junaid"
 quick_answer: "Rhinoplasty, or a nose job, reshapes the bone and cartilage of the nose to suit your face and, if needed, improve breathing. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 2 to 4 hours under general anaesthesia or local with sedation, with 1 to 2 weeks off. Results are permanent, and the final shape shows at about 12 months. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Naak ka operation"
   - "Naak ki plastic surgery"
 urdu_name: "ناک کی سرجری"
-roman_urdu_summary: "Rhinoplasty, jise aam taur par nose job ya naak ki surgery kehte hain, naak ki shakal ko chehre ke mutabiq behtar banati hai aur zaroorat ho to saans ki takleef bhi theek karti hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur har naak ka plan alag banate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Rhinoplasty, jise aam taur par nose job ya naak ki surgery kehte hain, naak ki shakal ko chehre ke mutabiq behtar banati hai aur zaroorat ho to saans ki takleef bhi theek karti hai. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur har naak ka plan alag banate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Nose"
 price_from: ''
 stats:
@@ -119,8 +119,6 @@ faqs:
   a: "It is a technique where the nasal bones are shaped with a piezoelectric instrument instead of traditional chisels and rasps. The instrument works on bone while sparing nearby soft tissue, which allows fine control and may reduce bruising. Dr. Junaid will tell you at consultation whether it suits your nose."
 - q: "What is the best age for rhinoplasty?"
   a: "Rhinoplasty is usually done once the nose has finished growing, which for most people is by the mid-to-late teens. Adults can have it later in life too, as long as they are in good general health. For teenagers, Dr. Junaid wants to be sure the wish for surgery comes from the patient, so he discusses timing with both the patient and the family at consultation."
-- q: "Is rhinoplasty available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your rhinoplasty consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your surgery, splint removal and follow-up visits would take place."
 ---
 
 ## About rhinoplasty

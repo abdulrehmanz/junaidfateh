@@ -46,7 +46,7 @@ layout: layouts/base.njk
       <div>
         <p class="eyebrow">About the author</p>
         <h2>{{ site.fullName }}</h2>
-        <p>{{ site.jobTitle }} ({{ site.shortCredentials }}) seeing patients in Lahore and Layyah. <a href="/about/">Read more about Dr. Junaid</a>.</p>
+        <p>{{ site.jobTitle }} ({{ site.shortCredentials }}) seeing patients in Lahore. <a href="/about/">Read more about Dr. Junaid</a>.</p>
       </div>
     </div>
   </article>
@@ -54,7 +54,7 @@ layout: layouts/base.njk
   <aside class="proc-aside">
     <div class="aside-card aside-card--doctor">
       <p class="aside-card__title">Have a question?</p>
-      <p>Send Dr. Junaid a message and book a consultation in Lahore, Layyah or online.</p>
+      <p>Send Dr. Junaid a message and book a consultation in Lahore or online.</p>
       <a class="btn btn--gold btn--block" href="{{ '' | waLink }}" data-consult><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
     </div>
     {% set relatedProcs = collections.procedures | bySlugs(related_procedures) %}

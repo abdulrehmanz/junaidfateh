@@ -6,11 +6,11 @@ order: 6
 specialty: false
 summary: "A gentle multi-step facial that cleanses, exfoliates, clears pores and hydrates, for fresher, brighter-looking skin with no downtime."
 seo:
-  title: "HydraFacial in Lahore & Layyah | Dr. Junaid Fateh"
-  description: "HydraFacial in Lahore and Layyah with Dr. Junaid Fateh, FCPS. A 30 to 45 minute medical facial with no downtime. Book a consultation on WhatsApp."
-  keywords: "HydraFacial in Lahore, HydraFacial price in Lahore, HydraFacial cost in Lahore, HydraFacial price in Pakistan, best HydraFacial in Lahore, HydraFacial near me, HydraFacial Layyah, HydraFacial before and after, hydra facial Lahore, hydrafacial treatment Lahore, medical facial Lahore, bridal facial Lahore, deep cleansing facial Lahore, hydradermabrasion Pakistan, chehre ki gehri safai, chehre par nikhar lane ka tareeqa, Dr Junaid Fateh"
+  title: "HydraFacial in Lahore | Dr. Junaid Fateh"
+  description: "HydraFacial in Lahore with Dr. Junaid Fateh, FCPS. A 30 to 45 minute medical facial with no downtime. Book a consultation on WhatsApp."
+  keywords: "HydraFacial in Lahore, HydraFacial price in Lahore, HydraFacial cost in Lahore, HydraFacial price in Pakistan, best HydraFacial in Lahore, HydraFacial near me, HydraFacial before and after, hydra facial Lahore, hydrafacial treatment Lahore, medical facial Lahore, bridal facial Lahore, deep cleansing facial Lahore, hydradermabrasion Pakistan, chehre ki gehri safai, chehre par nikhar lane ka tareeqa, Dr Junaid Fateh"
 hero_subtitle: "Cleaner pores and a hydrated glow in under an hour, with no downtime"
-quick_answer: "A HydraFacial is a multi-step medical facial that cleanses, gently exfoliates, clears pores with suction and infuses hydrating serums, leaving skin fresher and brighter. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. A session takes 30 to 45 minutes, needs no anaesthesia and has no downtime. The glow is visible straight away, and monthly sessions help maintain it. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "A HydraFacial is a multi-step medical facial that cleanses, gently exfoliates, clears pores with suction and infuses hydrating serums, leaving skin fresher and brighter. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore. A session takes 30 to 45 minutes, needs no anaesthesia and has no downtime. The glow is visible straight away, and monthly sessions help maintain it. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Hydra facial"
   - "Hydrafacial treatment"
@@ -19,7 +19,7 @@ also_known_as:
   - "Deep cleansing facial"
   - "Chehre ki gehri safai"
 urdu_name: "ہائیڈرا فیشل"
-roman_urdu_summary: "HydraFacial ek medical facial hai jis mein ek hi session mein chehre ki gehri safai, halki exfoliation, masaam ki safai aur hydration ki jati hai, jis se jild taaza aur chamakdar nazar aati hai. Dr. Junaid Fateh ke Lahore aur Layyah clinics mein jild ke muayne ke baad yeh treatment kiya jata hai, aur is ke baad koi downtime nahi hota. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "HydraFacial ek medical facial hai jis mein ek hi session mein chehre ki gehri safai, halki exfoliation, masaam ki safai aur hydration ki jati hai, jis se jild taaza aur chamakdar nazar aati hai. Dr. Junaid Fateh ke Lahore clinic mein jild ke muayne ke baad yeh treatment kiya jata hai, aur is ke baad koi downtime nahi hota. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -116,15 +116,13 @@ faqs:
   a: "A HydraFacial is gentle and side effects are usually mild. Sensitive skin may look pink for a few hours, and some people feel slight tingling or dryness afterwards. To keep irritation low, your skin is assessed first, the serums and intensity are adjusted for sensitive skin, and treatment is postponed if you have sunburn, open wounds, a cold sore, an eczema or rosacea flare, or have recently taken isotretinoin."
 - q: "When will I see the final results of a HydraFacial?"
   a: "The glow is visible as soon as the session ends and is usually most noticeable for several days to about a week. There is no single final result as there is with surgery: regular monthly sessions build on each other for clearer pores and better hydration over time. Results vary between people."
-- q: "Is HydraFacial available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About HydraFacial
 
 A HydraFacial is a clinical facial that works through several steps in a single session. Your skin is cleansed and gently exfoliated, a mild acid solution loosens dead cells and oil, and a suction tip draws blackheads and debris out of the pores. The final step infuses hydrating serums into the freshly cleansed skin.
 
-Because each step is controlled, the treatment is thorough without being harsh. There is no squeezing of spots and no recovery period, which is why it is popular before weddings, Eid and family gatherings, as well as a regular way to keep skin in good condition. Dr. Junaid Fateh offers HydraFacial treatments at his Lahore and Layyah clinics as part of his non-surgical aesthetics service.
+Because each step is controlled, the treatment is thorough without being harsh. There is no squeezing of spots and no recovery period, which is why it is popular before weddings, Eid and family gatherings, as well as a regular way to keep skin in good condition. Dr. Junaid Fateh offers HydraFacial treatments at his Lahore clinic as part of his non-surgical aesthetics service.
 
 It helps to keep expectations realistic. A HydraFacial gives skin a clean, hydrated glow and helps with congestion and dullness, but it will not remove deep scars or stubborn pigmentation on its own. For those concerns, it usually forms one part of a broader plan.
 

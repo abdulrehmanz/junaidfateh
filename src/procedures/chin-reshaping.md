@@ -8,7 +8,7 @@ summary: "Chin reshaping in Lahore with Dr. Junaid Fateh, using an implant, bone
 seo:
   title: "Chin Reshaping & Chin Implants in Lahore | Dr. Junaid Fateh"
   description: "Chin reshaping in Lahore with Dr. Junaid Fateh, FCPS. Chin implant, genioplasty or filler as a day case, with 1 to 2 weeks off. Book a consultation on WhatsApp."
-  keywords: "chin reshaping in Lahore, chin implant in Lahore, chin implant cost in Lahore, chin surgery price in Pakistan, best chin surgeon in Lahore, chin implant near me, chin surgery Layyah, chin implant before and after, chin surgery recovery, chin augmentation Lahore, genioplasty Lahore, mentoplasty, chin reduction Lahore, weak chin correction, chin filler Lahore, thodi ki surgery, thodi ka implant, Dr Junaid Fateh"
+  keywords: "chin reshaping in Lahore, chin implant in Lahore, chin implant cost in Lahore, chin surgery price in Pakistan, best chin surgeon in Lahore, chin implant near me, chin implant before and after, chin surgery recovery, chin augmentation Lahore, genioplasty Lahore, mentoplasty, chin reduction Lahore, weak chin correction, chin filler Lahore, thodi ki surgery, thodi ka implant, Dr Junaid Fateh"
 hero_subtitle: "A chin in proportion with your nose, lips and jaw, for a balanced profile"
 quick_answer: "Chin reshaping alters chin size or shape with an implant, bone repositioning (genioplasty) or filler to balance your profile. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 1 to 2 hours as a day case under general anaesthesia or local with sedation, with 1 to 2 weeks off. Implant and bone results are permanent; filler is temporary. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -21,7 +21,7 @@ also_known_as:
   - "Thodi ki surgery"
   - "Thodi ka implant"
 urdu_name: "ٹھوڑی کی سرجری"
-roman_urdu_summary: "Chin reshaping mein implant, haddi ki position badal kar (genioplasty) ya filler se thodi ko chehre ke mutabiq banaya jata hai, taake naak, honton aur jawline ke saath balance aa jaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Chin reshaping mein implant, haddi ki position badal kar (genioplasty) ya filler se thodi ko chehre ke mutabiq banaya jata hai, taake naak, honton aur jawline ke saath balance aa jaye. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Chin"
 price_from: ''
 stats:
@@ -119,8 +119,6 @@ faqs:
   a: "Like any surgery, chin reshaping carries risks. Swelling, bruising, tightness and temporary numbness of the lower lip and chin are common and usually improve over weeks to months. Less common risks include infection, an implant shifting out of position, asymmetry and, rarely, numbness that lasts longer. Choosing the right technique and implant size, keeping your mouth clean and avoiding knocks to the chin all help reduce these risks."
 - q: "When will I see the final results of chin reshaping?"
   a: "The new shape of your chin shows straight away, but swelling hides the detail at first. Most people look presentable after two to three weeks, numbness usually improves over one to three months, and the final contour of the chin and jawline becomes clear at around three to six months. Genioplasty tends to take a little longer to settle than an implant."
-- q: "Is chin reshaping available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your chin reshaping consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your treatment and follow-up visits would take place."
 ---
 
 ## About chin reshaping

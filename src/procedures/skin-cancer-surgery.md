@@ -6,11 +6,11 @@ order: 4
 specialty: false
 summary: "Complete removal of skin cancers such as basal cell carcinoma, followed by careful reconstruction to keep scars discreet and features natural."
 seo:
-  title: "Skin Cancer Surgery in Lahore & Layyah | Dr. Junaid Fateh"
+  title: "Skin Cancer Surgery in Lahore | Dr. Junaid Fateh"
   description: "Skin cancer surgery in Lahore with Dr. Junaid Fateh, FCPS, for BCC, SCC and melanoma, with careful repair. Often a day case. Book a consultation on WhatsApp."
-  keywords: "skin cancer surgery in Lahore, skin cancer surgery cost in Lahore, skin cancer treatment price in Pakistan, best skin cancer surgeon in Lahore, skin cancer surgeon near me, skin cancer surgery Layyah, skin cancer removal, basal cell carcinoma surgery Lahore, squamous cell carcinoma treatment Pakistan, melanoma surgery Lahore, suspicious mole removal Lahore, Mohs surgery Lahore, skin cancer surgery before and after, skin cancer surgery recovery, jild ke cancer ka ilaj, skin cancer ka operation, Dr Junaid Fateh"
+  keywords: "skin cancer surgery in Lahore, skin cancer surgery cost in Lahore, skin cancer treatment price in Pakistan, best skin cancer surgeon in Lahore, skin cancer surgeon near me, skin cancer removal, basal cell carcinoma surgery Lahore, squamous cell carcinoma treatment Pakistan, melanoma surgery Lahore, suspicious mole removal Lahore, Mohs surgery Lahore, skin cancer surgery before and after, skin cancer surgery recovery, jild ke cancer ka ilaj, skin cancer ka operation, Dr Junaid Fateh"
 hero_subtitle: "Removing skin cancer completely, then rebuilding with care for how you look"
-quick_answer: "Skin cancer surgery removes cancers such as basal cell carcinoma, squamous cell carcinoma and melanoma with a margin of healthy skin, then closes the wound with stitches, a flap or a graft. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Surgery takes 1 to 4 hours under local or general anaesthesia, often as a day case, with 1 to 3 weeks of recovery. Cost is confirmed after consultation."
+quick_answer: "Skin cancer surgery removes cancers such as basal cell carcinoma, squamous cell carcinoma and melanoma with a margin of healthy skin, then closes the wound with stitches, a flap or a graft. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore. Surgery takes 1 to 4 hours under local or general anaesthesia, often as a day case, with 1 to 3 weeks of recovery. Cost is confirmed after consultation."
 also_known_as:
   - "Skin cancer removal"
   - "Skin cancer excision"
@@ -20,7 +20,7 @@ also_known_as:
   - "Jild ke cancer ka operation"
   - "Skin cancer ka ilaj"
 urdu_name: "جلد کے کینسر کی سرجری"
-roman_urdu_summary: "Skin cancer surgery mein jild ka cancer, jaise BCC ya SCC, aas paas ki sehatmand jild ke kuch hisse ke sath nikala jata hai aur zakhm ko is tarah band kiya jata hai ke nishan kam nazar aaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Agar koi daana ya zakhm theek nahin ho raha, to mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Skin cancer surgery mein jild ka cancer, jaise BCC ya SCC, aas paas ki sehatmand jild ke kuch hisse ke sath nikala jata hai aur zakhm ko is tarah band kiya jata hai ke nishan kam nazar aaye. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain. Agar koi daana ya zakhm theek nahin ho raha, to mashware ke liye WhatsApp par rabta karein."
 body_location: "Skin"
 price_from: ''
 stats:
@@ -112,13 +112,11 @@ faqs:
 - q: How much does skin cancer surgery cost in Lahore?
   a: "The cost depends on the size, number and location of the lesions, the type of reconstruction needed, the anaesthetic, and histopathology fees. Dr. Junaid will give you a personalised quote after your consultation. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
-  a: "Yes. Send clear photos of the spot and any biopsy or pathology reports on WhatsApp, then book a video consultation. A photo cannot confirm a diagnosis, but Dr. Junaid can advise on how urgently you should be seen. The final plan is confirmed after he examines you in person in Lahore or Layyah."
+  a: "Yes. Send clear photos of the spot and any biopsy or pathology reports on WhatsApp, then book a video consultation. A photo cannot confirm a diagnosis, but Dr. Junaid can advise on how urgently you should be seen. The final plan is confirmed after he examines you in person in Lahore."
 - q: "What is Mohs surgery and do I need it?"
   a: "Mohs micrographic surgery removes a skin cancer layer by layer, checking each layer under the microscope during the procedure until the margins are clear. It is especially useful for basal and squamous cell cancers on the face, ears and eyelids where saving healthy skin matters. Dr. Junaid will advise whether Mohs or standard excision is the better option for your lesion."
 - q: "What are the risks or side effects of skin cancer surgery?"
   a: "Common effects are bruising, swelling and a scar. Less often there is bleeding, infection, the wound opening, numbness near the scar, or a flap or graft that heals slowly. Sometimes the report shows that the cancer reached the edge of the removed skin, and a further small operation is needed. Risks are reduced by careful planning, sending every specimen for histopathology, good wound care and not smoking. Dr. Junaid goes through these with you at consultation."
-- q: "Is skin cancer surgery available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a suspicious spot can be assessed in either city. Ask on WhatsApp which procedures are done at which location. If a spot is growing, bleeding or not healing, do not delay having it checked."
 ---
 
 ## About Skin Cancer Surgery
@@ -127,7 +125,7 @@ Skin cancer begins when skin cells grow out of control, most often after years o
 
 In Pakistan, strong sunshine and years of outdoor work in fields, on building sites or on the roads all add up. Skin cancer can also arise in old burn scars or wounds that have never fully healed. Spotting a suspicious lesion early usually means a smaller operation and a smaller scar.
 
-Surgery is the main treatment for most skin cancers. Dr. Junaid Fateh, a plastic and reconstructive surgeon working in Lahore and Layyah, removes the cancer with a safe margin of healthy skin and then closes the wound in a way that respects your appearance, which matters most on the face.
+Surgery is the main treatment for most skin cancers. Dr. Junaid Fateh, a plastic and reconstructive surgeon working in Lahore, removes the cancer with a safe margin of healthy skin and then closes the wound in a way that respects your appearance, which matters most on the face.
 
 ## How Dr. Junaid approaches skin cancer surgery
 

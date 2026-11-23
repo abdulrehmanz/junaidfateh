@@ -8,9 +8,9 @@ summary: "Breast augmentation in Lahore with Dr. Junaid Fateh, using implants ch
 seo:
   title: "Breast Augmentation & Implants in Lahore | Dr. Junaid Fateh"
   description: "Breast augmentation in Lahore with Dr. Junaid Fateh, FCPS. Implants matched to your frame, desk work in 1 to 2 weeks. Book a consultation on WhatsApp."
-  keywords: "breast augmentation in Lahore, breast augmentation cost in Lahore, breast augmentation price in Pakistan, best breast augmentation surgeon in Lahore, breast augmentation near me, breast augmentation Layyah, breast augmentation before and after, breast augmentation recovery, breast implants Lahore, breast implants price in Pakistan, silicone breast implants Lahore, augmentation mammoplasty, breast enlargement surgery Pakistan, breast enhancement surgery Lahore, chhati bari karne ki surgery, breast implant lagwana, Dr Junaid Fateh"
+  keywords: "breast augmentation in Lahore, breast augmentation cost in Lahore, breast augmentation price in Pakistan, best breast augmentation surgeon in Lahore, breast augmentation near me, breast augmentation before and after, breast augmentation recovery, breast implants Lahore, breast implants price in Pakistan, silicone breast implants Lahore, augmentation mammoplasty, breast enlargement surgery Pakistan, breast enhancement surgery Lahore, chhati bari karne ki surgery, breast implant lagwana, Dr Junaid Fateh"
 hero_subtitle: "Natural-looking breast enhancement, planned privately around your frame"
-quick_answer: "Breast augmentation increases breast size and fullness, most often with silicone or saline implants. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore and Layyah. Surgery takes about 1 to 2 hours under general anaesthesia, as a day case or one night stay. Recovery takes 1 to 2 weeks, and implants often last 10 to 15 years or more. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Breast augmentation increases breast size and fullness, most often with silicone or saline implants. Dr. Junaid Fateh, an FCPS plastic surgeon, sees patients in Lahore. Surgery takes about 1 to 2 hours under general anaesthesia, as a day case or one night stay. Recovery takes 1 to 2 weeks, and implants often last 10 to 15 years or more. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Augmentation mammoplasty"
   - "Breast implants"
@@ -20,7 +20,7 @@ also_known_as:
   - "Chhati bari karne ki surgery"
   - "Breast implant lagwana"
 urdu_name: "چھاتی بڑی کرنے کی سرجری"
-roman_urdu_summary: "Breast augmentation mein implant ke zariye chhati ka size aur shape behtar kiya jata hai, taake woh aap ke jism ke mutabiq mutanasib nazar aaye. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore aur Layyah mein mareezon ko dekhte hain aur implant ka size aap ke naap ke hisab se tajweez karte hain. Aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Breast augmentation mein implant ke zariye chhati ka size aur shape behtar kiya jata hai, taake woh aap ke jism ke mutabiq mutanasib nazar aaye. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein mareezon ko dekhte hain aur implant ka size aap ke naap ke hisab se tajweez karte hain. Aap ka mashwara mukammal tor par private rehta hai. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Breast"
 price_from: ''
 stats:
@@ -118,8 +118,6 @@ faqs:
   a: "Soreness, swelling and tightness are expected for the first weeks, and the implants usually drop and soften into their final position over 3 to 6 months. Less common risks include bleeding, infection, hardening of the scar tissue around the implant (capsular contracture), implant leak or rupture, visible rippling, changes in nipple sensation, asymmetry and the need for further surgery later in life. Dr. Junaid reduces these risks with a health check before surgery, an implant matched to your own tissues and regular follow-up."
 - q: "What is the best age for breast augmentation?"
   a: "Breast augmentation is considered only once you are over 18 and your breasts have finished developing. Many women choose it after having children, once breastfeeding has ended and the breasts have settled. There is no fixed upper age limit if you are in good health, and if you plan more pregnancies Dr. Junaid will talk through the timing with you."
-- q: "Is breast augmentation available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in whichever city is easier for you. Please ask on WhatsApp which procedures are carried out at which location, and you will be helped to plan your surgery date, travel and follow-up visits."
 ---
 
 ## About Breast Augmentation

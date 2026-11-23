@@ -8,7 +8,7 @@ summary: "Neck lift surgery in Lahore to tighten loose neck skin, soften muscle 
 seo:
   title: "Neck Lift Surgery in Lahore | Dr. Junaid Fateh"
   description: "Neck lift (cervicoplasty) in Lahore with Dr. Junaid Fateh, FCPS. Tightens loose neck skin and bands for a sharper jawline, 2 to 3 weeks off. Book on WhatsApp."
-  keywords: "neck lift in Lahore, neck lift surgery Lahore, neck lift cost in Lahore, neck lift price in Pakistan, best neck lift surgeon in Lahore, neck lift near me, neck lift Layyah, neck lift before and after, neck lift recovery, cervicoplasty, platysmaplasty, turkey neck surgery, neck tightening surgery, double chin surgery Lahore, face and neck lift Lahore, gardan ki dheeli jild ka ilaj, gardan ki jhuriyan ka ilaj, Dr Junaid Fateh"
+  keywords: "neck lift in Lahore, neck lift surgery Lahore, neck lift cost in Lahore, neck lift price in Pakistan, best neck lift surgeon in Lahore, neck lift near me, neck lift before and after, neck lift recovery, cervicoplasty, platysmaplasty, turkey neck surgery, neck tightening surgery, double chin surgery Lahore, face and neck lift Lahore, gardan ki dheeli jild ka ilaj, gardan ki jhuriyan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A smoother neck and a sharper jawline, planned around your anatomy"
 quick_answer: "A neck lift (cervicoplasty) tightens loose neck skin and softens muscle bands under the chin for a smoother neck and a sharper jawline. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. Surgery takes 2 to 3 hours under general anesthesia or local with sedation, and most people need 2 to 3 weeks off. Results are long-lasting, often 5 to 10 years. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
@@ -20,7 +20,7 @@ also_known_as:
   - "Gardan ki dheeli jild ka ilaj"
   - "Gardan ki jhuriyan ka ilaj"
 urdu_name: "گردن کی لفٹ سرجری"
-roman_urdu_summary: "Neck lift mein gardan ki dheeli jild aur thodi ke neeche ki lakeeron (bands) ko kasa jata hai, taake jawline saaf aur gardan smooth nazar aaye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur har plan aap ki banawat ke mutabiq banate hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Neck lift mein gardan ki dheeli jild aur thodi ke neeche ki lakeeron (bands) ko kasa jata hai, taake jawline saaf aur gardan smooth nazar aaye. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur har plan aap ki banawat ke mutabiq banate hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Neck"
 price_from: ''
 stats:
@@ -115,8 +115,6 @@ faqs:
   a: "Yes, and many overseas Pakistanis start this way. Send clear front and side photos of your neck on WhatsApp and book a video consultation. Dr. Junaid can discuss your options and a likely plan, and the final plan is confirmed when he examines you in person."
 - q: "When will I see the final results of a neck lift?"
   a: "The smoother neck and jawline start to show as bruising fades over the first two to three weeks. Numbness and tightness keep easing over the following weeks, and the last of the swelling settles at around three to six months, when the final neck contour is clear. The scars continue to soften after that."
-- q: "Is a neck lift available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your neck lift consultation can be in either city. Ask on WhatsApp which procedures are carried out at which location, and you will be told where your surgery and follow-up visits would take place."
 ---
 
 ## About Neck Lift (Cervicoplasty)

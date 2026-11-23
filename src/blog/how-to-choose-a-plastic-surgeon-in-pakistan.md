@@ -7,7 +7,7 @@ category: "Patient Guides"
 image: /assets/images/doctor/dr-junaid-fateh.webp
 image_alt: "Portrait of Dr. Muhammad Junaid Fateh, plastic, cosmetic and reconstructive surgeon in Lahore"
 related_procedures: [fue-hair-transplant, liposuction, rhinoplasty]
-keywords: "how to choose a plastic surgeon, how to choose a plastic surgeon in Pakistan, best plastic surgeon in Lahore, plastic surgeon in Lahore, FCPS plastic surgeon Lahore, qualified cosmetic surgeon Pakistan, check PMDC registration, PMDC doctor search, questions to ask a plastic surgeon, plastic surgery red flags, cosmetic surgeon vs plastic surgeon, plastic surgeon Layyah, safe cosmetic surgery in Pakistan, Dr Junaid Fateh, acha plastic surgeon kaise dhoondein, plastic surgeon ka intekhab"
+keywords: "how to choose a plastic surgeon, how to choose a plastic surgeon in Pakistan, best plastic surgeon in Lahore, plastic surgeon in Lahore, FCPS plastic surgeon Lahore, qualified cosmetic surgeon Pakistan, check PMDC registration, PMDC doctor search, questions to ask a plastic surgeon, plastic surgery red flags, cosmetic surgeon vs plastic surgeon, safe cosmetic surgery in Pakistan, Dr Junaid Fateh, acha plastic surgeon kaise dhoondein, plastic surgeon ka intekhab"
 key_takeaways:
   - "Check that your surgeon is registered with the PMDC, using its public online search."
   - "Look for specialist training in plastic surgery, such as FCPS Plastic Surgery from the CPSP, not just a title like \"cosmetic surgeon\"."
@@ -107,6 +107,6 @@ A large following, polished videos or celebrity clients do not tell you how safe
 
 ## Talk to Dr. Junaid
 
-If you are considering surgery, whether a [hair transplant in Lahore](/hair-transplant/), body contouring such as [liposuction](/procedures/liposuction/) or facial surgery like [rhinoplasty](/procedures/rhinoplasty/), Dr. Junaid is happy to answer your questions openly. Send a message on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. If you live abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how it works.
+If you are considering surgery, whether a [hair transplant in Lahore](/hair-transplant/), body contouring such as [liposuction](/procedures/liposuction/) or facial surgery like [rhinoplasty](/procedures/rhinoplasty/), Dr. Junaid is happy to answer your questions openly. Send a message on WhatsApp and [book a consultation](/contact/) in Lahore. If you live abroad, a video consultation is available, and the [overseas patients](/overseas-patients/) page explains how it works.
 
 *This article is general information and not a substitute for a personal medical consultation.*

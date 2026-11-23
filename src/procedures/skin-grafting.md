@@ -6,11 +6,11 @@ order: 6
 specialty: false
 summary: "Moving healthy skin to cover burns, injuries and surgical wounds that cannot close on their own, so the area heals and stays protected."
 seo:
-  title: "Skin Graft Surgery in Lahore & Layyah | Dr. Junaid Fateh"
+  title: "Skin Graft Surgery in Lahore | Dr. Junaid Fateh"
   description: "Skin graft surgery in Lahore with Dr. Junaid Fateh, FCPS, for burns, injuries and non-healing wounds. Recovery is 2 to 4 weeks. Book a consultation on WhatsApp."
-  keywords: "skin grafting in Lahore, skin graft surgery Lahore, skin graft cost in Lahore, skin graft price in Pakistan, best skin graft surgeon in Lahore, skin graft surgery near me, skin grafting Layyah, skin graft for burns, split thickness skin graft, full thickness skin graft, skin transplant surgery Pakistan, skin graft before and after, skin graft recovery, jild ki paiwand kari, zakhm par jild lagana, Dr Junaid Fateh"
+  keywords: "skin grafting in Lahore, skin graft surgery Lahore, skin graft cost in Lahore, skin graft price in Pakistan, best skin graft surgeon in Lahore, skin graft surgery near me, skin graft for burns, split thickness skin graft, full thickness skin graft, skin transplant surgery Pakistan, skin graft before and after, skin graft recovery, jild ki paiwand kari, zakhm par jild lagana, Dr Junaid Fateh"
 hero_subtitle: "Healthy skin, moved with care, to close wounds that cannot heal by themselves"
-quick_answer: "Skin grafting moves healthy skin from one part of your body to cover a burn, injury or surgical wound that cannot close on its own. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. It takes 1 to 3 hours under local or general anaesthesia, with 1 to 3 days in hospital and 2 to 4 weeks of recovery. A graft that takes gives permanent cover. Cost is confirmed after consultation."
+quick_answer: "Skin grafting moves healthy skin from one part of your body to cover a burn, injury or surgical wound that cannot close on its own. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore. It takes 1 to 3 hours under local or general anaesthesia, with 1 to 3 days in hospital and 2 to 4 weeks of recovery. A graft that takes gives permanent cover. Cost is confirmed after consultation."
 also_known_as:
   - "Skin graft surgery"
   - "Split skin graft (SSG)"
@@ -20,7 +20,7 @@ also_known_as:
   - "Jild ki paiwand kari"
   - "Zakhm par jild lagana"
 urdu_name: "جلد کی پیوند کاری"
-roman_urdu_summary: "Skin grafting mein jism ke kisi hisse se sehatmand jild le kar aise zakhm, jalne ya chot ki jagah par lagai jati hai jo khud nahin bhar rahi. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain aur zakhm ke mutabiq graft ki qisam ka faisla karte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Skin grafting mein jism ke kisi hisse se sehatmand jild le kar aise zakhm, jalne ya chot ki jagah par lagai jati hai jo khud nahin bhar rahi. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain aur zakhm ke mutabiq graft ki qisam ka faisla karte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Skin"
 price_from: ''
 stats:
@@ -112,11 +112,9 @@ faqs:
 - q: How much does skin grafting cost in Lahore?
   a: "The cost depends on the size and location of the wound, the type of graft, any preparation the wound needs first, the anaesthetic and the length of your hospital stay. Dr. Junaid will give you a personalised quote after your consultation. For a general guide to what affects pricing, see the [cost guide](/cost-guide/)."
 - q: Can I have an online consultation from abroad?
-  a: "Yes. Send clear photos of the wound and any reports on WhatsApp, then book a video consultation. Dr. Junaid can advise whether grafting is likely to help and what preparation may be needed, and the final plan is confirmed after he examines you in person in Lahore or Layyah."
+  a: "Yes. Send clear photos of the wound and any reports on WhatsApp, then book a video consultation. Dr. Junaid can advise whether grafting is likely to help and what preparation may be needed, and the final plan is confirmed after he examines you in person in Lahore."
 - q: "When will I see the final results of skin grafting?"
   a: "The first dressing change at 5 to 7 days shows how well the graft has taken, and a split-thickness donor site usually heals in 2 to 3 weeks. The graft then settles over 1 to 3 months. Colour and texture keep improving after that, and the final appearance is usually judged at around a year."
-- q: "Is skin grafting available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your wound can be assessed in either city. Ask on WhatsApp which procedures are done at which location. For a fresh burn or injury, go to the nearest emergency department first."
 ---
 
 ## About Skin Grafting

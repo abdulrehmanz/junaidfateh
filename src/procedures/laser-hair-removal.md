@@ -6,11 +6,11 @@ order: 5
 specialty: false
 summary: "Long-term reduction of unwanted facial and body hair for women and men, with laser settings chosen carefully for South Asian skin."
 seo:
-  title: "Laser Hair Removal in Lahore & Layyah | Dr. Junaid Fateh"
-  description: "Laser hair removal in Lahore and Layyah with Dr. Junaid Fateh, FCPS, with settings for brown skin. Usually 6 to 8 sessions. Book a consultation on WhatsApp."
-  keywords: "laser hair removal in Lahore, laser hair removal price in Lahore, laser hair removal cost in Lahore, laser hair removal price in Pakistan, best laser hair removal in Lahore, laser hair removal near me, laser hair removal Layyah, laser hair removal before and after, laser hair removal sessions, facial hair laser Lahore, underarm laser hair removal Lahore, laser hair removal for dark skin Pakistan, permanent hair reduction Lahore, laser hair removel, faltu baal khatam karne ka tareeqa, chehre ke baal hatane ka ilaj, Dr Junaid Fateh"
+  title: "Laser Hair Removal in Lahore | Dr. Junaid Fateh"
+  description: "Laser hair removal in Lahore with Dr. Junaid Fateh, FCPS, with settings for brown skin. Usually 6 to 8 sessions. Book a consultation on WhatsApp."
+  keywords: "laser hair removal in Lahore, laser hair removal price in Lahore, laser hair removal cost in Lahore, laser hair removal price in Pakistan, best laser hair removal in Lahore, laser hair removal near me, laser hair removal before and after, laser hair removal sessions, facial hair laser Lahore, underarm laser hair removal Lahore, laser hair removal for dark skin Pakistan, permanent hair reduction Lahore, laser hair removel, faltu baal khatam karne ka tareeqa, chehre ke baal hatane ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "Less shaving, waxing and threading, with treatment suited to your skin type"
-quick_answer: "Laser hair removal uses laser light to target the pigment in hair, giving long-term reduction of unwanted facial and body hair for women and men. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah, with settings for South Asian skin. Sessions take 15 to 60 minutes with built-in cooling and no downtime, and most areas need 6 to 8 sessions. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Laser hair removal uses laser light to target the pigment in hair, giving long-term reduction of unwanted facial and body hair for women and men. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore, with settings for South Asian skin. Sessions take 15 to 60 minutes with built-in cooling and no downtime, and most areas need 6 to 8 sessions. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Laser hair reduction"
   - "Laser hair removel"
@@ -19,7 +19,7 @@ also_known_as:
   - "Faltu baal khatam karne ka tareeqa"
   - "Chehre ke baal hatane ka ilaj"
 urdu_name: "لیزر سے غیر ضروری بال ہٹانا"
-roman_urdu_summary: "Laser hair removal se chehre aur jism ke ghair zaroori baal lambe arse ke liye kaafi kam ho jate hain, aur yeh khawateen aur mard dono ke liye hai. Dr. Junaid Fateh Lahore aur Layyah mein Pakistani jild ke mutabiq laser settings chun kar yeh treatment karte hain, aur aam tor par 6 se 8 sessions lagte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Laser hair removal se chehre aur jism ke ghair zaroori baal lambe arse ke liye kaafi kam ho jate hain, aur yeh khawateen aur mard dono ke liye hai. Dr. Junaid Fateh Lahore mein Pakistani jild ke mutabiq laser settings chun kar yeh treatment karte hain, aur aam tor par 6 se 8 sessions lagte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face and body"
 price_from: ''
 stats:
@@ -114,15 +114,13 @@ faqs:
   a: "Shave the area a day before, but stop waxing, threading and plucking for several weeks beforehand, because the laser needs the hair root to be present. Avoid sun tanning and arrive without creams or deodorant on the area."
 - q: "When will I see the final results of laser hair removal?"
   a: "Treated hairs usually shed within one to two weeks of each session, and regrowth becomes lighter as the course goes on. The final result is judged after the full course, which for most areas is six to eight sessions spaced four to eight weeks apart. Facial and hormonal hair can take longer, and some people need occasional maintenance sessions."
-- q: "Is laser hair removal available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Laser Hair Removal
 
 Laser hair removal uses pulses of concentrated light that are absorbed by the dark pigment in hair. The light turns into heat inside the follicle, damaging the parts that produce new hair while leaving the surrounding skin intact. Over a course of sessions, this reduces how much hair grows back, and the hair that does return is usually finer and slower-growing.
 
-For many people in Pakistan the appeal is simple: less time spent threading, waxing or shaving, and fewer ingrown hairs and dark marks from repeated hair removal. Dr. Junaid Fateh offers laser hair removal at his clinics in Lahore and Layyah for both women and men, on the face and body.
+For many people in Pakistan the appeal is simple: less time spent threading, waxing or shaving, and fewer ingrown hairs and dark marks from repeated hair removal. Dr. Junaid Fateh offers laser hair removal at his clinic in Lahore for both women and men, on the face and body.
 
 Hair grows in phases, and laser only affects the hairs that are actively growing at the time of treatment. That is why one session is never enough and treatment is spread over several months. Because the laser relies on the contrast between dark hair and the surrounding skin, the colour of your hair matters as much as your skin tone.
 

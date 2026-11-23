@@ -7,10 +7,10 @@ specialty: true
 summary: "Hyaluronic acid fillers to restore lost volume, shape cheeks, lips, chin and jawline, and soften folds, planned for a balanced, natural result."
 seo:
   title: "Dermal & Lip Fillers in Lahore | Dr. Junaid Fateh"
-  description: "Dermal and lip fillers in Lahore and Layyah with Dr. Junaid Fateh, FCPS. Results last 6 to 18 months, depending on the area. Book a consultation on WhatsApp."
-  keywords: "dermal fillers in Lahore, lip fillers Lahore, fillers price in Lahore, filler cost in Lahore, dermal fillers price in Pakistan, best filler doctor in Lahore, fillers near me, fillers Layyah, lip fillers before and after, filler recovery, cheek fillers Lahore, under eye fillers Lahore, jawline filler Lahore, hyaluronic acid fillers Pakistan, derma fillers, honton ka filler, gaalon ka filler, Dr Junaid Fateh"
+  description: "Dermal and lip fillers in Lahore with Dr. Junaid Fateh, FCPS. Results last 6 to 18 months, depending on the area. Book a consultation on WhatsApp."
+  keywords: "dermal fillers in Lahore, lip fillers Lahore, fillers price in Lahore, filler cost in Lahore, dermal fillers price in Pakistan, best filler doctor in Lahore, fillers near me, lip fillers before and after, filler recovery, cheek fillers Lahore, under eye fillers Lahore, jawline filler Lahore, hyaluronic acid fillers Pakistan, derma fillers, honton ka filler, gaalon ka filler, Dr Junaid Fateh"
 hero_subtitle: "Restore lost volume and refine your features without surgery"
-quick_answer: "Dermal fillers are soft hyaluronic acid gels injected under the skin to restore lost volume, shape the cheeks, lips, chin and jawline, and soften folds. FCPS plastic surgeon Dr. Junaid Fateh offers them to patients in Lahore and Layyah. Treatment takes 15 to 45 minutes under numbing cream, mild swelling usually settles in 1 to 2 days, and results last 6 to 18 months. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Dermal fillers are soft hyaluronic acid gels injected under the skin to restore lost volume, shape the cheeks, lips, chin and jawline, and soften folds. FCPS plastic surgeon Dr. Junaid Fateh offers them to patients in Lahore. Treatment takes 15 to 45 minutes under numbing cream, mild swelling usually settles in 1 to 2 days, and results last 6 to 18 months. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Lip fillers"
   - "Hyaluronic acid fillers"
@@ -20,7 +20,7 @@ also_known_as:
   - "Honton ka filler"
   - "Gaalon ka filler"
 urdu_name: "ڈرمل فلرز"
-roman_urdu_summary: "Fillers narm gel hote hain jo jild ke neeche lagaye jate hain, taake gaalon, honton, thori aur jawline mein kam hoti hui volume wapas aaye aur lakeerein narm hon. Dr. Junaid Fateh Lahore aur Layyah mein poore chehre ka jaiza le kar filler ka plan banate hain, taake nateeja qudrati lage. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Fillers narm gel hote hain jo jild ke neeche lagaye jate hain, taake gaalon, honton, thori aur jawline mein kam hoti hui volume wapas aaye aur lakeerein narm hon. Dr. Junaid Fateh Lahore mein poore chehre ka jaiza le kar filler ka plan banate hain, taake nateeja qudrati lage. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -115,8 +115,6 @@ faqs:
   a: "Hyaluronic acid fillers, the type most widely used in the face, can be dissolved with an enzyme called hyaluronidase. This gives a useful safety margin if a result needs correcting."
 - q: "When will I see the final results of dermal fillers?"
   a: "You see a change straight away, but swelling can hide the final shape for a few days, and lips often take the longest to settle. By around two weeks the filler has settled into the tissues and you see the final result, which is when Dr. Junaid can review balance and symmetry."
-- q: "Are dermal fillers available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Dermal Fillers
@@ -125,7 +123,7 @@ With time, the face slowly loses fat, bone support and some of the natural moist
 
 Most facial fillers today are made from hyaluronic acid, a sugar-based molecule your skin already produces. It holds water, feels natural once settled, and is gradually broken down by the body over months. Because it can also be dissolved with an enzyme, it offers a margin of safety that permanent fillers do not.
 
-Dr. Junaid Fateh offers filler treatments at his Lahore and Layyah clinics as part of his work in non-surgical aesthetics. Treatment is quick and the difference is visible straight away, but it is still a medical procedure that depends on detailed knowledge of facial anatomy.
+Dr. Junaid Fateh offers filler treatments at his Lahore clinic as part of his work in non-surgical aesthetics. Treatment is quick and the difference is visible straight away, but it is still a medical procedure that depends on detailed knowledge of facial anatomy.
 
 ## How Dr. Junaid approaches dermal fillers
 

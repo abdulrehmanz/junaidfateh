@@ -8,9 +8,9 @@ summary: "The strip method of hair transplant, suited to wider areas of loss tha
 seo:
   title: "FUT Hair Transplant (Strip) in Lahore | Dr. Junaid Fateh"
   description: "FUT strip hair transplant in Lahore by Dr. Junaid Fateh, FCPS, for advanced hair loss. Day case with 10 to 14 days recovery. Book a consultation on WhatsApp."
-  keywords: "FUT hair transplant in Lahore, FUT hair transplant cost in Lahore, FUT hair transplant price in Pakistan, best FUT hair transplant surgeon in Lahore, FUT hair transplant near me, FUT hair transplant Layyah, FUT hair transplant before and after, FUT hair transplant recovery, strip method hair transplant Lahore, strip hair transplant Pakistan, follicular unit transplantation Pakistan, FUT vs FUE, FUT scar, hair transplant for advanced baldness Lahore, trichophytic closure hair transplant, baal lagwana, ganjapan ka ilaj, Dr Junaid Fateh"
+  keywords: "FUT hair transplant in Lahore, FUT hair transplant cost in Lahore, FUT hair transplant price in Pakistan, best FUT hair transplant surgeon in Lahore, FUT hair transplant near me, FUT hair transplant before and after, FUT hair transplant recovery, strip method hair transplant Lahore, strip hair transplant Pakistan, follicular unit transplantation Pakistan, FUT vs FUE, FUT scar, hair transplant for advanced baldness Lahore, trichophytic closure hair transplant, baal lagwana, ganjapan ka ilaj, Dr Junaid Fateh"
 hero_subtitle: "A high-yield strip technique for larger areas, with the scar placed to sit under your hair"
-quick_answer: "FUT hair transplant (follicular unit transplantation), or the strip method, removes a thin strip of scalp from the back and divides it into grafts for thinning areas. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh, who also sees patients in Layyah. It takes 4 to 8 hours under local anaesthetic and sedation, and recovery takes 10 to 14 days. Results are usually permanent. Cost is confirmed after consultation."
+quick_answer: "FUT hair transplant (follicular unit transplantation), or the strip method, removes a thin strip of scalp from the back and divides it into grafts for thinning areas. In Lahore it is performed by FCPS plastic surgeon Dr. Junaid Fateh. It takes 4 to 8 hours under local anaesthetic and sedation, and recovery takes 10 to 14 days. Results are usually permanent. Cost is confirmed after consultation."
 also_known_as:
   - "Follicular unit transplantation"
   - "Strip method hair transplant"
@@ -20,7 +20,7 @@ also_known_as:
   - "Baal lagwana"
   - "Ganjapan ka ilaj"
 urdu_name: "ایف یو ٹی ہیئر ٹرانسپلانٹ"
-roman_urdu_summary: "FUT ya strip method mein sar ke peeche se jild ki ek patli patti nikal kar grafts tayyar kiye jate hain aur unhein ganjapan wali jagah par lagaya jata hai. Yeh tareeqa zyada ganjapan aur lambe baal rakhne walon ke liye munasib ho sakta hai. Dr. Junaid Fateh Lahore mein yeh procedure karte hain aur Layyah mein bhi mareez dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "FUT ya strip method mein sar ke peeche se jild ki ek patli patti nikal kar grafts tayyar kiye jate hain aur unhein ganjapan wali jagah par lagaya jata hai. Yeh tareeqa zyada ganjapan aur lambe baal rakhne walon ke liye munasib ho sakta hai. Dr. Junaid Fateh Lahore mein yeh procedure karte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Scalp"
 price_from: ''
 stats:

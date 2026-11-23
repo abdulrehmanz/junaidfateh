@@ -1,6 +1,6 @@
 # Dr. Junaid Fateh: personal website
 
-Website of **Dr. Muhammad Junaid Fateh**, MBBS, FCPS (Plastic Surgery), plastic, cosmetic and reconstructive surgeon in Lahore and Layyah.
+Website of **Dr. Muhammad Junaid Fateh**, MBBS, FCPS (Plastic Surgery), plastic, cosmetic and reconstructive surgeon in Lahore.
 
 Built with [Eleventy](https://www.11ty.dev/) as a fast static site. All content lives in plain text files (Markdown and YAML), so pages can be added or edited without touching code. **See [CONTENT-GUIDE.md](CONTENT-GUIDE.md) for step-by-step instructions.**
 
@@ -12,7 +12,7 @@ Built with [Eleventy](https://www.11ty.dev/) as a fast static site. All content 
 - Before & after gallery, reviews and videos pages that fill themselves from the procedure files
 - WhatsApp booking form that pre-fills the procedure and location
 - English / Urdu switch (Google Translate)
-- Lahore and Layyah location pages for local search
+- Lahore location pages for local search
 - SEO and AI-search optimisation: answer-first "quick answer" boxes, Roman Urdu summaries and search names, 14 to 20 target keywords per page, 9 to 11 FAQs per procedure, unique titles and descriptions, canonical links, Open Graph, image and video sitemap, AI-friendly robots.txt, llms.txt and llms-full.txt, IndexNow pings after deploy, and schema.org structured data (Person, Physician, MedicalWebPage, MedicalProcedure, FAQPage, BlogPosting, VideoObject, ItemList, BreadcrumbList)
 - Blog with 16 patient-education articles
 - Optional Google Analytics 4 and Meta Pixel with lead tracking

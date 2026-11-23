@@ -4,7 +4,7 @@ eleventyExcludeFromCollections: true
 ---
 # {{ site.fullName }}: full procedure information
 
-{{ site.fullName }} ({{ site.shortCredentials }}) is a plastic, cosmetic and reconstructive surgeon seeing patients in Lahore and Layyah, Pakistan. Book on WhatsApp {{ site.phone }} (https://wa.me/{{ site.whatsapp }}). Website: {{ "/" | abs }}
+{{ site.fullName }} ({{ site.shortCredentials }}) is a plastic, cosmetic and reconstructive surgeon seeing patients in Lahore, Pakistan. Book on WhatsApp {{ site.phone }} (https://wa.me/{{ site.whatsapp }}). Website: {{ "/" | abs }}
 
 This file contains the text of every procedure page in plain markdown. Information is general and not a substitute for a personal consultation.
 
@@ -17,7 +17,7 @@ URL: {{ p.url | abs }}
 {%- if p.data.also_known_as %}
 Also known as: {{ p.data.also_known_as | join(", ") }}{% if p.data.urdu_name %}, {{ p.data.urdu_name }}{% endif %}
 {%- endif %}
-Performed by: {{ site.fullName }}, {{ site.shortCredentials }} (Lahore; consultations also in Layyah and online)
+Performed by: {{ site.fullName }}, {{ site.shortCredentials }} (clinic in Shadman, Lahore; online consultations available)
 
 {% if p.data.quick_answer %}**Quick answer:** {{ p.data.quick_answer | mdText }}{% endif %}
 

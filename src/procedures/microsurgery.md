@@ -8,9 +8,9 @@ summary: "Surgery under magnification to join tiny blood vessels and nerves, use
 seo:
   title: "Microsurgery & Free Flaps in Lahore | Dr. Junaid Fateh"
   description: "Microsurgery in Lahore by Dr. Junaid Fateh, FCPS, for free flaps, nerve repair and finger replantation. Recovery 2 to 8 weeks. Book a consultation on WhatsApp."
-  keywords: "microsurgery in Lahore, microsurgeon in Lahore, microsurgery cost in Lahore, microsurgery price in Pakistan, best microsurgeon in Lahore, microsurgery near me, microsurgery Layyah, free flap surgery Lahore, microvascular surgery Pakistan, nerve repair surgery Lahore, finger replantation Lahore, reattach severed finger, free tissue transfer, microsurgery recovery, microsurgery before and after, kati hui ungli jodna, nas jodne ka operation, Dr Junaid Fateh"
+  keywords: "microsurgery in Lahore, microsurgeon in Lahore, microsurgery cost in Lahore, microsurgery price in Pakistan, best microsurgeon in Lahore, microsurgery near me, free flap surgery Lahore, microvascular surgery Pakistan, nerve repair surgery Lahore, finger replantation Lahore, reattach severed finger, free tissue transfer, microsurgery recovery, microsurgery before and after, kati hui ungli jodna, nas jodne ka operation, Dr Junaid Fateh"
 hero_subtitle: "Precise repair of tiny vessels and nerves to rebuild complex injuries"
-quick_answer: "Microsurgery is surgery under magnification to join tiny blood vessels and nerves, used for free flaps, nerve repair and reattaching cut-off fingers. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore and Layyah. Operations take 4 to 12 hours under general anaesthesia, with 3 to 7 days in hospital and 2 to 8 weeks of recovery. Nerve recovery continues for months. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Microsurgery is surgery under magnification to join tiny blood vessels and nerves, used for free flaps, nerve repair and reattaching cut-off fingers. FCPS plastic surgeon Dr. Junaid Fateh sees patients in Lahore. Operations take 4 to 12 hours under general anaesthesia, with 3 to 7 days in hospital and 2 to 8 weeks of recovery. Nerve recovery continues for months. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Microvascular surgery"
   - "Free flap surgery"
@@ -21,7 +21,7 @@ also_known_as:
   - "Kati hui ungli jodne ka operation"
   - "Nas jodne ka operation"
 urdu_name: "مائیکرو سرجری"
-roman_urdu_summary: "Microsurgery mein magnification ke zariye khoon ki bohat bareek naliyon aur nerves ko joda jata hai, jaise kati hui ungli dobara jodne ya bade zakhm ko jism ke doosre hisse ke tissue se dhakne ke liye. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Microsurgery mein magnification ke zariye khoon ki bohat bareek naliyon aur nerves ko joda jata hai, jaise kati hui ungli dobara jodne ya bade zakhm ko jism ke doosre hisse ke tissue se dhakne ke liye. Dr. Junaid Fateh Lahore mein mareezon ko dekhte hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Hand, arm and leg"
 price_from: ''
 stats:
@@ -116,8 +116,6 @@ faqs:
   a: "Yes, for planned reconstruction. Send photos and any reports on WhatsApp and book a video consultation with Dr. Junaid to talk through your options. The final plan is confirmed in person. For a fresh injury or a severed finger, go to the nearest emergency department immediately."
 - q: "When will I see the final results of microsurgery?"
   a: "Most people return to normal daily activities within 4 to 8 weeks. A flap may look bulky at first and usually settles over several months, and a small revision can refine its shape later if needed. After nerve repair, feeling and strength come back slowly as the nerve regrows, so results keep improving for 6 to 18 months."
-- q: "Is microsurgery available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so a consultation for planned reconstruction can be in either city. Ask on WhatsApp which procedures are done at which location. For a fresh injury or a cut-off finger, go to the nearest emergency department immediately."
 ---
 
 ## About Microsurgery
@@ -126,7 +124,7 @@ Microsurgery is surgery carried out under high magnification, using an operating
 
 Its best-known use is the free flap. A piece of tissue, such as skin, fat, muscle or bone, is lifted from one part of the body together with its own artery and vein. It is then moved to where it is needed and plugged into local blood vessels under the microscope. This lets a surgeon rebuild areas where no nearby tissue is suitable, for example after a serious leg injury, cancer surgery or a deep burn.
 
-Dr. Junaid Fateh, a plastic and reconstructive surgeon in Lahore and Layyah, uses microsurgical techniques within his hand and reconstructive surgery work. He trained in plastic surgery at the Jinnah Burn & Reconstructive Surgery Centre, Lahore. If a finger or hand has just been cut off or badly injured, go to the nearest emergency department first and keep the amputated part cool, as described in the questions below.
+Dr. Junaid Fateh, a plastic and reconstructive surgeon in Lahore, uses microsurgical techniques within his hand and reconstructive surgery work. He trained in plastic surgery at the Jinnah Burn & Reconstructive Surgery Centre, Lahore. If a finger or hand has just been cut off or badly injured, go to the nearest emergency department first and keep the amputated part cool, as described in the questions below.
 
 ## How Dr. Junaid approaches microsurgery
 

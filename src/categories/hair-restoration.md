@@ -7,9 +7,9 @@ summary: "FUE, FUT, PRP, beard and eyebrow transplant with Dr. Junaid Fateh, a p
 seo:
   title: "Hair Transplant in Lahore: Cost & Results | Dr. Junaid Fateh"
   description: "Hair transplant in Lahore by Dr. Junaid Fateh, FCPS plastic surgeon: FUE, FUT, PRP, beard and brows. Desk work in about a week. Book a consultation on WhatsApp."
-  keywords: "hair transplant in Lahore, hair transplant cost in Lahore, hair transplant price in Pakistan, best hair transplant in Lahore, best hair transplant surgeon in Lahore, hair transplant near me, hair transplant Layyah, hair transplant before and after, hair transplant results, hair transplant recovery, FUE hair transplant Lahore, sapphire FUE Lahore, DHI hair transplant Lahore, FUT hair transplant Lahore, hair restoration Lahore, hair transplant for women Lahore, baal lagwana, ganjapan ka ilaj, hair transplant ka kharcha, Dr Junaid Fateh"
+  keywords: "hair transplant in Lahore, hair transplant cost in Lahore, hair transplant price in Pakistan, best hair transplant in Lahore, best hair transplant surgeon in Lahore, hair transplant near me, hair transplant before and after, hair transplant results, hair transplant recovery, FUE hair transplant Lahore, sapphire FUE Lahore, DHI hair transplant Lahore, FUT hair transplant Lahore, hair restoration Lahore, hair transplant for women Lahore, baal lagwana, ganjapan ka ilaj, hair transplant ka kharcha, Dr Junaid Fateh"
 hero_subtitle: "Natural hairlines planned by a plastic surgeon, from first consultation to final growth"
-quick_answer: "A hair transplant moves your own follicles from the back and sides of the scalp, where hair is usually resistant to balding, to thinning or bald areas. FCPS plastic surgeon Dr. Junaid Fateh offers FUE, FUT, beard and eyebrow transplants and PRP hair therapy in Lahore, and also sees patients in Layyah. Most transplants are day cases under local anaesthetic, with desk work after about a week. Cost is confirmed after consultation."
+quick_answer: "A hair transplant moves your own follicles from the back and sides of the scalp, where hair is usually resistant to balding, to thinning or bald areas. FCPS plastic surgeon Dr. Junaid Fateh offers FUE, FUT, beard and eyebrow transplants and PRP hair therapy in Lahore,. Most transplants are day cases under local anaesthetic, with desk work after about a week. Cost is confirmed after consultation."
 also_known_as:
   - "Hair restoration"
   - "Hair transplantation"
@@ -20,7 +20,7 @@ also_known_as:
   - "Hair transplant ka tarika"
   - "Ganje sar par baal lagwana"
 urdu_name: "بال لگوانا"
-roman_urdu_summary: "Hair transplant mein sar ke peeche aur dono taraf se aap ke apne baal le kar ganjapan wali jagah par lagaye jate hain, aur yeh baal aam tor par lambe arse tak qaim rehte hain. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein FUE, FUT, PRP, darhi aur eyebrow transplant karte hain aur Layyah mein bhi mareez dekhte hain. Graft ke andaze aur mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Hair transplant mein sar ke peeche aur dono taraf se aap ke apne baal le kar ganjapan wali jagah par lagaye jate hain, aur yeh baal aam tor par lambe arse tak qaim rehte hain. Dr. Junaid Fateh, FCPS plastic surgeon, Lahore mein FUE, FUT, PRP, darhi aur eyebrow transplant karte hain. Graft ke andaze aur mashware ke liye WhatsApp par rabta karein."
 permalink: /hair-transplant/
 estimator: true
 faqs:
@@ -42,7 +42,7 @@ faqs:
   a: "Yes. Send clear photos of your front hairline, top, crown and the back of your head on WhatsApp and book a video consultation. Dr. Junaid can give you an initial opinion and a rough graft estimate, and the final plan is confirmed in person when you arrive."
 ---
 
-Losing hair can change how you feel about photographs, weddings and even everyday meetings. Dr. Junaid Fateh is an FCPS-qualified plastic surgeon, trained at Jinnah Burn & Reconstructive Surgery Centre in Lahore, and hair restoration sits at the heart of his practice. He sees patients in Shadman, Lahore and in Layyah, and offers video consultations if you live abroad or in another city.
+Losing hair can change how you feel about photographs, weddings and even everyday meetings. Dr. Junaid Fateh is an FCPS-qualified plastic surgeon, trained at Jinnah Burn & Reconstructive Surgery Centre in Lahore, and hair restoration sits at the heart of his practice. He sees patients in Shadman, Lahore, and offers video consultations if you live abroad or in another city.
 
 His approach is simple: find out why your hair is thinning, use your limited donor hair wisely, and design a result that will still look natural years from now.
 

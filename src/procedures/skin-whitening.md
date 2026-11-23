@@ -7,10 +7,10 @@ specialty: false
 summary: "Medically supervised treatment to even out skin tone, fade pigmentation and restore brightness, with realistic goals and daily sun protection."
 seo:
   title: "Skin Whitening & Brightening in Lahore | Dr. Junaid Fateh"
-  description: "Skin whitening in Lahore and Layyah with Dr. Junaid Fateh, FCPS, to fade dark patches and melasma, with minimal downtime. Book a consultation on WhatsApp."
-  keywords: "skin whitening in Lahore, skin whitening injections Lahore, glutathione injections Lahore, glutathione drip Lahore, skin whitening cost in Lahore, skin whitening price in Pakistan, best skin whitening treatment in Lahore, skin brightening near me, skin whitening Layyah, skin brightening before and after, skin brightening Lahore, pigmentation treatment Lahore, melasma treatment Lahore, laser toning Lahore, chehre ki chhaiyan ka ilaj, rang nikharne ka ilaj, rang gora karne ka tareeqa, Dr Junaid Fateh"
+  description: "Skin whitening in Lahore with Dr. Junaid Fateh, FCPS, to fade dark patches and melasma, with minimal downtime. Book a consultation on WhatsApp."
+  keywords: "skin whitening in Lahore, skin whitening injections Lahore, glutathione injections Lahore, glutathione drip Lahore, skin whitening cost in Lahore, skin whitening price in Pakistan, best skin whitening treatment in Lahore, skin brightening near me, skin brightening before and after, skin brightening Lahore, pigmentation treatment Lahore, melasma treatment Lahore, laser toning Lahore, chehre ki chhaiyan ka ilaj, rang nikharne ka ilaj, rang gora karne ka tareeqa, Dr Junaid Fateh"
 hero_subtitle: "A clearer, more even complexion under medical supervision, with realistic goals"
-quick_answer: "Skin whitening and brightening is a medically supervised plan of skincare, peels, laser toning and skin boosters that fades dark patches, melasma and uneven tone. It does not change your natural skin colour. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore and Layyah. Sessions take 30 to 60 minutes with minimal downtime, and results build gradually over a series. Cost depends on your plan and is confirmed after consultation."
+quick_answer: "Skin whitening and brightening is a medically supervised plan of skincare, peels, laser toning and skin boosters that fades dark patches, melasma and uneven tone. It does not change your natural skin colour. FCPS plastic surgeon Dr. Junaid Fateh offers it to patients in Lahore. Sessions take 30 to 60 minutes with minimal downtime, and results build gradually over a series. Cost depends on your plan and is confirmed after consultation."
 also_known_as:
   - "Skin brightening treatment"
   - "Skin whitening treatment"
@@ -20,7 +20,7 @@ also_known_as:
   - "Daag dhabbe ka ilaj"
   - "Rang nikharne ka ilaj"
 urdu_name: "جلد نکھارنے کا علاج"
-roman_urdu_summary: "Is treatment mein chehre ki chhaiyan, daag dhabbe aur na-hamwar rangat ko doctor ki nigrani mein skincare, peels aur laser toning se kam kiya jata hai. Yeh aap ka qudrati rang nahi badalta, balke jild ko saaf aur nikhri hui banata hai. Dr. Junaid Fateh Lahore aur Layyah mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
+roman_urdu_summary: "Is treatment mein chehre ki chhaiyan, daag dhabbe aur na-hamwar rangat ko doctor ki nigrani mein skincare, peels aur laser toning se kam kiya jata hai. Yeh aap ka qudrati rang nahi badalta, balke jild ko saaf aur nikhri hui banata hai. Dr. Junaid Fateh Lahore mein mareezon ko yeh treatment dete hain. Mashware ke liye WhatsApp par rabta karein."
 body_location: "Face"
 price_from: ''
 stats:
@@ -117,15 +117,13 @@ faqs:
   a: "Yes, glutathione IV therapy is available as part of a supervised brightening plan. It is not approved specifically for skin lightening and results vary from person to person, so Dr. Junaid reviews your health, explains the possible side effects and combines it with sun protection and proven skincare for the best chance of a visible improvement."
 - q: "What are the risks or side effects of skin whitening treatment?"
   a: "Side effects depend on the treatments in your plan. Peels can cause redness, flaking and, if the skin becomes irritated, temporary dark marks. Laser toning can leave pinkness for a few hours and may make some spots look darker for a short time before they fade. Skin booster injections can leave small bumps or pinpoint marks for a day or two. Glutathione drips are not approved for skin lightening and can cause side effects such as allergic reactions, so Dr. Junaid reviews your health first and keeps every step under medical supervision."
-- q: "Is skin whitening treatment available in Layyah?"
-  a: "Dr. Junaid sees patients in both Layyah and Lahore, so your consultation can take place in either city. Message the team on WhatsApp to check which treatments are offered at each location and to book the appointment that suits you."
 ---
 
 ## About Skin Whitening & Brightening
 
 Many people searching for skin whitening are really looking for something more specific: fading dark patches, evening out blotchy tone, clearing the marks left by acne, or bringing back the brightness that sun, stress and pollution have dulled. These are common concerns in South Asian skin, which produces pigment readily in response to sun, heat and inflammation. That is also why pigmentation often flares during the long Pakistani summer.
 
-Dr. Junaid Fateh offers skin brightening treatment at his clinics in Lahore and Layyah with a clear and responsible aim: a healthier, more even complexion in your own natural tone. Your underlying skin colour is set by your genes, and no safe treatment changes it dramatically. What treatment can do is reduce excess pigmentation, improve texture and help your skin look clearer and more radiant.
+Dr. Junaid Fateh offers skin brightening treatment at his clinic in Lahore with a clear and responsible aim: a healthier, more even complexion in your own natural tone. Your underlying skin colour is set by your genes, and no safe treatment changes it dramatically. What treatment can do is reduce excess pigmentation, improve texture and help your skin look clearer and more radiant.
 
 This is also an area where unsafe products are common. Unregulated whitening creams can contain strong steroids or mercury, which may thin the skin, trigger acne or cause more serious harm. Medically supervised treatment is a safer route.
 

@@ -7,7 +7,7 @@ category: "Breast & Chest Surgery"
 image: /assets/images/procedures/gynecomastia/gynecomastia-before.webp
 image_alt: "Front view of a man's chest with enlarged breast tissue and puffy nipples before gynecomastia surgery"
 related_procedures: [gynecomastia, liposuction, nipple-correction]
-keywords: "gynecomastia surgery recovery, gynecomastia recovery week by week, gynecomastia recovery time, compression vest after gynecomastia surgery, how long to wear compression vest after gynecomastia, gym after gynecomastia surgery, return to work after gynecomastia surgery, gynecomastia swelling after surgery, gynecomastia scars, gynecomastia drains, gynecomastia surgery in Lahore, gynecomastia recovery Lahore, gynecomastia surgery Pakistan, gynecomastia surgery Layyah, Dr Junaid Fateh, gynecomastia operation ke baad ehtiyat, chhati ki charbi ka operation recovery"
+keywords: "gynecomastia surgery recovery, gynecomastia recovery week by week, gynecomastia recovery time, compression vest after gynecomastia surgery, how long to wear compression vest after gynecomastia, gym after gynecomastia surgery, return to work after gynecomastia surgery, gynecomastia swelling after surgery, gynecomastia scars, gynecomastia drains, gynecomastia surgery in Lahore, gynecomastia recovery Lahore, gynecomastia surgery Pakistan, Dr Junaid Fateh, gynecomastia operation ke baad ehtiyat, chhati ki charbi ka operation recovery"
 key_takeaways:
   - "Many men return to desk work within about a week of gynecomastia surgery; physical jobs usually need longer."
   - "A compression vest is usually worn day and night for around four to six weeks to control swelling and support healing."
@@ -114,6 +114,6 @@ Breast tissue that has been removed does not grow back. However, significant wei
 
 ## Talk to Dr. Junaid
 
-If you are considering [gynecomastia surgery](/procedures/gynecomastia/), or you have had surgery and want advice on your recovery, send a message on WhatsApp and [book a consultation](/contact/) in Lahore or Layyah. Video consultations are available for men in other cities and [overseas patients](/overseas-patients/), and the [cost guide](/cost-guide/) explains what affects the price.
+If you are considering [gynecomastia surgery](/procedures/gynecomastia/), or you have had surgery and want advice on your recovery, send a message on WhatsApp and [book a consultation](/contact/) in Lahore. Video consultations are available for men in other cities and [overseas patients](/overseas-patients/), and the [cost guide](/cost-guide/) explains what affects the price.
 
 *This article is general information and not a substitute for a personal medical consultation.*
