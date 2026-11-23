@@ -32,7 +32,7 @@ homeResults: [fue-hair-transplant, gynecomastia, liposuction]
       <img src="/assets/images/doctor/dr-junaid-fateh.webp" alt="Dr. Muhammad Junaid Fateh, plastic surgeon" width="900" height="1128" fetchpriority="high">
       <div class="hero__badge">
         <i class="fas fa-user-doctor" aria-hidden="true"></i>
-        <div><strong>{{ site.fullName }}</strong><span>Member, Pakistan Association of Plastic Surgeons</span></div>
+        <div><strong>{{ site.fullName }}</strong><span>Life Member, Pakistan Association of Plastic Surgeons</span></div>
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@ homeResults: [fue-hair-transplant, gynecomastia, liposuction]
     {% endif %}
     <div class="cred-strip__item"><i class="fas fa-graduation-cap" aria-hidden="true"></i><div><strong>FCPS Plastic Surgery</strong><span>College of Physicians &amp; Surgeons Pakistan</span></div></div>
     <div class="cred-strip__item"><i class="fas fa-building-columns" aria-hidden="true"></i><div><strong>MBBS</strong><span>Allama Iqbal Medical College, Lahore</span></div></div>
-    <div class="cred-strip__item"><i class="fas fa-users" aria-hidden="true"></i><div><strong>PAPS Member</strong><span>Pakistan Association of Plastic Surgeons</span></div></div>
+    <div class="cred-strip__item"><i class="fas fa-users" aria-hidden="true"></i><div><strong><a href="https://paps.org.pk/staff/muhammad-junaid-fateh/" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">PAPS Life Member</a></strong><span>Pakistan Association of Plastic Surgeons</span></div></div>
     <div class="cred-strip__item"><i class="fas fa-location-dot" aria-hidden="true"></i><div><strong>Lahore &amp; Layyah</strong><span>Plus video consultations worldwide</span></div></div>
   </div>
 </section>
@@ -90,7 +90,7 @@ homeResults: [fue-hair-transplant, gynecomastia, liposuction]
         <li><i class="fas fa-graduation-cap" aria-hidden="true"></i><div><strong>{{ e.title }}</strong><span>{{ e.institution }}</span></div></li>
         {% endfor %}
         {% for m in site.memberships %}
-        <li><i class="fas fa-users" aria-hidden="true"></i><div><strong>{{ m.detail }}, {{ m.name }}</strong><span>Professional membership</span></div></li>
+        <li><i class="fas fa-users" aria-hidden="true"></i><div><strong>{{ m.detail }}, {{ m.name }}</strong><span>Professional membership.{% if m.profileUrl %} <a class="verify-link" href="{{ m.profileUrl }}" target="_blank" rel="noopener">Verify on {{ m.short or m.name }} website <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>{% endif %}</span></div></li>
         {% endfor %}
       </ul>
       <p style="margin-top:1.5rem"><a class="btn btn--ink" href="/about/">More about Dr. Junaid <i class="fas fa-arrow-right" aria-hidden="true"></i></a></p>

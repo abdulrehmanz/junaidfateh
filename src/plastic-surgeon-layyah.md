@@ -37,7 +37,7 @@ faqs:
 
 For many families in Layyah and the Thal region, seeing a plastic surgeon has meant a long trip to Lahore or Multan just for a first opinion. Dr. Muhammad Junaid Fateh, an **FCPS plastic, cosmetic and reconstructive surgeon**, sees patients in Layyah so you can be examined, ask your questions and get a clear plan close to home.
 
-He trained at Jinnah Burn & Reconstructive Surgery Centre in Lahore and is a member of the Pakistan Association of Plastic Surgeons. That training covers both cosmetic surgery and the reconstructive work that matters so much in a farming region: burns, hand and finger injuries, wounds that will not heal, and scars that limit movement.
+He trained at Jinnah Burn & Reconstructive Surgery Centre in Lahore and is a [Life Member of the Pakistan Association of Plastic Surgeons](https://paps.org.pk/staff/muhammad-junaid-fateh/). That training covers both cosmetic surgery and the reconstructive work that matters so much in a farming region: burns, hand and finger injuries, wounds that will not heal, and scars that limit movement.
 
 ## What patients in Layyah ask him about
 

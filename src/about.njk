@@ -59,7 +59,7 @@ image: /assets/images/doctor/dr-junaid-fateh.jpg
         <h3><i class="fas fa-users" aria-hidden="true"></i> Registration &amp; memberships</h3>
         <ul class="cred-list" style="margin-top:0">
           {% for m in site.memberships %}
-          <li><i class="fas fa-id-card" aria-hidden="true"></i><div><strong>{{ m.name }}</strong><span>{{ m.detail }}</span></div></li>
+          <li><i class="fas fa-id-card" aria-hidden="true"></i><div><strong>{{ m.detail }}, {{ m.name }}</strong><span>Professional membership.{% if m.profileUrl %} <a class="verify-link" href="{{ m.profileUrl }}" target="_blank" rel="noopener">Verify on {{ m.short or m.name }} website <i class="fas fa-arrow-up-right-from-square" aria-hidden="true"></i></a>{% endif %}</span></div></li>
           {% endfor %}
           {% if site.pmdcNumber %}
           <li><i class="fas fa-shield-halved" aria-hidden="true"></i><div><strong>PMDC registration {{ site.pmdcNumber }}</strong><span>Registered with the Pakistan Medical &amp; Dental Council. You can verify this on the PMDC website.</span></div></li>

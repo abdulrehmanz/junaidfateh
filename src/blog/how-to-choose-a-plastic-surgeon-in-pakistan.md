@@ -52,7 +52,7 @@ Titles such as "cosmetic surgeon", "aesthetic specialist" or "hair transplant ex
 
 For non-surgical treatments such as Botox, fillers or skin treatments, a suitably trained dermatologist may also be a good choice. For operations, look for a qualified plastic surgeon.
 
-For transparency, Dr. Junaid's own background is an MBBS from Allama Iqbal Medical College, Lahore, and an FCPS in Plastic Surgery from the CPSP, with training at the Jinnah Burn & Reconstructive Surgery Centre, Lahore. He is a member of the Pakistan Association of Plastic Surgeons. You are welcome to check these details, just as you should for any surgeon.
+For transparency, Dr. Junaid's own background is an MBBS from Allama Iqbal Medical College, Lahore, and an FCPS in Plastic Surgery from the CPSP, with training at the Jinnah Burn & Reconstructive Surgery Centre, Lahore. He is a Life Member of the Pakistan Association of Plastic Surgeons, and you can see his [member profile on the PAPS website](https://paps.org.pk/staff/muhammad-junaid-fateh/). You are welcome to check these details, just as you should for any surgeon. PAPS also has a public [Find a Doctor](https://paps.org.pk/doctors-data/) directory you can use for any surgeon you are considering.
 
 ## Step 3: Ask about the facility and who does what
 

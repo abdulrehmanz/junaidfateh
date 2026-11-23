@@ -41,7 +41,10 @@ education:
 
 memberships:
   - name: "Pakistan Association of Plastic Surgeons"
-    detail: "Member"
+    short: "PAPS"
+    detail: "Life Member"
+    url: "https://paps.org.pk/"
+    profileUrl: "https://paps.org.pk/staff/muhammad-junaid-fateh/"   # his public member profile, used as a "verify" link
 
 # ── Numbers ───────────────────────────────────────────────────────────────────
 # Fill in real figures only. Any item left empty is not shown.
@@ -60,6 +63,7 @@ social:
   tiktok: "https://www.tiktok.com/@dr.junaidfateh"
   youtube: ""
   linkedin: ""
+  paps: "https://paps.org.pk/staff/muhammad-junaid-fateh/"   # PAPS member profile (also tells Google this is the same doctor)
 
 # ── Analytics and verification (optional) ────────────────────────────────────
 # Paste the IDs when you have them; nothing is loaded while they are empty.
