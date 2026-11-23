@@ -11,7 +11,7 @@
     {% if heroActions %}
     <div class="page-hero__actions">
       <a class="btn btn--gold" href="{{ '' | waLink }}" data-consult{% if consultProcedure %} data-procedure="{{ consultProcedure }}"{% endif %}><i class="fas fa-calendar-check" aria-hidden="true"></i> Book Consultation</a>
-      {% if estimator %}
+      {% if page.url == "/hair-transplant/" %}
       <a class="btn btn--ghost-light" href="#graft-estimator"><i class="fas fa-calculator" aria-hidden="true"></i> Estimate your grafts</a>
       {% else %}
       <a class="btn btn--ghost-light" href="{{ ('Assalam o Alaikum Dr. Junaid, I have a question about ' ~ (consultProcedure or 'a treatment') ~ '.') | waLink }}" target="_blank" rel="noopener" data-direct><i class="fab fa-whatsapp" aria-hidden="true"></i> Quick question</a>
